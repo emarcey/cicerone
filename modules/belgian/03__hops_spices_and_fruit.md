@@ -75,3 +75,11 @@ Unique ingredients -> variation. Focus still on balance.
 	2. Gueuze from Oude à Tilquin and they make all sorts of varieties like that
 	3. Really nice bitterness and tartness from the berry to give a tangy profile, but not overwhelming like you might have in a gose or an american sour ale
 	4
+
+# Reading
+Spices have a long history - some 8,000 years ago were the dominant flavor until the introduction of hops in the middle ages
+Age of Discovery, became more available
+
+* Bittering spices: bay leaf, juniper, Apiaceae (umbel) family seeds: anise, caraway, coriander, dill fennel. Carrot, parsley.
+* Chili-like sharpness: chili peppers, black/green peppers, ginger, quassia, grains of paradise
+* "True" spices: allspice, cardamom, cinnamon, clove, licorice, mace/nutmeg, star anise, citrus zest

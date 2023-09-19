@@ -35,6 +35,8 @@
 	* US often uses crystalized rocks
 		* may substitute dextrose or similar sugar adjunct
 		* accomplish same effect
+	* Method of production is proprietary
+		* generally involves heating beet sugar with water to create Maillard reaction -> caramelize sugar
 * Uses:
 	* strong/Trappist Belgian: lightens palate and improves drinkability
 		* dark sugar to darken and flavor

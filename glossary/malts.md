@@ -26,14 +26,26 @@
 		* Flanders Red Ale/Oud Bruin: ruby hue
 # Pilsner
 * Notes:
+	* Pale Lager Malt
 	* pale malts are base for virtually all beer recipes
 	* belgians use heavily for majority of grist for most styles
-* Kilning: light
+	* made from two-row spring barley
+		* heavily modified (good protein degradation) during malting
+	* Named for Pilsner and Pilsen (1842, Bohemia)
+	* Original base malt was Haná, a common Bohemian/Moravian barley
+		* Many modern brewing barleys descend from Haná
+	* Should have good processing characteristics:
+		* favorable protein and glucan levels
+		* outstanding enzymatic strength for conversion of grain starches into malt sugars
+* Kilning: light, blonde
 * Flavors: bread, grain, unsalted saltine, matzo, water cracker
-* Color: pale
+	* soft, round, direct, sweetly malty
+* Color: pale, blonde, 2.5-4 EBC (1.5-2.1 Lovibond)
+* Body: delicate maltiness, substantial body and mouthfeel, good foam development and head retention
 * Uses:
 	* widespread
 	* Belgian: majority of grist for most styles
+	* pilsners, low ABC beers, light beer, Belgian blonde styles
 * Grain:
 	* Shape
 		* teardrop
