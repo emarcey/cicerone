@@ -14,6 +14,9 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
+* **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
+	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
+	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt
@@ -35,4 +38,6 @@
 	* fermentation vessel shape: tall, narrow -> lower levels of festers vs shallow, open
 		* high hydrostatic pressure & high CO2 in taller vessels
 	* stirring increases esters
+* **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
+* **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen

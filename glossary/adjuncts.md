@@ -49,7 +49,7 @@
 * Appearance: 
 * Flavors: 
 * Aromas: a little bitter, a little nutty, a little orangey
-* Flavors: 
+* Flavors: citrus, lemongrass, fruity, peppery, floral
 * Uses:
 	* Belgian: witbiers, saisons, strong ales, really all over
 * Grain:

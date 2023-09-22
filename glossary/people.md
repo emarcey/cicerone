@@ -1,0 +1,1 @@
+* **Pierre Celis:** man who revitalized the Witbier style in the 1960s and created the beer that would come to be named Hoegaarden
