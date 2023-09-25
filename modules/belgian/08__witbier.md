@@ -28,7 +28,7 @@ Goals
 	* 1930s, only 4 breweries
 	* 1957, the last Witbier brewery in Belgium (Tomsin) closed
 * Pierre Celis was a milkman who had worked at Tomsin
-	* 1960s, he started Brewry Celis in a hayloft
+	* 1960s, he started Brewery Celis/De Kluis in a hayloft
 	* 1966, first batch of Oud Hoegaards Bier
 	* 1980s, other Belgian/Dutch brewers hopped on the train
 	* 1985, fire destroyed Celis brewery, forcing Celis to sell to Artois
@@ -37,3 +37,12 @@ Goals
 	* 1992, Celis moved to Austin, Texas, where he and his daughter started a new brewery and sold Celis White
 	* 1990s, Celis sold his stake and ownership has changed hands several times since
 	* 
+
+# Discussion
+1. If you could have a Witbier made with any spice(s), what would you choose?
+	1. I mean I'd always go with the classic coriander/orange
+	2. But cinnamon was mentioned as an occasional entry and that sounds like it would compliment the coriander and orange nicely
+2. What's your favorite wheat beer?
+	1. I love a Berliner Weisse
+	2. Keeps the lightness of a wheat beer, but a good punch to round out the flavor
+	3. I like a mild funk

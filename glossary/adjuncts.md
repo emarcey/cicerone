@@ -45,6 +45,15 @@
 * Stage: Kettle
 * Type: Spice
 * Notes:
+	* Coriandrum sativum
+	* herbal plant also known as cilantro/Chinese parsley
+	* seeds used in beer not leaves
+	* technically a dried fruit
+	* presence of terpene compounds (linalool) means it smells like hops
+	* used since Middle Ages
+	* added in last 5-20 minutes of kettle boiling
+		* ensures aromatic compounds are not volatilized away
+	* coriander essential oils can also be added after boiling to maximize effect
 * Textures: 
 * Appearance: 
 * Flavors: 
@@ -62,12 +71,24 @@
 * Type: Spice
 * Notes:
 	* can have bitter or sweet
+	* Curaçao orange is common version
+		* grown on Curaçao (duh), part of colonial kingdom of Netherlands near Venezuela
+		* settled by Spaniards in 1527, who planted oranges
+		* oranges didn't grow well in volcanic soil and arid climate
+			* led to small, bitter, inedible fruit
+		* eventually developed new species: citrus aurantium currassiviencis, also called laraha
+		* peel has great aromatics (used for Curaçao liquer), fruit is garbage
+		* Dutch took over Curaçao in 1815 and started incorporating peel
+		* steeped for a few minutes at end of boil
 * Textures: 
 * Appearance: 
+	* sweet: orange
+	* Curaçao: gray, moldy
+	* 
 * Flavors: 
 * Aromas:
-	* bitter
-	* citrus
+	* sweet: bitter, citrus
+	* Curaçao: citrus, meaty, hot dog
 * Uses:
 	* Belgian
 		* many styles - often saison, strong ales
