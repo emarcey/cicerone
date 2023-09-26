@@ -142,7 +142,120 @@
 	* Many examples are bottle conditioned, giving a light tartness and funk
 		* overtly sour, and those with Brett, should not be considered saisons
 		* 
+# Belgian Dark Strong Ale
+* Region: Belgium
+* Malt: Pilsner, dark candy sugar
+* Hops: 
+* Other Names: Quadrupel, Quad
+* Glassware: tulip, goblet, chalice
+* Color: amber - brown (12-22 SRM)
+* Alcohol: high - very high (8.0-12.0% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium-full
+	* carbonation: high
+	* alcohol warmth: moderate
+* Bitterness: low (20-35 IBUs)
+* Flavors: 
+	* malt: bread, toast, caramel, burnt sugar, chocolate, rum, dark fruit
+	* hop: low, spicy, floral, rosy
+	* fermentation: banana, pear, pepper, clove
+* Commercial Examples: St. Bernardus Abt 12, **Chimay Grand Réserve**, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
+* Notes:
+	* First brewed in 1948 by Chimay: Grande Réserve
+	* La Trappe used Quadrupel with release in 1991
+	* similar to dubbel, but go harder
+	* trappist versions usually drier than secular
+	* bottle conditioned
+# Belgian Dubbel
+* Region: Belgium
+* Malt: Pilsner, dark candy sugar
+	* some add chocolate, Munich, crystal, Special B
+* Hops: 
+* Other Names:
+* Glassware: tulip, goblet, chalice
+* Color: light amber - dark amber (10-17 SRM)
+* Alcohol: elevated (6-7.5% ABV)
+* Mouthfeel: 
+	* body: medium full
+	* carbonation: moderately high
+	* alcohol warmth: low
+* Bitterness: low (15-25 IBUs)
+* Flavors: 
+	* malt: cramel, brown sugar, dark rum, raisin, plum, dark cherry, chocolate
+		* if Special B, burnt sugar, raisins
+	* hop: Noble, Goldings (East Kent, Styrian)
+	* fermentation: classic Belgian yeast - banana, pear, spicy, peppery, clove
+* Commercial Examples: Westmalle Dubbel, Chimay Première, Affligem Dubbel, Corsendonk Pater, La Trappe Dubbel, Grimbergen Dubbel, Ommegang Abbey Ale, St. Bernardus Pater 6, Trappistes Rochefort 6, Westvleteren 8, Achel 8 Bruin
+* Notes:
+	* amber/brown ales produced for 100s of years as table beers
+	* emerged in 1920s in face of imported beer
+	* Vandervelde Act banned sale of genever in 1919
+		* increased demand for stronger ale
+	* Westmalle released Dubbel Bruin in 1926
+	* Hendrik Verlinden consulted with Westmalle to refine and troubleshoot
+	* beer caught on with hard drinkers lol
+	* traditionally doesn't use spices, but not prohibited
+# Belgian Tripel
+* Region: Belgium
+* Malt: European Pilsner malt, some Vienna, Munich
+	* light candi sugar (20-25%)
+* Hops: East Kent Golding, Styrian Golding, Saaz, German Noble
+* Other Names:
+* Glassware: tulip, goblet, chalice
+* Color: range light gold - gold (4.5-7 SRM)
+* Alcohol: high (7.5-9.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: high
+	* alcohol warmth: low
+* Bitterness: moderate - pronounced (20-40 IBUs)
+* Flavors: 
+	* malt: grain, dough, light honey
+	* hop: spicy, herbal, floral; pronounced bitterness
+	* fermentation: orange, lemon, apricot, peach, pear, bananaga, pepper, clove, spice, rose
+* Commercial Examples: **Westmalle Tripel**, Chimay Cinq Cents, Affligem Tripel, La Trappe Tripel, St. Bernardus Tripel, St. Feuillien Tripel, Tripel Karmeliet, unibroue La Fin du Monde, Victory Golden Monkey
+* Notes:
+	* emerged in 1930s in response to import popularity and Vandervelde act in 1919
+	* Dubbels were successful but lacked the bright golden color and clarity of popular lagers
+	* drinkers loved the elegant appearance
+	* Hendrik Verlinden worked with Drie Linden in 1932 to produce Witkap Pater
+	* Then, he worked with Westmalle to produce Superbier in 1934
+		* Brother Thomas added more hops and called it Tripel in 1956
+	* gave the pretty color and drinkability of a pilsner with the belgian character
+	* lots of light candi sugar
+	* high fermentation temp
+	* dry finish
+	* classic examples bottle conditioned
+	* spices not traditional, but some brewed with coriander
 
+# Trappist Single
+* Region: Belgium
+* Malt: Pilsner
+* Hops: 
+	* early hopping
+* Other Names: monk's beer, brother's beer, patersbier
+* Glassware: tulip, goblet, chalice
+* Color: straw - light gold (3-5 SRM)
+* Alcohol: normal (4.8-6% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: moderate high - high
+	* alcohol warmth: n/a
+* Bitterness: pronounced (25-45 IBUs)
+* Flavors: 
+	* malt: grain, honey
+	* hop: floral, herbal hop flavors
+	* fermentation: fruit (apple, pear, citrus, stone fruit), with pepper/clove bitterness, dry finish
+* Commercial Examples: Westmalle Extra, Westvleteren Blond, St. Bernardus Extra 4, Chimay Gold, La Trappe Puur
+* Notes:
+	* low strength brew for meals/daily occasions
+	* used with second/third worts
+	* rarely distributed, kept for monks, or occasionally sold at cafe
+	* could be described as a German Pils with Belgian yeast
+		* closer to a tripel than a blond
+	* can be quite bitter
+	* high attenuation, high carbonation
+	* some can be brewed with spices
 # Witbier
 * Region: Belgium
 * Malt: 
