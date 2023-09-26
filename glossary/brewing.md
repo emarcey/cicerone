@@ -1,3 +1,4 @@
+* **Abbey Beer:** a beer produced in the Trappist style, but not brewed within a trappist monastery
 * **Adjunct**: ingredients other than malted barley, water, yeast, hops
 	* primarily as a partial replacement for malt
 	* sometime derided for use by major beers to cut costs
@@ -41,3 +42,5 @@
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
+* **Trappist beer:** a beer brewed in the style of Trappist monks and within the walls of a Trappist monasteries
+	* 10 active monasteries
