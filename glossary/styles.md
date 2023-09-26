@@ -1,4 +1,84 @@
+# Belgian Blond Ale
+* Region: Belgium
+* Malt:
+	* Pilsner
+	* some add Munich or other aromatic malts
+	* some use kettle/grain adjuncts to lighten body while boosting ABV
+* Hops: East Kent, Styrian Golding, Noble (Saaz, Hallertau)
+* Other Names:
+* Glassware: tulip, goblet, chalic
+* Color: light gold to gold (4-6 SRM)
+* Alcohol: elevated (6-7.5% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: moderately high - high
+	* alcohol warmth: low
+* Bitterness: low (15-30 IBUs)
+* Flavors: 
+	* malt: grain, cereal, light honey sweetness
+	* hop: low perfumy, floral, spicy aromas
+	* fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
+* Commercial Examples: Leffe Blond, Affligem Blond, Grimbergen Blond, La Trappe Blond, Maredsous 6 Blond, St. Feuillien Blond, Val-Dieu Blond, pFriem Belgian-Style Blonde Ale
+* Notes:
+	* created to compete with European golden lagers after WWI
+# Belgian Golden Strong Ale
+* Region: Belgium, Flanders, Antwerp
+* Malt: Pilsner, lots of light brewing sugar (20-25%)
+* Hops: Saaz, Goldings
+* Other Names:
+* Glassware: tulip, goblet, chalice
+* Color: straw - gold (3-6 SRM)
+* Alcohol: high - very high (7.5-10.5% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: very high
+	* alcohol warmth: moderate
+* Bitterness: moderate (22-35 IBUs)
+* Flavors: 
+	* malt: grain, lightly sweet, fairly neutral
+	* hop: floral, spicy, peppery, clean
+	* fermentation: fruity (pear, apple, orange); peppery, spicy
+* Commercial Examples: Duvel, Alken-Maes Judas, De Dolle Dulle Teve, Delirium Tremens, Het Anker Lucifer, North Coast PranQster, Russian River Damnation, Van Honsebrouck Brigand, Van Steenberge Piraat
+* Notes:
+	* 1923, Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale
+	* despite high ABV, found it very drinkable
+	* surprising strength inspired name "devil" - Duvel in Flemish
+	* original Duvel was actually dark like a Scotch ale
+	* in 1971, Duvel reformulated as golden pale ale to compete with European pilsners
+	* result resembled the Tripel, but is a style of its own
+	* often long maturation/cold conditioning
+# Belgian Pale Ale
+* Region: Belgium
+* Malt:
+	* Pale malt
+	* crystal malt
+	* may also use German malts: Pilsner, Vienna, Munich
+* Hops: East Kent Goldings, Fuggles, Styrian Goldings, Saaz
+	* all also used in English pale, except Saaz
+* Other Names:
+* Glassware: tulip, chalic, bolleke (specific goblet shape)
+* Color: gold - amber (8-14 SRM)
+* Alcohol: range normal (4.8-5.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: moderate - moderately high
+* Bitterness: moderate (20-30 IBUs)
+* Flavors: 
+	* malt: toasty, biscuity, nutty, light caramel sweetness
+	* hop: spicy, herbal, floral, moderate bitterness
+		* East Kent Goldings, Fuggles, Styrian Goldings, Saaz
+	* fermentation: classic Belgian yeast
+		* fruity, spicy - orange, pear, apricot, peppery
+		* carefully managed fermentation temperature/conditions to keep yeast character restrained
+	* dry, without assertive bitterness
+* Commercial Examples: Bolleke de Koninck, Dobbel PALM, PALM Spéciale Belge, De Ryck Spécial
+* Notes:
+	* inspired by English pale ale/Bitter
+		* much overlap with English pale ale
+	* took shape in early 20th century
+	* many formulated as part of 1904 Henri Van Laer contest
 # Bière de Garde
+* Region: Belgium, France
 * Malt:
 	* Amber: Pale, Munich, Vienna
 	* Blonde: Pale, with a little Munich and Vienna
@@ -24,6 +104,7 @@
 	* high attentuation
 	* mustiness was considered a key factor, then people realized it was just bad corking
 # Saison
+* Region: Belgium, Wallonia
 * Malt:
 	* Pilsner malt
 	* May add wheat, oats, rye, spelt
@@ -63,6 +144,7 @@
 		* 
 
 # Witbier
+* Region: Belgium
 * Malt: 
 	* Pilsner malt, wheat, 
 	* unmalted wheat (traditional), pale haze (30-40%, up to 50%)

@@ -13,6 +13,25 @@
 	* Structure
 	* Color
 	* Flavor
+# Beer Style
+* Region:
+* Malt:
+* Hops: 
+* Other Names:
+* Glassware: 
+* Color: range (SRM)
+* Alcohol: range (ABV)
+* Mouthfeel: 
+	* body
+	* carbonation
+	* alcohol warmth
+* Bitterness: range (IBUs)
+* Flavors: 
+	* malt
+	* hop
+	* fermentation
+* Commercial Examples:
+* Notes:
 # Malt
 * Notes:
 * Kilning: 
