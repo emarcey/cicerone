@@ -1,9 +1,13 @@
-* **Pierre Celis:** man who revitalized the Witbier style in the 1960s and created the beer that would come to be named Hoegaarden
+* **Brother Thomas:** influential monk and lead brewer at Westmalle in the mid 20th century who increased the hops in the Tripel, and helped to establish Achel's brewing practice in 1998
+* **Celis, Pierre :** man who revitalized the Witbier style in the 1960s and created the beer that would come to be named Hoegaarden
 	* born in 1925
 	* worked at Tomsin brewery before it closed, and also as a milkman
 	* started Brewerij Celis/De Kluis in 1966 and produced Hoegaarden
 	* 1985, brewry was destrewed
 	* bought by Interbrew/Anheuser-Busch Inbev
-* **Hendrik Verlinden:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
+* **DeClerck, Jean:** brewing scientist in the mid 20th century. Collaborated closely with Father Theodore and Chimay. He and his wife are both buried in Chimay's cemetary
+* **Father Theodore:** well-known figure in Trappist brewing community in mid 20th century. Resided at Chimay and oversaw the brewery beginning in the 1940s
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors
+* **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
+* 

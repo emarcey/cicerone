@@ -14,7 +14,7 @@
 	* carbonation: moderately high - high
 	* alcohol warmth: low
 * Bitterness: low (15-30 IBUs)
-* Flavors: 
+* Flavors:  f
 	* malt: grain, cereal, light honey sweetness
 	* hop: low perfumy, floral, spicy aromas
 	* fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
@@ -241,7 +241,7 @@
 * Malt: Pilsner
 * Hops: 
 	* early hopping
-* Other Names: monk's beer, brother's beer, patersbier, singel
+* Other Names: monk's beer, brother's beer, patersbier, singel, refter, enkel
 * Glassware: tulip, goblet, chalice
 * Color: straw - light gold (3-5 SRM)
 * Alcohol: normal (4.8-6% ABV)
