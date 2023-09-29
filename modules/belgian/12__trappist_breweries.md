@@ -256,9 +256,8 @@ Goals:
 					1. if it's a traditional Trappist style, it's not going to be the quality of the beer
 					2. so make a different style while leveraging the Trappist namesake, tradition, and expertise
 2. Elevator pitch for a Trappist brewery
-	1. After trying 3 of Westmalle's beers today, I think their special yeast is the big pitch.
-	2. There's a yeast infection joke in there for an ad spot
-	3. That spicy pepper banana yeast character is very forward in all of their beers
+	1. Rochefort
+	2. Dark and stormy. They taste like sugar, they taste like rum, they taste like a bit of spice.
 3. Which Trappist brewery is your favorite?
 	1. I mean the Westvleteren 12 might indeed be the most perfect beer
 	2. But I loved Achel, their bruin is so refreshing

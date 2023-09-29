@@ -196,6 +196,83 @@
 	* requires generous conditioning and maturation period
 	* high attentuation
 	* mustiness was considered a key factor, then people realized it was just bad corking
+# Flanders Red Ale
+* Region: West Flanders, Belgium
+* Malt: Vienna, Munich, sometimes Pilsner
+	* Crystal and Special B often used as "signature ingredients"
+	* flaked maize can be used for up to 20% to lighten body and accentuate dryness
+		* some brewers use dark candi sugar instead
+* Hops: continental hops, low bitterness
+* Other Names: Belgian Red Ale, sour red ale
+* Glassware: tulip, goblet
+* Color: red-brown (10-17 SRM)
+* Alcohol: normal - elevated (4.6-6.5% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: low - moderate
+	* astringency: low - moderate
+* Bitterness: low (10-25 IBUs)
+* Flavors: 
+	* malt: caramel, toast, chocolate
+	* hop: low earthy wild 
+	* fermentation: tart, fruity, black cherry, plum, current
+* Commercial Examples: Rodenbach Classic, Rodenbach Grand Cru, Verhaeghe Duchesse de Bourgogne, Bockor Cuvée des Jacobins Rouge, Bruery Terreux Oude Tart, Monk's Café Flemish Sour Ale, New Belgium La Folie, Panil Barriquée, Verhaeghe Vichtenaar
+* Notes:
+	* The Burgundy of Belgium
+	* first model was Rodenbach Flanders Red Ale
+	* moderate tannins, balance style
+	* mixed culture of Sacch, Lacto, and others
+	* stainless steel tanks for primary fermentation by Sacch, then a few weeks with Lacto
+	* next, oak barrel/foeder for 18 months - 3 years
+		* additional organisms (Brett, Pedio), add acidity and wild flavor
+	* fewer complex carbs than Lambic/Gueuze -> less wild yeast taste
+	* microaeration adds caramel, dark fruit, sherry notes
+		* also allows acetic acid production -> fruity, pear aroma; nail polish in higher concentrations
+	* fermentation more predictable than that of lambic, but flavor still varies from vessel to vessel
+		* final beer is usually a blend
+		* many breweries, like Rodenbach, blend a mature wood-aged beer with a younger beer only aged in stainless steel
+		* others only blend wood aged beer
+		* others blend an aged beer with a young beer fermented only with Sacch
+	* can be sweetened with sugar
+	* each example is unique to the brewer
+
+# Oud Bruin
+* Region: East Flanders, Belgium
+* Malt: Pilsner malt, rarely use Vienna/Munich/Special B
+	* chocolate, black malt, sometimes crystal
+* Hops: continental, unimportant
+* Other Names: sour brown ale, (east) Flanders Brown
+* Glassware: tulip, goblet
+* Color: amber - brown (17-22 SRM)
+* Alcohol: lower to high (4.0-8.0% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: low - moderate
+* Bitterness: low (20-35 IBUs)
+* Flavors: 
+	* malt: caramel, chocolate, mitty
+	* hop: none
+	* fermentation: sweet and sour, raisin, plum, fig, date, black cherry
+* Commercial Examples: Liefmans Goudenband, Liefmans Oud Bruin, Ichtegem Oud Bruin, Petrus Oud Bruin, VanderGhinste Roodbruin
+* Notes:
+	* Liefmans Goudenband is the prime example
+	* initial fermentation in stainless steel with Sacch and Lacto
+		* no wood aging
+		* matures at warm temperatures in stainless steel, develops considerable acididty
+			* prevents oxygen exposure -> no acetobacter notes
+	* difference from Flanders Red:
+		* no acetobacter
+		* no barnyard Brett character
+		* different color
+		* has more pronounced nutty malt flavor
+	* usually blend of young and aged beer
+		* usually less complex and less sour than Flanders Red
+		* some are well aged with vinous, sherry notes
+	* 1970s/80s, some producers started using stainless steel, but no stylistic distinction
+	* some Oud Bruins way different from Liefmans
+		* Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years
+		* Vender Ghinste Roodbruin blends fermented beer and a brown lager
+
 # Saison
 * Region: Belgium, Wallonia
 * Malt:

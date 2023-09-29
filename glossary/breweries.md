@@ -66,10 +66,23 @@
 		* blonde, brune, Leffe 9, triple, radieuse
 		* now made at Artois facility
 		* museum still stands on original site, maintained by AB-InBev
+* **Liefmans Brewery:** a Belgian specialty brewery in Oudenaarde, East Flanders, Belgium, focusing on mixed fermentations using yeast and lactic acid
+	* their Oud Bruin is the base beer for their Kriek
+	* timeline
+		* oldest reference to the brewery is in 1679, owned by a brewer named Vilet
+		* changed name to Liefmans in 1780 after heir Maria Anth  Carola Vilet married Jacobus Joannus Liefmans
+		* 1933, moved from Krekelput to River Schelde
+		* original family owned until 1974
+		* taken over by Riva Brewery in 1991, and Liefmans wort was brewed  at Riva, then fermented at Liefmans
+		* 2007, Riva went bankrupt
+		* acquired by Duvel Moortgat in 2008
 * **Monts de Cats:** trappist monastery in France that began selling beer in 2011.
 	* Their abbey ale (7.6% BAC amber strong ale) isn't made at the monastery, so it doesn't get the label
 * **Orval:** Trappist Brewery in Wallonia at Abbaye Notre-Dame d'Orval, known for wild yeast and unique flavor profile, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Rochefort:** Trappist Brewery in Wallonia at Abbaye Notre-Dame de Saint-Remy in Rochefort, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Rodenbach Brewery:** Belgian brewery founded in Roesalare in 1821. Famous for its Flanders Red Ale.
+	* Eugene Rodenbach worked at a brewery in England in the 1870s and came back with porter-ish beer
+	* sold their yeast to nearby breweries until 1999
 * **Spencer:** former Trappist Brewery near Boston, Massachusetts at Saint Joseph's Abbey, was the only Trappist brewery outside Europe, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Stift Engelszell:** Trappist Brewery in northern Austria at Engelszell abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Tomsin**: last Belgian Witbier brewery before revival (closed in 1957)

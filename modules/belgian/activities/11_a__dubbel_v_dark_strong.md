@@ -1,6 +1,6 @@
 Style | Dubbel | Belgian Dark Strong Ale
 --|--|--
-Brand |Westmalle 6 | Westmalle 8
+Brand |Rochefort 6 | Rochefort 8
 ABV | 7.5% | 9.2%
 Color | amber | deep amber
 Aroma | toffee, dark stone fruit | toffee, rum, candi sugar
