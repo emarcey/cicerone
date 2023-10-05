@@ -1,10 +1,14 @@
 * **Acetobacter**: bacterium that produces acetic acid (assertive, sharp, vinegar tang)
-	* Flanders Red, Lambic
+	* Type: bacterium
+	* Uses: Flanders Red, Lambic
+	* Flavors/Aromas: assertive, sharp, vinegar tang
+	* Notes:
+		* produces acetic acid
 * **Brettanomyces**: British Fungus; yeast strain
 	* Type: yeast
 		* considered a "wild yeast"
 	* Uses: Lambic, Orval, Flanders Red (minotr)
-	* Flavors:
+	* Flavors/Aromas:
 		* strain & condition dependent
 		* grapefruit, pineapple, leather, barnyard, goat, earthy
 	* Notes: 
@@ -18,10 +22,25 @@
 		* **Is not a souring organism**
 			* lactic acid bacteria needed for sours
 			* more of a small tartness
+* **Brettanomyces Bruxellensis:** a species of Brettanomyces found in the Senne Valley and Pajottenland, known for use in lambic production
+	* Type: yeast
+		* considered a "wild yeast"
+	* Uses: Lambic, Fruit Lambic, Gueuze
+	* Flavors/Aromas: farmyard, horse blanket
+	* Notes:
+		* can produce acetic acid, isovaleric acid
+		* Key outputs: ethyl acetate, ethyl lactate, terahydrioyridines (mousy aroma), volatile phenolics, (medicine/barnyard), caprylic + capric acids + esters (goaty flavors)
+* **Brettanomyces Lambicus:** a substrain of Brettanomyces Bruxellensis, also found in the Senne Valley and Pajottenland, and also known for lambic production
+	* Type: yeast
+		* considered a "wild yeast"
+	* Uses: Lambic, Fruit Lambic, Gueuze
+	* Flavors/Aromas: spice, sour cherry, cherry pie filling
+	* Notes:
+		* can produce acetic acid, isovaleric acid
 * **Lactobacillus:** 
 	* Type: bacterium 
 	* Uses: Oud Bruin, Lambic, Gueuze, Flanders Red
-	* Flavors: tangy, smooth
+	* Flavors/Aromas tangy, smooth
 	* Notes: 
 		* that ferments sugar into lactic acid (tangy and smooth)
 		* can ferment with or without oxygen
@@ -30,7 +49,7 @@
 * **Pediococcus**: 
 	* Type: bacterium 
 	* Uses: Oud Bruin, Lambic, Gueuze, Flanders Red
-	* Flavors: tangy, smooth
+	* Flavors/Aromas: tangy, smooth
 	* Notes: 
 		* that ferments sugar into lactic acid (tangy and smooth)
 		* **richer and more complex characteristics than lactobacillus**
@@ -47,3 +66,4 @@
 	* Type: yeast
 	* Uses: ale
 	* Notes: species of yeast used for ales
+* 

@@ -18,6 +18,25 @@
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
+* **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
+	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
+	* 3 functions: cool, aerate wort, separate cold trub (sediment)
+* **Decoction:** traditional method of mashing, now controversial due to intensive nature
+	* German brewers tend to insist on its value to develop malt character, depth, foam
+	* Concept: remove part of mash, boil it, return to main mash
+	* Goals:
+		* physical pulping -> impacts malt cell walls
+		* raise temperature of bulk mash; historically enabled multi-temperature mash
+	* Result: destroys cell walls -> makes starches more accessible to malt enzymes
+	* standard is the triple decoction: acid rest, protein rest, saccharification rest
+		* at each, mash is separated 1 part solid to 3 parts liquid
+		* thickest part is pumped into mash tun kettle for boiling
+		* then, thick mash is separated/heated/boiled again
+		* third step: liquid mask is boiled
+			* doesn't actually make sense scientifically?
+			* original idea was to get a sweet/thick lent beer?
+	* triple decoction makes sense for dark and enzyme weak malts, but not for well-modified modern pale malts
+	* alternative: double decoction, single decoction
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt
@@ -44,3 +63,15 @@
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
 * **Trappist beer:** a beer brewed in the style of Trappist monks and within the walls of a Trappist monasteries
 	* 10 active monasteries
+* **Traditional Specialty Guaranteed:** an EU designation for legal protection of traditional products (e.g. Lambic/Gueuze)
+* **Trub:** from the German, a word for the sediment that is created during wort production
+* **Turbid Mash:** a unique brewhouse method historically used for belgian styles, and primarily used for lambics today
+	* rooted in 1822 law that taxed brewers on mash tun capacity
+		* brewers used smallest possible vessels, jammed full of grain
+	* historically, unmalted/low-modified grains would use numerous different temperature rests
+		* before modern steam-heated tuns, brewers added boiling water
+		* but small turbid tuns meant vessel had no room
+		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
+	* removed portion goes into kettle, heated near boiling
+		* later added back to mash tun
+	* 

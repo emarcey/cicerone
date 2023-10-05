@@ -3,6 +3,9 @@
 	* breakaway group of Benedictines who found the Benedictines too lax
 	* stricter interpretation of Rule of St. Benedict
 	* devotion to the motto: ora e labora (prayer and work)
+* **Hoge Raad voor Ambachtelijke Lambikbieren:** High Commission of Traditionally-Made Lambic Biers (HORAL)
+	* organization that protects authentic lambics with "Oude" designation
+	* all lambic producers/blenders are members except for Belle-Vue (owned by ABInBev) and Cantillon (HORAL isn't traditional enough)
 * **International Trappist Association:** organization charged with certifying Trappist breweries.
 	* composed of Trappist monks
 	* gained legal authority of "Trappist" term in 20th century
@@ -14,4 +17,4 @@
 		* silence
 		* prayer
 		* living by the work of their hands
-	* n
+	* 

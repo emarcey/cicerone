@@ -52,4 +52,9 @@
 		* a bit of caramel
 		* coffee
 
-# 
+# Yeast/Fermentative Organism
+* Type: bacterium/yeast
+* Uses: Flanders Red, Lambic
+* Flavors/Aromas: assertive, sharp, vinegar tang
+* Notes:
+	* produces acetic acid

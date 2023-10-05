@@ -170,6 +170,22 @@
 	* Chimay Tripel is the only Trappist tripel sold in keg form
 		* no bottle conditioning
 
+# Bière de Mars
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Other Names: March Beer, Bière de Printemps
+* Alcohol: very low
+* Flavors: 
+	* fermentation: high astringency
+* Commercial Examples: Lembeek's 2%
+* Notes:
+	* popular until 20th century, rarely made now
+	* lower gravity/alcohol than even Faro
+	* 2nd/3rd runnings from lauter tun
+		* high tannins -> high astringency
+	* refreshing warm weather drink
+	* **resurrected in France/US as a stronger version of Bière de Garde**
 # Bière de Garde
 * Region: Belgium, France
 * Malt:
@@ -235,6 +251,120 @@
 		* others blend an aged beer with a young beer fermented only with Sacch
 	* can be sweetened with sugar
 	* each example is unique to the brewer
+
+# Faro
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Alcohol: low - normal (4-5% ABV)
+* Flavor: very sweet
+* Commercial Examples: Brouwerij Lindemans, Brouwerij DeTroch, Brasserie Cantillon
+* Notes: 
+	* historical beer made from Lambic wort, not commonly made today
+	* sweetened lambic
+	* sometimes herbs/spices like orange peel, coriander
+	* made from weaker runnings of lauter tun -> low alcohol content
+	* sometimes a blend of lambic and non-lambic
+	* flash pasteurized
+	* very small audience
+
+# Fruit Lambic
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Other Names:
+* Glassware: lambic, tulip, footed pilsner
+* Color: varies with fruit (3-7 SRM)
+* Alcohol: normal - elevated (5-7% ABV)
+* Mouthfeel: 
+	* body:  dry, crisp
+	* carbonation: extremely broad, from near still to high
+* Bitterness: very low (0-10 IBUs)
+* Flavors: 
+	* malt: minimal, bready grain
+	* hop: none
+	* fermentation: low-moderate sourness, fruit character; fruity esters; funky barnyard, hay-like, earthy, spicy wild yeast notes
+* Commercial Examples: Boon Framboise/Kriek Mariage Parfait, Cantillon Fou' Foune, Cantillon Kriek, Cantillion Rosé de Gambrinus, De Cam Oude Kriek, 3 Fonteinen Oude Kriek, Girardin Kriek, Hanssens Oude Kriek, Oud Beersel Framboise, Oud Beersel Kriek, Oude Quetsche Tilquin à l'ancienne,  Lindemans Framboise/Kriek
+* Notes:
+	* brewers blend lambic beer with fruit then age
+	* extended fermentation consumes sugars, leaving flavor/aroma
+	* some fruits add acidity/tannins -> accentuate dry, crisp quality
+	* usually 1-2 year lambic, then add fruit for a few months - 1 year
+	* existing organisms + fruit skin microbes add additional fermentation
+	* some brewers may bottle condition with priming sugar or young lambic
+		* others add syrup/fruit after fermentation, then pasteurize
+			* more fruit forward, non-traditional
+	* most common fruits: Kriek, Framboise
+		* kriek - generally sour schaarbeek cherries indigenous to Schaarbeek, Brussels
+		* then black currant, peach
+		* fruit aroma/flavor can add to wine-like impression
+	* often covered with spider webs in casks bc that means no other bugs are getting in
+
+# Gueuze
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Other Names: Gueuze (Wallonian, French), Geuze (Flemish, Dutch), Champagne of Belgium
+* Glassware: lambic, tulip, flute (framboise)
+* Color: straw - gold (5-6 SRM)
+* Alcohol: normal - elevated (5-8% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: high
+* Bitterness: very low (0-10 IBUs)
+* Flavors: 
+	* malt: honey, bread, vanilla
+	* hop: none
+	* fermentation: acidity with fruit (apple, citrus, tropical, grape), hay/barnyard yeast
+* Commercial Examples: Boon Oude Geuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
+* Notes:
+	* production began in 19th century due in part to strong glass bottles that could handle high carbonation
+	* Faro, a historic beer, was the dominant style, most lambic beer is used to make Gueuze
+	* blenders combine 1, 2, 3 year old lambics from different barrels
+		* 1 year is usually 50-70% of blend
+			* also contributes residual sugars and active microbes for bottle fermentation
+		* 2 and 3 year are 30-50% of blend
+			* intense acidity + barnyard/horse-blanket flavors
+			* unique fruity esters - pineapple, papaya, green apple, wine grape, citrus
+			* honey, rhubarb, toast, spice, oak
+		* blend depends on vision and palate of blender
+			* aim is to create balanced, harmonious product
+			* every batch isn't identical, but most blenders have a house character
+	* once bottled, stored for a few months to a year
+		* referment, new flavors, **rising carbonation**
+		* may be enjoyed for many years (as much as 2 decades!)
+
+# Lambic
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Other Names: Straight Lambic
+* Glassware:  lambic glass, tulip
+* Color: straw - gold (3-6 SRM)
+	* hazy/cloudy when young
+	* clear when old
+* Alcohol: normal - elevated (5-6.5% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: very low - virtually still
+* Bitterness: very low (0-10 IBUs)
+* Flavors: 
+	* malt: light bready/grain
+	* hop: virtually none
+	* fermentation: sour, apple, citrus, barnyard, hay, wild yeast
+		* large variation, more complex character in older versions
+* Commercial Examples: Cantillon Grand Cru Bruocsella, Oude Lambiek De Cam
+* Notes:
+	* difficult to find outside of Senne Valley
+		* in valley, served as cheap, easy-drinking, everyday beer
+	* no refermentation -> relatively uncarbonated
+	* straight unblended lambic beer
+	* two groups:
+		* young draft product (wood-aged 6 months)
+			* not reached Brett stage
+			* residual sweetness, lack complex barnyard notes
+		* old, bottle produce (wood aged 3 years+, + bottle conditioning)
+			* very complex, no residual sugar, mixed acid/fruit/funk
 
 # Oud Bruin
 * Region: East Flanders, Belgium
