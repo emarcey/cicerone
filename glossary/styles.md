@@ -14,7 +14,7 @@
 	* carbonation: moderately high - high
 	* alcohol warmth: low
 * Bitterness: low (15-30 IBUs)
-* Flavors:  f
+* Flavors: 
 	* malt: grain, cereal, light honey sweetness
 	* hop: low perfumy, floral, spicy aromas
 	* fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
@@ -150,7 +150,7 @@
 * Flavors: 
 	* malt: grain, dough, light honey
 	* hop: spicy, herbal, floral; pronounced bitterness
-	* fermentation: orange, lemon, apricot, peach, pear, bananaga, pepper, clove, spice, rose
+	* fermentation: orange, lemon, apricot, peach, pear, banana, pepper, clove, spice, rose
 * Commercial Examples: **Westmalle Tripel**, Chimay Cinq Cents, Affligem Tripel, La Trappe Tripel, St. Bernardus Tripel, St. Feuillien Tripel, Tripel Karmeliet, Unibroue La Fin du Monde, Victory Golden Monkey, Allagash Triple, Brooklyn Local 1
 * Notes:
 	* emerged in 1930s in response to import popularity and Vandervelde act in 1919
@@ -169,23 +169,6 @@
 	* brewed using soft water
 	* Chimay Tripel is the only Trappist tripel sold in keg form
 		* no bottle conditioning
-
-# Bière de Mars
-* Region: Senne Valley and Pajottenland, Belgium
-* Malt: 60% Pilsner malt, 40% unmalted wheat
-* Hops: aged continental European hops
-* Other Names: March Beer, Bière de Printemps
-* Alcohol: very low
-* Flavors: 
-	* fermentation: high astringency
-* Commercial Examples: Lembeek's 2%
-* Notes:
-	* popular until 20th century, rarely made now
-	* lower gravity/alcohol than even Faro
-	* 2nd/3rd runnings from lauter tun
-		* high tannins -> high astringency
-	* refreshing warm weather drink
-	* **resurrected in France/US as a stronger version of Bière de Garde**
 # Bière de Garde
 * Region: Belgium, France
 * Malt:
@@ -212,6 +195,39 @@
 	* requires generous conditioning and maturation period
 	* high attentuation
 	* mustiness was considered a key factor, then people realized it was just bad corking
+
+# Bière de Mars
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Other Names: March Beer, Bière de Printemps
+* Alcohol: very low
+* Flavors: 
+	* fermentation: high astringency
+* Commercial Examples: Lembeek's 2%
+* Notes:
+	* popular until 20th century, rarely made now
+	* lower gravity/alcohol than even Faro
+	* 2nd/3rd runnings from lauter tun
+		* high tannins -> high astringency
+	* refreshing warm weather drink
+	* **resurrected in France/US as a stronger version of Bière de Garde**
+
+# Faro
+* Region: Senne Valley and Pajottenland, Belgium
+* Malt: 60% Pilsner malt, 40% unmalted wheat
+* Hops: aged continental European hops
+* Alcohol: low - normal (4-5% ABV)
+* Flavor: very sweet
+* Commercial Examples: Brouwerij Lindemans, Brouwerij DeTroch, Brasserie Cantillon
+* Notes: 
+	* historical beer made from Lambic wort, not commonly made today
+	* sweetened lambic
+	* sometimes herbs/spices like orange peel, coriander
+	* made from weaker runnings of lauter tun -> low alcohol content
+	* sometimes a blend of lambic and non-lambic
+	* flash pasteurized
+	* very small audience
 # Flanders Red Ale
 * Region: West Flanders, Belgium
 * Malt: Vienna, Munich, sometimes Pilsner
@@ -251,22 +267,6 @@
 		* others blend an aged beer with a young beer fermented only with Sacch
 	* can be sweetened with sugar
 	* each example is unique to the brewer
-
-# Faro
-* Region: Senne Valley and Pajottenland, Belgium
-* Malt: 60% Pilsner malt, 40% unmalted wheat
-* Hops: aged continental European hops
-* Alcohol: low - normal (4-5% ABV)
-* Flavor: very sweet
-* Commercial Examples: Brouwerij Lindemans, Brouwerij DeTroch, Brasserie Cantillon
-* Notes: 
-	* historical beer made from Lambic wort, not commonly made today
-	* sweetened lambic
-	* sometimes herbs/spices like orange peel, coriander
-	* made from weaker runnings of lauter tun -> low alcohol content
-	* sometimes a blend of lambic and non-lambic
-	* flash pasteurized
-	* very small audience
 
 # Fruit Lambic
 * Region: Senne Valley and Pajottenland, Belgium

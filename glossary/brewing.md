@@ -58,6 +58,7 @@
 	* fermentation vessel shape: tall, narrow -> lower levels of festers vs shallow, open
 		* high hydrostatic pressure & high CO2 in taller vessels
 	* stirring increases esters
+* **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen

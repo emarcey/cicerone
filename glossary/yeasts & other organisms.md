@@ -16,7 +16,7 @@
 		* can ferment wort alone, but often used as mixed culture in Belgian/wild styles
 			* alongside Saccharomyces and bacteria
 		* creates floating mat (pellicle) on surface of beer
-		* Key phenols: 4-ethylguaiacol, 4-ethylphenol, 4-vinylguaiacol
+		* Key phenols: 4-ethylguaiacol, 4-ethylphenol, 4-vinylguaiacol (vanilla)
 		* Key esters: Isoamyl acetate (banana aroma), ethyl acetate, ethyl lactate, ethyl caproate (fruity, pineapple), ethyl caprylate (fruity, apricot, tropical)
 		* **Creates acetic acid**
 		* **Is not a souring organism**

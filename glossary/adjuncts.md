@@ -109,25 +109,6 @@
 	* Structure: wrapped in a little shell
 	* Color: deep red
 	* Flavor: oh it's spicy like pepper
-	* 
-# Grains of Paradise
-* Stage: Kettle
-* Type: Spice
-* Notes:
-* Textures: 
-* Appearance: 
-* Flavors: 
-* Aromas:
-	* potpourri
-* Uses:
-	* Belgian
-		* many styles - often saison, strong ales
-* Grain:
-	* Shape: circulare
-	* Structure: wrapped in a little shell
-	* Color: deep red
-	* Flavor: oh it's spicy like pepper
-	* ****
 # Oats
 * Stage: Mash
 * Type: Grain

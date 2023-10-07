@@ -44,7 +44,7 @@ Key roles in: Flanders Red, Lambic, Gueuze, Fruit Lambic
 # Blending
 * Brewers often blend different vessels and vintages to create final product
 * Because of barrel variations, a single batch aged in different barrels can have very different beers
-* Brewers taste, select and blend beers to achieve desired final plavor profile
+* Brewers taste, select and blend beers to achieve desired final flavor profile
 * A larger stock of aged beer allows greater control
 * Most breweries with barrel aged beer have a single lead blender
 
