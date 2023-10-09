@@ -192,6 +192,81 @@
 	1. TODO: German section
 	2. TODO: Belgian tasting
 13. Describe the production process and flavor of Orval
+	1. Production:
+		1. Dry hopped with whole cone Styrian Goldings
+		2. fermented local wild yeast (Brett)
+		3. aged at least 6 months
+	2. Flavor: moderate/pronounced hop bitterness; barnyard, funk
+14. Name 4 Trappist Breweries outside Belgium and list at least one beer from each:
+	1. Stift Engelzell: Benno
+	2. Tynt Meadow: English Trappist Ale
+	3. Tre Fontane: Birra Trappist Italiana
+	4. Zundert: Trappist 8/10
+15. Describe the fermentation, maturation, and blending process of Flanders ales
+	1. Fermentation: primary fermentation is in stainless steel tanks with Saccharomyces, then a few weeks with Lactobacillus
+	2. Maturation: 18 months - 3 years in large oak foeders for microaeration
+	3. Blending: blender selects a mix of young and old ales, exact balance and type depend on desired style
+		1. some use old with stainless steel only
+		2. some use old and slightly less old
+		3. some use old and young with only Saccharomyces
+16. Describe the turbid mashing process
+	1. Start with a tun that's too small because of a workaround in a low
+	2. Historically, brewers would add additional boiling water to raise temp for rests
+	3. but small mash tuns had no room
+	4. so turbid mash means, at the end of a temperature rest, remove some of the liquid wort, then add more boiling water to raise temperature
+	5. Removed portion put in kettle and boiled near boiling, then added back to mash tun
+	6. repeated a few times
+17. Why do brewers use unmalted wheat and turbid mashing for lambics?
+	1. both of these things help with the multi-year fermentation
+	2. unmalted wheat has a lot of complex carbs that take a long time to break down, especially with the Brettanomyces
+	3. and the turbid mash helps to keep a lot of dextrins and complex carbs for long term fermentation
+18. What flavor/characteristics do Lambic/Gueuze/Fruit Lambic share?
+	1. malt: light bread/grain (less in fruit lambic)
+	2. fermentation: background barnyard yeast tastes, sour fruity taste
+	3. hops: very low bitterness
+	4. other:
 
 
 # Sample Cicerone Questions
+1. Name two Belgian beer styles typically made with unmalted wheat
+	1. Witbier, Lambic, Gueuze, Fruit Lambic
+2. Rodenbach is a classic producer of which Belgian style?
+	1. Flanders Red Ale
+3. Cherries and raspberries are commonly used in producing what style of spontaneously fermented Belgian beer?
+	1. Fruit Lambic
+4. What spices are commonly used to flavor Witbier?
+	1. coriander, curaçao orange peel
+5. What is the name for the large wooden vessels commonly used to mature Flanders Red Ale?
+	1. foeders
+6. Name 3 commercial examples of a Witbier
+	1. St. Bernardus Witte
+	2. Hoegaarden
+	3. Ommegang Witte
+7. Which Belgian style has a name that means "season"?
+	1. Saison
+8. What is the name for the malty farmhouse style commonly produced in Northern France?
+	1. Bière de Garde
+9. Name two bacteria that play a role in the fermentation of Flanders Red Ale
+	1. Lactobacillus
+	2. Acetobacter
+10. Name 3 beer styles produced from a wort with 30-40% unmalted wheat and aged hops
+	1. Lambic
+	2. Gueuze
+	3. Fruit Lambic
+11. Name a commercial example of a Belgian Blond Ale
+	1. Leffe Blonde
+12. What Belgian ale has dark fruit flavors suggestive of raisins, plums, and figs, and an alcohol range between 6.0 and 7.6% ABV
+	1. Trappist Dubbel
+13. When sugar is added to a beer during brewing, is it likely to make the finished beer sweeter or drier?
+	1. drier, because the yeast consume the sugar, fermenting more alcohol
+14. What is the ABV range of Saison?
+	1. 3.5-9%, across three ranges (Table, Standard, Super)
+15. During the 20th century, Westmalle began making a blond version of a strong Belgian ale known by what style name?
+	1. Tripel
+16. Duvel is a classic example of which Belgian style?
+	1. Belgian Golden Strong Ale
+17. Name 2 Trappist breweries located in Belgium
+	1. Westvleteren
+	2. Westmalle
+18. The Belgian style with up to 12.0% ABC and a color that ranges from amber to brown is known by what name?
+	1. Belgian Dark Strong Ale (Quadrupel)
