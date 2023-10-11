@@ -3,7 +3,7 @@ Brand | 3 Fonteinen Oude Geuze Cuvée Armand & Gaston | Oude Gueuze Tilquin à l
 Year | 2017-2018 | 2021 | 2017
 ABV | 6.9% | 7.0% | 8%
 Color |gold - light amber | straw - light gold | gold - light amber (lighter than 3 Fonteinen)
-Fruity Fermentation Flavors | bitter citrus (grapefruit, blood orange) | citrus (lemon) | bitter citrus (grapefruit, blood orange)
+Fruity Fermentation Flavors | bitter citrus (grapefruit, blood orange) | citrus (lemon) | bitter citrus (grapefruit, blood orange), apricot
 Funky Fermentation Flavors | barnyard, hay | earthy, dirt | earthy, mushroomy
 Acidity | low-medium | medium-high | medium
 Carbonation | moderate | moderate - high| high

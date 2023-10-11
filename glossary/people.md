@@ -10,4 +10,7 @@
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors
 * **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
-* 
+* **Wheeler, Daniel:** British brewer credited with inventing black malt and patented the method for its production
+	* used a modified coffee roaster to roast malt at elevated temp without charring
+		* deep brown color, readily soluble
+	* first adopted by Whitbread brewery in 1817

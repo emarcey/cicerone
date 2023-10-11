@@ -1,4 +1,29 @@
-# Black/Chocolate
+# Black
+* Notes:
+	* malted before kindling
+	* **no enzymes, no fermentable sugars**
+	* **used only for color/flavor/aroma**
+	* historically, key ingredient in porters
+		* astringent taste, smoky aroma
+	* invented in 1817 by Daniel Wheeler, using a drum roaster
+		* London porter brewers were restricted to using brownish malts for coloring beers, and often (illegaly) used various colorants to modify color
+		* modified coffee roaster that roasted at elevated temperature without charring
+		* deep brown color, readily soluble in water
+		* adopted by Whitbread brewery in 1817, and others soon follow
+* Other Names: black patent malt
+* Kilning: very high (>445F/230C)
+	* this temperature denatures all enzymes
+* Flavors: chocolate, coffee, espresso, burnt, nutty, rich/sweet
+	* porter: astringent, smokey
+* Color: deep brown, black
+* Uses:
+	* Belgian:
+		* dark ales: low proportions for color and chocolate/roast
+			* Oud Bruin, Dubbel Dark strong
+			* <1% of grist, much lower than porter/stout
+	* British:
+		* porter/stout
+# Chocolate
 * Notes:
 * Kilning: very high (>445F/230C)
 * Flavors: chocolate, coffee, espresso, burnt
@@ -12,10 +37,17 @@
 * Notes:
 	* start with undried, germinated malt
 	* "stew" in roasting drum a mash temperature
-		* converts starch into sugar so that the malt kernel holds a mass of liquefied sugar
-		* then, temperature rapidly raised while moisture is removed -> caramelize and crystallize sugars
+		* stewing stage: converts starch into sugar so that the malt kernel holds a mass of liquefied sugar
+		* curing stage: then, temperature rapidly raised while moisture is removed -> caramelize and crystallize sugars
 		* **exact time and temp determine color and flavor**
 	* increases sweetness and body
+	* developed in 1870s
+	* significant variance in color and flavor
+		* always accompanied by Lovibond number
+		* specific flavors arise as color intensifies
+		* color can be commonly 25-320 EBC (10L-120L), up to 400 EBC (150L)
+	* some modern maltsters use a kiln, not a roaster
+		* more efficient, but lower moisture content
 * Kilning: varies
 * Flavors: caramel, toffee, burnt sugar, raisins, prunes
 * Color: varies, deep red for Flanders, amber (Bière de Garde), brown (Bière de Garde)
@@ -24,6 +56,31 @@
 		* Dubbel/Dark Strong: flavor
 		* Bière de Garde: color
 		* Flanders Red Ale/Oud Bruin: ruby hue
+	* British/Irish: numerous styles
+# Munich
+* Notes:
+	* small range of colors
+	* slight differences in intensity
+* Kilning: higher temperature and longer time than Pilsner or Vienna
+* Flavors: toast, biscuit, pretzel, muesli, bread crust
+* Color: amber, brown
+* Uses:
+	* Austrian/German: amber and dark lagers
+	* Belgian: sparingly. Small portions in dubbels, some Bière de Garde. Base malt for Flanders Red
+# Pale Ale Malt
+* Notes:
+	* highly modified (starch readily accessible)
+	* base for many British/Irish styles
+* Kilning: produced using two-row barley, kilned at higher temperature than US two-row or continental Pilsner
+* Flavors: toasty, biscuity
+* Color:  darker than Pilsner/American two-row
+* Uses:
+	* most British/Irish styles
+* Grain:
+	* Shape
+	* Structure
+	* Color
+	* Flavor
 # Pilsner
 * Notes:
 	* Pale Lager Malt
@@ -60,16 +117,17 @@
 	* Flavor
 		* toasty
 		* nutty/savory
-# Munich
+# Roasted Barley
 * Notes:
-	* small range of colors
-	* slight differences in intensity
-* Kilning: higher temperature and longer time than Pilsner or Vienna
-* Flavors: toast, biscuit, pretzel, muesli, bread crust
-* Color: amber, brown
+	* technically a specialty grain, not a specialty malt
+	* no enzymes, no fermentable sugars
+	* used only for color/flavor
+* Kilning: very high (>445F/230C)
+* Flavors: chocolate, coffee, espresso, burnt, nutty,
+* Color: deep brown, black
 * Uses:
-	* Austrian/German: amber and dark lagers
-	* Belgian: sparingly. Small portions in dubbels, some Bière de Garde. Base malt for Flanders Red
+	* British:
+		* porter/stout
 # Special B
 * Notes:
 * Kilning: very high temperature (> 400F/205C)

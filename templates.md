@@ -34,23 +34,16 @@
 * Notes:
 # Malt
 * Notes:
+* Other Names:
 * Kilning: 
 * Flavors: 
 * Color: 
 * Uses:
 * Grain:
 	* Shape
-		* teardrop
-		* a couple cm long
 	* Structure
-		* encased in husk
-		* very crumbly
 	* Color
-		* dark brown, darkest at ends
 	* Flavor
-		* burnt toast
-		* a bit of caramel
-		* coffee
 
 # Yeast/Fermentative Organism
 * Type: bacterium/yeast
