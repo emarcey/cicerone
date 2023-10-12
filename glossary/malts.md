@@ -23,6 +23,12 @@
 			* <1% of grist, much lower than porter/stout
 	* British:
 		* porter/stout
+* Grain:
+	* Shape: small oval, fragmented because of high kilning
+	* Structure: no husk, line down middle
+		* crumbly mouthfeel
+	* Color: dark brown, nearly black (doy)
+	* Flavor: burnt toast
 # Chocolate
 * Notes:
 * Kilning: very high (>445F/230C)
@@ -57,6 +63,12 @@
 		* Bière de Garde: color
 		* Flanders Red Ale/Oud Bruin: ruby hue
 	* British/Irish: numerous styles
+*  Grain:
+	* Shape: thick oval
+	* Structure: husk over end, joined at flatter side, seems like it's a little flimsier than the pale ale, line down middle
+		* crunchy mouthfeel
+	* Color: brown with burnt spots
+	* Flavor: caramel, toffee
 # Munich
 * Notes:
 	* small range of colors
@@ -77,10 +89,11 @@
 * Uses:
 	* most British/Irish styles
 * Grain:
-	* Shape
-	* Structure
-	* Color
-	* Flavor
+	* Shape: oval
+	* Structure: husk over end, joined at flatter side, line down middle
+		* grainy mouthfeel
+	* Color: tan
+	* Flavor: bread, dough
 # Pilsner
 * Notes:
 	* Pale Lager Malt
@@ -110,6 +123,7 @@
 		* a few cm long
 	* Structure
 		* 2 hemispheres split down middle
+			* Bohemian has 4 quarters
 		* encased in a husk
 		* joined at round end
 	* Color
@@ -117,6 +131,7 @@
 	* Flavor
 		* toasty
 		* nutty/savory
+		* a little caramel/sourdough in the Bohemian Pilsner
 # Roasted Barley
 * Notes:
 	* technically a specialty grain, not a specialty malt
@@ -128,6 +143,12 @@
 * Uses:
 	* British:
 		* porter/stout
+* Grain:
+	* Shape: long pointy oval
+	* Structure: no husk, line down middle
+		* crunchy mouthfeel
+	* Color: dark brown, not as dark as black malt
+	* Flavor: coffee grounds
 # Special B
 * Notes:
 * Kilning: very high temperature (> 400F/205C)

@@ -9,10 +9,10 @@
 # Activities
 1. Malt Flavors
 	* [x] Irish Stout
-1. English vs American
+3. English vs American
 	* [ ] American Pale Ale/IPA
 	* [x] Strong Bitter - Speckled Hen
-2. Fermentation Flavors
+4. Fermentation Flavors
 	* [x] Scottish Export/Märzen - Bellhaven
 	* [x] Strong Bitter - Speckled Hen
 	* [ ] Pilsner Urquell
@@ -22,16 +22,18 @@
 		* [ ] Sam Smith Old Brewery Pale Ale
 			* [ ] Sam Smith Pale Ale might work
 		* [ ] Black Sheep Holy Grail
-3. Carbonation
+7. Carbonation
 	* [ ] American Pale Ale/IPA
-4. Porters
+8. Porters
 	* [x] English Porter x 2
 	* [ ] Flanders Red Ale
-	* [ ] American Porter
-	* [ ] Baltic Porter
-5. Stout comparison
+	* [x] American Porter
+	* [x] Baltic Porter
+9. Stout comparison
 	* [x] Irish Stout x 2
-	* [x] Sweet/Oatmeal Stout - Sam Smith's Oatmeal Stout
+	* [x] Sweet/Oatmeal Stout - 
+		* [x] Sam Smith's Oatmeal Stout
+		* [x] Gunnar's Daughter Milk Stout
 	* [x] Foreign Extra Stout
 	* [ ] American Porter
 	* [ ] Baltic Porter
@@ -40,16 +42,16 @@
 	* [x] British Brown Ale - Sam Smith's Nut Brown
 	* [ ] American Brown Ale
 	* [ ] Munich Dunkel
-7. IPA/Pale
+11. IPA/Pale
 	* [ ] American IPA
 	* [x] English IPA x 2
 	* [x] Best Bitter - Siren Memento
 	* [x] Strong Bitter - Speckled Hen
-8. Wee Heavy
+13. Wee Heavy
 	* [x] Dirty Bastard - en route
 	* [ ] Traquair Jacobite - en route
 	* [ ] Orkney Skull Splitter - en route
-9. Strong ales
+14. Strong ales
 	* [ ] Old Ale - Conniston - en route
 	* [x] Wee Heavy
 	* [ ] English Barleywine - J.W. Lees - en route
