@@ -15,4 +15,7 @@ Goals
 
 # Discussion Questions
 1. Which base malt do you like the most, and what food does it remind you of?
+	1. I like that Bohemian Pilsner, it reminds me of sourdough bread
 2. Which specialty malt do you think would be best in flavoring ice cream, cookies, or another type of dessert?
+	1. I think the toffee flavor in the crystal malt would give a lot of flavor
+	2. But the black malt/roasted barley could be nice in a chocolatey dish
