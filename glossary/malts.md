@@ -137,6 +137,7 @@
 	* technically a specialty grain, not a specialty malt
 	* no enzymes, no fermentable sugars
 	* used only for color/flavor
+	* sometimes considered to be an adjunct, but again no fermentable sugars
 * Kilning: very high (>445F/230C)
 * Flavors: chocolate, coffee, espresso, burnt, nutty,
 * Color: deep brown, black

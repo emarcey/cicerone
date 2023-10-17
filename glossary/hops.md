@@ -1,4 +1,4 @@
-# Styrian Glding
+# Styrian Golding
 * Notes:
 	* aroma hop
 	* grown primarily in Slovenia and Styria (Austria)

@@ -10,12 +10,12 @@
 1. Malt Flavors
 	* [x] Irish Stout
 3. English vs American
-	* [ ] American Pale Ale/IPA
+	* [x] American Pale Ale/IPA
 	* [x] Strong Bitter - Speckled Hen
 4. Fermentation Flavors
 	* [x] Scottish Export/Märzen - Bellhaven
 	* [x] Strong Bitter - Speckled Hen
-	* [ ] Pilsner Urquell
+	* [x] Pilsner Urquell
 	* [ ] Two of following
 		* [x] Fuller's London Pride
 		* [ ] Fuller's ESB
@@ -23,7 +23,7 @@
 			* [ ] Sam Smith Pale Ale might work
 		* [ ] Black Sheep Holy Grail
 7. Carbonation
-	* [ ] American Pale Ale/IPA
+	* [x] American Pale Ale/IPA
 8. Porters
 	* [x] English Porter x 2
 	* [ ] Flanders Red Ale
@@ -41,9 +41,9 @@
 6. Brown Beer
 	* [x] British Brown Ale - Sam Smith's Nut Brown
 	* [ ] American Brown Ale
-	* [ ] Munich Dunkel
+	* [x] Munich Dunkel
 11. IPA/Pale
-	* [ ] American IPA
+	* [x] American IPA
 	* [x] English IPA x 2
 	* [x] Best Bitter - Siren Memento
 	* [x] Strong Bitter - Speckled Hen

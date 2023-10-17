@@ -4,7 +4,7 @@
 * Notes:
 * Textures: 
 * Appearance: 
-* Aromas: a little bitter, a little nutty, a little orangey
+* Aromas: 
 * Flavors: 
 * Uses:
 	* styles/beers/regions

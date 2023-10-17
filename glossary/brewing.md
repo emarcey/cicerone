@@ -1,7 +1,7 @@
 * **Abbey Beer:** a beer produced in the Trappist style, but not brewed within a trappist monastery
-* **Adjunct**: ingredients other than malted barley, water, yeast, hops
-	* primarily as a partial replacement for malt
-	* sometime derided for use by major beers to cut costs
+* **Adjunct**: any fermentable sugar that does not come from a malted grain
+	* distinction important for 2 reasons: affects brewing process and impacts flavor/character of beer
+	* sometimes derided for use by major beers to cut costs
 	* sometimes traditional, sometimes by necessity
 		* e.g. american colonists using whatever starch was at hand, like pumpkin
 	* **kettle adjunct**: a form of fermentable sugar, like Belgian Candi or honey

@@ -92,6 +92,34 @@
 * Uses:
 	* Belgian
 		* many styles - often saison, strong ales
+# Flaked Barley
+* Stage: Mash
+* Type: Grain
+* Notes:
+	* flaking process runs barley kernels through warm rollers to flatten them
+	* increases gravity without changing flavor
+	* includes proteins, so improves head retention
+* Textures: none
+* Appearance: improved head formation, increased head retention
+* Aromas: none
+* Flavors: none
+* Uses:
+	* British and Irish:
+		* Irish Stout
+# Flaked Maize
+* Stage: Mash
+* Type: Grain
+* Notes:
+	* also called corn
+	* looks like Corn Flakes but yellow
+	* works like sugar: boosts gravity without increasing sweetness/body/malt flavor
+* Textures: none
+* Appearance: no change
+* Aromas: none
+* Flavors: none
+* Uses:
+	* British and Irish:
+		* Ordinary Bitter, Dark Mild: 5-20% of grist
 # Grains of Paradise
 * Stage: Kettle
 * Type: Spice
@@ -109,19 +137,81 @@
 	* Structure: wrapped in a little shell
 	* Color: deep red
 	* Flavor: oh it's spicy like pepper
+
+# Invert Sugar
+* Stage: Kettle
+* Type: Sugar
+* Notes:
+	* manufactured by converting sucrose (cane/beet sugar) with acids/enzymes to create glucose and fructose
+	* name comes because there is some complicated rotation of polarized light and then inversion rotates solution in opposite direction
+	* fructose and glucose are monosaccharides -> rapidly consumed by yeast
+	* liquid invert sugar easier to handle than sucrose/regular sugar
+	* often delivered in syrup or loaves in UK
+	* some brewers claim that inverting sucrose prior to adding to wort results in rapid fermentation and superior head formation
+* Textures: lightens body
+* Appearance: variety of color levels
+	* black invert (500 EBC)
+* Aromas: none
+* Flavors: minimal, usually makes beer drier and lighter
+	* darker invert sugars can create unique caramel flavors
+* Uses:
+	* British and Irish:
+		* British Bitters, Dark Mild
+		* Scottish ales
+		* Stouts/porters
+# Lactose
+* Stage: Kettle
+* Type: Sugar
+* Notes:
+	* lactose is a **not-fermentable** sugar used to provide residual sweetness and a fuller mouthfeel
+* Textures: fuller mouthfeel
+* Appearance: usually none
+* Aromas: none
+* Flavors: residual sweetness
+* Uses:
+	* British and Irish: sweet/milk stout
 # Oats
 * Stage: Mash
 * Type: Grain
 * Notes:
 	* historically used in many styles partially due to low cost
+	* scientific name: Avena sativa L.
+	* cereal crop, widespread in temperate zones of world
+	* de-husked and steamed to gelatinize the starch
+	* then either milled or flaked
+	* generally used flaked or malted for brewing
+	* toasted golden oat flakes are available as a specialty type
+	* oats contain beta-glucans and other gummy substances that can clog mash
+	* can cause strong foaming during fermentation
+	* as a result, most brewers keep under 10%
 * Body: enhances
 * Texture: silky, creamy, hazy, oily (at high levels)
-* Appearance: hazy
+* Appearance: hazy, cloudy
 * Flavors: N/A
 * Uses:
-	* Witbier: often used
-	* Saison: small quantities
-	* Modern Belgian styles: ~5% of grist
+	* Belgian:
+		* Witbier: often used
+		* Saison: small quantities
+		* Modern Belgian styles: ~5% of grist
+	*  British and Irish:
+		* Oatmeal Stout: 5-10% of grist, as flaked oats
+# Sugar
+* Stage: Kettle
+* Type: Sugar
+* Notes:
+	* increases original gravity and alcohol content without adding body or sweetness
+	* invert sugar also adds color
+	* lactose is **not-fermentable**
+	* can also be used to prime casks
+* Textures: lightens body
+* Appearance: usually none
+	* invert sugar adds some color
+* Aromas: none
+* Flavors: minimal, usually makes beer drier and lighter
+* Uses:
+	* British and Irish:
+		* Ordinary Bitter, Dark Mild
+		* Scottish ales
 # Unmalted Wheat
 * Stage: Mash
 * Type: Grain
