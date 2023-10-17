@@ -17,4 +17,5 @@
 		* silence
 		* prayer
 		* living by the work of their hands
-	* 
+* **Wye College:** a college in Kent, England known for their hop breeding program
+	* introduced dwarf hops, which can be grown on trellises

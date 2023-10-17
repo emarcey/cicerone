@@ -16,10 +16,10 @@
 	* [x] Scottish Export/Märzen - Bellhaven
 	* [x] Strong Bitter - Speckled Hen
 	* [x] Pilsner Urquell
-	* [ ] Two of following
+	* [x] Two of following
 		* [x] Fuller's London Pride
 		* [ ] Fuller's ESB
-		* [ ] Sam Smith Old Brewery Pale Ale
+		* [x] Sam Smith Old Brewery Pale Ale
 			* [ ] Sam Smith Pale Ale might work
 		* [ ] Black Sheep Holy Grail
 7. Carbonation
@@ -49,10 +49,10 @@
 	* [x] Strong Bitter - Speckled Hen
 13. Wee Heavy
 	* [x] Dirty Bastard - en route
-	* [ ] Traquair Jacobite - en route
-	* [ ] Orkney Skull Splitter - en route
+	* [x] Traquair Jacobite - en route
+	* [x] Orkney Skull Splitter - en route
 14. Strong ales
-	* [ ] Old Ale - Conniston - en route
+	* [x] Old Ale - Conniston - en route
 	* [x] Wee Heavy
-	* [ ] English Barleywine - J.W. Lees - en route
+	* [x] English Barleywine - J.W. Lees - en route
 	* [x] American Barleywine - Sierra Nevada Bigfoot - en route

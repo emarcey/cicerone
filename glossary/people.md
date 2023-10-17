@@ -7,8 +7,10 @@
 	* bought by Interbrew/Anheuser-Busch Inbev
 * **DeClerck, Jean:** brewing scientist in the mid 20th century. Collaborated closely with Father Theodore and Chimay. He and his wife are both buried in Chimay's cemetary
 * **Father Theodore:** well-known figure in Trappist brewing community in mid 20th century. Resided at Chimay and oversaw the brewery beginning in the 1940s
+* **Fuggle, Richard:** namesake of the Fuggle strain of hops
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors
+* **Salmon, Ernest E.:** professor at Wye College in Kent, responsible for a great deal of work on hop varieties in early-mid 20th century
 * **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
 * **Wheeler, Daniel:** British brewer credited with inventing black malt and patented the method for its production
 	* used a modified coffee roaster to roast malt at elevated temp without charring

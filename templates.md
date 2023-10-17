@@ -32,6 +32,19 @@
 	* fermentation
 * Commercial Examples:
 * Notes:
+
+# Hop
+* Location: 
+* Other Names:
+* Notes:
+* Biology:
+	* Alpha Acid Content:
+	* Beta Acid Content: 
+	* Cohumulone levels: 
+	* Humulene: 
+	* Oil Levels:
+* Aroma/Flavor: 
+* Uses:
 # Malt
 * Notes:
 * Other Names:
