@@ -39,7 +39,9 @@
 		* can produce acetic acid, isovaleric acid
 * **Lactobacillus:** 
 	* Type: bacterium 
-	* Uses: Oud Bruin, Lambic, Gueuze, Flanders Red
+	* Uses: 
+		* Belgian: Oud Bruin, Lambic, Gueuze, Flanders Red
+		* British and Irish: some ales
 	* Flavors/Aromas tangy, smooth
 	* Notes: 
 		* that ferments sugar into lactic acid (tangy and smooth)
@@ -65,5 +67,6 @@
 * **Saccharomyces cerevisiae:** 
 	* Type: yeast
 	* Uses: ale
+		* all British and Irish styles
 	* Notes: species of yeast used for ales
 * 

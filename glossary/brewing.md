@@ -18,6 +18,28 @@
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
+* **Burton Union System:** wood barrel fermentation system used in Burton-on-Trent, England in 19th century
+	* also called Union Set
+	* Breweries:
+		* Marston's Brewery is only modern brewery still using
+			* uses for flagship Pedigree Bitter
+		* Bass brewery was major user, but abandoned in 1980s
+		* Firestone Walked in California uses a modified Burton Union System for Double Barrel, Reserve Porter, Pale 31
+			* does not use swan necks and troughs; instead uses flexible hose and receiving buckets
+			* uses 60 US gal barrels, toasted to impart wood flavor
+			* their geometry results in a unique flavor: soft, fruity, oaky, vanilla
+	* 24-60 large wood barrel casks (7 hl; 150 imperial gallons)
+		* on side in rows, suspended off floor
+		* each barrel has bottom valve leading to a trough
+		* cooling coil in each barrel to control fermentation temp
+		* fresh actively fermenting ale wort fed by gravity to fermentation vessels
+		* fermenting yeast forced out of barrels into top trough
+		* yeast remains while beer runs down trough, into feeder, and back to casks
+		* lots of yeast retention
+		* beer spends about 6 days in Union
+	* oak not used to flavor beer; Marston's use neutral barrels
+	* very labor and capital intensive
+	* cleaning is difficult
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
@@ -37,6 +59,18 @@
 			* original idea was to get a sweet/thick lent beer?
 	* triple decoction makes sense for dark and enzyme weak malts, but not for well-modified modern pale malts
 	* alternative: double decoction, single decoction
+* **Diacetyl:** flavor compound present in many beers and wines
+	* aroma: butter, butterscotch, buttermilk
+	* by-product of amino acid metabolism
+	* yeast excretes a compound into beer that breaks down into diacetyl
+		* then reabsorbed b y yeast
+		* failure to reabsorb can result in undesirably high level of diacetyl
+		* must keep yeast in contact with raw beer long enough for reabsorbtion
+	* particularly undesirable in lagers
+		* often held before cooling "warm conditioning"/"diacetyl rest" to avoid this
+	* desirable in some ales and stouts
+	* amount is strain-dependent, but wort and fermentation conditions can play a role
+	* can also be formed by spoilage bacteria (lactic acid bacteria especially) during storage
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt
@@ -61,7 +95,18 @@
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
+* **Open Fermentation:** fermentation that takes place in vessels "open" to environment; began prior to introduction of closed vessels
+	* now usually done in special clean rooms with minimal contamination and good air flow
+	* early rooms had natural air extraction, now replaced with complex cooling/heating systems
+	* open fermentation is rare in modern day because it's harder to clean and the CO2 is lost
+	* advantages:
+		* brewer can watch fermentation and gauge progress
+		* broad, shallow containers encourage ester formation
+		* top cropping allows yeast to be collected for future use
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
+* **Top Cropping:** also known as skimming
+	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
+	* collected yeast is used in following fermentations, or sold to other breweries, distilleries, farms
 * **Trappist beer:** a beer brewed in the style of Trappist monks and within the walls of a Trappist monasteries
 	* 10 active monasteries
 * **Traditional Specialty Guaranteed:** an EU designation for legal protection of traditional products (e.g. Lambic/Gueuze)
@@ -75,4 +120,16 @@
 		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun
-	* 
+* **Yorkshire Square:** a fermentation vessel originating in northern England
+	* traditionally made of stone, then slate, now stainless steel
+	* cubic shape between 50hl (traditional) and 250-300hl (modern)
+	* **specially designed to assist in yeast collection**
+		* lower compartment separated from upper deck with hole in center
+		* wort is roused from lower to upper deck
+		* yeast foam wells up through hole onto upper deck and remains
+		* pipe in upper deck runs to bottom of vessel (organ pipe)
+		* yeast is skimmed from upper deck
+	* Samuel Smith's brewery still uses this system
+	* Black Sheep brewery adopted this system
+	* Tetley's Cask Bitter used this system
+	* Rare now, but result in full bodied, fruity beers
