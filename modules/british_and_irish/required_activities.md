@@ -20,7 +20,7 @@
 		* [x] Fuller's London Pride
 		* [ ] Fuller's ESB
 		* [x] Sam Smith Old Brewery Pale Ale
-			* [ ] Sam Smith Pale Ale might work
+			* [x] Sam Smith Pale Ale might work
 		* [ ] Black Sheep Holy Grail
 7. Carbonation
 	* [x] American Pale Ale/IPA
@@ -48,11 +48,11 @@
 	* [x] Best Bitter - Siren Memento
 	* [x] Strong Bitter - Speckled Hen
 13. Wee Heavy
-	* [x] Dirty Bastard - en route
-	* [x] Traquair Jacobite - en route
-	* [x] Orkney Skull Splitter - en route
+	* [x] Dirty Bastard -
+	* [x] Traquair Jacobite
+	* [x] Orkney Skull Splitter
 14. Strong ales
-	* [x] Old Ale - Conniston - en route
+	* [x] Old Ale - Conniston
 	* [x] Wee Heavy
 	* [x] English Barleywine - J.W. Lees - en route
 	* [x] American Barleywine - Sierra Nevada Bigfoot - en route

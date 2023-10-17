@@ -1,4 +1,4 @@
-# Adjunct
+# Adjunct/Additive
 * Stage: Mash/Kettle
 * Type: Grain/Sugar/Spice/Fruit
 * Notes:
