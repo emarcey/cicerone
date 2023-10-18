@@ -116,6 +116,11 @@
 	* stirring increases esters
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
+* **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
+	* Simple, single-temperature mash, ideal for well modified grains
+	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
+	* Usually consists of mashout, recirculation, sparging
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Open Fermentation:** fermentation that takes place in vessels "open" to environment; began prior to introduction of closed vessels
 	* now usually done in special clean rooms with minimal contamination and good air flow
@@ -125,6 +130,8 @@
 		* brewer can watch fermentation and gauge progress
 		* broad, shallow containers encourage ester formation
 		* top cropping allows yeast to be collected for future use
+* **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
+* **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
 * **Top Cropping:** also known as skimming
 	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
@@ -142,6 +149,7 @@
 		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun
+* **Well-modified:** a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
 * **Yorkshire Square:** a fermentation vessel originating in northern England
 	* traditionally made of stone, then slate, now stainless steel
 	* cubic shape between 50hl (traditional) and 250-300hl (modern)
