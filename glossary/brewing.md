@@ -40,6 +40,28 @@
 	* oak not used to flavor beer; Marston's use neutral barrels
 	* very labor and capital intensive
 	* cleaning is difficult
+* **Calcium Carbonate:** (CaCO3) precipitate of bicarbonate, which is a key measure of temporary water hardness, sometimes referred to as alkalinity of water
+	* high water hardness in brewing is generally considered negative, as it can impart a harsh bitterness, especially when combined with aggressive hopping
+	* removal/reduction often desired
+		* done by heating or adding acid
+	* sometimes desired to offset acidity of dark malts
+		* frequently featured in Munich, Dublin, and London beers
+		* Porters and stouts benefit from higher than average calcium carbonate levels
+	* formed when CO2 in rain reacts with calcite/dolomite in soil
+* **Calcium Sulfate:** (gypsum) critical component in measure of permanent water hardness, also known as non-carbonate hardness
+	* sum of all calcium and magnesium ions associated with chloride/sulfate
+	* "permanent" because it will not precipitate under heat
+	* often used to improve calcium levels in beer
+	* positive influences of calcium levels:
+		* lower pH
+		* preserve mash enzymes
+		* improve yeast growth/flocculation
+		* accelerate oxalate removal
+		* reduce color
+	* promotes drier, more bitter beer
+	* notable in Burton-on-Trent
+		* emulation has led to "Burtonization" via addition of calcium sulfate
+	* common treatment for pale ales/IPAs
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
