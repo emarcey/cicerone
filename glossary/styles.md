@@ -1,5 +1,6 @@
 # Belgian Blond Ale
 * Region: Belgium
+* Categories: Secular and Trappist Strong Ales
 * Malt:
 	* Pilsner
 	* some add Munich or other aromatic malts
@@ -24,6 +25,7 @@
 
 # Belgian Dark Strong Ale
 * Region: Belgium
+* Categories: Trappist Ales, Secular and Trappist Strong Ales
 * Malt: Pilsner, dark candy sugar
 * Hops:  Noble, Goldings (East Kent, Styrian)
 * Other Names: Quadrupel, Quad
@@ -48,6 +50,7 @@
 	* bottle conditioned
 # Belgian Dubbel
 * Region: Belgium
+* Categories: Trappist Ales, Secular and Trappist Strong Ales
 * Malt: Pilsner, dark candy sugar
 	* candy sugar is primary source of color
 	* some add chocolate, Munich, crystal, Special B
@@ -62,7 +65,7 @@
 	* alcohol warmth: low
 * Bitterness: low (15-25 IBUs)
 * Flavors: 
-	* malt: cramel, brown sugar, dark rum, raisin, plum, dark cherry, chocolate
+	* malt: caramel, brown sugar, dark rum, raisin, plum, dark cherry, chocolate
 		* if Special B, burnt sugar, raisins
 	* hop: low, spicy, floral, rosy
 	* fermentation: classic Belgian yeast - banana, pear, spicy, peppery, clove
@@ -78,6 +81,7 @@
 	* traditionally doesn't use spices, but not prohibited
 # Belgian Golden Strong Ale
 * Region: Belgium, Flanders, Antwerp
+* Categories: Secular and Trappist Strong Ales
 * Malt: Pilsner, lots of light brewing sugar (20-25%)
 * Hops: Saaz, Goldings
 * Other Names:
@@ -104,6 +108,7 @@
 	* often long maturation/cold conditioning
 # Belgian Pale Ale
 * Region: Belgium
+* Categories: French and Belgian Beers
 * Malt:
 	* Pale malt
 	* crystal malt
@@ -134,6 +139,7 @@
 	* many formulated as part of 1904 Henri Van Laer contest
 # Belgian Tripel
 * Region: Belgium
+* Categories: Trappist Ales, Secular and Trappist Strong Ales
 * Malt: European Pilsner malt (80%), some Vienna, Munich
 	* light candi sugar (20-25%)
 * Hops: East Kent Golding, Styrian Golding, Saaz, German Noble
@@ -171,6 +177,7 @@
 		* no bottle conditioning
 # Bière de Garde
 * Region: Belgium, France
+* Categories: French and Belgian Beers, Farmhouse Beers
 * Malt:
 	* Amber: Pale, Munich, Vienna
 	* Blonde: Pale, with a little Munich and Vienna
@@ -198,6 +205,7 @@
 
 # Bière de Mars
 * Region: Senne Valley and Pajottenland, Belgium
+* Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names: March Beer, Bière de Printemps
@@ -215,6 +223,7 @@
 
 # Faro
 * Region: Senne Valley and Pajottenland, Belgium
+* Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Alcohol: low - normal (4-5% ABV)
@@ -230,10 +239,11 @@
 	* very small audience
 # Flanders Red Ale
 * Region: West Flanders, Belgium
+* Categories: Flanders Ales and Lambic Beers
 * Malt: Vienna, Munich, sometimes Pilsner
 	* Crystal and Special B often used as "signature ingredients"
 	* flaked maize can be used for up to 20% to lighten body and accentuate dryness
-		* some brewers use dark candi sugar instead
+	* some brewers use dark candi sugar instead
 * Hops: continental hops, low bitterness
 * Other Names: Belgian Red Ale, sour red ale
 * Glassware: tulip, goblet
@@ -270,6 +280,7 @@
 
 # Fruit Lambic
 * Region: Senne Valley and Pajottenland, Belgium
+* Categories: Flanders Ales and Lambic Beers
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names:
@@ -302,6 +313,7 @@
 
 # Gueuze
 * Region: Senne Valley and Pajottenland, Belgium
+* Categories: Flanders Ales and Lambic Beers
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names: Gueuze (Wallonian, French), Geuze (Flemish, Dutch), Champagne of Belgium
@@ -336,6 +348,7 @@
 
 # Lambic
 * Region: Senne Valley and Pajottenland, Belgium
+* Categories: Flanders Ales and Lambic Beers
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names: Straight Lambic
@@ -351,8 +364,7 @@
 * Flavors: 
 	* malt: light bready/grain
 	* hop: virtually none
-	* fermentation: sour, apple, citrus, barnyard, hay, wild yeast
-		* large variation, more complex character in older versions
+	* fermentation: sour, apple, citrus, barnyard, hay, wild yeast; large variation, more complex character in older versions
 * Commercial Examples: Cantillon Grand Cru Bruocsella, Oude Lambiek De Cam
 * Notes:
 	* difficult to find outside of Senne Valley
@@ -368,6 +380,7 @@
 
 # Oud Bruin
 * Region: East Flanders, Belgium
+* Categories: Flanders Ales and Lambic Beers
 * Malt: Pilsner malt, rarely use Vienna/Munich/Special B
 	* chocolate, black malt, sometimes crystal
 * Hops: continental, unimportant
@@ -405,6 +418,7 @@
 
 # Saison
 * Region: Belgium, Wallonia
+* Categories: French and Belgian Beers, Farmhouse Beers
 * Malt:
 	* Pilsner malt
 	* May add wheat, oats, rye, spelt
@@ -441,10 +455,10 @@
 		* 3.5-5% ABC: session strength
 	* Many examples are bottle conditioned, giving a light tartness and funk
 		* overtly sour, and those with Brett, should not be considered saisons
-		* 
 
 # Trappist Single
 * Region: Belgium
+* Categories: Trappist Ales
 * Malt: Pilsner
 * Hops: 
 	* early hopping
@@ -473,6 +487,7 @@
 	* some can be brewed with spices
 # Witbier
 * Region: Belgium
+* Categories: French and Belgian Beers, Wheat Beers
 * Malt: 
 	* Pilsner malt, wheat, 
 	* unmalted wheat (traditional), pale haze (30-40%, up to 50%)

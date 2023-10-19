@@ -62,6 +62,14 @@
 	* notable in Burton-on-Trent
 		* emulation has led to "Burtonization" via addition of calcium sulfate
 	* common treatment for pale ales/IPAs
+* **Cask:** a container used for conditioning and serving beer, traditionally made of wood, though often made of stainless steel or plastic today
+	* UK Sizes:
+		* Pin (5.4 US Gallons/20.4L)
+		* Firkin (10.8 US gallons/~40.8L)
+		* Kilderkin (21.6 US gallons/~81.7L)
+		* Barrel (43.2 US gallons/~163.5L)
+		* Hogshead (64.8 US gallons/~245.3L)
+	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
@@ -119,6 +127,8 @@
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Keystone:** a plastic or wooden insert used to seal the small opening on the flat surface of a cask
+	* designed to form a seal with a tap for dispensing beer
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
@@ -130,9 +140,17 @@
 		* brewer can watch fermentation and gauge progress
 		* broad, shallow containers encourage ester formation
 		* top cropping allows yeast to be collected for future use
+* **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
+	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
+* **Shive:** an instrument used to seal the large opening on the curved side of a cask.
+	* Designed to allow easy penetration of spile
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
+* **Spile:** a wooden or plastic peg used to control carbonation level during cask secondary fermentation
+	* first, bamboo: porous -> vents excess CO2
+	* then, non-porous wood/plastic: maintains carbonation level
+	* inserted into shive on side of cask
 * **Top Cropping:** also known as skimming
 	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
 	* collected yeast is used in following fermentations, or sold to other breweries, distilleries, farms
