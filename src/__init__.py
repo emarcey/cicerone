@@ -50,8 +50,9 @@ class DictItem:
         self.value = value
         self.children = children
 
-    def __json__(self):
-        return {}
+    def __str__(self):
+        children = {k: str(v) for k, v in self.children.items()}
+        return f"""("value": {self.value},"children": {children})"""
 
 
 def to_snake_case(s: str) -> str:
@@ -128,8 +129,6 @@ class BeerStyle(GenericModel):
 parsed_dict = {}
 
 for header, header_lines in parsed_header.items():
-    if header != "Saison":
-        continue
     stack = [DictItem(value=header, children=OrderedDict())]
     depth = 0
     dummy_idx = 0
@@ -146,9 +145,10 @@ for header, header_lines in parsed_header.items():
     num_lines = len(tmp_header_lines)
     for idx in range(len(tmp_header_lines)):
         indent, name, value = tmp_header_lines[idx]
-        print(f"indent {indent}, name {name}, value {value}")
         if idx > 0 and indent < tmp_header_lines[idx - 1][0]:
-            stack.pop()
+            diff = tmp_header_lines[idx - 1][0] - indent
+            for i in range(diff):
+                stack.pop()
         stack[-1].children[name] = DictItem(value=value, children=OrderedDict())
         if idx < num_lines - 1 and indent < tmp_header_lines[idx + 1][0]:
             stack.append(stack[-1].children[name])
