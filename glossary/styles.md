@@ -5,9 +5,9 @@
 	* Pilsner
 	* some add Munich or other aromatic malts
 	* some use kettle/grain adjuncts to lighten body while boosting ABV
-* Hops: East Kent, Styrian Golding, Noble (Saaz, Hallertau)
+* Hops: East Kent, Styrian Golding, Noble (Saaz and Hallertau)
 * Other Names:
-* Glassware: tulip, goblet, chalic
+* Glassware: tulip, goblet, chalice
 * Color: light gold to gold (4-6 SRM)
 * Alcohol: elevated (6-7.5% ABV)
 * Mouthfeel: 
@@ -51,9 +51,8 @@
 # Belgian Dubbel
 * Region: Belgium
 * Categories: Trappist Ales, Secular and Trappist Strong Ales
-* Malt: Pilsner, dark candy sugar
-	* candy sugar is primary source of color
-	* some add chocolate, Munich, crystal, Special B
+* Malt: Pilsner, dark candy sugar (primary source of color)
+	* chocolate, Munich, crystal, Special B
 * Hops: Noble, Goldings (East Kent, Styrian)
 * Other Names: double
 * Glassware: tulip, goblet, chalice
@@ -66,7 +65,7 @@
 * Bitterness: low (15-25 IBUs)
 * Flavors: 
 	* malt: caramel, brown sugar, dark rum, raisin, plum, dark cherry, chocolate
-		* if Special B, burnt sugar, raisins
+		* if Special B then burnt sugar and raisins
 	* hop: low, spicy, floral, rosy
 	* fermentation: classic Belgian yeast - banana, pear, spicy, peppery, clove
 * Commercial Examples: Westmalle Dubbel, Chimay Première, Affligem Dubbel, Corsendonk Pater, La Trappe Dubbel, Grimbergen Dubbel, Ommegang Abbey Ale, St. Bernardus Pater 6, Trappistes Rochefort 6, Westvleteren 8, Achel 8 Bruin
@@ -112,13 +111,15 @@
 * Malt:
 	* Pale malt
 	* crystal malt
-	* may also use German malts: Pilsner, Vienna, Munich
+	* Pilsner
+	* Vienna
+	* Munich
 * Hops: East Kent Goldings, Fuggles, Styrian Goldings, Saaz
-	* all also used in English pale, except Saaz
+	* all also used in English pale (except Saaz)
 * Other Names:
 * Glassware: tulip, chalic, bolleke (specific goblet shape)
 * Color: gold - amber (8-14 SRM)
-* Alcohol: range normal (4.8-5.5% ABV)
+* Alcohol: normal (4.8-5.5% ABV)
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderately high
@@ -183,16 +184,21 @@
 	* Blonde: Pale, with a little Munich and Vienna
 	* Brown: Pale, with a lot of Munich/Vienna
 	* Sometimes uses raw French barley
-* Hops: 
-	* Strisselspalt, French Hallertau, Aramis
+* Hops: Strisselspalt, French Hallertau, Aramis
 * Other Names:
 * Glassware: tulip, goblet
 * Color: gold - light brown (6 - 19 SRM)
 	* divided into blonde, gold and brown variations
 * Alcohol: elevated - high (6-8.5%)
-* Mouthfeel: medium-light to medium, moderate-high carbonation, moderate alcohol warmth
+* Mouthfeel:
+	* body: medium-light to medium
+	* carbonation: moderate-high
+	* alcohol warmth: moderate
 * Bitterness: low (18-28 IBUs)
-* Flavors: malt-forward (toast, biscuit, bread, caramel, toffee); mild hop (anise, floral, herbal); low fruity esters
+* Flavors: 
+	* malt: malt-forward (toast, biscuit, bread, caramel, toffee)
+	* hop: mild hop (anise, floral, herbal)
+	* fermentation: low fruity esters
 * Commercial Examples: Duyck Jenlain (blonde, amber), Castelain Blond, Castelain CH'TI (blonde, amber, brown), La Choulette (blonde, amber), Saint-Germain Page 24 Reserve Hildegarde (blonde, amber), Saint-Germain Page 24 Brun, Saint-Sylvestre 3 Monts (blonde), Saint Sylvestre Gavroche (amber), Two Brothers Domain DuPage (amber)
 * Notes:
 	* 3 color ranges
@@ -212,6 +218,8 @@
 * Alcohol: very low
 * Flavors: 
 	* fermentation: high astringency
+	* hop: 
+	* malt: 
 * Commercial Examples: Lembeek's 2%
 * Notes:
 	* popular until 20th century, rarely made now
@@ -227,7 +235,10 @@
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Alcohol: low - normal (4-5% ABV)
-* Flavor: very sweet
+* Flavors: 
+	* fermentation: very sweet
+	* hop:
+	* malt:
 * Commercial Examples: Brouwerij Lindemans, Brouwerij DeTroch, Brasserie Cantillon
 * Notes: 
 	* historical beer made from Lambic wort, not commonly made today
@@ -244,7 +255,7 @@
 	* Crystal and Special B often used as "signature ingredients"
 	* flaked maize can be used for up to 20% to lighten body and accentuate dryness
 	* some brewers use dark candi sugar instead
-* Hops: continental hops, low bitterness
+* Hops: continental hops
 * Other Names: Belgian Red Ale, sour red ale
 * Glassware: tulip, goblet
 * Color: red-brown (10-17 SRM)
@@ -383,7 +394,7 @@
 * Categories: Flanders Ales and Lambic Beers
 * Malt: Pilsner malt, rarely use Vienna/Munich/Special B
 	* chocolate, black malt, sometimes crystal
-* Hops: continental, unimportant
+* Hops: continental (unimportant)
 * Other Names: sour brown ale, (east) Flanders Brown
 * Glassware: tulip, goblet
 * Color: amber - brown (17-22 SRM)
@@ -425,20 +436,24 @@
 		* grainy/bready quality
 	* May add Vienna/Munich malt
 		* adds color/malt flavor
-* Hops:
-	* Styrian Golding, Saaz, East Kent
+* Hops: Styrian Golding, Saaz, East Kent
 * Other Names:
 * Glassware: tulip, goblet, willi belcher
-* Color: 
-	* Pale: Light gold - amber (5-14 SRM)
+* Color: light gold - brown
+	* Pale: light gold - amber (5-14 SRM)
 	* Dark: amber - brown (15-22 SRM)
-* Alcohol:
+* Alcohol: low - high (3.5% - 9%)
 	* Table: low-normal (3.5-5% ABV)
 	* Standard: normal - elevated (5-7% ABV)
 	* Super: elevated - high (7-9%)
-* Mouthfeel: light to medium, very high carbonation
+* Mouthfeel: 
+	* body: light to medium 
+	* carbonation: very high
 * Bitterness: moderate (20-35 IBUs)
-* Flavors: spicy, fruity phenolic fermentation characteristics; earthy/herbal hops; grainy/bready malt
+* Flavors:
+	* fermentation: spicy, fruity phenolic characteristics; 
+	* hop: earthy, herbal
+	* malt: grainy, bready
 * Commercial Examples: **Saison DuPont**, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle, Transmitter Bière de Garde
 * Notes:
 	* lots of variation
@@ -492,15 +507,19 @@
 	* Pilsner malt, wheat, 
 	* unmalted wheat (traditional), pale haze (30-40%, up to 50%)
 	* some brewers add oats (5-10% of grist) for creaminess/body, pale haze
+* Hops: continental European
 * Other Names: bière blanche
 * Glassware: French jelly glass, tulip
 * Color: straw to light gold (2-4 SRM)
 * Alcohol: normal (4.5-5.5% ABV)
-* Mouthfeel: medium-light to medium
+* Mouthfeel: 
+	* body: medium-light to medium
+	* carbonation: high
 * Bitterness: low (8-20 IBUs)
-* Mouthfeel: medium-light to medium body, high carbonation, light creaminess
-* Flavors: herbal, spicy, citrusy, bready, floury, honey, vanilla, mild sourness sometimes
-* Spices: coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon
+* Flavors: 
+	* malt: bready, floury, honey, vanilla
+	* fermentation: spicy, citrusy
+	* hop: herbal, citrusy, mild sourness sometimes
 * Commercial Examples: Allagash White, Hoegaarden Wit, Ommegang Witte, St. Bernardus Abt 4 Witbier, Blue Moon Belgian White, Shock Top Belgian Ale, Celis White, Lefebvre Blanche de Bruxelles, De Brabandere Wittekerke, Avery White Rascal
 * Notes:
 	* **unfiltered, top-fermented wheat beer**
@@ -515,3 +534,4 @@
 	* americans started adding citrus and orange slices to bottle
 		* promoted by Blue Moon since 1997
 	* some brewers brew 8-10% ABV Grand Cru for special occasions
+	* Spices: coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon

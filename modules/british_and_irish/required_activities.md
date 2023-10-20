@@ -26,7 +26,7 @@
 	* [x] American Pale Ale/IPA
 8. Porters
 	* [x] English Porter x 2
-	* [ ] Flanders Red Ale
+	* [x] Flanders Red Ale
 	* [x] American Porter
 	* [x] Baltic Porter
 9. Stout comparison

@@ -54,6 +54,20 @@ class DictItem:
         children = {k: str(v) for k, v in self.children.items()}
         return f"""("value": {self.value},"children": {children})"""
 
+    def to_list(self):
+        output = []
+        if self.value:
+            output = [x.strip() for x in self.value.split(",")]
+        for child_key, child_value in self.children.items():
+            if not child_key.isnumeric():
+                output.append(child_key)
+            if isinstance(child_value, DictItem):
+                output.extend(child_value.to_list())
+            else:
+                output.append(child_value)
+
+        return output
+
 
 def to_snake_case(s: str) -> str:
     """
@@ -79,8 +93,8 @@ def validate_string_input(cls, v: DictItem) -> str:
     Returns:
         formatted string
     """
-    if v.children:
-        raise ValueError(f"Does not expect children!!")
+    # if v.children:
+    # raise ValueError(f"Does not expect children!!")
     return v.value
 
 
@@ -97,32 +111,58 @@ def validate_optional_string_to_list(cls, v: Optional[DictItem]) -> List[str]:
     """
     if not v:
         return []
-    if v.children:
-        raise ValueError(f"Does not expect children!!")
-    if v.value:
-        return [x.strip() for x in v.value.split(",")]
-    return []
+    return v.to_list()
+
+
+class MouthFeel(GenericModel):
+    body: str
+    carbonation: str
+    alcohol_warmth: Optional[str]
+
+    _validate_string_input = validator("body", "carbonation", "alcohol_warmth", pre=True, allow_reuse=True)(
+        validate_string_input
+    )
+
+
+class Flavors(GenericModel):
+    malt: str
+    fermentation: str
+    hop: str
+    _validate_string_input = validator("malt", "fermentation", "hop", pre=True, allow_reuse=True)(validate_string_input)
 
 
 class BeerStyle(GenericModel):
     name: str
     region: str
     categories: List[str]
-    malt: Any
-    hops: Any
+    malt: List[str]
+    hops: List[str]
     other_names: Optional[List[str]]
-    glassware: Any
-    color: Any
-    alcohol: Any
-    mouthfeel: Any
-    bitterness: Any
-    flavors: Any
+    glassware: Optional[List[str]]
+    # TODO: parse SRM
+    color: Optional[str]
+    # TODO: parse ABV
+    alcohol: str
+    mouthfeel: Optional[MouthFeel]
+    # TODO: parse IBU
+    bitterness: Optional[str]
+    flavors: Flavors
     commercial_examples: List[str]
-    Notes: Any
+    notes: List[str]
 
-    _validate_string_input = validator("region", pre=True, allow_reuse=True)(validate_string_input)
+    _validate_string_input = validator("region", "alcohol", "bitterness", "color", pre=True, allow_reuse=True)(
+        validate_string_input
+    )
     _validate_optional_string_to_list_input = validator(
-        "categories", "other_names", "commercial_examples", pre=True, allow_reuse=True
+        "categories",
+        "other_names",
+        "glassware",
+        "commercial_examples",
+        "hops",
+        "malt",
+        "notes",
+        pre=True,
+        allow_reuse=True,
     )(validate_optional_string_to_list)
 
 
@@ -154,16 +194,20 @@ for header, header_lines in parsed_header.items():
             stack.append(stack[-1].children[name])
 
     parsed_dict[header] = stack[0].children
-    print(parsed_dict[header])
 
 
 styles = {}
 for style, body in parsed_dict.items():
     try:
-        styles[style] = BeerStyle(name=style, **body)
+        styles[style] = BeerStyle(
+            name=style,
+            mouthfeel=body["mouthfeel"].children if body.get("mouthfeel") else None,
+            flavors=body["flavors"].children if body.get("flavors") else None,
+            **{k: v for k, v in body.items() if k not in ["mouthfeel", "flavors"]},
+        )
     except Exception as e:
         print(style)
         print(body)
         raise e
 
-print(styles["Faro"])
+print(styles["Belgian Pale Ale"])
