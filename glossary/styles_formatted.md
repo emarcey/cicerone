@@ -6,7 +6,7 @@
 - Hops: East Kent, Styrian Golding, Noble (Saaz and Hallertau)
 - Glassware: tulip, goblet, chalice
 - Color: light gold - gold (4.0 - 6.0 SRM)
-- Alcohol: elevated (6.0 - 7.5 ABV)
+- Alcohol: elevated (6.0 - 7.5% ABV)
 - Mouthfeel: 
 	- body: medium
 	- carbonation: moderately high - high
@@ -29,7 +29,7 @@
 - Other names: Quadrupel, Quad
 - Glassware: tulip, goblet, chalice
 - Color: amber - brown (12.0 - 22.0 SRM)
-- Alcohol: high - very high (8.0 - 12.0 ABV)
+- Alcohol: high - very high (8.0 - 12.0% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium-full
 	- carbonation: high
@@ -57,7 +57,7 @@
 - Other names: double
 - Glassware: tulip, goblet, chalice
 - Color: light amber - dark amber (10.0 - 17.0 SRM)
-- Alcohol: elevated (6.0 - 7.5 ABV)
+- Alcohol: elevated (6.0 - 7.5% ABV)
 - Mouthfeel: 
 	- body: medium full
 	- carbonation: moderately high
@@ -86,7 +86,7 @@
 - Hops: Saaz, Goldings
 - Glassware: tulip, goblet, chalice
 - Color: straw - gold (3.0 - 6.0 SRM)
-- Alcohol: high - very high (7.5 - 10.5 ABV)
+- Alcohol: high - very high (7.5 - 10.5% ABV)
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: very high
@@ -114,7 +114,7 @@
 - Hops: East Kent Goldings, Fuggles, Styrian Goldings, Saaz, all also used in English pale (except Saaz)
 - Glassware: tulip, chalic, bolleke (specific goblet shape)
 - Color: gold - amber (8.0 - 14.0 SRM)
-- Alcohol: normal (4.8 - 5.5 ABV)
+- Alcohol: normal (4.8 - 5.5% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderately high
@@ -139,7 +139,7 @@
 - Hops: East Kent Golding, Styrian Golding, Saaz, German Noble
 - Glassware: tulip, goblet, chalice
 - Color: light gold - gold (4.5 - 7.0 SRM)
-- Alcohol: high (7.5 - 9.5 ABV)
+- Alcohol: high (7.5 - 9.5% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: high
@@ -176,7 +176,7 @@
 - Hops: Strisselspalt, French Hallertau, Aramis
 - Glassware: tulip, goblet
 - Color: gold - light brown (6.0 - 19.0 SRM)
-- Alcohol: elevated - high (6.0 - 8.5 ABV)
+- Alcohol: elevated - high (6.0 - 8.5% ABV)
 - Mouthfeel: 
 	- body: medium-light to medium
 	- carbonation: moderate-high
@@ -203,7 +203,7 @@
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Other names: March Beer, Bière de Printemps
-- Alcohol: very low (2.0 - 4.0 ABV)
+- Alcohol: very low (2.0 - 4.0% ABV)
 - Flavors: 
 	- malt: 
 	- fermentation: high astringency
@@ -223,7 +223,7 @@
 - Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
-- Alcohol: low - normal (4.0 - 5.0 ABV)
+- Alcohol: low - normal (4.0 - 5.0% ABV)
 - Flavors: 
 	- malt: 
 	- fermentation: very sweet
@@ -247,7 +247,7 @@
 - Other names: Belgian Red Ale, sour red ale
 - Glassware: tulip, goblet
 - Color: red - brown (10.0 - 17.0 SRM)
-- Alcohol: normal - elevated (4.6 - 6.5 ABV)
+- Alcohol: normal - elevated (4.6 - 6.5% ABV)
 - Mouthfeel: 
 	- body: medium
 	- carbonation: low - moderate
@@ -285,7 +285,7 @@
 - Hops: aged continental European hops
 - Glassware: lambic, tulip, footed pilsner
 - Color: varies with fruit (3.0 - 7.0 SRM)
-- Alcohol: normal - elevated (5.0 - 7.0 ABV)
+- Alcohol: normal - elevated (5.0 - 7.0% ABV)
 - Mouthfeel: 
 	- body: dry, crisp
 	- carbonation: extremely broad, from near still to high
@@ -320,7 +320,7 @@
 - Other names: Gueuze (Wallonian, French), Geuze (Flemish, Dutch), Champagne of Belgium
 - Glassware: lambic, tulip, flute (framboise)
 - Color: straw - gold (5.0 - 6.0 SRM)
-- Alcohol: normal - elevated (5.0 - 8.0 ABV)
+- Alcohol: normal - elevated (5.0 - 8.0% ABV)
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: high
@@ -357,7 +357,7 @@
 - Other names: Straight Lambic
 - Glassware: lambic glass, tulip
 - Color: straw - gold (3.0 - 6.0 SRM)
-- Alcohol: normal - elevated (5.0 - 6.5 ABV)
+- Alcohol: normal - elevated (5.0 - 6.5% ABV)
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: very low - virtually still
@@ -389,7 +389,7 @@
 - Other names: sour brown ale, (east) Flanders Brown
 - Glassware: tulip, goblet
 - Color: amber - brown (17.0 - 22.0 SRM)
-- Alcohol: lower to high (4.0 - 8.0 ABV)
+- Alcohol: lower to high (4.0 - 8.0% ABV)
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: low - moderate
@@ -427,7 +427,7 @@
 - Hops: Styrian Golding, Saaz, East Kent
 - Glassware: tulip, goblet, willi belcher
 - Color: light gold - brown (5.0 - 22.0 SRM)
-- Alcohol: low - high (3.5 - 9.0 ABV)
+- Alcohol: low - high (3.5 - 9.0% ABV)
 	- Table - low-normal (3.5-5% ABV)
 	- Standard - normal - elevated (5-7% ABV)
 	- Super - elevated - high (7-9%)
@@ -466,7 +466,7 @@
 - Other names: monk's beer, brother's beer, patersbier, singel, refter, enkel
 - Glassware: tulip, goblet, chalice
 - Color: straw - light gold (3.0 - 5.0 SRM)
-- Alcohol: normal (4.8 - 6.0 ABV)
+- Alcohol: normal (4.8 - 6.0% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate high - high
@@ -496,7 +496,7 @@
 - Other names: bière blanche
 - Glassware: French jelly glass, tulip
 - Color: straw to light gold (2.0 - 4.0 SRM)
-- Alcohol: normal (4.5 - 5.5 ABV)
+- Alcohol: normal (4.5 - 5.5% ABV)
 - Mouthfeel: 
 	- body: medium-light to medium
 	- carbonation: high

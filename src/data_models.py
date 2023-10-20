@@ -61,7 +61,7 @@ class AlcoholProfile(BaseModel):
     notes: List[str] = Field(default_factory=lambda: [])
 
     def __str__(self) -> str:
-        vals = [f"{' - '.join(self.alcohol_range)} ({self.abv_low} - {self.abv_high} ABV)"]
+        vals = [f"{' - '.join(self.alcohol_range)} ({self.abv_low} - {self.abv_high}% ABV)"]
         for note in self.notes:
             vals.append(f"\t- {note}")
         return "\n".join(vals)
