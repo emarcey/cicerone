@@ -41,6 +41,8 @@ Cask ale displays the following traits:
 
 # Cask
 * a container used for conditioning and serving beer, traditionally made of wood, though often made of stainless steel or plastic today
+	* quality of stainless steel and plastic very important to be impervious to air, avoid corrosion, impart no flavor
+	* aluminum no longer in production (though some still in service)
 * UK Sizes:
 		* Pin (5.4 US Gallons/20.4L)
 		* Firkin (10.8 US gallons/~40.8L)
@@ -69,8 +71,14 @@ Cask ale displays the following traits:
 ## Preparing
 
 1. **Stillage:** place cask on support and brace it. Allow finings, yeast, hop material to settle
+	1. cask should be rolled vigorously **before** stillage to work the beer
 2. **Soft Spile:** pierce shive with porous spile to vent excess CO2. Monitor fermentation and maturation of beer in cask
+	1. no hard rule on time, depends on fining regimen
+	2. but do not overvent!!
 3. **Hard Spile:** when desired carbonation level is achieved -> replace soft spile with hard spile to block loss of CO2 and prevent room air from reaching beer
+	1. do it approximately when the fob reforms on the soft spile after being wiped clean within 3-10 seconds
+	2. this is when "dropping bright" occurs: full settling of the yeast - assisted by rising temperature (take ambient cellar temp from 52-54F - 58-60F for 8-12 hours)
+		1. full process can take between 4 hours and 5 days
 4. **Tap:** drive tap through keystone. Draw sample and test
 
 ## Service
@@ -107,6 +115,7 @@ Cask ale displays the following traits:
 	* **removes virtually all CO2 from beer**
 	* many publicans prefer serving without sparkler
 		* less head -> more carbonation
+	* Mark Dorber finds the sparkler lazy and improper
 * Swan Neck Spout: some beer engines have extended spout in upside-down "U", called a "swan neck", to facilitate particular style of sparkler pour
 	* sparkler rests on bottom of glass
 	* beer is pumped
@@ -142,3 +151,25 @@ Cask ale displays the following traits:
 	* stemmed thistle: variation of stemmed tulip glass, used for Wee Heavy
 	* snifter: initially popular for brandy, now common for strong ales (Barleywine, Old Ale, Imperial Stout)
 		* usually comes in various sizes so portion can be adjusted based on ABV
+
+# Discussion Questions
+
+1. If you were a publican, would you choose to offer a cask beer program? Why or why not? What considerations would impact your decision?
+	1. I probably would not
+	2. Reasons:
+		1. well I'm not in the UK, so it's not expected by patrons
+		2. not good for hoppier beers
+		3. like Dorber says, doing it in a cost effective way cuts the quality. A lot of intensive effort and risk of losing a lot of beer, plus you have to go through casks quickly
+		4. Nitrogen is available and could be used for individual beers
+	3. Considerations:
+		1. Geography: if in UK, maybe worth doing
+		2. Beer Styles: hoppier beers are more common in the US, so it wouldn't be as easy to replace
+		3. Cost
+		4. Alternatives
+2. If you were to choose a specific commercial beer to serve on cask, which would it be and why?
+	1. I would like to try Porterhouse's Oyster Stout
+	2. It has the low hop, thin body that is common in a Porter/Irish Stout, but the Oyster Stout has, as a rule, something very unique about its flavor, and I would love to see it produce that big head
+3. Other than stout, name one or more beer styles/commercial examples you believe should be offered "on nitro"? What about the flavor profile of these beers makes nitrogen dispense attractive?
+	1. Maybe another British/Irish style like a Bitter would be interesting to try
+	2. They're fairly low on hops so the flavor won't really be affected, and they tend to be fairly low on carbonation
+	3. They also tend to form a decent head on their own, but making it creamier could be nice

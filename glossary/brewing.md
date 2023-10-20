@@ -131,6 +131,18 @@
 	* designed to form a seal with a tap for dispensing beer
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
+* **Nitrogenated beer:** this occurs when nitrogen (N2) is dissolved in beer (usually with a bit of CO2 - 70:30 ration of N2:CO2), most closely associated with Irish stouts
+	* notable for its foamy pour, followed by creamy, persistent head 
+		* this is due to relative insolubility of nitrogen in beer (about 100x less soluble than CO2)
+		* the head often lasts longer than the beer itself
+	* less carbonated than most beer, less acidic flavor
+	* mechanism:
+		* on draught, uses a special mechanism with a restrictor plate immediately before the faucet - perforated to encourage lots of small N2 bubble
+		* in canned beer, a widget replaces the restrictor plate
+	* first marketed during Guinness' 200th anniversary celebration in 1959
+		* initially called it easy serve
+		* first released only in England, then 5 years later in Ireland (1964)
+		* coincided for Guinness with use of metal kegs over wooden casks
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Open Fermentation:** fermentation that takes place in vessels "open" to environment; began prior to introduction of closed vessels
 	* now usually done in special clean rooms with minimal contamination and good air flow
@@ -158,7 +170,7 @@
 	* 10 active monasteries
 * **Traditional Specialty Guaranteed:** an EU designation for legal protection of traditional products (e.g. Lambic/Gueuze)
 * **Trub:** from the German, a word for the sediment that is created during wort production
-* **Turbid Mash:** a unique brewhouse method historically used for belgian styles, and primarily used for lambics today
+* **Turbid Mash:** a unique brewhouse method historically used for Belgian styles, and primarily used for lambics today
 	* rooted in 1822 law that taxed brewers on mash tun capacity
 		* brewers used smallest possible vessels, jammed full of grain
 	* historically, unmalted/low-modified grains would use numerous different temperature rests
