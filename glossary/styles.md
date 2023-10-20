@@ -8,7 +8,7 @@
 * Hops: East Kent, Styrian Golding, Noble (Saaz and Hallertau)
 * Other Names:
 * Glassware: tulip, goblet, chalice
-* Color: light gold to gold (4-6 SRM)
+* Color: light gold - gold (4-6 SRM)
 * Alcohol: elevated (6-7.5% ABV)
 * Mouthfeel: 
 	* body: medium
@@ -98,11 +98,11 @@
 	* fermentation: fruity (pear, apple, orange); peppery, spicy
 * Commercial Examples: Duvel, Alken-Maes Judas, De Dolle Dulle Teve, Delirium Tremens, Het Anker Lucifer, North Coast PranQster, Russian River Damnation, Van Honsebrouck Brigand, Van Steenberge Piraat
 * Notes:
-	* 1923, Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale
+	* 1923 - Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale
 	* despite high ABV, found it very drinkable
 	* surprising strength inspired name "devil" - Duvel in Flemish
 	* original Duvel was actually dark like a Scotch ale
-	* in 1971, Duvel reformulated as golden pale ale to compete with European pilsners
+	* in 1971 - Duvel reformulated as golden pale ale to compete with European pilsners
 	* result resembled the Tripel, but is a style of its own
 	* often long maturation/cold conditioning
 # Belgian Pale Ale
@@ -146,7 +146,7 @@
 * Hops: East Kent Golding, Styrian Golding, Saaz, German Noble
 * Other Names:
 * Glassware: tulip, goblet, chalice
-* Color: range light gold - gold (4.5-7 SRM)
+* Color: light gold - gold (4.5-7 SRM)
 * Alcohol: high (7.5-9.5% ABV)
 * Mouthfeel: 
 	* body: medium-light - medium
@@ -165,7 +165,7 @@
 	* drinkers loved the elegant appearance
 	* **Hendrik Verlinden worked with secular brewery Drie Linden in 1932 to produce Witkap Pater**
 		* funny enough, he trademarked the Witkap Pater as a "Trappistenbier", which was the first time "Trappist" had been legally used as a trademark
-	* Then, he worked with Westmalle to produce Superbier in 1934
+	* Then he worked with Westmalle to produce Superbier in 1934
 		* Brother Thomas added more hops and called it Tripel in 1956
 	* gave the pretty color and drinkability of a pilsner with the belgian character
 	* lots of light candi sugar
@@ -180,16 +180,16 @@
 * Region: Belgium, France
 * Categories: French and Belgian Beers, Farmhouse Beers
 * Malt:
-	* Amber: Pale, Munich, Vienna
-	* Blonde: Pale, with a little Munich and Vienna
-	* Brown: Pale, with a lot of Munich/Vienna
+	* Amber - Pale, Munich, Vienna
+	* Blonde - Pale, with a little Munich and Vienna
+	* Brown - Pale, with a lot of Munich/Vienna
 	* Sometimes uses raw French barley
 * Hops: Strisselspalt, French Hallertau, Aramis
 * Other Names:
 * Glassware: tulip, goblet
 * Color: gold - light brown (6 - 19 SRM)
 	* divided into blonde, gold and brown variations
-* Alcohol: elevated - high (6-8.5%)
+* Alcohol: elevated - high (6-8.5% ABV)
 * Mouthfeel:
 	* body: medium-light to medium
 	* carbonation: moderate-high
@@ -215,7 +215,7 @@
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names: March Beer, Bière de Printemps
-* Alcohol: very low
+* Alcohol: very low (2-4% ABV)
 * Flavors: 
 	* fermentation: high astringency
 	* hop: 
@@ -311,14 +311,14 @@
 	* brewers blend lambic beer with fruit then age
 	* extended fermentation consumes sugars, leaving flavor/aroma
 	* some fruits add acidity/tannins -> accentuate dry, crisp quality
-	* usually 1-2 year lambic, then add fruit for a few months - 1 year
+	* usually 1-2 year lambic then add fruit for a few months - 1 year
 	* existing organisms + fruit skin microbes add additional fermentation
 	* some brewers may bottle condition with priming sugar or young lambic
 		* others add syrup/fruit after fermentation, then pasteurize
-			* more fruit forward, non-traditional
-	* most common fruits: Kriek, Framboise
+			* more fruit forward and non-traditional
+	* most common fruits - Kriek and Framboise
 		* kriek - generally sour schaarbeek cherries indigenous to Schaarbeek, Brussels
-		* then black currant, peach
+		* then black currant and peach
 		* fruit aroma/flavor can add to wine-like impression
 	* often covered with spider webs in casks bc that means no other bugs are getting in
 
@@ -338,7 +338,7 @@
 * Flavors: 
 	* malt: honey, bread, vanilla
 	* hop: none
-	* fermentation: acidity with fruit (apple, citrus, tropical, grape), hay/barnyard yeast
+	* fermentation: acidity with fruit (apple citrus, tropical, grape), hay/barnyard yeast
 * Commercial Examples: Boon Oude Geuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
 * Notes:
 	* production began in 19th century due in part to strong glass bottles that could handle high carbonation
@@ -349,12 +349,12 @@
 		* 2 and 3 year are 30-50% of blend
 			* intense acidity + barnyard/horse-blanket flavors
 			* unique fruity esters - pineapple, papaya, green apple, wine grape, citrus
-			* honey, rhubarb, toast, spice, oak
+			* honey; rhubarb; toast; spice; oak
 		* blend depends on vision and palate of blender
-			* aim is to create balanced, harmonious product
-			* every batch isn't identical, but most blenders have a house character
+			* aim is to create balanced harmonious product
+			* every batch isn't identica, but most blenders have a house character
 	* once bottled, stored for a few months to a year
-		* referment, new flavors, **rising carbonation**
+		* referment -> new flavors -> **rising carbonation**
 		* may be enjoyed for many years (as much as 2 decades!)
 
 # Lambic
@@ -379,15 +379,15 @@
 * Commercial Examples: Cantillon Grand Cru Bruocsella, Oude Lambiek De Cam
 * Notes:
 	* difficult to find outside of Senne Valley
-		* in valley, served as cheap, easy-drinking, everyday beer
+		* in valley served as cheap easy-drinking everyday beer
 	* no refermentation -> relatively uncarbonated
 	* straight unblended lambic beer
 	* two groups:
 		* young draft product (wood-aged 6 months)
 			* not reached Brett stage
 			* residual sweetness, lack complex barnyard notes
-		* old, bottle produce (wood aged 3 years+, + bottle conditioning)
-			* very complex, no residual sugar, mixed acid/fruit/funk
+		* old, bottle produce (wood aged 3 years+ then bottle conditioning)
+			* very complex; no residual sugar; mixed acid/fruit/funk
 
 # Oud Bruin
 * Region: East Flanders, Belgium
@@ -439,19 +439,19 @@
 * Hops: Styrian Golding, Saaz, East Kent
 * Other Names:
 * Glassware: tulip, goblet, willi belcher
-* Color: light gold - brown
-	* Pale: light gold - amber (5-14 SRM)
-	* Dark: amber - brown (15-22 SRM)
-* Alcohol: low - high (3.5% - 9%)
-	* Table: low-normal (3.5-5% ABV)
-	* Standard: normal - elevated (5-7% ABV)
-	* Super: elevated - high (7-9%)
+* Color: light gold - brown (5-22 SRM)
+	* Pale - light gold - amber (5-14 SRM)
+	* Dark - amber - brown (15-22 SRM)
+* Alcohol: low - high (3.5 - 9% ABV)
+	* Table - low-normal (3.5-5% ABV)
+	* Standard - normal - elevated (5-7% ABV)
+	* Super - elevated - high (7-9%)
 * Mouthfeel: 
 	* body: light to medium 
 	* carbonation: very high
 * Bitterness: moderate (20-35 IBUs)
 * Flavors:
-	* fermentation: spicy, fruity phenolic characteristics; 
+	* fermentation: spicy, fruity phenolic characteristics
 	* hop: earthy, herbal
 	* malt: grainy, bready
 * Commercial Examples: **Saison DuPont**, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle, Transmitter Bière de Garde
@@ -534,4 +534,4 @@
 	* americans started adding citrus and orange slices to bottle
 		* promoted by Blue Moon since 1997
 	* some brewers brew 8-10% ABV Grand Cru for special occasions
-	* Spices: coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon
+	* spices - coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon
