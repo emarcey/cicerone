@@ -125,10 +125,12 @@ class MouthFeel(GenericModel):
 
 
 class Flavors(GenericModel):
-    malt: str
-    fermentation: str
-    hop: str
-    _validate_string_input = validator("malt", "fermentation", "hop", pre=True, allow_reuse=True)(validate_string_input)
+    malt: List[str]
+    fermentation: List[str]
+    hop: List[str]
+    _validate_string_input = validator("malt", "fermentation", "hop", pre=True, allow_reuse=True)(
+        validate_optional_string_to_list
+    )
 
 
 class BeerStyle(GenericModel):
