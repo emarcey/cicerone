@@ -6,11 +6,15 @@
 	1. Pour hard back to 2nd, then back to 3rd, then back to 2nd
 	2. A total of four transfers
 
+Beer Used: Dogfish Head 60 Minute IPA
+
 
 Cup | High Carbonation | Low Carbonation
 --|--|--
-Mouthfeel | |
-Malt Flavor | |
-Bitterness | |
+Mouthfeel | moderate carbonation, medium body | very low carbonation
+Malt Flavor | bready, grainy | bready, caramel
+Bitterness | fairly pronounced piney bitterness | less bitter, though still fairly pronounced
 
 Based on this activity, how would you expect the flavor of other beers to be affected by lower carbonation?
+
+Less pronounced bitterness, fuller malt flavor
