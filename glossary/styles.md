@@ -1,3 +1,32 @@
+# Baltic Porter
+* Region: Northern and Eastern Europe
+* Categories: Porters, British Dark Ales
+* Malt: Pale Ale, Black
+* Hops: 
+* Other Names:
+* Glassware: snifter, nonic pint, pub mug, tulip
+* Color: dark amber - dark brown (17-30 SRM)
+* Alcohol: elevated - high (6.5 - 9.5% ABV)
+* Mouthfeel: 
+	* body: full
+	* carbonation: 
+	* alcohol warmth: 
+* Bitterness: moderate (20-40 IBUs)
+* Flavors: 
+	* malt: restrained roast, caramel, toast, licorice
+	* hop: low to medium spicy
+	* fermentation: clean
+* Commercial Examples: Sinebrychoff Porter, Okocim Porter, Żywiec Porter , Baltika 6 Porter, Southampton Imperial Porter, Devil's Backbone Danzig
+* Notes:
+	* after popularity declined in England in mid 1800s, new life found in Baltic countries
+		* Henry Thrale's Anchor Brewery in London shipped a strong version to the Baltics for Catherine the great
+			* first time Russian Imperial Stout was mentioned
+	* In 1819 Nikolai Sinebrychoff began producing a version outside of Helsinki, Finland
+	* stronger version of Robust Porter
+	* Sweden brewing in 1700s
+	* Switched to lager yeast in mid-1800s
+	* or a high gravity cross between English Porter and Shwarzbier
+	* **often brewed with lager yeast**
 # Belgian Blond Ale
 * Region: Belgium
 * Categories: Secular and Trappist Strong Ales
@@ -426,6 +455,60 @@
 	* some Oud Bruins way different from Liefmans
 		* Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years
 		* Vender Ghinste Roodbruin blends fermented beer and a brown lager
+
+# English Porter
+* Region: England
+* Categories: Porters, British Dark Ales
+* Malt: Pale Ale, Black Patent
+* Hops: English
+* Other Names: Porter, Entire
+* Glassware: nonic pint, pub mug, tulip
+* Color: light - dark brown (20-30 SRM)
+* Alcohol: lower - normal (4-5.4% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation:
+	* alcohol warmth:
+* Bitterness: moderate (18-35 IBUs)
+* Flavors: 
+	* malt: chocolate, caramel, toffee, nutty; roast flavors are restrained
+	* hop: earthy, floral British hops
+	* fermentation: traditionally had lactic acid, acetobacter, brettanomyces, but no longer common; moderate-low diacetyl optional
+* Commercial Examples: Fuller's London Porter, Samuel Smith's Taddy Porter, Harviestoun Old Engine Oil
+* Notes:
+	* largely influenced by available malt; pale malt limited prior to 1700
+	* most malts kilned using direct-fire methods, fueled by wood
+	* limited control over heating process -> dark, smoke-flavored malt known as a brown malt
+	* early, brewers blended aged beer with fresh to create unique flavor profile
+		* large aging tanks
+	* developed in early 1700s
+		* first known Brewery: Ralph Harwood at Bell Brewhouse in Shoreditch, East London in 1722
+			* first mixed in pub on premises, but Harwood (allegedly) mixed at the brewery
+		* earliest documented discussions in letter from 1726
+		* inexpensive, nutritious, commonly consumed by working class (named for workers known as Porters)
+	* popular during Industrial Revolution (began in 1700s)
+	* first industrial breweries were for porters
+	* porter breweries were largest in world by end of 18th century
+		* one of the most capital intensive ventures in England
+		* some producers focused on profit over quality
+		* led to questionable/dangerous ingredients in 18th-19th centuries
+	* recipe changed in 1780s
+		* hydrometer enabled brewers to measure extract yield; discovered brown malt yielded low fermentable sugar
+		* determined pale malt was more cost effective, but lighter color and flavor changed resulted in criticism
+		* in 1817, Daniel Wheeler invented roasting drum, allowed for roasting of black malt without scorching
+			* created Black Patent Malt
+	* early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces
+		* modern porters generally lack
+	* spread to the US, but the revolution killed it by the mid 1800s
+	* spread to Ireland, Guinness was known as a plain porter until 1974
+	* aging vats got gigantic
+		* so much so tht promotional dinners could be held in them
+		* Meux Brewery, London had enormous vats, but one urst in 1814, killed several people
+	* "Robust Porter" developed in Victorian England: for gentlemen; a little sweeter; a little more boozy
+	* 1920s, most porters were fading and not tasty
+	* Chiswell Street Brewery closed in 1940
+	* 1950s, largely faded away
+	* starting to come back in England and North America
 
 # Saison
 * Region: Belgium, Wallonia

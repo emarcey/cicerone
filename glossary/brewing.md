@@ -175,7 +175,7 @@
 		* brewers used smallest possible vessels, jammed full of grain
 	* historically, unmalted/low-modified grains would use numerous different temperature rests
 		* before modern steam-heated tuns, brewers added boiling water
-		* but small turbid tuns meant vessel had no room
+	* but small turbid tuns meant vessel had no room
 		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun

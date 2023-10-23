@@ -7,6 +7,7 @@
 	* bought by Interbrew/Anheuser-Busch Inbev
 * **DeClerck, Jean:** brewing scientist in the mid 20th century. Collaborated closely with Father Theodore and Chimay. He and his wife are both buried in Chimay's cemetary
 * **Father Theodore:** well-known figure in Trappist brewing community in mid 20th century. Resided at Chimay and oversaw the brewery beginning in the 1940s
+* **Harwood, Ralph:** a London man, owner of Bell Brewhouse, who allegedly invented the Porter in 1722
 * **Fuggle, Richard:** namesake of the Fuggle strain of hops
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors

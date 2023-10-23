@@ -1,5 +1,78 @@
 {
     "styles": {
+        "Baltic Porter": {
+            "name": "Baltic Porter",
+            "region": "Estonia, Latvia, Lithuania, Poland, England",
+            "categories": [
+                "Porters",
+                "British Dark Ales"
+            ],
+            "malt": [
+                "Pale Ale",
+                "Black"
+            ],
+            "hops": [],
+            "other_names": [],
+            "glassware": [
+                "snifter",
+                "nonic pint",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "dark amber",
+                    "dark brown"
+                ],
+                "srm_low": 17.0,
+                "srm_high": 30.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "abv_low": 6.5,
+                "abv_high": 9.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "full",
+                "carbonation": "",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 40.0
+            },
+            "flavors": {
+                "malt": [
+                    "restrained roast",
+                    "caramel",
+                    "toast",
+                    "licorice"
+                ],
+                "fermentation": [],
+                "hop": []
+            },
+            "commercial_examples": [
+                "Sinebrychoff Porter",
+                "Okocim Porter",
+                "\u017bywiec Porter",
+                "Baltika 6 Porter",
+                "Southampton Imperial Porter",
+                "Devil's Backbone Danzig"
+            ],
+            "notes": [
+                "after popularity declined in England in mid 1800s, new life found in Baltic countries",
+                "stronger version of Robust Porter",
+                "or a high gravity cross between English Porter and Shwarzbier",
+                "often brewed with lager yeast"
+            ]
+        },
         "Belgian Blond Ale": {
             "name": "Belgian Blond Ale",
             "region": "Belgium",
@@ -1255,6 +1328,102 @@
                 "some Oud Bruins way different from Liefmans",
                 "Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years",
                 "Vender Ghinste Roodbruin blends fermented beer and a brown lager"
+            ]
+        },
+        "English Porter": {
+            "name": "English Porter",
+            "region": "England",
+            "categories": [
+                "Porters",
+                "British Dark Ales"
+            ],
+            "malt": [
+                "Pale Ale",
+                "Black Patent"
+            ],
+            "hops": [
+                "English"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic pint",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "light",
+                    "dark brown"
+                ],
+                "srm_low": 20.0,
+                "srm_high": 30.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 4.0,
+                "abv_high": 5.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "chocolate",
+                    "caramel",
+                    "toffee",
+                    "nutty; roast flavors are restrained"
+                ],
+                "fermentation": [
+                    "traditionally had lactic acid",
+                    "acetobacter",
+                    "brettanomyces",
+                    "but no longer common"
+                ],
+                "hop": [
+                    "earthy",
+                    "dark soil British hops"
+                ]
+            },
+            "commercial_examples": [
+                "Fuller's London Porter",
+                "Samuel Smith's Taddy Porter",
+                "Harviestoun Old Engine Oil"
+            ],
+            "notes": [
+                "largely influenced by available malt; pale malt limited prior to 1700",
+                "most malts kilned using direct-fire methods, fueled by wood",
+                "limited control over heating process -> dark, smoke-flavored malt known as a brown malt",
+                "early, brewers blended aged beer with fresh to create unique flavor profile",
+                "large aging tanks",
+                "developed in early 1700s",
+                "earliest documented discussions in letter from 1726",
+                "inexpensive, nutritious, commonly consumed by working class (named for workers known as Porters)",
+                "popular during Industrial Revolution (began in 1700s)",
+                "first industrial breweries were for porters",
+                "porter breweries were largest in world by end of 18th century",
+                "one of the most capital intensive ventures in England",
+                "some producers focused on profit over quality",
+                "led to questionable/dangerous ingredients in 18th-19th centuries",
+                "recipe changed in 1780s",
+                "hydrometer enabled brewers to measure extract yield; discovered brown malt yielded low fermentable sugar",
+                "determined pale malt was more cost effective, but lighter color and flavor changed resulted in criticism",
+                "in 1817, Daniel Wheeler invented roasting drum, allowed for roasting of black malt without scorching",
+                "created Black Patent Malt",
+                "early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces",
+                "modern porters generally lack"
             ]
         },
         "Saison": {

@@ -15,7 +15,7 @@
 	* Flavor
 # Beer Style
 * Region:
-* Category:
+* Categories:
 * Malt:
 * Hops: 
 * Other Names:

@@ -1,6 +1,7 @@
 * **Achel:** former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Anheuser-Busch InBev**: one of the largest brewery conglomerates ever
 * **Artois:** Belgian brewery that merged with others to form Interbrew. Now owned by AB InBev
+* **Bell Brewhouse:** A London brewery that allegedly invented the porter in 1722
 * **Brasserie Duyck:** Flemish brewery that popularized the Bière de Garde in the 1940s among Lille students, with their Duyck Jenlain Bière de Garde, considered to be the quintessential bière de garde
 * **Brasserie Dupont:** farmhouse brewery in Hainaut, Wallonia, Belgium. Brews the Vieille Provision, considered to be the quintessential saison
 * **Brouwerij Celis**: original name of **De Kluis**
@@ -9,6 +10,7 @@
 	* They are in process of getting designation and authorization to use the logo
 * **Celis Brewery**: Pierre Celis' later American brewery in Austin Texas. Produced Celis White, then acquired by MillerCoors in 195. Sold to Michigan Brewing Company in 2001
 * **Chimay:** Trappist Brewery in Hainaut, Wallonia, Belgium at Abbaye de Notre Dame de Scourmont, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Chiswell Street Brewery:** a London-based Porter brewery that was once the 2nd largest brewery in England. Closed during WWII
 * **De Kluis:** brewery founded by Pierre Celis that revitalized Witbier as "Hoegaarden", later sold to Artois
 * **De Koninck Brewery:** 
 	* founded in 1833 in Antwerp by Johannes Vervliet as Brouwerij De Hand
@@ -76,6 +78,7 @@
 		* taken over by Riva Brewery in 1991, and Liefmans wort was brewed  at Riva, then fermented at Liefmans
 		* 2007, Riva went bankrupt
 		* acquired by Duvel Moortgat in 2008
+* **Meux Brewery:** London Porter brewery that set the record for largest aging vat. Several people were killed in 1814 when one vat exploded and flooded a street
 * **Monts de Cats:** trappist monastery in France that began selling beer in 2011.
 	* Their abbey ale (7.6% BAC amber strong ale) isn't made at the monastery, so it doesn't get the label
 * **Orval:** Trappist Brewery in Wallonia at Abbaye Notre-Dame d'Orval, known for wild yeast and unique flavor profile, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
