@@ -4,10 +4,12 @@ from collections import OrderedDict
 class DictItem:
     value: str
     children: OrderedDict
+    indent: int
 
-    def __init__(self, value, children) -> None:
+    def __init__(self, value, children, indent) -> None:
         self.value = value
         self.children = children
+        self.indent = indent
 
     def __str__(self):
         children = {k: str(v) for k, v in self.children.items()}
@@ -19,7 +21,7 @@ class DictItem:
             if split_value:
                 output = [x.strip() for x in self.value.split(",")]
             else:
-                output = [self.value]
+                output = ["\t" * self.indent + "- " + self.value.strip()]
         for child_key, child_value in self.children.items():
             if not child_key.isnumeric():
                 output.append(child_key)

@@ -318,6 +318,28 @@
 	* can be sweetened with sugar
 	* each example is unique to the brewer
 
+# Foreign Extra Stout
+* Region: Ireland
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale, Unmalted Roasted Barley, Flaked Barley
+* Hops: British
+* Other Names: double stout
+* Glassware: tulip, nonic pint, pub mug
+* Color: dark brown - black (30-40 SRM)
+* Alcohol:elevated - high (6.3-8% ABV)
+* Mouthfeel: 
+	* body: medium-full - full
+	* carbonation:
+	* alcohol warmth
+* Bitterness: assertive (50-70 IBUs)
+* Flavors: 
+	* malt: assertive roast flavors of espresso and dark chocolate, often with secondary notes of licorice, molasses, dried fruit, burnt grain
+	* hop:assertive bitterness
+	* fermentation: clean
+* Commercial Examples: Guinness Foreign Extra Stout, Cooper's Best Extra Stout, Pike XXXXX Stout, The Kernel Export Stout
+* Notes:
+	* originally brewed for export, similar to an Irish Extra Stout
+
 # Fruit Lambic
 * Region: Senne Valley and Pajottenland, Belgium
 * Categories: Flanders Ales and Lambic Beers
@@ -386,6 +408,93 @@
 		* referment -> new flavors -> **rising carbonation**
 		* may be enjoyed for many years (as much as 2 decades!)
 
+
+# Imperial Stout
+* Region: Britain, North America
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale Malt, roasted grain
+* Hops: American or English
+* Other Names: Russian Imperial Stout
+* Glassware: snifter, tulip
+* Color: dark brown - black (30-40 SRM)
+* Alcohol: high - very high (8-12% ABV)
+* Mouthfeel: 
+	* body: full - very full; chewy; velvety
+	* carbonation: low - moderate
+	* alcohol warmth: gentle, smooth
+* Bitterness: pronounced - assertive (50-90 IBUs)
+* Flavors: 
+	* malt: coffee, chocolate, licorice, tar, burnt, caramel, toasty
+	* hop: wide range
+	* fermentation: dark fruit esters, alcohol
+* Commercial Examples: 2SP Brewing Co The Russian (English), Courage Imperial Russian Stout (English), Le Coq Imperial Extra Double Stout (English), Samuel Smith Imperial Stout (English), Thornbridge Saint Petersburg (English), Bell's Expedition Stout (American), Great Divide Yeti Imperial Stout (American), North Coast Old Rasputin (American), Oskar Blues Ten Fiddy (American), Sierra Nevada Narwhal (American)
+* Notes:
+	* originally brewed in late 18th century in London as "extra stout" for export to Baltics/Russia
+	* given to Russian Imperial court -> Russian Imperial Stout
+	* Barclay Perkin's Russian Imperial Stout was the classic example
+		* 1856 recipe shows original gravity > 10% ABC, with a very hoppy taste
+	* Griffin Brewery came out with XX Imperial in 1877
+	* Brain's Brewery had Little Imp before WWI
+	* Le Coq took over brewery in Estonia in 1910, eventually nationalized in 1940
+	* 1819, Sinebrychoff in Finland rolled out Koff porter, then switched to lager in 1853
+	* Polish brewerys Okocim and Zywiec brewed strong beers, but were with lager yeast
+	* Carlsberg brewed Gammel (old) porter imperial stout (7.5% ABV)
+	* In WWII in Britain, only Barclay Perkins kept making an imperial stout, matured initially for 1 year; by 1953, vintage labels were introduced for 1949 batch
+	* 1955, Barclay Perkins merged with Courage in 1955, moved production to Courage, then to Yorkshire in 1982
+		* lost inside a giant brewing company that was not interested in esoteric beers; production dropped until it was ended in 1993
+	* early 1980s, Merchant du Vin in Seattle encouraged Samuel Smith to brew an imperial stout (7% ABV) for export to US
+	* among the most popular American craft brews
+	* United States produces mre than any other country
+	* can keep well, and age in bottle up to decades
+
+# Irish Extra Stout
+* Region: Ireland
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale, Unmalted Roasted Barley, Flaked Barley
+* Hops: British
+* Other Names:
+* Glassware: tulip, nonic pint, pub mug
+* Color: dark brown - black (30-40 SRM)
+* Alcohol: normal - elevated (5-6.5% ABV)
+* Mouthfeel: 
+	* body: medium-full - full; some creaminess
+	* carbonation: moderate
+	* alcohol warmth
+* Bitterness: pronounced (35-50 IBUs)
+* Flavors: 
+	* malt: coffee roasted grain, dark chocolate, biscuit, cocoa powder
+	* hop: pronounced bitterness
+	* fermentation: clean
+* Commercial Examples: Guinness Extra Stout, O'Hara's Leann Folláin, Porterhouse XXXX, Sheaf Stout
+* Notes:
+	* quite similar to an Irish stout, but with a higher ABV and more intense flavors
+# Irish Stout
+* Region: Ireland
+* Categories: British Dark Ales, Stouts
+* Malt: pale malt, unmalted roast barley (up to 10% of grist), flaked barley
+* Hops: British
+* Other Names:
+* Glassware: tulip, nonic pint, pub mug
+* Color: brown - black (25-40 SRM)
+* Alcohol: lower (3.8-5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium-full
+	* carbonation: low
+	* alcohol warmth
+* Bitterness: pronounced (25-40 IBUs)
+* Flavors: 
+	* malt: coffee-like roast character, acrid, burnt
+	* hop: pronounced bitterness
+	* fermentation: clean
+* Commercial Examples: Guinness Draught, Murphy's Irish Stout, O'Hara's Irish Stout, Beamish Irish Stout, Belhaven Black Scottish stout
+* Notes:
+	* Porter first brewed in Ireland in 1776, with brown malt; later made from pale/brown
+	* then in 1817, black malt introduced
+	* porter morphed into leann dubh (dry stout)
+	* in 20th century, this was Ireland's primary beer
+	* during famine, population declined 20-25%, but beer production only declined by 10%, due to growin export
+	* Guinness launched super porter in 1806, became single stout in 1840, and exports were 53% of Guinness production
+
 # Lambic
 * Region: Senne Valley and Pajottenland, Belgium
 * Categories: Flanders Ales and Lambic Beers
@@ -418,6 +527,35 @@
 		* old, bottle produce (wood aged 3 years+ then bottle conditioning)
 			* very complex; no residual sugar; mixed acid/fruit/funk
 
+# Oatmeal Stout
+* Region: Britain
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale, Unmalted Roasted Barley, Flaked Barley, Oats (up to 20% of grist by weight)
+* Hops: British, emphasis on bittering rather than aroma hops
+* Other Names:
+* Glassware: nonic, pub mug, tulip
+* Color: brown - black (22-40 SRM)
+* Alcohol: lower - normal (4.2-5.9% ABV)
+* Mouthfeel: 
+	* body: medium full - full; silky, creamy, oily
+	* carbonation: 
+	* alcohol warmth
+* Bitterness: moderate (25-40 IBUs)
+* Flavors: 
+	* malt: medium malt sweetness with coffee roast flavors; coffee with sweetener
+	* hop: moderate bitterness
+	* fermentation: clean
+* Commercial Examples: Samuel Smith's Oatmeal Stout, St-Ambroise Oatmeal Stout, Anderson Valley Barney Flats Oatmeal Stout, New Holland The Poet, Summit Oatmeal Stout
+* Notes:
+	* subtype of sweet stout
+	* sweetness between Irish and Sweet Stout
+	* oats provide creamy/oily mouthfeel, little flavor contribution
+	* became popular in late 19th century england, associated with nourishment
+	* largely disappeared in 20th century
+	* Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to american importer commissioning oatmeal stout from Samuel Smith
+	* since then, more than 100 commercially brewed example shave been produced
+	* oats are usually rolled
+
 # Oud Bruin
 * Region: East Flanders, Belgium
 * Categories: Flanders Ales and Lambic Beers
@@ -443,7 +581,7 @@
 		* no wood aging
 		* matures at warm temperatures in stainless steel, develops considerable acididty
 			* prevents oxygen exposure -> no acetobacter notes
-	* difference from Flanders Red:
+	* difference from Flanders Red
 		* no acetobacter
 		* no barnyard Brett character
 		* different color
@@ -482,7 +620,7 @@
 	* early, brewers blended aged beer with fresh to create unique flavor profile
 		* large aging tanks
 	* developed in early 1700s
-		* first known Brewery: Ralph Harwood at Bell Brewhouse in Shoreditch, East London in 1722
+		* first known Brewery - Ralph Harwood at Bell Brewhouse in Shoreditch, East London in 1722
 			* first mixed in pub on premises, but Harwood (allegedly) mixed at the brewery
 		* earliest documented discussions in letter from 1726
 		* inexpensive, nutritious, commonly consumed by working class (named for workers known as Porters)
@@ -553,7 +691,37 @@
 		* 3.5-5% ABC: session strength
 	* Many examples are bottle conditioned, giving a light tartness and funk
 		* overtly sour, and those with Brett, should not be considered saisons
-
+# Sweet Stout
+* Region: Britain
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale, Unmalted Roasted Barley, Flaked Barley
+* Hops: British
+* Other Names: milk stout (when brewed with lactose), cream stout
+* Glassware: nonic, pub mug, tulip
+* Color: dark brown - black (30-40 SRM)
+* Alcohol: lower - normal (4-6% ABV)
+* Mouthfeel: 
+	* body: medium-full - full; creamy
+	* carbonation: 
+	* alcohol warmth
+* Bitterness: moderate (20-40 IBUs)
+* Flavors: 
+	* malt: medium-high malt sweetness, with coffee or chocolate flavors
+	* hop: low
+	* fermentation: clean
+* Commercial Examples: Mackeson's XXX Stout, Samuel Adams Cream Stout, Left Hand Milk Stout, Hitachino Nest Sweet Stout, Firestone Walker Nitro Merlin Milk Stout, Bristol Beer Factor Milk Stout, Mast Land Brewing Gunner's Daughter
+* Notes:
+	* significants hops, low bitterness and high residual gravity to give impression of sweetness
+	* some brewers add unfermentable lactose to ensure sweetness, then called a "Milk Stout"
+	* sweet stouts appeared in late 19th century
+		* 1907, Mackeson brewery (owned by Whitbread, now owned by Anheuser-Busch InBev) introduced milk stout
+		* Mackeson's was low alcohol (3% ABV)
+		* powdered lactose added to kettle during wort boil, next to hops
+	* popularity peaked after WWII as "healthy drink" for lactating mothers and athletes in training
+	* During WWII, British government made brewers remove references to milk as it did not actually contain milk
+	* Popularity waned in late 20th century in UK
+	* South Africans picked it up
+		* South African Breweries introduced a milk stout (Castle milk stout 6% ABV) in 2003, which is now brewed in 9 African countries
 # Trappist Single
 * Region: Belgium
 * Categories: Trappist Ales
@@ -583,6 +751,29 @@
 	* can be quite bitter
 	* high attenuation, high carbonation
 	* some can be brewed with spices
+
+# Tropical Stout
+* Region: Caribbean
+* Categories: British Dark Ales, Stouts
+* Malt: Pale Ale, Unmalted Roasted Barley, Flaked Barley
+* Hops: British
+* Other Names:
+* Glassware: snifter, nonic pint, pub mug, tulip
+* Color: dark brown - black (30-40 SRM)
+* Alcohol: normal - high (5.5-8% ABV)
+* Mouthfeel: 
+	* body: medium-full - full
+	* carbonation: moderate
+	* alcohol warmth: potential
+* Bitterness: pronounced (30-40 IBUs)
+* Flavors: 
+	* malt: strong chocolate and coffee notes with dried fruit and notable sweetness; may feature licorice and molasses, but should never have burnt flavor
+	* hop: pronounced bitterness
+	* fermentation: clean
+* Commercial Examples: Lion Stout, Dragon Stout, Jamaica Stout, ABC Extra Stout, Royal Extra Stout
+* Notes:
+	* Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance
+	* Softer roast character compared to Foreign Extra
 # Witbier
 * Region: Belgium
 * Categories: French and Belgian Beers, Wheat Beers

@@ -54,6 +54,20 @@
 		* 2010, Brouwerij De Koninck 
 		* Czechia, Brewery Bernard
 		* NY, Ommegang
+* **Guinness:** most famous Irish beer brand. 
+	* Founded by Arthur Guinness in 1759 as St. James's Gate brewery. 
+	* First exported a bitter to England in 1769
+	* Started porter production in 1778
+	* Ended bitter production in 1799 to focus on porter
+	* Produced porter until 1974
+	* Water channel dispute from 1775 to 1784 resulted in 9,000 year lease to Guinness for 45 pounds/year
+	* 1801, developed brew for workforce in Caribbean: called West Indian porter (triple), now sold as Foreign Extra Stout
+	* 1811, first exports to continental Europe (Lisbon)
+	* 1840, first exports to america
+	* 1870, exports were 10% of sales
+	* 20th century, Guinness was the world's largest brewery
+	* 1932, Irish Free State passed control of Manufacturer's Act, headquarters moved to London; Guinness family still held 51% stake
+	* 1997, merged with Grand Metropolitan Holdings plc to form Diageo
 * **La Trappe:** uniquely commercial Trappist Brewery in the Netherlands at Koningshoeven Abbey, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Leffe Brewery:** Belgian brewery known for blonde ale
 	* began when Premonstratensian Order began farming, milling and brewing at the Abbaye Notre-Dame de Leffe in the 13th century
@@ -81,6 +95,13 @@
 * **Meux Brewery:** London Porter brewery that set the record for largest aging vat. Several people were killed in 1814 when one vat exploded and flooded a street
 * **Monts de Cats:** trappist monastery in France that began selling beer in 2011.
 	* Their abbey ale (7.6% BAC amber strong ale) isn't made at the monastery, so it doesn't get the label
+* **Murphy's:** Irish brewery founded as Lady's Well brewery in 1854
+	* 1901, reached peak volume
+	* 1967, British Watney Mann took controlling stake
+	* production fell, went into receivership in 1982
+	* Heineken acquired in 1983
+	* 1984, Heineken launched Murphy's Red
+	* 2009, Heineken closed Williams, Beamish & Crawford because they now had 2 County Cork breweries
 * **Orval:** Trappist Brewery in Wallonia at Abbaye Notre-Dame d'Orval, known for wild yeast and unique flavor profile, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Rochefort:** Trappist Brewery in Wallonia at Abbaye Notre-Dame de Saint-Remy in Rochefort, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Rodenbach Brewery:** Belgian brewery founded in Roesalare in 1821. Famous for its Flanders Red Ale.
@@ -93,4 +114,11 @@
 *  **Tynt Meadow:** Trappist Brewery in UK at Mount Saint Bernard Abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westmalle:** Trappist Brewery in Antwerp, Belgium at Abbey of Our Lady of the Holy Heart of Westmalle, instrumental in Dubbel, Tripel and helping other Trappist breweries, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westvleteren**: Trappist Brewery in Westvleteren, Poperinge, Belgium at Abbey of Saint Sixtus of Westvleteren. Known for "best beer in world," difficult access, minimal commercialization. See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Williams, Beamish & Crawford** Irish brewery founded in 1792 as Cork Porter Brewery
+	* 1805, Ireland's largest brewery
+	* 1901, went public
+	* 1962, acquired by Canadian Carling O'Keefe
+	* 1987, acquired by Australian Elders IXL
+	* 1995, acquired by Scottish and Newcastle (which joined Heineken in 2008)
+	* 2009, Heineken closed Williams, Beamish & Crawford because they now had 2 County Cork breweries
 * **Zundert:** Trappist Brewery in Zundert, North Brabant, Netherlands at Abbey of Maria Toevlucht. Relatively recent brewery (2013). See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)

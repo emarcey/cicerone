@@ -46,9 +46,7 @@ def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
     parsed_dict = {}
 
     for header, header_lines in parsed_header.items():
-        stack = [DictItem(value=header, children=OrderedDict())]
-        depth = 0
-        dummy_idx = 0
+        stack = [DictItem(value=header, children=OrderedDict(), indent=0)]
         tmp_header_lines = []
         for idx in range(len(header_lines)):
             header_line = header_lines[idx].replace("**", "", -1)
@@ -66,7 +64,7 @@ def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
                 diff = tmp_header_lines[idx - 1][0] - indent
                 for i in range(diff):
                     stack.pop()
-            stack[-1].children[name] = DictItem(value=value, children=OrderedDict())
+            stack[-1].children[name] = DictItem(value=value, children=OrderedDict(), indent=indent)
             if idx < num_lines - 1 and indent < tmp_header_lines[idx + 1][0]:
                 stack.append(stack[-1].children[name])
 

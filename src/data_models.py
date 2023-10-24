@@ -117,16 +117,16 @@ class BeerStyle(BaseModel):
             if k in ["name"]:
                 continue
             delimiter = ", "
-            sep = ":"
+            sep = ": "
             if k == "notes":
-                sep = ":\n\t-"
-                delimiter = "\n\t- "
+                sep = ": \n"
+                delimiter = "\n"
             tmp_v = v
             if isinstance(tmp_v, list):
                 tmp_v = delimiter.join(tmp_v)
             vals.append([snake_to_sentence_case(k), sep, tmp_v])
 
-        serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]} {x[2]}", vals))
+        serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
         return f"# {self.name}\n\n{serialized_vals}"
 
 
@@ -134,6 +134,5 @@ class BeerStyleMap(BaseModel):
     styles: Dict[str, BeerStyle]
 
     def __str__(self) -> str:
-        sorted_styles = list(self.styles.values())
-        sorted(sorted_styles, key=lambda x: x.name)
+        sorted_styles = sorted(list(self.styles.values()), key=lambda x: x.name)
         return "\n\n".join(map(str, sorted_styles))
