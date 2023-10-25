@@ -812,6 +812,162 @@
                 "\t- resurrected in France/US as a stronger version of Bi\u00e8re de Garde"
             ]
         },
+        "British Brown Ale": {
+            "name": "British Brown Ale",
+            "region": "Britain",
+            "categories": [
+                "British Dark Ales",
+                "Brown Ales"
+            ],
+            "malt": [
+                "Brown Malt originally",
+                "later by pale malts",
+                "crystal"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 12.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 4.2,
+                "abv_high": 5.9,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "nutty and light caramel"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "malt-hop balance is even; moderate bitterness"
+                ]
+            },
+            "commercial_examples": [
+                "Samuel Smith's Nut Brown Ale",
+                "Black Sheep Riggwelter Yorkshire Ale",
+                "Maxim Double Maxim",
+                "Newcastle Brown Ale"
+            ],
+            "notes": [
+                "\t- classic example is Newcastle Brown, first brewed in 1927",
+                "\t- northern english is dry and a little stronger (5% ABV), southern is a little sweeter and weaker (usually around 4.2% ABV)"
+            ]
+        },
+        "Dark Mild": {
+            "name": "Dark Mild",
+            "region": "England",
+            "categories": [
+                "British Dark Ales",
+                "Brown Ales"
+            ],
+            "malt": [
+                "Brown Malt originally",
+                "later by pale malts",
+                "crystal"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic pint",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 14.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.0,
+                "abv_high": 3.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "relatively low",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 10.0,
+                "ibu_high": 25.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt balanced",
+                    "with caramel",
+                    "toffee",
+                    "nutty",
+                    "light roast"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low bitterness"
+                ]
+            },
+            "commercial_examples": [
+                "Moorhouse Black Cat",
+                "Theakston Traditional Mild",
+                "Brain's Dark",
+                "Yards Brawler Pugilist Style Ale"
+            ],
+            "notes": [
+                "\t- initially described fresh, unsoured porter",
+                "\t- workingman's beer in 20th century england",
+                "\t- in 1930s, was 3/4 of all beer brewed",
+                "\t- started to die after WWII and never recovered",
+                "\t- low ABV made it inexpensive and sessionable",
+                "\t- minimal hop content - no flavor or aroma additions, only a little bitterness",
+                "\t- 20th century had a lot of colors, most today are dark",
+                "\t- some modern examples have a tannin character (like tea) which diminishes sweetness",
+                "\t- sales slipped in 20th century -> milds were adulterated in cheap pubs -> breweries dropped",
+                "\t- some demand remains in northern England, West Midlands, South Wales",
+                "\t- often found in US brewpubs as a session ale"
+            ]
+        },
         "Faro": {
             "name": "Faro",
             "region": "Senne Valley and Pajottenland, Belgium",

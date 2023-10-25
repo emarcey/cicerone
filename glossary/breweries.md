@@ -107,6 +107,7 @@
 * **Rodenbach Brewery:** Belgian brewery founded in Roesalare in 1821. Famous for its Flanders Red Ale.
 	* Eugene Rodenbach worked at a brewery in England in the 1870s and came back with porter-ish beer
 	* sold their yeast to nearby breweries until 1999
+* **Samuel Smith:** an English brewery contracted numerous times to brew styles for the Americas, notably revitalizing the Imperial Stout and the Oatmeal Stout
 * **Spencer:** former Trappist Brewery near Boston, Massachusetts at Saint Joseph's Abbey, was the only Trappist brewery outside Europe, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Stift Engelszell:** Trappist Brewery in northern Austria at Engelszell abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Tomsin**: last Belgian Witbier brewery before revival (closed in 1957)

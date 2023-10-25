@@ -246,6 +246,61 @@ first_brewed_in_1948_by_chimay
 	- refreshing warm weather drink
 	- resurrected in France/US as a stronger version of Bière de Garde
 
+# British Brown Ale
+
+- Region: Britain
+- Categories: British Dark Ales, Brown Ales
+- Malt: Brown Malt originally, later by pale malts, crystal
+- Hops: British
+- Glassware: nonic, pub mug, tulip
+- Color: amber - brown (12.0 - 22.0 SRM)
+- Alcohol: lower - normal (4.2 - 5.9% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: 
+	- alcohol_warmth: None
+- Bitterness: moderate (20.0 - 30.0 IBU)
+- Flavors: 
+	- malt: nutty and light caramel
+	- fermentation: clean
+	- hop: malt-hop balance is even; moderate bitterness
+- Commercial examples: Samuel Smith's Nut Brown Ale, Black Sheep Riggwelter Yorkshire Ale, Maxim Double Maxim, Newcastle Brown Ale
+- Notes: 
+	- classic example is Newcastle Brown, first brewed in 1927
+	- northern english is dry and a little stronger (5% ABV), southern is a little sweeter and weaker (usually around 4.2% ABV)
+
+# Dark Mild
+
+- Region: England
+- Categories: British Dark Ales, Brown Ales
+- Malt: Brown Malt originally, later by pale malts, crystal
+- Hops: British
+- Glassware: nonic pint, pub mug, tulip
+- Color: amber - brown (14.0 - 25.0 SRM)
+- Alcohol: lower (3.0 - 3.8% ABV)
+- Mouthfeel: 
+	- body: light - medium
+	- carbonation: relatively low
+	- alcohol_warmth: None
+- Bitterness: moderate (10.0 - 25.0 IBU)
+- Flavors: 
+	- malt: malt balanced, with caramel, toffee, nutty, light roast
+	- fermentation: clean
+	- hop: low bitterness
+- Commercial examples: Moorhouse Black Cat, Theakston Traditional Mild, Brain's Dark, Yards Brawler Pugilist Style Ale
+- Notes: 
+	- initially described fresh, unsoured porter
+	- workingman's beer in 20th century england
+	- in 1930s, was 3/4 of all beer brewed
+	- started to die after WWII and never recovered
+	- low ABV made it inexpensive and sessionable
+	- minimal hop content - no flavor or aroma additions, only a little bitterness
+	- 20th century had a lot of colors, most today are dark
+	- some modern examples have a tannin character (like tea) which diminishes sweetness
+	- sales slipped in 20th century -> milds were adulterated in cheap pubs -> breweries dropped
+	- some demand remains in northern England, West Midlands, South Wales
+	- often found in US brewpubs as a session ale
+
 # English Porter
 
 - Region: England
