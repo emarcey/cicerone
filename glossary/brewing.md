@@ -154,6 +154,7 @@
 		* top cropping allows yeast to be collected for future use
 * **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
+* **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 * **Shive:** an instrument used to seal the large opening on the curved side of a cask.
 	* Designed to allow easy penetration of spile

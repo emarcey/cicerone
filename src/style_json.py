@@ -968,6 +968,95 @@
                 "\t- often found in US brewpubs as a session ale"
             ]
         },
+        "English IPA": {
+            "name": "English IPA",
+            "region": "England",
+            "categories": [
+                "British Pale Ales",
+                "India Pale Ales"
+            ],
+            "malt": [
+                "pale ale malt"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "srm_low": 6.0,
+                "srm_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "abv_low": 5.0,
+                "abv_high": 7.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "ibu_low": 40.0,
+                "ibu_high": 60.0
+            },
+            "flavors": {
+                "malt": [
+                    "biscuit",
+                    "caramel",
+                    "toast",
+                    "toffee"
+                ],
+                "fermentation": [
+                    "fruity or mineral yeast character might be present"
+                ],
+                "hop": [
+                    "moderate-high earthy",
+                    "floral",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "Meantime London IPA",
+                "Brooklyn East IPA",
+                "Samuel Smith's India Ale",
+                "Fuller's Bengal Lancer"
+            ],
+            "notes": [
+                "\t- Less hop character and more malt flavor than American",
+                "\t- History of IPA is a period of 50 years, affected by both brewing practice and commercial pursuits",
+                "\t- unclear when it was \"invented\"",
+                "\t- 1757, Britain's East India Company gained upper hand and ruled Indian subcontinent",
+                "\t- George Hodgson started shipping beer to India, both porter and pale ales",
+                "\t\t- pale ales were more popular",
+                "\t- the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market",
+                "\t- Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing",
+                "\t- 1840, Indian export market doubled",
+                "\t- mid-1800s, IPA also popular in Britain",
+                "\t\t- coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe",
+                "\t\t- glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers",
+                "\t- some brewers promoted IPA as \"medicinal cordial\", touted as restorative and helpful for diabetics",
+                "\t- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity",
+                "\t\t- end of 20th century, IPAs indistinguishable from common bitter",
+                "\t- since then, brewers have begun recreating historic 1800s English IPA"
+            ]
+        },
         "Faro": {
             "name": "Faro",
             "region": "Senne Valley and Pajottenland, Belgium",

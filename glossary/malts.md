@@ -6,7 +6,7 @@
 	* historically, key ingredient in porters
 		* astringent taste, smoky aroma
 	* invented in 1817 by Daniel Wheeler, using a drum roaster
-		* London porter brewers were restricted to using brownish malts for coloring beers, and often (illegaly) used various colorants to modify color
+		* London porter brewers were restricted to using brownish malts for coloring beers, and often (illegally) used various colorants to modify color
 		* modified coffee roaster that roasted at elevated temperature without charring
 		* deep brown color, readily soluble in water
 		* adopted by Whitbread brewery in 1817, and others soon follow
