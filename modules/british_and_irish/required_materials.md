@@ -35,12 +35,12 @@
 		* [x] Sam Smith's Oatmeal Stout
 		* [x] Gunnar's Daughter Milk Stout
 	* [x] Foreign Extra Stout
-	* [ ] American Porter
-	* [ ] Baltic Porter
+	* [x] American Porter
+	* [x] Baltic Porter
 	* [x] Imperial Stout
 6. Brown Beer
 	* [x] British Brown Ale - Sam Smith's Nut Brown
-	* [ ] American Brown Ale
+	* [x] American Brown Ale
 	* [x] Munich Dunkel
 11. IPA/Pale
 	* [x] American IPA
