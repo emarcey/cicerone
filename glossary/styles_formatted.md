@@ -8,7 +8,7 @@
 - Alcohol: elevated - high (6.5 - 9.5% ABV)
 - Mouthfeel: 
 	- body: full
-	- carbonation: 
+	- carbonation: medium - medium-high
 	- alcohol_warmth: 
 - Bitterness: moderate (20.0 - 40.0 IBU)
 - Flavors: 
@@ -257,7 +257,7 @@ first_brewed_in_1948_by_chimay
 - Alcohol: lower - normal (4.2 - 5.9% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium
-	- carbonation: 
+	- carbonation: medium - medium-high
 	- alcohol_warmth: None
 - Bitterness: moderate (20.0 - 30.0 IBU)
 - Flavors: 
@@ -312,8 +312,8 @@ first_brewed_in_1948_by_chimay
 - Alcohol: normal - elevated (5.0 - 7.5% ABV)
 - Mouthfeel: 
 	- body: medium-light - medium
-	- carbonation: 
-	- alcohol_warmth: None
+	- carbonation: medium - medium-high
+	- alcohol_warmth: low and smooth
 - Bitterness: assertive (40.0 - 60.0 IBU)
 - Flavors: 
 	- malt: biscuit, caramel, toast, toffee
@@ -342,15 +342,15 @@ first_brewed_in_1948_by_chimay
 
 - Region: England
 - Categories: Porters, British Dark Ales
-- Malt: Pale Ale, Black Patent
+- Malt: Pale Ale, Black Patent, Caramel, Sugar
 - Hops: English
 - Other names: Porter, Entire
 - Glassware: nonic pint, pub mug, tulip
 - Color: light - dark brown (20.0 - 30.0 SRM)
 - Alcohol: lower - normal (4.0 - 5.4% ABV)
 - Mouthfeel: 
-	- body: medium-light - medium
-	- carbonation: 
+	- body: medium-light - medium; low-moderate creamy texture
+	- carbonation: moderate-low - moderate-high
 	- alcohol_warmth: 
 - Bitterness: moderate (18.0 - 35.0 IBU)
 - Flavors: 
@@ -464,8 +464,8 @@ first_brewed_in_1948_by_chimay
 - Alcohol: elevated - high (6.3 - 8.0% ABV)
 - Mouthfeel: 
 	- body: medium-full - full
-	- carbonation: 
-	- alcohol_warmth: None
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: warm but not hot
 - Bitterness: assertive (50.0 - 70.0 IBU)
 - Flavors: 
 	- malt: assertive roast flavors of espresso and dark chocolate, often with secondary notes of licorice, molasses, dried fruit, burnt grain
@@ -677,8 +677,8 @@ two_groups
 - Alcohol: lower - normal (4.2 - 5.9% ABV)
 - Mouthfeel: 
 	- body: medium full - full; silky, creamy, oily
-	- carbonation: 
-	- alcohol_warmth: None
+	- carbonation: medium - medium-high
+	- alcohol_warmth: light
 - Bitterness: moderate (25.0 - 40.0 IBU)
 - Flavors: 
 	- malt: medium malt sweetness with coffee roast flavors; coffee with sweetener
@@ -784,7 +784,7 @@ two_groups
 - Alcohol: lower - normal (4.0 - 6.0% ABV)
 - Mouthfeel: 
 	- body: medium-full - full; creamy
-	- carbonation: 
+	- carbonation: low - moderate
 	- alcohol_warmth: None
 - Bitterness: moderate (20.0 - 40.0 IBU)
 - Flavors: 

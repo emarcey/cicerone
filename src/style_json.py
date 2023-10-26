@@ -38,7 +38,7 @@
             },
             "mouthfeel": {
                 "body": "full",
-                "carbonation": "",
+                "carbonation": "medium - medium-high",
                 "alcohol_warmth": ""
             },
             "bitterness": {
@@ -852,7 +852,7 @@
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
-                "carbonation": "",
+                "carbonation": "medium - medium-high",
                 "alcohol_warmth": null
             },
             "bitterness": {
@@ -1006,8 +1006,8 @@
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
-                "carbonation": "",
-                "alcohol_warmth": null
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": "low and smooth"
             },
             "bitterness": {
                 "bitterness_range": [
@@ -1055,6 +1055,118 @@
                 "\t- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity",
                 "\t\t- end of 20th century, IPAs indistinguishable from common bitter",
                 "\t- since then, brewers have begun recreating historic 1800s English IPA"
+            ]
+        },
+        "English Porter": {
+            "name": "English Porter",
+            "region": "England",
+            "categories": [
+                "Porters",
+                "British Dark Ales"
+            ],
+            "malt": [
+                "Pale Ale",
+                "Black Patent",
+                "Caramel",
+                "Sugar"
+            ],
+            "hops": [
+                "English"
+            ],
+            "other_names": [
+                "Porter",
+                "Entire"
+            ],
+            "glassware": [
+                "nonic pint",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "light",
+                    "dark brown"
+                ],
+                "srm_low": 20.0,
+                "srm_high": 30.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 4.0,
+                "abv_high": 5.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; low-moderate creamy texture",
+                "carbonation": "moderate-low - moderate-high",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "chocolate",
+                    "caramel",
+                    "toffee",
+                    "nutty; roast flavors are restrained"
+                ],
+                "fermentation": [
+                    "traditionally had lactic acid",
+                    "acetobacter",
+                    "brettanomyces",
+                    "but no longer common; moderate-low diacetyl optional"
+                ],
+                "hop": [
+                    "earthy",
+                    "floral British hops"
+                ]
+            },
+            "commercial_examples": [
+                "Fuller's London Porter",
+                "Samuel Smith's Taddy Porter",
+                "Harviestoun Old Engine Oil"
+            ],
+            "notes": [
+                "\t- largely influenced by available malt; pale malt limited prior to 1700",
+                "\t- most malts kilned using direct-fire methods, fueled by wood",
+                "\t- limited control over heating process -> dark, smoke-flavored malt known as a brown malt",
+                "\t- early, brewers blended aged beer with fresh to create unique flavor profile",
+                "\t\t- large aging tanks",
+                "\t- developed in early 1700s",
+                "\t\t- first known Brewery - Ralph Harwood at Bell Brewhouse in Shoreditch, East London in 1722",
+                "\t\t\t- first mixed in pub on premises, but Harwood (allegedly) mixed at the brewery",
+                "\t\t- earliest documented discussions in letter from 1726",
+                "\t\t- inexpensive, nutritious, commonly consumed by working class (named for workers known as Porters)",
+                "\t- popular during Industrial Revolution (began in 1700s)",
+                "\t- first industrial breweries were for porters",
+                "\t- porter breweries were largest in world by end of 18th century",
+                "\t\t- one of the most capital intensive ventures in England",
+                "\t\t- some producers focused on profit over quality",
+                "\t\t- led to questionable/dangerous ingredients in 18th-19th centuries",
+                "\t- recipe changed in 1780s",
+                "\t\t- hydrometer enabled brewers to measure extract yield; discovered brown malt yielded low fermentable sugar",
+                "\t\t- determined pale malt was more cost effective, but lighter color and flavor changed resulted in criticism",
+                "\t\t- in 1817, Daniel Wheeler invented roasting drum, allowed for roasting of black malt without scorching",
+                "\t\t\t- created Black Patent Malt",
+                "\t- early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces",
+                "\t\t- modern porters generally lack",
+                "\t- spread to the US, but the revolution killed it by the mid 1800s",
+                "\t- spread to Ireland, Guinness was known as a plain porter until 1974",
+                "\t- aging vats got gigantic",
+                "\t\t- so much so tht promotional dinners could be held in them",
+                "\t\t- Meux Brewery, London had enormous vats, but one urst in 1814, killed several people",
+                "\t- 1920s, most porters were fading and not tasty",
+                "\t- Chiswell Street Brewery closed in 1940",
+                "\t- 1950s, largely faded away",
+                "\t- starting to come back in England and North America"
             ]
         },
         "Faro": {
@@ -1252,8 +1364,8 @@
             },
             "mouthfeel": {
                 "body": "medium-full - full",
-                "carbonation": "",
-                "alcohol_warmth": null
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": "warm but not hot"
             },
             "bitterness": {
                 "bitterness_range": [
@@ -1859,8 +1971,8 @@
             },
             "mouthfeel": {
                 "body": "medium full - full; silky, creamy, oily",
-                "carbonation": "",
-                "alcohol_warmth": null
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": "light"
             },
             "bitterness": {
                 "bitterness_range": [
@@ -1993,116 +2105,6 @@
                 "\t- some Oud Bruins way different from Liefmans",
                 "\t\t- Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years",
                 "\t\t- Vender Ghinste Roodbruin blends fermented beer and a brown lager"
-            ]
-        },
-        "English Porter": {
-            "name": "English Porter",
-            "region": "England",
-            "categories": [
-                "Porters",
-                "British Dark Ales"
-            ],
-            "malt": [
-                "Pale Ale",
-                "Black Patent"
-            ],
-            "hops": [
-                "English"
-            ],
-            "other_names": [
-                "Porter",
-                "Entire"
-            ],
-            "glassware": [
-                "nonic pint",
-                "pub mug",
-                "tulip"
-            ],
-            "color": {
-                "color_range": [
-                    "light",
-                    "dark brown"
-                ],
-                "srm_low": 20.0,
-                "srm_high": 30.0
-            },
-            "alcohol": {
-                "alcohol_range": [
-                    "lower",
-                    "normal"
-                ],
-                "abv_low": 4.0,
-                "abv_high": 5.4,
-                "notes": []
-            },
-            "mouthfeel": {
-                "body": "medium-light - medium",
-                "carbonation": "",
-                "alcohol_warmth": ""
-            },
-            "bitterness": {
-                "bitterness_range": [
-                    "moderate"
-                ],
-                "ibu_low": 18.0,
-                "ibu_high": 35.0
-            },
-            "flavors": {
-                "malt": [
-                    "chocolate",
-                    "caramel",
-                    "toffee",
-                    "nutty; roast flavors are restrained"
-                ],
-                "fermentation": [
-                    "traditionally had lactic acid",
-                    "acetobacter",
-                    "brettanomyces",
-                    "but no longer common; moderate-low diacetyl optional"
-                ],
-                "hop": [
-                    "earthy",
-                    "floral British hops"
-                ]
-            },
-            "commercial_examples": [
-                "Fuller's London Porter",
-                "Samuel Smith's Taddy Porter",
-                "Harviestoun Old Engine Oil"
-            ],
-            "notes": [
-                "\t- largely influenced by available malt; pale malt limited prior to 1700",
-                "\t- most malts kilned using direct-fire methods, fueled by wood",
-                "\t- limited control over heating process -> dark, smoke-flavored malt known as a brown malt",
-                "\t- early, brewers blended aged beer with fresh to create unique flavor profile",
-                "\t\t- large aging tanks",
-                "\t- developed in early 1700s",
-                "\t\t- first known Brewery - Ralph Harwood at Bell Brewhouse in Shoreditch, East London in 1722",
-                "\t\t\t- first mixed in pub on premises, but Harwood (allegedly) mixed at the brewery",
-                "\t\t- earliest documented discussions in letter from 1726",
-                "\t\t- inexpensive, nutritious, commonly consumed by working class (named for workers known as Porters)",
-                "\t- popular during Industrial Revolution (began in 1700s)",
-                "\t- first industrial breweries were for porters",
-                "\t- porter breweries were largest in world by end of 18th century",
-                "\t\t- one of the most capital intensive ventures in England",
-                "\t\t- some producers focused on profit over quality",
-                "\t\t- led to questionable/dangerous ingredients in 18th-19th centuries",
-                "\t- recipe changed in 1780s",
-                "\t\t- hydrometer enabled brewers to measure extract yield; discovered brown malt yielded low fermentable sugar",
-                "\t\t- determined pale malt was more cost effective, but lighter color and flavor changed resulted in criticism",
-                "\t\t- in 1817, Daniel Wheeler invented roasting drum, allowed for roasting of black malt without scorching",
-                "\t\t\t- created Black Patent Malt",
-                "\t- early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces",
-                "\t\t- modern porters generally lack",
-                "\t- spread to the US, but the revolution killed it by the mid 1800s",
-                "\t- spread to Ireland, Guinness was known as a plain porter until 1974",
-                "\t- aging vats got gigantic",
-                "\t\t- so much so tht promotional dinners could be held in them",
-                "\t\t- Meux Brewery, London had enormous vats, but one urst in 1814, killed several people",
-                "\t- 1920s, most porters were fading and not tasty",
-                "\t- Chiswell Street Brewery closed in 1940",
-                "\t- 1950s, largely faded away",
-                "\t- starting to come back in England and North America"
             ]
         },
         "Saison": {
@@ -2252,7 +2254,7 @@
             },
             "mouthfeel": {
                 "body": "medium-full - full; creamy",
-                "carbonation": "",
+                "carbonation": "low - moderate",
                 "alcohol_warmth": null
             },
             "bitterness": {
