@@ -1,8 +1,3 @@
-Style | Imperial Stout | Baltic Porter
---|--|--
-
-
-
 * Beer A:
 	* Aroma:
 	* Flavor:

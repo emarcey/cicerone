@@ -330,21 +330,32 @@
 * Commercial Examples: Meantime London IPA, Brooklyn East IPA, Samuel Smith's India Ale, Fuller's Bengal Lancer
 * Notes:
 	* Less hop character and more malt flavor than American
+	* style
+		* high alcohol and lots of hops -> preserve beer over long periods
+		* designed to be conditioned for 6 months
+		* but could be tumultuous, had to be assessed on arrival
+	* big names to know: Allsopp, Burton, Bass and Ballantine
 	* History of IPA is a period of 50 years, affected by both brewing practice and commercial pursuits
-	* unclear when it was "invented"
-	* 1757, Britain's East India Company gained upper hand and ruled Indian subcontinent
-	* George Hodgson started shipping beer to India, both porter and pale ales
-		* pale ales were more popular
-	* the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market
-	* Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing
-	* 1840, Indian export market doubled
-	* mid-1800s, IPA also popular in Britain
-		* coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe
-		* glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers
-	* some brewers promoted IPA as "medicinal cordial", touted as restorative and helpful for diabetics
-	* Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity
-		* end of 20th century, IPAs indistinguishable from common bitter
-	* since then, brewers have begun recreating historic 1800s English IPA
+		* unclear when it was "invented"
+		* mid 17th century, coke smelting made controlling barley malt temperature more consistent -> pale malt easier to make -> pale ales were harder to adulterate than dark ales
+		* 1716, earliest record of pale ales in India
+		* first pale ale. mentioned by name was Bell's in 1790 (Burton)
+		* George Hodgson started shipping beer to India, both porter and pale ales
+			* pale ales were more popular
+		* the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market
+		* Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing (Hodgson ads)
+		* 1840, Indian export market doubled
+		* mid-1800s, IPA also popular in Britain
+			* coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe
+			* glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers
+		* some brewers promoted IPA as "medicinal cordial", touted as restorative and helpful for diabetics
+		* Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity
+			* end of 20th century, IPAs indistinguishable from common bitter
+			* refrigeration led to lager being commonplace. More popular in Indian heat
+		* since then, brewers have begun recreating historic 1800s English IPA
+			* worked from Ballantine IPA
+			* American hops conducive to IPA
+			* led to double and imperial IPAs
 
 # English Porter
 * Region: England

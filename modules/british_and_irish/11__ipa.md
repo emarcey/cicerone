@@ -15,3 +15,7 @@
 * Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity
 	* end of 20th century, IPAs indistinguishable from common bitter
 * since then, brewers have begun recreating historic 1800s English IPA
+
+# Discussion Questions
+1. If you could go back in time and choose any point to try an IPA between now and 1780, what would you choose?
+	1. I would choose to be waiting in Bombay or Calcutta for a nicely ripened Allsopp, to see the difference between it and the Hodgson's
