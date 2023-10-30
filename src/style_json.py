@@ -1042,6 +1042,93 @@
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
             ]
         },
+        "Old Ale": {
+            "name": "Old Ale",
+            "region": "England",
+            "categories": [
+                "British Strong Ales"
+            ],
+            "malt": [
+                "varied but usually pale malt base",
+                "caramel",
+                "specialty malts"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "Stock Ale",
+                "Strong Ale"
+            ],
+            "glassware": [
+                "snifter"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "brown"
+                ],
+                "srm_low": 10.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "high"
+                ],
+                "abv_low": 5.5,
+                "abv_high": 9.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - full",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": "evident and welcome"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 30.0,
+                "ibu_high": 60.0
+            },
+            "flavors": {
+                "malt": [
+                    "caramel",
+                    "toffee",
+                    "treacle",
+                    "molasses"
+                ],
+                "fermentation": [
+                    "fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors"
+                ],
+                "hop": [
+                    "depends on aging"
+                ]
+            },
+            "commercial_examples": [
+                "Greene King Olde Suffolk Vintage Ale",
+                "Gale's Prize Old Ale",
+                "Founders Curmudgeon Old Ale",
+                "Fuller's Vintage Ale",
+                "Avery Old Jubilation Ale",
+                "Berlina Old Ale",
+                "Coniston Brewing Old Man Ale"
+            ],
+            "notes": [
+                "\t- usually a blend of young and old (stock) ales",
+                "\t- few commercial examples",
+                "\t- a style 2 centuries old",
+                "\t\t- emerged as stock/strong ales in late 18th/early 19th century",
+                "\t\t- usually made from first runnings of parti-gyle",
+                "\t\t- initially had an abv around 6-7%, kept in check by techniques that favored unfermentable sugars",
+                "\t\t- resulted in sweet beers",
+                "\t\t- so then the beers were aged, which gave some wild fermentation flavor, some barrel flavor, some oxidation flavor, and would eventually ferment some of the \"unfermentable sugars\"",
+                "\t\t- often blended with young ales to get some fresh beer features (Greene Kind Strong Suffolk still brewed this way)",
+                "\t\t- style changed heavily over time. Always been dark and favoring rich fruitiness",
+                "\t\t- wood aging is rare"
+            ]
+        },
         "Dark Mild": {
             "name": "Dark Mild",
             "region": "England",
@@ -1124,6 +1211,104 @@
                 "\t- sales slipped in 20th century -> milds were adulterated in cheap pubs -> breweries dropped",
                 "\t- some demand remains in northern England, West Midlands, South Wales",
                 "\t- often found in US brewpubs as a session ale"
+            ]
+        },
+        "English Barley Wine": {
+            "name": "English Barley Wine",
+            "region": "England",
+            "categories": [
+                "British Strong Ales",
+                "Barley Wines",
+                "Bitters"
+            ],
+            "malt": [
+                "British Pale Ale malt",
+                "crystal malt",
+                "often uses brewing sugars"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "snifter"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "brown"
+                ],
+                "srm_low": 8.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "high",
+                    "very high"
+                ],
+                "abv_low": 8.0,
+                "abv_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "full, chewy, velvety",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": "smooth"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 35.0,
+                "ibu_high": 70.0
+            },
+            "flavors": {
+                "malt": [
+                    "intense and complex; biscuit",
+                    "nut",
+                    "toast",
+                    "caramel",
+                    "molasses"
+                ],
+                "fermentation": [
+                    "dark fruit",
+                    "some alcohol character"
+                ],
+                "hop": [
+                    "highly varied; earthy",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "Fuller's Golden Pride",
+                "J.W. Lees Harvest Ale",
+                "Weyerbacher Blithering Idiot",
+                "Coniston No. 9",
+                "Robinson's Old Tom"
+            ],
+            "notes": [
+                "\t- less hoppy/bitter, more malt/fruit than American Barley Wine",
+                "\t- emerged from british farmhouse tradition, which used the parti-gyle",
+                "\t- development began in mid-late 18th century, with breweries attached to aristocratic great houses",
+                "\t\t- initially too expensive to brew commercially",
+                "\t\t- brewed for the use of wealthy households",
+                "\t\t- aged in wood >= 1 year",
+                "\t\t- brewed to fill the purpose of wine, which was valuable because England and the wine countries were not always on good terms",
+                "\t- Bass, Ratcliff and Grtton brewed \"No. 1\" in 1854",
+                "\t\t- its characteristic single red diamond was the second British trademark",
+                "\t\t- brewed almost continuously until 1995",
+                "\t\t- distinctly pale, other barley wines were darker",
+                "\t- Thomas Hardy's Ale was another noteworthy barley wine",
+                "\t\t- first brewed by Eldridge Pope in 1968",
+                "\t\t- last brewed in 2009 by O'Hanlon's Brewing Co",
+                "\t\t- allegedly aged 25 years or more",
+                "\t- American brewers adopted the style",
+                "\t\t- 1975, Anchor Brewing Co made the Old Foghorn",
+                "\t\t- shortly after, Sierra Nevada made the Bigfoot",
+                "\t- difficult and expensive to produce",
+                "\t\t- requires up to a year to mellow",
+                "\t- often sold in 6 ounce nip bottles",
+                "\t- british most noteworthy for alcohol/sherry flavors; Americans make it hoppier"
             ]
         },
         "English IPA": {
@@ -2011,7 +2196,12 @@
                 "Porterhouse Nitro Red Ale",
                 "Franciscan Well Rebel Red"
             ],
-            "notes": []
+            "notes": [
+                "\t- the name actually popularized by Coors in the early 90s with the Killian's Irish Red",
+                "\t\t- First brewed by Killian family's Lett's Brewery in County Wexford, Ireland as Enniscorthy Ruby Ale",
+                "\t\t- closed in 1950s, rights sold to Leforth in France, which was later acquired by Coors",
+                "\t\t- Coors version is actually a lager"
+            ]
         },
         "Irish Stout": {
             "name": "Irish Stout",
@@ -3186,7 +3376,10 @@
                 "Founders Dirty Bastard",
                 "Belhaven Wee Heavy"
             ],
-            "notes": []
+            "notes": [
+                "\t- first running of parti-gyle mash, other scottish ales brewed as later runnings",
+                "\t- peat flavors are not traditional, they are an american lie"
+            ]
         },
         "Witbier": {
             "name": "Witbier",

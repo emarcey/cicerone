@@ -31,4 +31,4 @@ Goals
 1. What other brewing city comes to mind when you look at Scottish ales
 	1. Burton-on-Trent comes to mind, and is actually name-checked in the Scotland section of the Oxford book
 	2. Similar in focus on malt-forward beers on a step scale, lots of session beers, with an export
-	3. also common to have a pale malt base with some frequent adjuncts
+	3. also common to have a pale malt base with some consistent adjuncts

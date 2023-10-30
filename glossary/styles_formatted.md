@@ -346,6 +346,49 @@ first_brewed_in_1948_by_chimay
 	- some demand remains in northern England, West Midlands, South Wales
 	- often found in US brewpubs as a session ale
 
+# English Barley Wine
+
+- Region: England
+- Categories: British Strong Ales, Barley Wines, Bitters
+- Malt: British Pale Ale malt, crystal malt, often uses brewing sugars
+- Hops: British
+- Glassware: snifter
+- Color: gold - brown (8.0 - 22.0 SRM)
+- Alcohol: high - very high (8.0 - 12.0% ABV)
+- Mouthfeel: 
+	- body: full, chewy, velvety
+	- carbonation: low - moderate
+	- alcohol_warmth: smooth
+- Bitterness: moderate (35.0 - 70.0 IBU)
+- Flavors: 
+	- malt: intense and complex; biscuit, nut, toast, caramel, molasses
+	- fermentation: dark fruit, some alcohol character
+	- hop: highly varied; earthy, herbal
+- Commercial examples: Fuller's Golden Pride, J.W. Lees Harvest Ale, Weyerbacher Blithering Idiot, Coniston No. 9, Robinson's Old Tom
+- Notes: 
+	- less hoppy/bitter, more malt/fruit than American Barley Wine
+	- emerged from british farmhouse tradition, which used the parti-gyle
+	- development began in mid-late 18th century, with breweries attached to aristocratic great houses
+		- initially too expensive to brew commercially
+		- brewed for the use of wealthy households
+		- aged in wood >= 1 year
+		- brewed to fill the purpose of wine, which was valuable because England and the wine countries were not always on good terms
+	- Bass, Ratcliff and Grtton brewed "No. 1" in 1854
+		- its characteristic single red diamond was the second British trademark
+		- brewed almost continuously until 1995
+		- distinctly pale, other barley wines were darker
+	- Thomas Hardy's Ale was another noteworthy barley wine
+		- first brewed by Eldridge Pope in 1968
+		- last brewed in 2009 by O'Hanlon's Brewing Co
+		- allegedly aged 25 years or more
+	- American brewers adopted the style
+		- 1975, Anchor Brewing Co made the Old Foghorn
+		- shortly after, Sierra Nevada made the Bigfoot
+	- difficult and expensive to produce
+		- requires up to a year to mellow
+	- often sold in 6 ounce nip bottles
+	- british most noteworthy for alcohol/sherry flavors; Americans make it hoppier
+
 # English IPA
 
 - Region: England
@@ -683,6 +726,11 @@ big_names_to_know
 	- fermentation: low fruity esters
 	- hop: little to none
 - Commercial examples: Smithwick's Irish Red Ale, O'Hara's Irish Red Ale, Murphy's Irish Red, Great Lakes Conway's Irish Ale, Kilkenny Irish Beer, Porterhouse Nitro Red Ale, Franciscan Well Rebel Red
+- Notes: 
+	- the name actually popularized by Coors in the early 90s with the Killian's Irish Red
+		- First brewed by Killian family's Lett's Brewery in County Wexford, Ireland as Enniscorthy Ruby Ale
+		- closed in 1950s, rights sold to Leforth in France, which was later acquired by Coors
+		- Coors version is actually a lager
 
 # Irish Stout
 
@@ -771,6 +819,39 @@ two_groups
 	- Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to american importer commissioning oatmeal stout from Samuel Smith
 	- since then, more than 100 commercially brewed example shave been produced
 	- oats are usually rolled
+
+# Old Ale
+
+- Region: England
+- Categories: British Strong Ales
+- Malt: varied but usually pale malt base, caramel, specialty malts
+- Hops: British
+- Other names: Stock Ale, Strong Ale
+- Glassware: snifter
+- Color: light amber - brown (10.0 - 22.0 SRM)
+- Alcohol: normal - high (5.5 - 9.0% ABV)
+- Mouthfeel: 
+	- body: medium - full
+	- carbonation: low - moderate
+	- alcohol_warmth: evident and welcome
+- Bitterness: pronounced (30.0 - 60.0 IBU)
+- Flavors: 
+	- malt: caramel, toffee, treacle, molasses
+	- fermentation: fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors
+	- hop: depends on aging
+- Commercial examples: Greene King Olde Suffolk Vintage Ale, Gale's Prize Old Ale, Founders Curmudgeon Old Ale, Fuller's Vintage Ale, Avery Old Jubilation Ale, Berlina Old Ale, Coniston Brewing Old Man Ale
+- Notes: 
+	- usually a blend of young and old (stock) ales
+	- few commercial examples
+	- a style 2 centuries old
+		- emerged as stock/strong ales in late 18th/early 19th century
+		- usually made from first runnings of parti-gyle
+		- initially had an abv around 6-7%, kept in check by techniques that favored unfermentable sugars
+		- resulted in sweet beers
+		- so then the beers were aged, which gave some wild fermentation flavor, some barrel flavor, some oxidation flavor, and would eventually ferment some of the "unfermentable sugars"
+		- often blended with young ales to get some fresh beer features (Greene Kind Strong Suffolk still brewed this way)
+		- style changed heavily over time. Always been dark and favoring rich fruitiness
+		- wood aging is rare
 
 # Ordinary Bitter
 
@@ -1076,6 +1157,9 @@ two_groups
 	- fermentation: some fruit esters with dark fruit; hint of alcohol
 	- hop: low bitterness, low aroma
 - Commercial examples: Orkney Skull Splitter, Traquair House Ale, Founders Dirty Bastard, Belhaven Wee Heavy
+- Notes: 
+	- first running of parti-gyle mash, other scottish ales brewed as later runnings
+	- peat flavors are not traditional, they are an american lie
 
 # Witbier
 
