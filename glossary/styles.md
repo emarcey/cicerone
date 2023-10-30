@@ -686,6 +686,10 @@
 	* fermentation: low fruity esters
 * Commercial Examples: Smithwick's Irish Red Ale, O'Hara's Irish Red Ale, Murphy's Irish Red, Great Lakes Conway's Irish Ale, Kilkenny Irish Beer, Porterhouse Nitro Red Ale, Franciscan Well Rebel Red
 * Notes:
+	* the name actually popularized by Coors in the early 90s with the Killian's Irish Red
+		* First brewed by Killian family's Lett's Brewery in County Wexford, Ireland as Enniscorthy Ruby Ale
+		* closed in 1950s, rights sold to Leforth in France, which was later acquired by Coors
+		* Coors version is actually a lager
 # Irish Stout
 * Region: Ireland
 * Categories: British Dark Ales, Stouts
@@ -1077,6 +1081,8 @@
 	* fermentation: some fruit esters with dark fruit; hint of alcohol
 * Commercial Examples: Orkney Skull Splitter, Traquair House Ale, Founders Dirty Bastard, Belhaven Wee Heavy
 * Notes:
+	* first running of parti-gyle mash, other scottish ales brewed as later runnings
+	* peat flavors are not traditional, they are an american lie
 # Witbier
 * Region: Belgium
 * Categories: French and Belgian Beers, Wheat Beers
