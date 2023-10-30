@@ -663,6 +663,83 @@
                 "\t\t- no bottle conditioning"
             ]
         },
+        "Best Bitter": {
+            "name": "Best Bitter",
+            "region": "England",
+            "categories": [
+                "English Pale Ales",
+                "Bitters"
+            ],
+            "malt": [
+                "Pale ale (Maris Otter very popular)",
+                "amber",
+                "crystal",
+                "sugar"
+            ],
+            "hops": [
+                "British",
+                "Fuggle",
+                "Golding",
+                "american sometimes acceptable"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "srm_low": 8.0,
+                "srm_high": 16.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 3.8,
+                "abv_high": 4.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light to medium",
+                "carbonation": "low carbonation, but bottled examples can have moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 25.0,
+                "ibu_high": 40.0
+            },
+            "flavors": {
+                "malt": [
+                    "low - medium; bread",
+                    "biscuit",
+                    "toast; sometimes caramel or toffee"
+                ],
+                "fermentation": [
+                    "moderate-low - moderate-high fruity esters"
+                ],
+                "hop": [
+                    "medium - moderate-high bitterness; low - moderate hop flavor; earthy",
+                    "resiny",
+                    "floral",
+                    "fruity"
+                ]
+            },
+            "commercial_examples": [
+                "Fuller's London Pride",
+                "Adnams Southwold Bitter",
+                "Timothy Taylor Landlord"
+            ],
+            "notes": []
+        },
         "Bi\u00e8re de Garde": {
             "name": "Bi\u00e8re de Garde",
             "region": "Belgium, France",
@@ -884,6 +961,87 @@
                 "\t- northern english is dry and a little stronger (5% ABV), southern is a little sweeter and weaker (usually around 4.2% ABV)"
             ]
         },
+        "British Golden Ale": {
+            "name": "British Golden Ale",
+            "region": "England",
+            "categories": [
+                "British Pale Ales",
+                "Bitters"
+            ],
+            "malt": [
+                "lightly-kilned pale malts",
+                "corn",
+                "sugar"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "English Blonde Ale",
+                "Summer Ale",
+                "Golden Bitter"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 2.0,
+                "srm_high": 5.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 3.8,
+                "abv_high": 5.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "low - moderate; higher in bottle",
+                "alcohol_warmth": "slight"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 45.0
+            },
+            "flavors": {
+                "malt": [
+                    "low - medium-low; bread",
+                    "biscuit; no caramel"
+                ],
+                "fermentation": [
+                    "low - moderate-low fruity esters"
+                ],
+                "hop": [
+                    "medium - medium-high bitterness; pronounced hop flavor; resiny",
+                    "floral",
+                    "herbal",
+                    "earthy"
+                ]
+            },
+            "commercial_examples": [
+                "Hop Back Summer Lightning",
+                "Adnams Explorer",
+                "Golden Hill Exmoor Gold",
+                "Spitfire Golden Ale"
+            ],
+            "notes": [
+                "\t- relatively new, originated in 1980s",
+                "\t- alternative to pale lagers",
+                "\t- lighter in color than traditional bitters and distinctly refreshing"
+            ]
+        },
         "Dark Mild": {
             "name": "Dark Mild",
             "region": "England",
@@ -1040,21 +1198,33 @@
             ],
             "notes": [
                 "\t- Less hop character and more malt flavor than American",
+                "\t- style",
+                "\t\t- high alcohol and lots of hops -> preserve beer over long periods",
+                "\t\t- designed to be conditioned for 6 months",
+                "\t\t- but could be tumultuous, had to be assessed on arrival",
+                "big_names_to_know",
+                "\t- Allsopp, Burton, Bass and Ballantine",
                 "\t- History of IPA is a period of 50 years, affected by both brewing practice and commercial pursuits",
-                "\t- unclear when it was \"invented\"",
-                "\t- 1757, Britain's East India Company gained upper hand and ruled Indian subcontinent",
-                "\t- George Hodgson started shipping beer to India, both porter and pale ales",
-                "\t\t- pale ales were more popular",
-                "\t- the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market",
-                "\t- Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing",
-                "\t- 1840, Indian export market doubled",
-                "\t- mid-1800s, IPA also popular in Britain",
-                "\t\t- coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe",
-                "\t\t- glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers",
-                "\t- some brewers promoted IPA as \"medicinal cordial\", touted as restorative and helpful for diabetics",
-                "\t- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity",
-                "\t\t- end of 20th century, IPAs indistinguishable from common bitter",
-                "\t- since then, brewers have begun recreating historic 1800s English IPA"
+                "\t\t- unclear when it was \"invented\"",
+                "\t\t- mid 17th century, coke smelting made controlling barley malt temperature more consistent -> pale malt easier to make -> pale ales were harder to adulterate than dark ales",
+                "\t\t- 1716, earliest record of pale ales in India",
+                "\t\t- first pale ale. mentioned by name was Bell's in 1790 (Burton)",
+                "\t\t- George Hodgson started shipping beer to India, both porter and pale ales",
+                "\t\t\t- pale ales were more popular",
+                "\t\t- the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market",
+                "\t\t- Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing (Hodgson ads)",
+                "\t\t- 1840, Indian export market doubled",
+                "\t\t- mid-1800s, IPA also popular in Britain",
+                "\t\t\t- coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe",
+                "\t\t\t- glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers",
+                "\t\t- some brewers promoted IPA as \"medicinal cordial\", touted as restorative and helpful for diabetics",
+                "\t\t- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity",
+                "\t\t\t- end of 20th century, IPAs indistinguishable from common bitter",
+                "\t\t\t- refrigeration led to lager being commonplace. More popular in Indian heat",
+                "\t\t- since then, brewers have begun recreating historic 1800s English IPA",
+                "\t\t\t- worked from Ballantine IPA",
+                "\t\t\t- American hops conducive to IPA",
+                "\t\t\t- led to double and imperial IPAs"
             ]
         },
         "English Porter": {
@@ -1768,6 +1938,81 @@
                 "\t- quite similar to an Irish stout, but with a higher ABV and more intense flavors"
             ]
         },
+        "Irish Red Ale": {
+            "name": "Irish Red Ale",
+            "region": "Ireland",
+            "categories": [
+                "British Pale Ales"
+            ],
+            "malt": [
+                "Pale ale malt",
+                "roasted barley",
+                "black malt"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "amber"
+                ],
+                "srm_low": 9.0,
+                "srm_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 3.8,
+                "abv_high": 5.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium, may be slick if high diacetyl",
+                "carbonation": "moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 28.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt-balanced caramel",
+                    "toffee",
+                    "buttered toast",
+                    "toasty",
+                    "biscuity"
+                ],
+                "fermentation": [
+                    "low fruity esters"
+                ],
+                "hop": [
+                    "little to none"
+                ]
+            },
+            "commercial_examples": [
+                "Smithwick's Irish Red Ale",
+                "O'Hara's Irish Red Ale",
+                "Murphy's Irish Red",
+                "Great Lakes Conway's Irish Ale",
+                "Kilkenny Irish Beer",
+                "Porterhouse Nitro Red Ale",
+                "Franciscan Well Rebel Red"
+            ],
+            "notes": []
+        },
         "Irish Stout": {
             "name": "Irish Stout",
             "region": "Ireland",
@@ -2010,6 +2255,102 @@
                 "\t- oats are usually rolled"
             ]
         },
+        "Ordinary Bitter": {
+            "name": "Ordinary Bitter",
+            "region": "England",
+            "categories": [
+                "English Pale Ales",
+                "Bitters"
+            ],
+            "malt": [
+                "Pale ale (Maris Otter very popular)",
+                "amber",
+                "crystal",
+                "sugar"
+            ],
+            "hops": [
+                "British",
+                "Fuggle",
+                "Golding",
+                "american sometimes acceptable"
+            ],
+            "other_names": [
+                "Bitter"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "srm_low": 8.0,
+                "srm_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.2,
+                "abv_high": 3.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium-light",
+                "carbonation": "low, though bottled can be moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 25.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "low-medium malt flavor; bread",
+                    "biscuit toast; sometimes caramel or toffee"
+                ],
+                "fermentation": [
+                    "moderate-low - moderate-high fruity esters"
+                ],
+                "hop": [
+                    "moderate - moderate-high bitterness; low - moderate hop flavor; resiny",
+                    "herbal",
+                    "floral",
+                    "fruity"
+                ]
+            },
+            "commercial_examples": [
+                "Fuller's Chiswick Bitter",
+                "Greene King IPA",
+                "Tetley's Original Bitter",
+                "Bateman's XB",
+                "Brains Bitter",
+                "Brakspear Gravity"
+            ],
+            "notes": [
+                "\t- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)",
+                "\t- Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales",
+                "\t- Term \"bitter\" to describe a hoppy pale ale began in mid-1800s",
+                "\t\t- brewers called them pale ales, but",
+                "\t\t- customers didn't know to ask for pale ales, so they asked for a bitter to say they wanted the drier, hoppier beer",
+                "\t- By 20th century, was a low ABV session beer",
+                "\t- Today, term for a draft/cask version of a pale ale, while in England, pale ale refers to a bottled bitter",
+                "\t\t- specifically describes a cask-conditioned draught ale",
+                "\t- always warm fermented with ale yeasts",
+                "\t- dry hopping not uncommon",
+                "\t- geographically",
+                "\t\t- midlands - sweeter (Marston's Burton bitter)",
+                "\t\t- West Country - fruity",
+                "\t\t- South wales - malty",
+                "\t\t- Yorkshire, Manchester - smooth and creamy"
+            ]
+        },
         "Oud Bruin": {
             "name": "Oud Bruin",
             "region": "East Flanders, Belgium",
@@ -2210,6 +2551,310 @@
                 "\t- Many examples are bottle conditioned, giving a light tartness and funk",
                 "\t\t- overtly sour, and those with Brett, should not be considered saisons"
             ]
+        },
+        "Scottish Export": {
+            "name": "Scottish Export",
+            "region": "Scotland",
+            "categories": [
+                "British Pale Ales",
+                "Scottish Ales"
+            ],
+            "malt": [
+                "Pale ale malt",
+                "roasted barley",
+                "some other adjuncts"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "80-shilling",
+                "80/-"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "light brown"
+                ],
+                "srm_low": 12.0,
+                "srm_high": 20.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.9,
+                "abv_high": 6.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium; may be moderately creamy",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 15.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "toasty bready malt",
+                    "caramel",
+                    "toffee",
+                    "roast",
+                    "subtle nuttiness"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but light esters allowed"
+                ],
+                "hop": [
+                    "light bitterness and hop flavor allowed"
+                ]
+            },
+            "commercial_examples": [
+                "McEwan's 70"
+            ],
+            "notes": []
+        },
+        "Scottish Heavy": {
+            "name": "Scottish Heavy",
+            "region": "Scotland",
+            "categories": [
+                "British Pale Ales",
+                "Scottish Ales"
+            ],
+            "malt": [
+                "Pale ale malt",
+                "roasted barley",
+                "some other adjuncts"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "70-shilling",
+                "70/-"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "light brown"
+                ],
+                "srm_low": 12.0,
+                "srm_high": 20.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.3,
+                "abv_high": 3.9,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; may be moderately creamy",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 10.0,
+                "ibu_high": 20.0
+            },
+            "flavors": {
+                "malt": [
+                    "toasty bready malt",
+                    "caramel",
+                    "toffee",
+                    "roast",
+                    "subtle nuttiness"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but light esters allowed"
+                ],
+                "hop": [
+                    "light bitterness and hop flavor allowed"
+                ]
+            },
+            "commercial_examples": [
+                "McEwan's 70"
+            ],
+            "notes": []
+        },
+        "Scottish Light": {
+            "name": "Scottish Light",
+            "region": "Scotland",
+            "categories": [
+                "British Pale Ales",
+                "Scottish Ales"
+            ],
+            "malt": [
+                "Pale ale malt",
+                "roasted barley",
+                "some other adjuncts"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "60-shilling",
+                "60/-"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "dark amber",
+                    "brown"
+                ],
+                "srm_low": 17.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 2.5,
+                "abv_high": 3.3,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; may be moderately creamy",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 10.0,
+                "ibu_high": 20.0
+            },
+            "flavors": {
+                "malt": [
+                    "toasty bready malt",
+                    "caramel",
+                    "toffee",
+                    "roast",
+                    "subtle nuttiness"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but light esters allowed"
+                ],
+                "hop": [
+                    "light bitterness and hop flavor allowed"
+                ]
+            },
+            "commercial_examples": [
+                "Belhaven Best",
+                "McEwan's 60"
+            ],
+            "notes": []
+        },
+        "Strong Bitter": {
+            "name": "Strong Bitter",
+            "region": "England",
+            "categories": [
+                "English Pale Ales",
+                "Bitters"
+            ],
+            "malt": [
+                "Pale ale (Maris Otter very popular)",
+                "amber",
+                "crystal",
+                "sugar"
+            ],
+            "hops": [
+                "British",
+                "Fuggle",
+                "Golding",
+                "american sometimes acceptable"
+            ],
+            "other_names": [
+                "Special Bitter"
+            ],
+            "glassware": [
+                "nonic",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "dark amber"
+                ],
+                "srm_low": 8.0,
+                "srm_high": 18.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "abv_low": 4.6,
+                "abv_high": 6.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium full",
+                "carbonation": "low - moderate; more in bottled versions",
+                "alcohol_warmth": "slight in stronger versions"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 30.0,
+                "ibu_high": 50.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "biscuit",
+                    "nut",
+                    "toasty; low caramel",
+                    "toffee"
+                ],
+                "fermentation": [
+                    "moderate-low - high fruity esters"
+                ],
+                "hop": [
+                    "medium - medium high bitterness; noticeable hop flavor; floral",
+                    "earthy",
+                    "resiny",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "Bass Pale Ale",
+                "Morland Old Speckled Hen",
+                "Shipyard Old Thumper",
+                "Adnams Broadside",
+                "Shepherd Neame Bishop's Finger",
+                "Robinsons Trooper"
+            ],
+            "notes": []
         },
         "Sweet Stout": {
             "name": "Sweet Stout",
@@ -2466,6 +3111,82 @@
                 "\t- Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance",
                 "\t- Softer roast character compared to Foreign Extra"
             ]
+        },
+        "Wee Heavy": {
+            "name": "Wee Heavy",
+            "region": "Scotland",
+            "categories": [
+                "British and Irish Ales",
+                "Scottish Ales"
+            ],
+            "malt": [
+                "Pale ale malt",
+                "roasted barley"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "Strong Scotch Ale",
+                "90-shilling",
+                "120-shilling",
+                "90/-",
+                "120/-"
+            ],
+            "glassware": [
+                "snifter",
+                "thistle"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 14.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "abv_low": 6.5,
+                "abv_high": 10.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-full - full",
+                "carbonation": "moderate",
+                "alcohol_warmth": "smooth"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 17.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt dominant",
+                    "with caramel flavor and toastiness",
+                    "sometimes roast; peat smoke non-traditional but allowed"
+                ],
+                "fermentation": [
+                    "some fruit esters with dark fruit; hint of alcohol"
+                ],
+                "hop": [
+                    "low bitterness",
+                    "low aroma"
+                ]
+            },
+            "commercial_examples": [
+                "Orkney Skull Splitter",
+                "Traquair House Ale",
+                "Founders Dirty Bastard",
+                "Belhaven Wee Heavy"
+            ],
+            "notes": []
         },
         "Witbier": {
             "name": "Witbier",

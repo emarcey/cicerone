@@ -124,6 +124,18 @@
 	* stirring increases esters
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
+* **Free Mash-Tun Act (1880):** also known as the Inland Revenue Act, 1880
+	* British law that changed emphasis of brewery taxation from malt to beer, under British Prime Minister William Gladstone
+	* tax not on malted barley, allowing more leeway in raw materials; substitutes commonplace, essential in poor harvests
+	* tax now on volume and  strength of wort produced during brew
+	* determined that 2 bushels of malt would make 36 gallons (1 barrel) of wort at an original gravity of 1057
+		* this was adopted as the standard barrel, incurring a charge of 6s 3d (31 1/4 new pence) -> 1/4 d per pint
+	* also specified a brewer needed to purchase an annual license to brew and must register premises and all pieces of brewing equipment
+	* 24 hours notice required before brewing
+	* wort needed to be colected and gauged within 12 hours of mashing
+	* saccharometer now essential, raised costs for small brewers prohibitively
+	* 1889, standard barrel OG reduced to 1055 to help smaller brewers
+	* 1993, duty changed to ABV of finished beer
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)

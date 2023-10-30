@@ -197,6 +197,26 @@ first_brewed_in_1948_by_chimay
 	- Chimay Tripel is the only Trappist tripel sold in keg form
 		- no bottle conditioning
 
+# Best Bitter
+
+- Region: England
+- Categories: English Pale Ales, Bitters
+- Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
+- Hops: British, Fuggle, Golding, american sometimes acceptable
+- Glassware: nonic, pub mug, tulip
+- Color: gold - amber (8.0 - 16.0 SRM)
+- Alcohol: lower - normal (3.8 - 4.6% ABV)
+- Mouthfeel: 
+	- body: medium-light to medium
+	- carbonation: low carbonation, but bottled examples can have moderate
+	- alcohol_warmth: None
+- Bitterness: pronounced (25.0 - 40.0 IBU)
+- Flavors: 
+	- malt: low - medium; bread, biscuit, toast; sometimes caramel or toffee
+	- fermentation: moderate-low - moderate-high fruity esters
+	- hop: medium - moderate-high bitterness; low - moderate hop flavor; earthy, resiny, floral, fruity
+- Commercial examples: Fuller's London Pride, Adnams Southwold Bitter, Timothy Taylor Landlord
+
 # Bière de Garde
 
 - Region: Belgium, France
@@ -269,6 +289,31 @@ first_brewed_in_1948_by_chimay
 	- classic example is Newcastle Brown, first brewed in 1927
 	- northern english is dry and a little stronger (5% ABV), southern is a little sweeter and weaker (usually around 4.2% ABV)
 
+# British Golden Ale
+
+- Region: England
+- Categories: British Pale Ales, Bitters
+- Malt: lightly-kilned pale malts, corn, sugar
+- Hops: British
+- Other names: English Blonde Ale, Summer Ale, Golden Bitter
+- Glassware: nonic, pub mug, tulip
+- Color: straw - light gold (2.0 - 5.0 SRM)
+- Alcohol: lower - normal (3.8 - 5.0% ABV)
+- Mouthfeel: 
+	- body: light - medium
+	- carbonation: low - moderate; higher in bottle
+	- alcohol_warmth: slight
+- Bitterness: pronounced (20.0 - 45.0 IBU)
+- Flavors: 
+	- malt: low - medium-low; bread, biscuit; no caramel
+	- fermentation: low - moderate-low fruity esters
+	- hop: medium - medium-high bitterness; pronounced hop flavor; resiny, floral, herbal, earthy
+- Commercial examples: Hop Back Summer Lightning, Adnams Explorer, Golden Hill Exmoor Gold, Spitfire Golden Ale
+- Notes: 
+	- relatively new, originated in 1980s
+	- alternative to pale lagers
+	- lighter in color than traditional bitters and distinctly refreshing
+
 # Dark Mild
 
 - Region: England
@@ -322,21 +367,33 @@ first_brewed_in_1948_by_chimay
 - Commercial examples: Meantime London IPA, Brooklyn East IPA, Samuel Smith's India Ale, Fuller's Bengal Lancer
 - Notes: 
 	- Less hop character and more malt flavor than American
+	- style
+		- high alcohol and lots of hops -> preserve beer over long periods
+		- designed to be conditioned for 6 months
+		- but could be tumultuous, had to be assessed on arrival
+big_names_to_know
+	- Allsopp, Burton, Bass and Ballantine
 	- History of IPA is a period of 50 years, affected by both brewing practice and commercial pursuits
-	- unclear when it was "invented"
-	- 1757, Britain's East India Company gained upper hand and ruled Indian subcontinent
-	- George Hodgson started shipping beer to India, both porter and pale ales
-		- pale ales were more popular
-	- the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market
-	- Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing
-	- 1840, Indian export market doubled
-	- mid-1800s, IPA also popular in Britain
-		- coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe
-		- glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers
-	- some brewers promoted IPA as "medicinal cordial", touted as restorative and helpful for diabetics
-	- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity
-		- end of 20th century, IPAs indistinguishable from common bitter
-	- since then, brewers have begun recreating historic 1800s English IPA
+		- unclear when it was "invented"
+		- mid 17th century, coke smelting made controlling barley malt temperature more consistent -> pale malt easier to make -> pale ales were harder to adulterate than dark ales
+		- 1716, earliest record of pale ales in India
+		- first pale ale. mentioned by name was Bell's in 1790 (Burton)
+		- George Hodgson started shipping beer to India, both porter and pale ales
+			- pale ales were more popular
+		- the name India Pale Ale was not adopted until brewers from Burton-on-Trent (including Allsopp, Bass, and Salt) began brewing for Indian export market
+		- Allsopp, Bass, and Salt began challenging in the 1820s, and were preferred by 1830s, around which time the term India Pale Ale started appearing (Hodgson ads)
+		- 1840, Indian export market doubled
+		- mid-1800s, IPA also popular in Britain
+			- coincided with decline in porter's popularity and prevalence of light-colored pilsner-style beers in continental Europe
+			- glass tax lifted in 1840s -> glassware more affordable -> appearance more important -> favored clear, pale beers
+		- some brewers promoted IPA as "medicinal cordial", touted as restorative and helpful for diabetics
+		- Burton IPA survived to 20th century, but temperance movements, wars, taxes, pale lager competition led to decrease in ABV -> decline in popularity
+			- end of 20th century, IPAs indistinguishable from common bitter
+			- refrigeration led to lager being commonplace. More popular in Indian heat
+		- since then, brewers have begun recreating historic 1800s English IPA
+			- worked from Ballantine IPA
+			- American hops conducive to IPA
+			- led to double and imperial IPAs
 
 # English Porter
 
@@ -607,6 +664,26 @@ first_brewed_in_1948_by_chimay
 - Notes: 
 	- quite similar to an Irish stout, but with a higher ABV and more intense flavors
 
+# Irish Red Ale
+
+- Region: Ireland
+- Categories: British Pale Ales
+- Malt: Pale ale malt, roasted barley, black malt
+- Hops: British
+- Glassware: nonic, pub mug, tulip
+- Color: light amber - amber (9.0 - 14.0 SRM)
+- Alcohol: lower - normal (3.8 - 5.0% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium, may be slick if high diacetyl
+	- carbonation: moderate
+	- alcohol_warmth: None
+- Bitterness: moderate (18.0 - 28.0 IBU)
+- Flavors: 
+	- malt: malt-balanced caramel, toffee, buttered toast, toasty, biscuity
+	- fermentation: low fruity esters
+	- hop: little to none
+- Commercial examples: Smithwick's Irish Red Ale, O'Hara's Irish Red Ale, Murphy's Irish Red, Great Lakes Conway's Irish Ale, Kilkenny Irish Beer, Porterhouse Nitro Red Ale, Franciscan Well Rebel Red
+
 # Irish Stout
 
 - Region: Ireland
@@ -695,6 +772,43 @@ two_groups
 	- since then, more than 100 commercially brewed example shave been produced
 	- oats are usually rolled
 
+# Ordinary Bitter
+
+- Region: England
+- Categories: English Pale Ales, Bitters
+- Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
+- Hops: British, Fuggle, Golding, american sometimes acceptable
+- Other names: Bitter
+- Glassware: nonic, pub mug, tulip
+- Color: gold - amber (8.0 - 14.0 SRM)
+- Alcohol: lower (3.2 - 3.8% ABV)
+- Mouthfeel: 
+	- body: light - medium-light
+	- carbonation: low, though bottled can be moderate
+	- alcohol_warmth: None
+- Bitterness: pronounced (25.0 - 35.0 IBU)
+- Flavors: 
+	- malt: low-medium malt flavor; bread, biscuit toast; sometimes caramel or toffee
+	- fermentation: moderate-low - moderate-high fruity esters
+	- hop: moderate - moderate-high bitterness; low - moderate hop flavor; resiny, herbal, floral, fruity
+- Commercial examples: Fuller's Chiswick Bitter, Greene King IPA, Tetley's Original Bitter, Bateman's XB, Brains Bitter, Brakspear Gravity
+- Notes: 
+	- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)
+	- Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales
+	- Term "bitter" to describe a hoppy pale ale began in mid-1800s
+		- brewers called them pale ales, but
+		- customers didn't know to ask for pale ales, so they asked for a bitter to say they wanted the drier, hoppier beer
+	- By 20th century, was a low ABV session beer
+	- Today, term for a draft/cask version of a pale ale, while in England, pale ale refers to a bottled bitter
+		- specifically describes a cask-conditioned draught ale
+	- always warm fermented with ale yeasts
+	- dry hopping not uncommon
+	- geographically
+		- midlands - sweeter (Marston's Burton bitter)
+		- West Country - fruity
+		- South wales - malty
+		- Yorkshire, Manchester - smooth and creamy
+
 # Oud Bruin
 
 - Region: East Flanders, Belgium
@@ -771,6 +885,90 @@ two_groups
 		- 3.5-5% ABC: session strength
 	- Many examples are bottle conditioned, giving a light tartness and funk
 		- overtly sour, and those with Brett, should not be considered saisons
+
+# Scottish Export
+
+- Region: Scotland
+- Categories: British Pale Ales, Scottish Ales
+- Malt: Pale ale malt, roasted barley, some other adjuncts
+- Hops: British
+- Other names: 80-shilling, 80/-
+- Glassware: nonic, pub mug, tulip
+- Color: amber - light brown (12.0 - 20.0 SRM)
+- Alcohol: lower (3.9 - 6.0% ABV)
+- Mouthfeel: 
+	- body: medium; may be moderately creamy
+	- carbonation: low - moderate
+	- alcohol_warmth: None
+- Bitterness: moderate (15.0 - 35.0 IBU)
+- Flavors: 
+	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
+	- fermentation: clean, but light esters allowed
+	- hop: light bitterness and hop flavor allowed
+- Commercial examples: McEwan's 70
+
+# Scottish Heavy
+
+- Region: Scotland
+- Categories: British Pale Ales, Scottish Ales
+- Malt: Pale ale malt, roasted barley, some other adjuncts
+- Hops: British
+- Other names: 70-shilling, 70/-
+- Glassware: nonic, pub mug, tulip
+- Color: amber - light brown (12.0 - 20.0 SRM)
+- Alcohol: lower (3.3 - 3.9% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; may be moderately creamy
+	- carbonation: low - moderate
+	- alcohol_warmth: None
+- Bitterness: moderate (10.0 - 20.0 IBU)
+- Flavors: 
+	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
+	- fermentation: clean, but light esters allowed
+	- hop: light bitterness and hop flavor allowed
+- Commercial examples: McEwan's 70
+
+# Scottish Light
+
+- Region: Scotland
+- Categories: British Pale Ales, Scottish Ales
+- Malt: Pale ale malt, roasted barley, some other adjuncts
+- Hops: British
+- Other names: 60-shilling, 60/-
+- Glassware: nonic, pub mug, tulip
+- Color: dark amber - brown (17.0 - 25.0 SRM)
+- Alcohol: lower (2.5 - 3.3% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; may be moderately creamy
+	- carbonation: low - moderate
+	- alcohol_warmth: None
+- Bitterness: moderate (10.0 - 20.0 IBU)
+- Flavors: 
+	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
+	- fermentation: clean, but light esters allowed
+	- hop: light bitterness and hop flavor allowed
+- Commercial examples: Belhaven Best, McEwan's 60
+
+# Strong Bitter
+
+- Region: England
+- Categories: English Pale Ales, Bitters
+- Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
+- Hops: British, Fuggle, Golding, american sometimes acceptable
+- Other names: Special Bitter
+- Glassware: nonic, pub mug, tulip
+- Color: gold - dark amber (8.0 - 18.0 SRM)
+- Alcohol: normal - elevated (4.6 - 6.2% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium full
+	- carbonation: low - moderate; more in bottled versions
+	- alcohol_warmth: slight in stronger versions
+- Bitterness: pronounced (30.0 - 50.0 IBU)
+- Flavors: 
+	- malt: bread, biscuit, nut, toasty; low caramel, toffee
+	- fermentation: moderate-low - high fruity esters
+	- hop: medium - medium high bitterness; noticeable hop flavor; floral, earthy, resiny, herbal
+- Commercial examples: Bass Pale Ale, Morland Old Speckled Hen, Shipyard Old Thumper, Adnams Broadside, Shepherd Neame Bishop's Finger, Robinsons Trooper
 
 # Sweet Stout
 
@@ -857,6 +1055,27 @@ two_groups
 - Notes: 
 	- Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance
 	- Softer roast character compared to Foreign Extra
+
+# Wee Heavy
+
+- Region: Scotland
+- Categories: British and Irish Ales, Scottish Ales
+- Malt: Pale ale malt, roasted barley
+- Hops: British
+- Other names: Strong Scotch Ale, 90-shilling, 120-shilling, 90/-, 120/-
+- Glassware: snifter, thistle
+- Color: amber - brown (14.0 - 25.0 SRM)
+- Alcohol: elevated - high (6.5 - 10.0% ABV)
+- Mouthfeel: 
+	- body: medium-full - full
+	- carbonation: moderate
+	- alcohol_warmth: smooth
+- Bitterness: low (17.0 - 35.0 IBU)
+- Flavors: 
+	- malt: malt dominant, with caramel flavor and toastiness, sometimes roast; peat smoke non-traditional but allowed
+	- fermentation: some fruit esters with dark fruit; hint of alcohol
+	- hop: low bitterness, low aroma
+- Commercial examples: Orkney Skull Splitter, Traquair House Ale, Founders Dirty Bastard, Belhaven Wee Heavy
 
 # Witbier
 
