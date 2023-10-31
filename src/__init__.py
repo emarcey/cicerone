@@ -1,3 +1,4 @@
+import click
 from collections import OrderedDict, defaultdict
 import json
 from typing import Dict, List, Tuple
@@ -89,7 +90,7 @@ def parse_dict_items_to_styles(parsed_dict: Dict[str, DictItem]) -> BeerStyleMap
     return BeerStyleMap(styles=styles)
 
 
-def main(in_filename: str, o_md_filename: str, o_filename: str):
+def gen_styles(in_filename: str, o_md_filename: str, o_filename: str):
     lines = load_file(in_filename)
     parsed_dict = parse_file(lines)
     styles = parse_dict_items_to_styles(parsed_dict)
@@ -100,5 +101,16 @@ def main(in_filename: str, o_md_filename: str, o_filename: str):
     return styles
 
 
+@click.command()
+@click.option("--file_mode", type=click.Choice(["gen", "test"]))
+def main(file_mode: str) -> None:
+    if file_mode == "gen":
+        gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
+    elif file_mode == "test":
+        pass
+    else:
+        raise ValueError(f"Invalid file mode: {file_mode}")
+
+
 if __name__ == "__main__":
-    main(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
+    main()
