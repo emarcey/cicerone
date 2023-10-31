@@ -129,6 +129,27 @@ class BeerStyle(BaseModel):
         serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
         return f"# {self.name}\n\n{serialized_vals}"
 
+    def print_test(self) -> str:
+        vals = []
+        for k in ["region", "color", "alcohol", "bitterness"]:
+            v = self[v]
+            if not v:
+                continue
+            if k in ["name"]:
+                continue
+            delimiter = ", "
+            sep = ": "
+            if k == "notes":
+                sep = ": \n"
+                delimiter = "\n"
+            tmp_v = v
+            if isinstance(tmp_v, list):
+                tmp_v = delimiter.join(tmp_v)
+            vals.append([snake_to_sentence_case(k), sep, tmp_v])
+
+        serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
+        return f"# {self.name}\n\n{serialized_vals}"
+
 
 class BeerStyleMap(BaseModel):
     styles: Dict[str, BeerStyle]

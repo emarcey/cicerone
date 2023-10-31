@@ -1,6 +1,6 @@
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Union
 from src.const import ALCOHOL_PROFILE_REGEX, BITTERNESS_PROFILE_REGEX, COLOR_PROFILE_REGEX
-from src.generics import DictItem
+from src.generics import OPTIONAL_DICT_OR_DICT_ITEM, OPTIONAL_DICT_OR_LIST, DictItem
 
 
 def to_snake_case(s: str) -> str:
@@ -32,7 +32,7 @@ def snake_to_sentence_case(s: str) -> str:
     return tmp_s[0].upper() + tmp_s[1:]
 
 
-def validate_string_input(cls, v: DictItem) -> str:
+def validate_string_input(cls, v: Union[str, DictItem]) -> str:
     """
     Cleans up an argument that could either be a string or UUID or not set
 
@@ -45,10 +45,12 @@ def validate_string_input(cls, v: DictItem) -> str:
     """
     # if v.children:
     # raise ValueError(f"Does not expect children!!")
+    if isinstance(v, str):
+        return v
     return v.value
 
 
-def validate_optional_string_input(cls, v: Optional[DictItem]) -> Optional[str]:
+def validate_optional_string_input(cls, v: Optional[Union[str, DictItem]]) -> Optional[str]:
     """
     Cleans up an argument that could either be a string or UUID or not set
 
@@ -61,10 +63,12 @@ def validate_optional_string_input(cls, v: Optional[DictItem]) -> Optional[str]:
     """
     if not v:
         return None
+    if isinstance(v, str):
+        return v
     return v.value
 
 
-def validate_optional_string_to_list(cls, v: Optional[DictItem]) -> List[str]:
+def validate_optional_string_to_list(cls, v: OPTIONAL_DICT_OR_LIST) -> List[str]:
     """
     Cleans up an argument that could either be a string or UUID or not set
 
@@ -77,10 +81,12 @@ def validate_optional_string_to_list(cls, v: Optional[DictItem]) -> List[str]:
     """
     if not v:
         return []
+    if isinstance(v, list):
+        return v
     return v.to_list()
 
 
-def validate_optional_string_to_list_no_split(cls, v: Optional[DictItem]) -> List[str]:
+def validate_optional_string_to_list_no_split(cls, v: OPTIONAL_DICT_OR_LIST) -> List[str]:
     """
     Cleans up an argument that could either be a string or UUID or not set
 
@@ -93,12 +99,16 @@ def validate_optional_string_to_list_no_split(cls, v: Optional[DictItem]) -> Lis
     """
     if not v:
         return []
+    if isinstance(v, list):
+        return v
     return v.to_list(split_value=False)
 
 
-def validate_color_profile(cls, v: Optional[DictItem]) -> Optional[Dict[str, Any]]:
+def validate_color_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dict[str, Any]]:
     if not v:
         return None
+    if isinstance(v, dict):
+        return v
     range, srm_low, srm_high = COLOR_PROFILE_REGEX.findall(v.value)[0]
     return {
         "color_range": [x.strip() for x in range.split("-")],
@@ -107,9 +117,11 @@ def validate_color_profile(cls, v: Optional[DictItem]) -> Optional[Dict[str, Any
     }
 
 
-def validate_alcohol_profile(cls, v: Optional[DictItem]) -> Optional[Dict[str, Any]]:
+def validate_alcohol_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dict[str, Any]]:
     if not v:
         return None
+    if isinstance(v, dict):
+        return v
     range, abv_low, abv_high = ALCOHOL_PROFILE_REGEX.findall(v.value)[0]
 
     return {
@@ -120,9 +132,11 @@ def validate_alcohol_profile(cls, v: Optional[DictItem]) -> Optional[Dict[str, A
     }
 
 
-def validate_bitterness_profile(cls, v: Optional[DictItem]) -> Optional[Dict[str, Any]]:
+def validate_bitterness_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dict[str, Any]]:
     if not v:
         return None
+    if isinstance(v, dict):
+        return v
     range, ibu_low, ibu_high = BITTERNESS_PROFILE_REGEX.findall(v.value)[0]
     return {
         "bitterness_range": [x.strip() for x in range.split("-")],

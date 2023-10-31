@@ -9,16 +9,16 @@ from src.generics import DictItem
 from src.utils import to_snake_case
 
 
-def parse_depth_name_value(l: str) -> Tuple[int, str, str]:
+def parse_depth_name_value(li: str) -> Tuple[int, str, str]:
     depth = ""
     name = ""
     value = ""
-    vals = BULLET_REGEX.findall(l)
+    vals = BULLET_REGEX.findall(li)
     if vals:
         depth, name, value = vals[0]
         value = value.replace(":", "", -1).strip()
     else:
-        vals = NON_BULLET_REGEX.findall(l)
+        vals = NON_BULLET_REGEX.findall(li)
         if vals:
             depth, value = vals[0]
     return len(depth), name, value
@@ -101,13 +101,23 @@ def gen_styles(in_filename: str, o_md_filename: str, o_filename: str):
     return styles
 
 
+def load_styles(filename: str) -> BeerStyleMap:
+    with open(filename, "r") as f:
+        return BeerStyleMap(**json.load(f))
+
+
+def test(filename: str) -> None:
+    styles = load_styles(filename)
+    print(styles)
+
+
 @click.command()
 @click.option("--file_mode", type=click.Choice(["gen", "test"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
     elif file_mode == "test":
-        pass
+        test(JSON_STYLE_PATH)
     else:
         raise ValueError(f"Invalid file mode: {file_mode}")
 

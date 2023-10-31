@@ -1,4 +1,5 @@
 from collections import OrderedDict
+from typing import Any, Dict, List, Optional, Union
 
 
 class DictItem:
@@ -31,3 +32,8 @@ class DictItem:
                 output.append(child_value)
 
         return output
+
+
+DICT_STR_ANY = Dict[str, Any]
+OPTIONAL_DICT_OR_DICT_ITEM = Optional[Union[DICT_STR_ANY, DictItem]]
+OPTIONAL_DICT_OR_LIST = Optional[Union[List[str], DictItem]]

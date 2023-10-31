@@ -2,7 +2,7 @@ import re
 
 STYLE_PATH = "/Users/evanmarcey/notes/cicerone/glossary/styles.md"
 OUT_STYLE_PATH = "/Users/evanmarcey/notes/cicerone/glossary/styles_formatted.md"
-JSON_STYLE_PATH = "/Users/evanmarcey/notes/cicerone/src/style_json.py"
+JSON_STYLE_PATH = "/Users/evanmarcey/notes/cicerone/src/style_json.json"
 
 HEADER_REGEX = re.compile(r"#\s*(\w[\w\s]+)\n?")
 BULLET_REGEX = re.compile(r"(\s*)\*\s*([\w ]+)(\:\s*\w?[^\n]*)\n?")
