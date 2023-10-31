@@ -1,3 +1,5 @@
+# Review Questions
+
 1. What words would you use to describe the flavors of roasted barley?
 	1. toasty, burnt, chocolate, espresso, coffee grounds
 2. What words would you use to describe the flavors of pale ale malt?
@@ -64,3 +66,43 @@
 	1. English Barley Wine
 24. What can be said about the carbonation level of beer typically found on a nitrogen dispense system?
 	1. It is generally fairly low (1.2 volumes CO2)
+
+# Advanced Review Questions
+
+# Example Cicerone Exam Questions
+1. Name the dark ale that emerged as one of the earliest recognizable beer styles during the 1700s in England
+	1. Porter
+2. Name two modern beer styles that evolved from English Porter
+	1. Baltic Porter
+	2. Irish Stout
+3. Oatmeal is a required ingredient in what style of British ale?
+	1. Oatmeal Stout
+4. What quantitative trait distinguishes Irish Stout from the other members of the stout family?
+	1. Low carbonation
+5. What invention changed the recipe formulation of dark beers in Britain in 1817?
+	1. Drum roaster, invented by Daniel Wheeler
+6. Ordinary, Best, and Strong Bitter are descended from what pale, bitter beer style that became famous as an export beer in the 1800s
+	1. Pale Ale -> IPA as an export
+7. According to the BJCP what is the minimum ABV expected in a Best Bitter?
+	1. 3.8%
+8. Would 25-30 IBU be a reasonable bitterness level to expect in a typical Ordinary Bitter?
+	1. Yes, range is 25-35
+9. Would brown malt be expected in the formulation of a Best Bitter?
+	1. No, you would expect a pale ale malt, perhaps with some crystal malt, or maybe an amber malt, but nothing too dark
+10. Would Cascade, Centennial, and Chinook be typical hops for the brewing of an Ordinary Bitter?
+	1. While the BJCP acknowledges that American hops have developed some impact on the Ordinary Bitter, it says that American hop character ought to be restrained, and that the traditional and primary hop character should come from a British hop, like a Fuggle or East Kent Golding
+11. What is the style name for a modern English ale that has very little bitterness, no hop flavor or aroma, and is commonly produced at 3-3.8% ABV
+	1. Dark mild
+12. In what century was porter developed?
+	1. 18th (1700s)
+13. What is the style name for the strongest beer made following the same basic formulation as an English bitter, with an ABV that often exceeds 7%?
+	1. English Barley Wine
+14. What is the modern style name for an English style that includes a portion of beer aged for six months or more at the brewery?
+	1. Old Ale
+15. Which beer glass. is most commonly associated with Irish Stout?
+	1. Tulip pint
+16. According to the Campaign for Real Ale's definition, what must not be used in the dispense of cask ale?
+	1. Supplementary CO2
+17. Can a firkin of beer rolled out from the cellar, thrown atop the bar, and tapped for immediate service offer drinkers a high-quality sample of traditional cask-conditioned ale?
+	1. No, the beer first and foremost needs to settle, to ensure no finings, yeast, or other sediment are present in the pour
+	2. Second, the brewer also needs to remove the spile prior to service for the day
