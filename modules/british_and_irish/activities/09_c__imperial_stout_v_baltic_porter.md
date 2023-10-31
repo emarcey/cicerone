@@ -1,8 +1,13 @@
 * Beer A:
-	* Aroma:
-	* Flavor:
-	* Decision:
+	* Aroma: chocolate, coffee, alcohol, raisin, plum
+	* Flavor: roast, plum, chocolate
+	* Decision: Põhjala Baltic Porter
 * Beer B:
-	* Aroma:
-	* Flavor:
-	* Decision:
+	* Aroma: acrid, chocolate, plum
+	* Flavor: burnt toast, plum, chocolate
+	* Decision: Samuel Smith's Imperial Stout
+
+* Key differentiator:
+	* carbonation
+	* burnt taste
+	* texture

@@ -25,3 +25,14 @@ Goals
 	* reduced malt content in Irish Stout by up to 30%
 * Roasted barley is the defining grain in a 
 * common traits: black color, acrid, burnt, chocolate, coffee roast flavors; medium-high bitterness
+
+# Discussion Questions
+1. Do you think stouts work equally well in high and low ABVs?
+	1. Yes, but they're nearly two totally different things
+	2. A good imperial or tropical stout, or a baltic porter is like a little meal in a glass, with a profoundly rich character
+	3. A lighter stout is crisp and tasty, far more refreshing
+2. Based on 9a, how would you distinguish stouts?
+	1. Sweet stout: distinct sweetness, potentially milkiness
+	2. Oatmeal stout: silky texture 
+	3. the Irish, Extra, and Foreign Extra are all roasty, with increasing levels of bitterness
+	4. the tropical stout is thick and sweet
