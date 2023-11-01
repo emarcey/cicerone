@@ -1,5 +1,6 @@
 import random
 from pydantic import BaseModel, Field, validator
+from rich import print
 from typing import Dict, List, Optional, Tuple
 
 from src.utils import (
@@ -158,8 +159,35 @@ class BeerStyleMap(BaseModel):
         sorted_styles = sorted(list(self.styles.values()), key=lambda x: x.name)
         return "\n\n".join(map(str, sorted_styles))
 
-    def test_evaluate(self) -> Tuple[bool, str, str, str]:
+    def test_evaluate_style(self) -> Tuple[bool, str, str, str]:
         style = random.choice(list(self.styles))
-        print(self.styles[style].print_test())
-        guess = input("Enter style: ")
+        print("\n" + self.styles[style].print_test())
+        print("[magenta]Enter style: [/magenta]")
+        guess = input("")
         return guess.lower().strip() == style.lower().strip(), style, guess, self.styles[style].print_test()
+
+    def test_evaluate(self) -> None:
+        total = 0
+        correct = 0
+        mistakes = []
+        try:
+            while True:
+                is_correct, style, guess, printed = self.test_evaluate_style()
+                total += 1
+                if is_correct:
+                    print(f"[green]Correct![/green]")
+                    correct += 1
+                else:
+                    print(f"[red]Incorrect![/red] Guess: {guess}, Actual: {style}\n")
+                    if guess in self.styles:
+                        print("*** Your Guess ***")
+                        print(self.styles[style].print_test())
+                        print("***           ***")
+                    mistakes.append([style, guess, printed])
+        except KeyboardInterrupt:
+            print(f"Results: {total} Attempted; {correct} Correct\n")
+            idx = 0
+            for mistake in mistakes:
+                print(f"Mistake {idx}")
+                print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
+                print(f"Prompt:\n{mistake[2]}\n")

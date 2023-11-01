@@ -1,3 +1,6 @@
+build:
+	pipenv install --dev
+
 format:
 	pipenv run black --line-length 120 .
 
