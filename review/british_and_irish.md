@@ -69,6 +69,74 @@
 
 # Advanced Review Questions
 
+1. Ale fermentations are typically attributed to Saccharomyces cerevsiae, other organisms have played roles in some British and Irish flavors.
+	1. Which styles?
+		1. Porter - historically was a blend of young and old beer
+		2. Old Ale - aged beer that allows for some wild fermentation in the style guidelines
+	2. How does this compare to other cultures?
+		1. Belgians have a lot of intention in their wild fermentation, rather than it being a byproduct
+		2. Wild fermentation in Belgian beer is also often a primary fermentation method, rather than a side effect of cask aging
+2. Sometimes the soft spile may become blocked or clogged. What is the most probable cause and how might the publican fix it?
+	1. During maturation, yeast or dry hops may be bubbled up to clog the spile
+	2. To resolve, simple remove the spile, wipe down the shive, and replace the spile
+3. Compare and contrast Irish Red Ale and Scottish Export Ale
+	1. The two ales are fairly similar:
+			1. they are malt-balanced, with toasty, biscuity and caramel notes
+			2. their bitterness is low-moderate
+			3. their alcohol range is lower to normal
+			4. they are both generally brewed with a pale ale malt and roasted barley
+			5. they are both often an amber shade
+	2. The Scottish Export ale does have a slightly wider range of what is permissible
+		1. A higher and lower bitterness range
+		2. A higher ABV allowed
+	3. In the Irish red ale, a black malt is often a frequent specialty malt used, but that is not the case with an Irish Red Ale
+	4. A Scottish export may also have light hop flavor and aroma, which is not expected in an Irish Red Ale
+4. How does a Wee Heavy differ from an English Barleywine? Is there another English style more similar to Wee Heavy?
+	1. An English barleywine is far more bitter and often higher in ABV than a Wee Heavy
+	2. The Barley Wine will also tend to have a very full body, almost chewy, whereas a Wee Heavy will have a full, but not viscous body
+	3. The Barley Wine, due to being aged, often takes on sherry flavors, which are not present in the Wee Heavy
+	4. A British Strong Ale is probably more similar to a Wee Heavy
+		1. While it is still often hoppier than a Wee Heavy,
+		2. the ABV and body mouthfeel are closer
+		3. the malt-balanced caramel with dark fruit esters are the primary flavors of the two, without the additional flavors possible in an English Barley Wine
+		4. Neither the British Strong Ale nor the Wee Heavy are aged
+5. Consider Dark Mild, Scottish Light, Ordinary Bitter. Answer the following
+	1. Lowest ABV: Scottish light
+	2. Highest ABV: Ordinary Bitter
+	3. Lowest minimum bitterness: Scottish light (tie with Dark Mild)
+	4. Highest maximum bitterness: Ordinary Bitter
+	5. Lightest minimum color: Ordinary Bitter
+	6. Darkest maximum color: Dark Mild (tie with Scottish Light)
+6. How does a sparkler affect a beer? Describe the differences you might note between cask beer poured with/without a sparkler
+	1. A sparkler forces the poured beer through tiny holes in the spout, causing a very large head to form
+	2. With sparkler:
+		1. swirling foam
+		2. tight head
+		3. very low carbonation
+	3. Without sparkler:
+		1. minimal head
+		2. some carbonation
+		3. the traditional way
+7. What major beer type using a distinctive raw ingredient is missing in British beer?
+	1. Wheat beer
+8. What attributes distinguish styles with a sweet balance (Sweet, Oatmeal, Tropical)?
+	1. Sweet: simple roast flavor, clean fermentation profile, creamy but not silky body
+	2. Oatmeal: silky, creamy, even oily texture
+	3. Tropical: higher ABV, more dark fruit taste, notable hop bitterness, alcohol warmth
+9. What attributes distinguish the dry balanced stouts (Irish, Irish Extra, Foreign Extra)?
+	1. These stouts are on a ladder of increasing bitterness, ABV, and roast intensity (Irish -> Irish Extra -> Foreign Extra)
+10. What impact did the Free Mash Tun Act of 1880 have on the formulation of British and Irish beers?
+	1. Opened up brewing ingredients, allowed for substitutes during poor barley harvests
+	2. Also forced some technological advances (saccharometer) and licensing onto breweries that made it difficult for smaller breweries to compete
+11. When were each of the following malts first developed and used in brewing?
+	1. Black patent malt: 1817
+	2. Crystal malt: 1870s
+	3. Pale ale malt: early 1700s
+12. How does flaked barley differ from other adjuncts like corn or rice sugar? How is it similar?
+	1. Different:
+		1. contains proteins that improve head retention
+	2. Similar:
+		1. increases gravity without changing flavor
 # Example Cicerone Exam Questions
 1. Name the dark ale that emerged as one of the earliest recognizable beer styles during the 1700s in England
 	1. Porter

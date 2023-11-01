@@ -108,7 +108,24 @@ def load_styles(filename: str) -> BeerStyleMap:
 
 def test(filename: str) -> None:
     styles = load_styles(filename)
-    print(styles)
+    total = 0
+    correct = 0
+    mistakes = []
+    try:
+        while True:
+            is_correct, style, guess, printed = styles.test_evaluate()
+            total += 1
+            if is_correct:
+                correct += 1
+            else:
+                mistakes.append([style, guess, printed])
+    except KeyboardInterrupt:
+        print(f"Results: {total} Attempted; {correct} Correct")
+        idx = 0
+        for mistake in mistakes:
+            print(f"Mistake {idx}")
+            print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
+            print(f"Prompt:\n{mistake[2]}")
 
 
 @click.command()

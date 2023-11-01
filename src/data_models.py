@@ -1,5 +1,6 @@
+import random
 from pydantic import BaseModel, Field, validator
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 from src.utils import (
     snake_to_sentence_case,
@@ -132,7 +133,7 @@ class BeerStyle(BaseModel):
     def print_test(self) -> str:
         vals = []
         for k in ["region", "color", "alcohol", "bitterness"]:
-            v = self[v]
+            v = self.__dict__[k]
             if not v:
                 continue
             if k in ["name"]:
@@ -147,8 +148,7 @@ class BeerStyle(BaseModel):
                 tmp_v = delimiter.join(tmp_v)
             vals.append([snake_to_sentence_case(k), sep, tmp_v])
 
-        serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
-        return f"# {self.name}\n\n{serialized_vals}"
+        return "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
 
 
 class BeerStyleMap(BaseModel):
@@ -157,3 +157,9 @@ class BeerStyleMap(BaseModel):
     def __str__(self) -> str:
         sorted_styles = sorted(list(self.styles.values()), key=lambda x: x.name)
         return "\n\n".join(map(str, sorted_styles))
+
+    def test_evaluate(self) -> Tuple[bool, str, str, str]:
+        style = random.choice(list(self.styles))
+        print(self.styles[style].print_test())
+        guess = input("Enter style: ")
+        return guess.lower().strip() == style.lower().strip(), style, guess, self.styles[style].print_test()

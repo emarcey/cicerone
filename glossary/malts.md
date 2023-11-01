@@ -83,6 +83,7 @@
 * Notes:
 	* highly modified (starch readily accessible)
 	* base for many British/Irish styles
+	* first used in early 1700s when high-carbon coke was used to dry malts
 * Kilning: produced using two-row barley, kilned at higher temperature than US two-row or continental Pilsner
 * Flavors: toasty, biscuity
 * Color:  darker than Pilsner/American two-row

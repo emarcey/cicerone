@@ -132,7 +132,7 @@
 		* this was adopted as the standard barrel, incurring a charge of 6s 3d (31 1/4 new pence) -> 1/4 d per pint
 	* also specified a brewer needed to purchase an annual license to brew and must register premises and all pieces of brewing equipment
 	* 24 hours notice required before brewing
-	* wort needed to be colected and gauged within 12 hours of mashing
+	* wort needed to be collected and gauged within 12 hours of mashing
 	* saccharometer now essential, raised costs for small brewers prohibitively
 	* 1889, standard barrel OG reduced to 1055 to help smaller brewers
 	* 1993, duty changed to ABV of finished beer
