@@ -79,7 +79,7 @@
 2. Sometimes the soft spile may become blocked or clogged. What is the most probable cause and how might the publican fix it?
 	1. During maturation, yeast or dry hops may be bubbled up to clog the spile
 	2. To resolve, simple remove the spile, wipe down the shive, and replace the spile
-3. Compare and contrast Irish Red Ale and Scottish Export Ale
+3. Compare and contr~ast Irish Red Ale and Scottish Export Ale
 	1. The two ales are fairly similar:
 			1. they are malt-balanced, with toasty, biscuity and caramel notes
 			2. their bitterness is low-moderate
