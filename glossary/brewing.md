@@ -143,6 +143,11 @@
 	* designed to form a seal with a tap for dispensing beer
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
+* **Lightstruck:** beer with off-aromas due to 3MBT (3-methyl-2-butene-1-thiol), caused by unprotected exposure to UV light
+	* 1875, odor/taste first described by German chemist Dr. Carl Lintner
+	* 1960s, Yoshiro Kuroiwa helped figure out the cause, and that it was the blue part of the visible spectrum
+	* Caused by iso-alpha acids mixing with sulfur-containing compounds when light breaks them off
+	* New Tetra and hexa hops are resilient against skunking, known as "light stable"
 * **Nitrogenated beer:** this occurs when nitrogen (N2) is dissolved in beer (usually with a bit of CO2 - 70:30 ration of N2:CO2), most closely associated with Irish stouts
 	* notable for its foamy pour, followed by creamy, persistent head 
 		* this is due to relative insolubility of nitrogen in beer (about 100x less soluble than CO2)
@@ -170,6 +175,7 @@
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 * **Shive:** an instrument used to seal the large opening on the curved side of a cask.
 	* Designed to allow easy penetration of spile
+* **Skunked:** beer with off-aromas due to being lightstruck. See lightstruck.
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
 * **Spile:** a wooden or plastic peg used to control carbonation level during cask secondary fermentation
