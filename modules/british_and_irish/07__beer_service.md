@@ -170,6 +170,6 @@ Cask ale displays the following traits:
 	1. I would like to try Porterhouse's Oyster Stout
 	2. It has the low hop, thin body that is common in a Porter/Irish Stout, but the Oyster Stout has, as a rule, something very unique about its flavor, and I would love to see it produce that big head
 3. Other than stout, name one or more beer styles/commercial examples you believe should be offered "on nitro"? What about the flavor profile of these beers makes nitrogen dispense attractive?
-	1. Maybe another British/Irish style like a Bitter would be interesting to try
+	1. Maybe another British/Irish style like a Dark Mild would be interesting to try
 	2. They're fairly low on hops so the flavor won't really be affected, and they tend to be fairly low on carbonation
 	3. They also tend to form a decent head on their own, but making it creamier could be nice
