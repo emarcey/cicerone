@@ -1,0 +1,1 @@
+This is identical to the section in the [British course](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)

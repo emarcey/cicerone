@@ -15,6 +15,7 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
+* **Applied Pressure:** total gas pressure applied to a keg or serving tank
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
@@ -73,6 +74,12 @@
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
+* **Cooler-Wall Draft System:** one of two direct draw systems, which applies the kegerator system to a larger operation.
+	* Consists of a large walk-in cooler, with a shared wall with the bar. 
+	* draft faucets mounted on back bar (cooler wall)
+	* kegs sit inside the cooler
+	* beer hose carries beer a few feet to connector -> faucet shank -> faucet
+	* brewery vans use this principle
 * **Decoction:** traditional method of mashing, now controversial due to intensive nature
 	* German brewers tend to insist on its value to develop malt character, depth, foam
 	* Concept: remove part of mash, boil it, return to main mash
@@ -101,6 +108,8 @@
 	* desirable in some ales and stouts
 	* amount is strain-dependent, but wort and fermentation conditions can play a role
 	* can also be formed by spoilage bacteria (lactic acid bacteria especially) during storage
+* **Direct-Draw System:** the simpler of the two main draft systems. These usually move beer a short distance and remain fairly simple.
+	* Two primary types are kegerators and cooler-wall designs
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt
@@ -139,6 +148,9 @@
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Kegerator:** a type of direct-draw system, consisting of a small refrigerator cabinet that holds and cools keg, with a draft tower mounted for pouring.
+	* The beer moves a few feet from keg to glass
+	* A few number of brands, 1-8, at most
 * **Keystone:** a plastic or wooden insert used to seal the small opening on the flat surface of a cask
 	* designed to form a seal with a tap for dispensing beer
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
