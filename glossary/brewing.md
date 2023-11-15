@@ -15,7 +15,6 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
-* **Applied Pressure:** total gas pressure applied to a keg or serving tank
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
@@ -74,12 +73,6 @@
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
-* **Cooler-Wall Draft System:** one of two direct draw systems, which applies the kegerator system to a larger operation.
-	* Consists of a large walk-in cooler, with a shared wall with the bar. 
-	* draft faucets mounted on back bar (cooler wall)
-	* kegs sit inside the cooler
-	* beer hose carries beer a few feet to connector -> faucet shank -> faucet
-	* brewery vans use this principle
 * **Decoction:** traditional method of mashing, now controversial due to intensive nature
 	* German brewers tend to insist on its value to develop malt character, depth, foam
 	* Concept: remove part of mash, boil it, return to main mash
@@ -108,8 +101,6 @@
 	* desirable in some ales and stouts
 	* amount is strain-dependent, but wort and fermentation conditions can play a role
 	* can also be formed by spoilage bacteria (lactic acid bacteria especially) during storage
-* **Direct-Draw System:** the simpler of the two main draft systems. These usually move beer a short distance and remain fairly simple.
-	* Two primary types are kegerators and cooler-wall designs
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt
@@ -148,30 +139,8 @@
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
-* **Kegerator:** a type of direct-draw system, consisting of a small refrigerator cabinet that holds and cools keg, with a draft tower mounted for pouring.
-	* The beer moves a few feet from keg to glass
-	* A few number of brands, 1-8, at most
-* **Keystone:** a plastic or wooden insert used to seal the small opening on the flat surface of a cask
-	* designed to form a seal with a tap for dispensing beer
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
-* **Lightstruck:** beer with off-aromas due to 3MBT (3-methyl-2-butene-1-thiol), caused by unprotected exposure to UV light
-	* 1875, odor/taste first described by German chemist Dr. Carl Lintner
-	* 1960s, Yoshiro Kuroiwa helped figure out the cause, and that it was the blue part of the visible spectrum
-	* Caused by iso-alpha acids mixing with sulfur-containing compounds when light breaks them off
-	* New Tetra and hexa hops are resilient against skunking, known as "light stable"
-* **Nitrogenated beer:** this occurs when nitrogen (N2) is dissolved in beer (usually with a bit of CO2 - 70:30 ration of N2:CO2), most closely associated with Irish stouts
-	* notable for its foamy pour, followed by creamy, persistent head 
-		* this is due to relative insolubility of nitrogen in beer (about 100x less soluble than CO2)
-		* the head often lasts longer than the beer itself
-	* less carbonated than most beer, less acidic flavor
-	* mechanism:
-		* on draught, uses a special mechanism with a restrictor plate immediately before the faucet - perforated to encourage lots of small N2 bubble
-		* in canned beer, a widget replaces the restrictor plate
-	* first marketed during Guinness' 200th anniversary celebration in 1959
-		* initially called it easy serve
-		* first released only in England, then 5 years later in Ireland (1964)
-		* coincided for Guinness with use of metal kegs over wooden casks
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Open Fermentation:** fermentation that takes place in vessels "open" to environment; began prior to introduction of closed vessels
 	* now usually done in special clean rooms with minimal contamination and good air flow
@@ -185,15 +154,8 @@
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
 * **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
-* **Shive:** an instrument used to seal the large opening on the curved side of a cask.
-	* Designed to allow easy penetration of spile
-* **Skunked:** beer with off-aromas due to being lightstruck. See lightstruck.
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
-* **Spile:** a wooden or plastic peg used to control carbonation level during cask secondary fermentation
-	* first, bamboo: porous -> vents excess CO2
-	* then, non-porous wood/plastic: maintains carbonation level
-	* inserted into shive on side of cask
 * **Top Cropping:** also known as skimming
 	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
 	* collected yeast is used in following fermentations, or sold to other breweries, distilleries, farms
