@@ -30,6 +30,9 @@
 			- beer can still be dispensed (slowly) if they fail, but not possible if fixed pump fails
 		- should have FOB immediately after pump
 		- no more than 2 faucets per pump
+- **Blended Gas Bottles:** (also, G-Mix, Guinness Gas) pre-made blends of CO2 and Nitrogen, mixed by a vendor
+	- contain low volumes of gas because CO2 is a liquid at temperature needed to compress Nitrogen
+	- Blends of 25-30:70-75 should only be used for nitro beers
 - **Choker Line:** or, restriction tubing
 	- 3/16" ID vinyl or flexible tubing installed at the tower end of a long-draw system
 	- adds to overall system restriction in order to balance flow
@@ -50,6 +53,11 @@
 	* usually has a float in a sealed bowl that drops when beer flow stops
 	* should be cleaned every two weeks
 * **Faucet:** device that dispenses beer from draft system into glass
+* **Gas Blender:** a system that mixes pure CO2 and Nitrogen from individual tanks
+	* usually in single, double, or triple mix designs
+	* single-mix: usually CO2 rich for regularly carbonated (70:30)
+	* two-mix: usually one CO2 rich, one 25:75 for nitrogenated beers
+	* three-mix: two CO2 rich blends for beers at different carbonation levels, one nitrogenated blend
 * **Jumper Line:** or jumper hose; the portion of the beer line (usually 3/8" ID vinyl) that connects the regulator on the keg to a wall bracket, in a long-draw system
 * **Keg:** common container used for transport and storage of beer
 	* ranges from 5 - 15.5 gallons
@@ -68,6 +76,19 @@
 	* 1960s, Yoshiro Kuroiwa helped figure out the cause, and that it was the blue part of the visible spectrum
 	* Caused by iso-alpha acids mixing with sulfur-containing compounds when light breaks them off
 	* New Tetra and hexa hops are resilient against skunking, known as "light stable"
+- **Mixed Gases:** usually a blend of CO2 and Nitrogen, used for long-draw systems
+	- When displayed as a proportion, CO2 comes first
+		- e.g. 70:30 -> 70% CO2, 30% Nitrogen
+- **Nitrogen:** (N2) a gas used for nitrogenated beer, and for long-draw systems
+	- In long-draw systems:
+		- does not absorb into beer at typical operating pressures
+		- inert gas, meaning it does not affect the flavor of the beer
+- **Nitrogen Generators:** systems that extract Nitrogen from the atmosphere, using air provided by either a remote or integrated air compressor
+	- usually have an integrated gas blender
+	- To prevent Nitrogen purity from compromising beer quality:
+		- N2 production purity >= 99.7%
+		- air inlets with both oil/water and sterile air filters
+		- oil-free-type air compressors
 - **Nitrogenated beer:** this occurs when nitrogen (N2) is dissolved in beer (usually with a bit of CO2 - 70:30 ration of N2:CO2), most closely associated with Irish stouts
 	* notable for its foamy pour, followed by creamy, persistent head 
 		* this is due to relative insolubility of nitrogen in beer (about 100x less soluble than CO2)
@@ -80,6 +101,15 @@
 		* initially called it easy serve
 		* first released only in England, then 5 years later in Ireland (1964)
 		* coincided for Guinness with use of metal kegs over wooden casks
+* **Power Pack:** power unit that provides refrigeration that provides refrigeration to cool glycol and power to pump it
+	* Three components:
+		* Refrigeration Unit
+		* Pump
+		* Reservoir: while operating, should be nearly full because pump continuously circulates glycol
+			* contains refrigeration coils
+	* Usually has numerous settings and switches
+		* All systems include a thermostat
+		* May also have power switches/plugs that allow for independent operation of refrigeration unit and pump
 * **Static Resistance:** resistance provided by gravity
 * **Trunk Line:** the portion of the beer line in long-draw systems that connects the wall bracket to the faucet, choker line, or stainless steel line
 	* usually bundled beer and glycol coolants lines, wrapped in an insulating cover

@@ -60,7 +60,7 @@
 		- Germany: A or M slider
 		- Europe, broadly: S Sankey
 		- G grundy ?
-		- U system ?
+		- U system: Ireland, Guinness, Harp
 - Beer Line (also called jumper line): tubing beer flows through from coupler to faucet
 	- vinyl, specialized "barrier tubing," or stainless steel
 	- most systems use **clear vinyl**
