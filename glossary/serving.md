@@ -59,6 +59,9 @@
 	* two-mix: usually one CO2 rich, one 25:75 for nitrogenated beers
 	* three-mix: two CO2 rich blends for beers at different carbonation levels, one nitrogenated blend
 * **Jumper Line:** or jumper hose; the portion of the beer line (usually 3/8" ID vinyl) that connects the regulator on the keg to a wall bracket, in a long-draw system
+	* should usually be clear vinyl
+	* should be cleaned every 2 weeks
+	* should be replaced every 12 months, or when they become cloudy and discolored
 * **Keg:** common container used for transport and storage of beer
 	* ranges from 5 - 15.5 gallons
 	* usually stainless steel
