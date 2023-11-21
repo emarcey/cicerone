@@ -49,7 +49,7 @@ in 1800s, glass became popular -> appearance became an important quality indicat
 		* stein - handled mug
 			* common in 1800s, ceramic, often lidded
 			* Bavaria once regulated stein size, establishing the volume as the mass at 1 L in 1809
-		* Becher or other footed glass when without handle (pilsner glass)
+		* Belcher or other footed glass when without handle (pilsner glass)
 
 # Cleaning Glassware
 * beer makes dirty glasses very noticeable
