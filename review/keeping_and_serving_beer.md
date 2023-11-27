@@ -164,7 +164,7 @@ Setup:
 	2. Tap a fresh keg (ensure it is at the correct temperature)
 	3. Pour a small amount of beer
 	4. Observe keg in draught line directly above coupler
-		1. Inspect for bubles
+		1. Inspect for bubbles
 	5. If bubbles are present, increase pressure y 1 psi
 	6. Repeat until no bubbles present
 	7. Check keg temperature 24 hours later to assure temperature stability, and to adjust gauge pressure if there has been a change in keg temperature
@@ -181,3 +181,62 @@ Setup:
 		3. Add cold water
 		4. Set CO2 pressure to 35-40psi
 # Sample Cicerone Questions
+
+1. What does FOB stand for? What does it do?
+	1. Foam on Beer detector
+	2. It blocks beer from running once the keg is empty, ensuring that the line always stays packed
+2. The regulator attached to a gas tank usually includes two gauges? What do?
+	1. High pressure gauge: shows tank/supply pressure
+	2. Low pressure gauge: show pressure delivered to keg
+3. Why might a secondary regulator be included in a draft system?
+	1. To govern different pressures to individual kegs
+	2. The pressure from the primary regulator should be 5-10 psi higher than the pressure from the secondary regulators
+4. Why might a mixture of CO2 and N2 be applied to a keg?
+	1. Two main reasons:
+		1. the keg contains a nitro beer
+		2. the long-draw draft system is too long/has too much resistance for the use of CO2 alone, so N2 must be added to increase pressure without changing carbonation level
+5. What happens when too much CO2 pressure is applied to a keg?
+	1. The beer will be overcarbonated
+	2. The beer will foam at the faucet
+6. What happens when too little CO2 pressure is applied to a keg
+	1. The beer will be undercarbonated
+	2. There will be bubbles in the beer line
+7. What determines how much CO2 pressure should be applied?
+	1. Desired carbonation of beer in volumes of CO2
+	2. Temperature
+8. What determines how much gas pressure should be applied?
+	1. Total system resistance
+	2. Altitude
+9. How long does it take a keg to cool from 50°F to 38°F?
+	1. 25 hours
+10. What should you check on a jumper line to ensure it is not a cause of foaming beer?
+	1. Obstructions, kinds, tears, or damaged seals
+11. What are the two methods of line cleaning?
+	1. Static
+	2. Dynamic
+12. How often should lines be cleaned with an acid solution?
+	1. Quarterly
+	2. Caustic should be every 2 weeks
+13. What concentration of caustic solution is recommended for older/improperly cleaned lines?
+	1. 3%
+14. When working with caustic/acidic solutions, what PPE?
+	1. Gloves
+	2. Protective Eyewear
+	3. Suggested: non-slip, waterproof shoes
+15. What is the service life of vinyl hose for a jumper line?
+	1. About a year, unless discoloration/haziness noted before then
+16. What are growlers used for?
+	1. To-go service of draft beers
+17. When serving cask beer, what is a soft spile used for?
+	1. A soft spile is used during secondary fermentation to vent CO2, allowing the cask to reach the desired carbonation level
+	2. It should be replaced by a hard spile once the desired CO2 level has been achieved
+18. Name 3 styles a nonic pint glass could be served in
+	1. Porter
+	2. Dark Mild
+	3. Ordinary Bitter
+19. What type of glass would you use for a Belgian Dubbel?
+	1. Chalice, Tulip, Goblet
+20. In the US three-tier system, who buys from importers?
+	1. Retailers
+21. Light interacts with what common beer component to produce skunky flavors?
+	1. Isomerized alpha acids from hops

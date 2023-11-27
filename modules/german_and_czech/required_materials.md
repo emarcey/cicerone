@@ -1,0 +1,72 @@
+# Malts
+- [x] wheat
+- [x] pilsner
+- [ ] munich
+
+# Beers
+- [ ] 2b
+	- [x] German Weissbier
+	- [ ] One of
+		- [ ] Munich Helles
+		- [x] German Pils
+		- [ ] Kolsch
+	- [ ] One of
+		- [ ] Munich Dunkel
+		- [x] Doppelbock
+- [ ] 3a
+	- [x] Czech Premium Pale Lager
+	- [x] German Pils
+- [ ] 4a
+	- [ ] One of
+		- [x] Munich Helles
+		- [ ] International Pale Lager
+	- [ ] One of
+		- [ ] American Blonde Ale
+		- [x] American Wheat Ale
+	- [x] German Weissbier
+- [ ] 4b 
+- [ ] 8b
+	- [ ] one bottle of bottle-conditioned beer
+- [ ] 10b
+	- [x] Munich Dunkel
+	- [ ] Schwarzbier
+- [ ] 11a
+	- [ ] 4 or 5 different Marzen/Oktoberfest
+		- [ ] Paulaner Oktoberfest
+		- [ ] Schlenkerla Marzen
+		- [ ] Ayinger Oktoberfest
+		- [ ] Rothaus Marzen
+- [ ] 12a
+	- [x] Doppelbock
+	- [ ] Helles Bock
+- [ ] 12b
+	- [x] Doppelbock
+	- [ ] Belgian Dubbel
+	- [x] Schneider Aventinus Weizenbock
+- [ ] 13a
+	- [x] Munich Helles
+	- [x] German Pils
+	- [x] Czech Premium Pale Lager
+	- [ ] International Pale Lager
+- [ ] 14a
+	- [ ] 4 or 5 Weissbiers
+		- [ ] Schneider Weisse
+		- [ ] Ayinger Brau weisse
+		- [ ] Weihenstephaner
+		- [ ] Franziskaner
+- [ ] 14b
+	- [x] Dunkles Weissbier
+	- [x] Weizenbock
+	- [ ] Berliner Weisse
+	- [x] Gose
+- [ ] 14c
+	- [x] American Wheat Beer
+	- [ ] Belgian Witbier
+- [ ] 15b
+	- [x] Kolsch
+	- [x] German Pilsner
+	- [ ] Belgian Blonde
+- [ ] 15c
+	- [x] Altbier
+	- [ ] American Amber Ale
+	- [x] British Brown Ale

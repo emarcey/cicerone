@@ -106,6 +106,7 @@
 	* then mixed with water and 10-20% malt
 	* taken to boiling, then added to main mash at relatively low temp (113F/45C)
 	* leads to a rise in temperature to allow conversion of the starch from the malt
+* **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
 * **Esters:** largest group of flavor compounds in alcoholic beverages
 	* generate "fruity" aromas
 	* formed by combination of organic acids and alcohols
@@ -152,7 +153,29 @@
 		* top cropping allows yeast to be collected for future use
 * **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
-* **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
+* **Reinheitsgebot:** (also known as the Bavarian Purity Law of 1516, or the German Purity Law; originally called the Surrogatverbot)
+	* Original version:
+		* Issued in 1516 by Duke Whilhelm IV of Bavaria at the Assembly of Estates meeting in Ingolstadt
+		* Originally concerned mostly with taxes
+		* Specified that only malt, hops, water should be used in beer
+			* Brewers didn't know about yeast at the time
+		* world's oldest food safety legislation
+	* 1600s, yeast added
+	* 1873, German Imperial Law protected use of rice, green starch, and potato starch in Northern Germany
+	* 1906, current understanding of purity law adopted for 2nd German Empire
+	* 1918, name "Reinheitsgebot" was coined by Hans Rauch
+		* during debates involving the introduction of Bavaria to the German Empire as requisite
+		* requisite of Bavaria during formation of German Federal Republic in 1949
+	* 1987, European Court ruled that the Reinheitsgebot was an inadmissible restriction of free trade against beers brewed in Europe
+		* non-German brewers allowed to sell non-compliant beers in Germany
+		* German brewers restricted to Reinheitsgebot regulations, except when brewing beers for export
+			* Unless you're in Bavaria, then you have to follow the Reinheitsgebot, no matter what
+	* 1993 version
+		* Broader German Version:
+			* Lagers must be made only from barley malt, hops, yeast, and water
+			* Ales can include other malts (e.g. wheat), pure sugars, and colorants made from sugars
+		* Bavarian version still restrictive
+			* Additional allowances for malted wheat and malted rye in top-fermented beers only
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen

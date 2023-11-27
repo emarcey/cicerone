@@ -1,0 +1,22 @@
+- **Alt:**
+- **Bock:**
+- **Doppel:** double
+	- usually refers to a modest increase in malt and alcohol
+- **Dunkel:**
+- **Eis:** Ice
+	- refers to a beer that has undergone freeze distillation
+- **Hefe:**
+- **Hell:**
+- **Keller:**
+- **Kölsch:**
+- **Kristall:**
+- **Lagern:**
+- **Mai:** May, as in the month of May
+- **Märzen:**
+- **Oktober:** October
+- **Rauch:**
+- **Schwarz:**
+- **Stange:**
+- **Sticke:**
+- **Weiss:**
+- **Weizen:**
