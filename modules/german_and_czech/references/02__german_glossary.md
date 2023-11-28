@@ -5,6 +5,7 @@
 - **Dunkel:**
 - **Eis:** Ice
 	- refers to a beer that has undergone freeze distillation
+- **Farb:** color
 - **Hefe:**
 - **Hell:**
 - **Keller:**
@@ -14,7 +15,7 @@
 - **Mai:** May, as in the month of May
 - **Märzen:**
 - **Oktober:** October
-- **Rauch:**
+- **Rauch:** Smoke
 - **Schwarz:**
 - **Stange:**
 - **Sticke:**

@@ -23,6 +23,7 @@
 			* <1% of grist, much lower than porter/stout
 	* British:
 		* porter/stout
+	* German: Farb malt is infrequent, but sometimes found
 * Grain:
 	* Shape: small oval, fragmented because of high kilning
 	* Structure: no husk, line down middle
@@ -63,6 +64,7 @@
 		* Bière de Garde: color
 		* Flanders Red Ale/Oud Bruin: ruby hue
 	* British/Irish: numerous styles
+	* German: rare
 *  Grain:
 	* Shape: thick oval
 	* Structure: husk over end, joined at flatter side, seems like it's a little flimsier than the pale ale, line down middle
@@ -73,11 +75,18 @@
 * Notes:
 	* small range of colors
 	* slight differences in intensity
+	* first developed by Spaten Brewery, Munich in 1830s
+	* one of first indirectly fired kilns in Germany
+	* First style made with this: Märzen in 1841
 * Kilning: higher temperature and longer time than Pilsner or Vienna
+	* usually 50-70°C (120-160°F), then a quick cure at 110°C (230°F) to initiate Maillard reaction
 * Flavors: toast, biscuit, pretzel, muesli, bread crust
 * Color: amber, brown
 * Uses:
 	* Austrian/German: amber and dark lagers
+		* all Munich styles except Munich Helles and Helles Bock
+		* amber - dark brown (Munich Dunkel, Dunkles Bock)
+		* some beers might add a portion of Pilsner to lighten color/flavor
 	* Belgian: sparingly. Small portions in dubbels, some Bière de Garde. Base malt for Flanders Red
 # Pale Ale Malt
 * Notes:
@@ -102,15 +111,17 @@
 	* belgians use heavily for majority of grist for most styles
 	* made from two-row spring barley
 		* heavily modified (good protein degradation) during malting
+		* made possible due to soft water in Pilsen
 	* Named for Pilsner and Pilsen (1842, Bohemia)
 	* Original base malt was Haná, a common Bohemian/Moravian barley
 		* Many modern brewing barleys descend from Haná
 	* Should have good processing characteristics:
 		* favorable protein and glucan levels
 		* outstanding enzymatic strength for conversion of grain starches into malt sugars
-* Kilning: light, blonde
+* Kilning: light, blonde; short and low
 * Flavors: bread, grain, unsalted saltine, matzo, water cracker
 	* soft, round, direct, sweetly malty
+	* May contain dimethyl sulfied (DMS), which can contribute creamed corn flavor
 * Color: pale, blonde, 2.5-4 EBC (1.5-2.1 Lovibond)
 * Body: delicate maltiness, substantial body and mouthfeel, good foam development and head retention
 * Uses:
@@ -133,6 +144,19 @@
 		* toasty
 		* nutty/savory
 		* a little caramel/sourdough in the Bohemian Pilsner
+
+# Rauch Malt
+* Notes:
+	* Prior to 1840, German brewers exclusively used "direct kilned" malt
+	* Then indirect took over and made this less prominent
+	* Malt gets yeast smoky, so reusing yeast adds smokiness
+* Other Names: Smoked malt
+* Kilning: direct kilning with cured beechwood
+* Flavors: smoky, due to wood-kilning
+* Color: 
+* Uses:
+	* Germany: contemporary, small selection of smoke-flavored beers
+		* some smoked wheats as well as bocks
 # Roasted Barley
 * Notes:
 	* technically a specialty grain, not a specialty malt
@@ -174,10 +198,33 @@
 # Vienna
 * Notes:
 	* foundation of Austrian and German ambers and dark lagers
+	* developed contemporaneously with Munich Malt by Dreher Brewery, using indirect kilning
 * Kilning: higher temperature and longer time than Pilsner
+	* usually 50-70°C (120-160°F), then a quick cure at 110°C (230°F) to initiate Maillard reaction
 * Flavors: lightly toasted, slightly nutty, honey, cereal sweetness
 * Color: rich orange, light amber
 * Uses:
 	* Austrian/German: amber and dark lagers
 	* Belgian: sparingly. Small portions in dubbels, some Bière de Garde. Base malt for Flanders Red
 
+# Wheat (Malted)
+* Notes:
+	* Second most common after barley
+	* Modern wheat has high glucan and protein content, mashes rarely have more than 70% wheat malt
+		* possible to make 100% wheat malt, but it's tricky
+	* Weissbier was once an exclusive right of the Bavarian Royal Family; changed in 1872
+		* prior to that, wheat was too lofty an ingredient to waste on beer
+* Other Names:
+* Kilning: 
+* Flavors: bread, flour
+	* often a touch of acidity
+* Color: pale; honey - orange
+	* occasionally roasted/crystal
+* Body: lighter than barley, delicate texture
+* Uses:
+	* German: Weizen style beers
+* Grain:
+	* Shape
+	* Structure
+	* Color
+	* Flavor
