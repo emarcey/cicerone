@@ -111,6 +111,24 @@
 * Aroma/Flavor: earthy
 * Uses:
 	* few in modern era, but traditionally used in British ales
+
+# Hallertauer Mittelfrüh
+* Location: Hallertau, Germany
+* Other Names:
+* Notes:
+	* the king of noble hops
+	* landrace hop
+		* emerged from the land, so old that origins are unknown
+	* variations grown in Tettnang and Spalt (Tettnanger Hallertau and Spalter Hallertau, respectively)
+* Biology:
+	* Alpha Acid Content: 3-5.5%
+	* Beta Acid Content:  3-5.0%
+	* Cohumulone levels: 18-28%
+	* Humulene: 
+	* Oil Levels: 0.7-1.3%
+* Aroma/Flavor: spicy/herbal aroma, smooth bitterness
+	* some cedar, leather, tobacco as it ages
+* Uses: most lagers, especially pilsners
 # Northern Brewer
 * Location: Kent, England
 * Other Names:
@@ -165,6 +183,41 @@
 * Aroma/Flavor: fruit, juniper
 * Uses:
 	* classic English style ales
+
+# Saaz
+* Location: Czechia
+* Other Names:
+* Notes:
+	* one of 4 great noble hops
+		* similar to Tettnanger and Spalter
+	* Named after town of Žatec (Saaz in German), near Prague
+	* major hop produced in Czechia, and globally exported
+* Biology:
+	* Alpha Acid Content: 3-5%
+	* Beta Acid Content: 3-4%
+	* Cohumulone levels: 23%
+	* Humulene: 
+	* Oil Levels:
+* Aroma/Flavor: "uniquely pleasant," low bittering
+* Uses: Czech Pilsner
+	* many uses globally
+# Spalt
+* Location: Spalt, Bavaria, Germany
+* Other Names:
+* Notes:
+	* one of 4 major noble hops
+	* landrace hop, cultivating starting in 14th century
+	* 1538, Spalt received world's first seal of quality for hops from the Prince-Bishop of Eichstätt
+* Biology:
+	* Alpha Acid Content: 4-5%
+	* Beta Acid Content: 4-5%
+	* Cohumulone levels: 23-28%
+	* Humulene: 25%
+	* Oil Levels:
+* Aroma/Flavor: delicate, spicy
+* Uses:
+	* traditional hop for Altbier
+	* also works for pilsner, bock, kölsch, helles
 # Styrian Golding
 * Location: Slovenia; Styria, Austria
 * Other Names: Savinja Golding, Sannthaler
@@ -188,3 +241,19 @@
 	* versatile, ales & lagers
 	* some British breweries use for dry hopping
 	* common in Belgium
+# Tettnanger
+* Location: Tettnanger, Germany
+* Other Names:
+* Notes:
+	* landrace hop, origins unknown; cultivated since mid-1800s
+	* one of 4 major noble hops
+	* similar to Czech Saaz
+	* NOT the American Tettnanger
+* Biology:
+	* Alpha Acid Content: 2.5-5.5%
+	* Beta Acid Content: 3-5%
+	* Cohumulone levels:  22-28%
+	* Humulene: 
+	* Oil Levels:
+* Aroma/Flavor: citrus, grassy, very unique
+* Uses: traditionally for a German Pilsner
