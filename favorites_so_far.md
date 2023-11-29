@@ -14,13 +14,13 @@
 5. Old Rasputin
 	* Brewery: North Coast Brewing
 	* Style: Imperial Stout
-6. Celebrator
+6. Ayinger Celebrator
 	* Brewery: Ayinger
 	* Style: Doppelbock
 7. Karmeliet Tripel
 	* Brewery: Karmeliet
 	* Style: Tripel
-8. Van derKaiser
+8. Van der Kaiser
 	* Brewery: Gouden Carolus
 	* Style: Belgian Dark Strong
 9. Achel Bruin
