@@ -5,7 +5,7 @@ from rich import print
 from typing import Dict, List, Tuple
 
 from src.const import BULLET_REGEX, HEADER_REGEX, JSON_STYLE_PATH, NON_BULLET_REGEX, OUT_STYLE_PATH, STYLE_PATH
-from src.data_models import BeerStyle, BeerStyleMap
+from src.data_models import BeerStyle, BeerStyleMap, BeerStyleTestParams
 from src.generics import DictItem
 from src.utils import to_snake_case
 
@@ -107,9 +107,9 @@ def load_styles(filename: str) -> BeerStyleMap:
         return BeerStyleMap(**json.load(f))
 
 
-def test(filename: str) -> None:
+def evaluate(filename: str) -> None:
     styles = load_styles(filename)
-    styles.test_evaluate()
+    styles.evaluate(BeerStyleTestParams())
 
 
 @click.command()
@@ -118,7 +118,7 @@ def main(file_mode: str) -> None:
     if file_mode == "gen":
         gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
     elif file_mode == "test":
-        test(JSON_STYLE_PATH)
+        evaluate(JSON_STYLE_PATH)
     else:
         raise ValueError(f"Invalid file mode: {file_mode}")
 

@@ -11,7 +11,7 @@
 - **Keller:**
 - **Kölsch:**
 - **Kristall:**
-- **Lagern:**
+- **Lagern:** to store
 - **Mai:** May, as in the month of May
 - **Märzen:**
 - **Oktober:** October

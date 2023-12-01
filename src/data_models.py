@@ -1,7 +1,8 @@
 import random
 from pydantic import BaseModel, Field, validator
 from rich import print
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Set, Tuple
+from src.const import STYLE_CAT__HISTORICAL
 
 from src.utils import (
     snake_to_sentence_case,
@@ -13,6 +14,14 @@ from src.utils import (
     validate_optional_string_to_list_no_split,
     validate_string_input,
 )
+
+
+class BeerStyleTestParams(BaseModel):
+    exclude_categories: Set[str] = Field(
+        default_factory=lambda: {
+            STYLE_CAT__HISTORICAL,
+        }
+    )
 
 
 class MouthFeelProfile(BaseModel):
@@ -159,20 +168,36 @@ class BeerStyleMap(BaseModel):
         sorted_styles = sorted(list(self.styles.values()), key=lambda x: x.name)
         return "\n\n".join(map(str, sorted_styles))
 
-    def test_evaluate_style(self) -> Tuple[bool, str, str, str]:
-        style = random.choice(list(self.styles))
+    def test_evaluate_style(self, styles: Dict[str, BeerStyle]) -> Tuple[bool, str, str, str]:
+        style = random.choice(list(styles))
+        all_lower_style_names = [s.lower() for s in styles.keys()]
         print("\n" + self.styles[style].print_test())
         print("[magenta]Enter style: [/magenta]")
         guess = input("")
+        while guess not in all_lower_style_names and guess.lower() != "exit":
+            tmp_guess = input("Not a valid style. Try again or type 'exit' to quit:\n")
+            if tmp_guess == "exit":
+                break
+            guess = tmp_guess
         return guess.lower().strip() == style.lower().strip(), style, guess, self.styles[style].print_test()
 
-    def test_evaluate(self) -> None:
+    def _select_eligible_styles(self, params: BeerStyleTestParams) -> Dict[str, BeerStyle]:
+        eligible_styles: Dict[str, BeerStyle] = {}
+        for name, style in self.styles.items():
+            if len(set([cat.lower() for cat in style.categories]).intersection(params.exclude_categories)) > 0:
+                print(f"Excluding style: {name}")
+                continue
+            eligible_styles[name] = style
+        return eligible_styles
+
+    def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0
         correct = 0
         mistakes = []
+        eligible_styles = self._select_eligible_styles(params)
         try:
             while True:
-                is_correct, style, guess, printed = self.test_evaluate_style()
+                is_correct, style, guess, printed = self.test_evaluate_style(eligible_styles)
                 total += 1
                 if is_correct:
                     print(f"[green]Correct![/green]")

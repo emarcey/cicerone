@@ -13,5 +13,5 @@ typecheck:
 gen:
 	pipenv run python src/__init__.py --file_mode=gen
 
-test:
+evaluate:
 	pipenv run python src/__init__.py --file_mode=test

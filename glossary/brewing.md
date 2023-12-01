@@ -141,8 +141,25 @@
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
 * **Lagering:** Period of cold conditioning following primary fermentation of lagers
-	* Temperature is around 32-35°F (0-2°C)
-	* Lasts between 10 day and several months
+	* History
+		* Began prior to mechanical refrigeration, beer stored in cool caves
+		* Lager yeast slowly isolated as a result of its temperature resistance
+		* usually in horizontally-oriented, chilled tanks
+	* Process
+		1. primary fermentation at 47-50°F (8-10°C) for 5-7 days
+			1. takes longer than ale because of low temp
+		2. dead yeast and debris removed
+		3. beer cooled to 32-35°F (0-2°C)
+		4. lagered for 10 days - several months (usually 2-6 weeks (21 is modern standard); longer for stronger beers like Doppelbocks)
+			1. remaining active yeast ferments residual fermentable sugars
+			2. absorbs and reduce sulfur compounds, diacetyl, and acetaldehyde and made flavorless
+			3. process removes most sulfur, ester, and aldehyde flavors, resulting in a beer tasting primarily of malt and hops
+				1. also removes oxygen, limiting potential damage
+			4. reduces protein hazing
+		5. may have secondary fermentation during cold storage, otherwise might have short warm phase (62°F/16.5°C) to remove additional diacetyl and ferment residual sugar
+	*  Uses
+		* all lagers, obviously
+		* some ales, like altbier and kölsch
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
