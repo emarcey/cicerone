@@ -140,6 +140,9 @@
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Lagering:** Period of cold conditioning following primary fermentation of lagers
+	* Temperature is around 32-35°F (0-2°C)
+	* Lasts between 10 day and several months
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content

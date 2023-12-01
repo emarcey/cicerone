@@ -4,7 +4,7 @@
 - [ ] munich
 
 # Beers
-- [ ] 2b
+- [x] 2b
 	- [x] German Weissbier
 	- [ ] One of
 		- [ ] Munich Helles
@@ -13,10 +13,10 @@
 	- [ ] One of
 		- [ ] Munich Dunkel
 		- [x] Doppelbock
-- [ ] 3a
+- [x] 3a
 	- [x] Czech Premium Pale Lager
 	- [x] German Pils
-- [ ] 4a
+- [x] 4a
 	- [ ] One of
 		- [x] Munich Helles
 		- [ ] International Pale Lager
@@ -25,8 +25,10 @@
 		- [x] American Wheat Ale
 	- [x] German Weissbier
 - [ ] 4b 
+	- [ ] Fuller's London Pride
+	- [ ] Modelo Negra
 - [ ] 8b
-	- [ ] one bottle of bottle-conditioned beer
+	- [x] one bottle of bottle-conditioned beer
 - [ ] 10b
 	- [x] Munich Dunkel
 	- [ ] Schwarzbier
@@ -36,12 +38,12 @@
 		- [ ] Schlenkerla Marzen
 		- [ ] Ayinger Oktoberfest
 		- [ ] Rothaus Marzen
-- [ ] 12a
+- [x] 12a
 	- [x] Doppelbock
-	- [ ] Helles Bock
+	- [x] Helles Bock
 - [ ] 12b
 	- [x] Doppelbock
-	- [ ] Belgian Dubbel
+	- [x] Belgian Dubbel
 	- [x] Schneider Aventinus Weizenbock
 - [ ] 13a
 	- [x] Munich Helles
