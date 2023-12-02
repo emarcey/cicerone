@@ -2656,7 +2656,10 @@
             "other_names": [
                 "Franconian-Style Rotbier"
             ],
-            "glassware": [],
+            "glassware": [
+                "Becher",
+                "Munich Stein"
+            ],
             "color": {
                 "color_range": [
                     "amber",
@@ -2680,7 +2683,9 @@
             },
             "bitterness": {
                 "bitterness_range": [
-                    "moderate"
+                    "low",
+                    "medium",
+                    "low"
                 ],
                 "ibu_low": 20.0,
                 "ibu_high": 28.0
@@ -2694,15 +2699,20 @@
                 ],
                 "fermentation": [
                     "clean",
-                    "no fruity esters nor other chracteristics"
+                    "no fruity esters nor other characteristics"
                 ],
                 "hop": [
                     "low-medium low",
                     "typical noble hops attributes"
                 ]
             },
-            "commercial_examples": [],
-            "notes": []
+            "commercial_examples": [
+                "Schlenkerla Rotbier (also kind of a Rauchbier)"
+            ],
+            "notes": [
+                "\t- rare, not recognized by BJCP",
+                "\t- clear to slightly hazy"
+            ]
         },
         "Saison": {
             "name": "Saison",

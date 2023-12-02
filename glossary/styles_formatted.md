@@ -936,17 +936,22 @@ two_groups
 - Malt: Barley, Rye
 - Hops: Noble Hops
 - Other names: Franconian-Style Rotbier
+- Glassware: Becher, Munich Stein
 - Color: amber - dark red (13.0 - 23.0 SRM)
 - Alcohol: normal (4.8 - 5.6% ABV)
 - Mouthfeel: 
 	- body: medium
 	- carbonation: 
 	- alcohol_warmth: 
-- Bitterness: moderate (20.0 - 28.0 IBU)
+- Bitterness: low - medium - low (20.0 - 28.0 IBU)
 - Flavors: 
 	- malt: light toast, caramel, biscuit, sweetness
-	- fermentation: clean, no fruity esters nor other chracteristics
+	- fermentation: clean, no fruity esters nor other characteristics
 	- hop: low-medium low, typical noble hops attributes
+- Commercial examples: Schlenkerla Rotbier (also kind of a Rauchbier)
+- Notes: 
+	- rare, not recognized by BJCP
+	- clear to slightly hazy
 
 # Saison
 

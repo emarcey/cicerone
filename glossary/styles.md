@@ -968,8 +968,8 @@
 * Flavors: 
 	* malt: light toast, caramel, biscuit, sweetness
 	* hop: low-medium low, typical noble hops attributes
-	* fermentation: clean, no fruity esters nor other chracteristics
-* Commercial Examples:
+	* fermentation: clean, no fruity esters nor other characteristics
+* Commercial Examples: Schlenkerla Rotbier (also kind of a Rauchbier)
 * Notes:
 	* rare, not recognized by BJCP
 	* clear to slightly hazy
