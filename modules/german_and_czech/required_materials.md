@@ -24,20 +24,20 @@
 		- [ ] American Blonde Ale
 		- [x] American Wheat Ale
 	- [x] German Weissbier
-- [ ] 4b 
+- [x] 4b 
 	- [ ] Fuller's London Pride
 	- [ ] Modelo Negra
-- [ ] 8b
+- [x] 8b
 	- [x] one bottle of bottle-conditioned beer
 - [ ] 10b
 	- [x] Munich Dunkel
-	- [ ] Schwarzbier
+	- [x] Schwarzbier
 - [ ] 11a
 	- [ ] 4 or 5 different Marzen/Oktoberfest
-		- [ ] Paulaner Oktoberfest
-		- [ ] Schlenkerla Marzen
-		- [ ] Ayinger Oktoberfest
-		- [ ] Rothaus Marzen
+		- [x] Paulaner Oktoberfest
+		- [x] Schlenkerla Marzen
+		- [x] Ayinger Oktoberfest
+		- [x] Rothaus Marzen
 - [x] 12a
 	- [x] Doppelbock
 	- [x] Helles Bock
@@ -52,10 +52,10 @@
 	- [ ] International Pale Lager
 - [ ] 14a
 	- [ ] 4 or 5 Weissbiers
-		- [ ] Schneider Weisse
-		- [ ] Ayinger Brau weisse
-		- [ ] Weihenstephaner
-		- [ ] Franziskaner
+		- [x] Schneider Weisse
+		- [x] Ayinger Brau weisse
+		- [x] Weihenstephaner
+		- [x] Franziskaner
 - [ ] 14b
 	- [x] Dunkles Weissbier
 	- [x] Weizenbock
@@ -70,5 +70,5 @@
 	- [ ] Belgian Blonde
 - [ ] 15c
 	- [x] Altbier
-	- [ ] American Amber Ale
+	- [x] American Amber Ale
 	- [x] British Brown Ale

@@ -2638,6 +2638,72 @@
                 "\t\t- Vender Ghinste Roodbruin blends fermented beer and a brown lager"
             ]
         },
+        "Rotbier": {
+            "name": "Rotbier",
+            "region": "Franconia, Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Specialty"
+            ],
+            "malt": [
+                "Barley",
+                "Rye"
+            ],
+            "hops": [
+                "Noble Hops"
+            ],
+            "other_names": [
+                "Franconian-Style Rotbier"
+            ],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "dark red"
+                ],
+                "srm_low": 13.0,
+                "srm_high": 23.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.8,
+                "abv_high": 5.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 28.0
+            },
+            "flavors": {
+                "malt": [
+                    "light toast",
+                    "caramel",
+                    "biscuit",
+                    "sweetness"
+                ],
+                "fermentation": [
+                    "clean",
+                    "no fruity esters nor other chracteristics"
+                ],
+                "hop": [
+                    "low-medium low",
+                    "typical noble hops attributes"
+                ]
+            },
+            "commercial_examples": [],
+            "notes": []
+        },
         "Saison": {
             "name": "Saison",
             "region": "Belgium, Wallonia",

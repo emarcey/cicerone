@@ -2,7 +2,7 @@ import random
 from pydantic import BaseModel, Field, validator
 from rich import print
 from typing import Dict, List, Optional, Set, Tuple
-from src.const import STYLE_CAT__HISTORICAL
+from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 
 from src.utils import (
     snake_to_sentence_case,
@@ -17,11 +17,7 @@ from src.utils import (
 
 
 class BeerStyleTestParams(BaseModel):
-    exclude_categories: Set[str] = Field(
-        default_factory=lambda: {
-            STYLE_CAT__HISTORICAL,
-        }
-    )
+    exclude_categories: Set[str] = Field(default_factory=lambda: {STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY})
 
 
 class MouthFeelProfile(BaseModel):

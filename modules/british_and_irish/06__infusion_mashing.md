@@ -39,7 +39,7 @@ Goals
 			* too wet -> too hot
 			* too dry -> too cool
 * Saccharification rests are usually 1 hour (up to 90 minutes)
-* Sparging is gentle, kept free frm standing water
+* Sparging is gentle, kept free from standing water
 	* at end of lautering, mash is allowed to descend
 * Some types of beers (namely wheat beers) can be more difficult to brew, because there are no temperature rests
 

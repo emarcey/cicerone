@@ -90,5 +90,5 @@ longer shelf life/better aging
 	* So it would really be: am I running a boutique operation or a mass production one
 		* and if boutique, do I want that high carbonation 
 * 
-* Have you ever had bottle-conditioned alongside draft?
+* Have you ever had a bottle-conditioned beer alongside a draft of the same beer?
 	* No...

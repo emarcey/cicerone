@@ -951,6 +951,29 @@
 		* Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years
 		* Vender Ghinste Roodbruin blends fermented beer and a brown lager
 
+# Rotbier
+* Region: Franconia, Germany
+* Categories: German Lagers, Lagers, Specialty
+* Malt: Barley, Rye
+* Hops: Noble Hops
+* Other Names: Franconian-Style Rotbier
+* Glassware: Becher, Munich Stein
+* Color: amber - dark red (13-23 SRM)
+* Alcohol:  normal (4.8 - 5.6% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation:
+	* alcohol warmth: 
+* Bitterness: low - medium-low (20-28 IBUs)
+* Flavors: 
+	* malt: light toast, caramel, biscuit, sweetness
+	* hop: low-medium low, typical noble hops attributes
+	* fermentation: clean, no fruity esters nor other chracteristics
+* Commercial Examples:
+* Notes:
+	* rare, not recognized by BJCP
+	* clear to slightly hazy
+
 # Saison
 * Region: Belgium, Wallonia
 * Categories: French and Belgian Beers, Farmhouse Beers

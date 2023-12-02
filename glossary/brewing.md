@@ -18,6 +18,9 @@
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
+	* Uses:
+		* common in Belgian beers
+		* German, usually just weizen beers
 * **Burton Union System:** wood barrel fermentation system used in Burton-on-Trent, England in 19th century
 	* also called Union Set
 	* Breweries:
@@ -73,7 +76,7 @@
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
-* **Decoction:** traditional method of mashing, now controversial due to intensive nature
+* **Decoction Mashing:** traditional method of mashing, now controversial due to intensive nature
 	* German brewers tend to insist on its value to develop malt character, depth, foam
 	* Concept: remove part of mash, boil it, return to main mash
 	* Goals:
@@ -84,7 +87,7 @@
 		* at each, mash is separated 1 part solid to 3 parts liquid
 		* thickest part is pumped into mash tun kettle for boiling
 		* then, thick mash is separated/heated/boiled again
-		* third step: liquid mask is boiled
+		* third step: liquid mash is boiled
 			* doesn't actually make sense scientifically?
 			* original idea was to get a sweet/thick lent beer?
 	* triple decoction makes sense for dark and enzyme weak malts, but not for well-modified modern pale malts

@@ -1,0 +1,2 @@
+See [Belgian section](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F06__bottle_conditioning)
+See [Keeping and Serving Beer section](obsidian://open?vault=cicerone&file=modules%2Fkeeping_and_serving_beer%2F05__bottled_beer)

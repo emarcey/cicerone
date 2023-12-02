@@ -13,3 +13,4 @@ ALCOHOL_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.
 BITTERNESS_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?) *IBUs\)")
 
 STYLE_CAT__HISTORICAL = "historical"
+STYLE_CAT__SPECIALTY = "specialty"
