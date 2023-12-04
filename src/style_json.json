@@ -1575,6 +1575,84 @@
                 "\t- very small audience"
             ]
         },
+        "Festbier": {
+            "name": "Festbier",
+            "region": "Bavaria, Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Pale Lagers"
+            ],
+            "malt": [
+                "Pilsner malt base",
+                "some Vienna or Munich"
+            ],
+            "hops": [
+                "Noble hops"
+            ],
+            "other_names": [
+                "Oktoberfest (only when brewed in Munich)"
+            ],
+            "glassware": [
+                "Ein Mass",
+                "Munich Stein",
+                "Becher"
+            ],
+            "color": {
+                "color_range": [
+                    "light gold",
+                    "gold"
+                ],
+                "srm_low": 4.0,
+                "srm_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "abv_low": 5.8,
+                "abv_high": 6.3,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "medium",
+                "alcohol_warmth": "minimal, if at all"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 25.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt-balanced; bread",
+                    "cracker",
+                    "subtle sweetness"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low - moderate bitterness; minimal hop flavor/aroma"
+                ]
+            },
+            "commercial_examples": [
+                "Augustiner Oktoberfest",
+                "Hacker-Pschorr Superior Festbier Hofbr\u00e4u Festbier",
+                "Paulaner Wiesn",
+                "Weihenstephaner Festbier"
+            ],
+            "notes": [
+                "\t- Bavarians used M\u00e4rzen to celebrate wedding of Crown Prince Ludwig in 1810",
+                "\t\t- annual celebrations became increasingly elaborate and ultimately called Oktoberfest",
+                "\t- M\u00e4rzen and Festbier were once indistinguishable",
+                "\t\t- now, Festbier is usually lighter in color"
+            ]
+        },
         "Flanders Red Ale": {
             "name": "Flanders Red Ale",
             "region": "West Flanders, Belgium",
@@ -2364,6 +2442,90 @@
                 "\t\t\t- very complex; no residual sugar; mixed acid/fruit/funk"
             ]
         },
+        "M\u00e4rzen": {
+            "name": "M\u00e4rzen",
+            "region": "Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "Munich malt base"
+            ],
+            "hops": [
+                "Noble hops"
+            ],
+            "other_names": [
+                "M\u00e4rzenbier",
+                "March beer"
+            ],
+            "glassware": [
+                "Becher",
+                "Munich Stein"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "dark amber"
+                ],
+                "srm_low": 8.0,
+                "srm_high": 17.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "abv_low": 5.6,
+                "abv_high": 6.3,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "medium",
+                "alcohol_warmth": "slight"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 24.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt balanced; toast",
+                    "biscuit; aroma may be sweet",
+                    "but flavor should not be"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low - moderate bitterness; very low aroma/flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Hacker Pschorr Oktoberfest-M\u00e4rzen",
+                "Paulaner Oktoberfest-M\u00e4rzen",
+                "Ayinger Oktoberfest-M\u00e4rzen",
+                "Samuel Adams Oktoberfest",
+                "Victory Festbier"
+            ],
+            "notes": [
+                "\t- for hundreds of years, brewing was seasonal between October and March (by decree of Duke Albrecht V in 1553)",
+                "\t\t- later batches were brewed a bit stronger and named for March month of brewering",
+                "\t\t\t- These stayed in storage until October (start of next brewing season)",
+                "\t\t\t- Added strength helped preserve",
+                "\t- Some credit Gabriel Sedlmayr and Anton Dreher with the creation of this style in the 1840s",
+                "\t\t- better to consider as a broad historical evolution",
+                "\t\t- lagers made for hundreds of years, and a beer called M\u00e4rzen had been brewed for centuries",
+                "\t\t- Chief contribution was introduction of indirect kilning, allowing less smokey malts",
+                "\t\t- first fixed instance was at Oktoberfest in 1841, when Spaten Brewery of Munich introduced the first m\u00e4rzenbier",
+                "\t\t- That year, Dreher Brewery near Vienna came out with a Vienna lager"
+            ]
+        },
         "Munich Dunkel": {
             "name": "Munich Dunkel",
             "region": "Munich, Germany",
@@ -2719,6 +2881,77 @@
                 "\t- some Oud Bruins way different from Liefmans",
                 "\t\t- Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years",
                 "\t\t- Vender Ghinste Roodbruin blends fermented beer and a brown lager"
+            ]
+        },
+        "Rauchbier": {
+            "name": "Rauchbier",
+            "region": "Bamberg, Bavaria, Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "rauch malt",
+                "Munich malt"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Becher",
+                "Munich Stein"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 12.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.8,
+                "abv_high": 6.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt-balanced; toast",
+                    "biscuit; light - overwhelming wood smoke flavor"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low - moderate bitterness; very low hop aroma/flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Aecht Schlenkerla Rauchbier M\u00e4rzen",
+                "Aecht Schlenkerla Rauchbier Urbock",
+                "Aecht Schlenkerla Eiche",
+                "Spezia Rauchbier Lager"
+            ],
+            "notes": [
+                "\t- German smoked beer based on the M\u00e4rzen style",
+                "\t- Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)"
             ]
         },
         "Rotbier": {
@@ -3540,6 +3773,78 @@
             "notes": [
                 "\t- Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance",
                 "\t- Softer roast character compared to Foreign Extra"
+            ]
+        },
+        "Vienna Lager": {
+            "name": "Vienna Lager",
+            "region": "Vienna, Austria",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "Vienna malt"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Munich Stein",
+                "Becher"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "amber"
+                ],
+                "srm_low": 9.0,
+                "srm_high": 15.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.7,
+                "abv_high": 5.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "biscuit",
+                    "toast"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low floral/spicy"
+                ]
+            },
+            "commercial_examples": [
+                "Devils Backbone Vienna Lager",
+                "Figueroa Mountain Danish Red Lager",
+                "Schell's Firebrick",
+                "Heavy Seas Cutlass",
+                "Ottakringer Wiener Original",
+                "Theresianer Vienna"
+            ],
+            "notes": [
+                "\t- Vienna malt is a bit lighter than Munich malt, so lighter in color than M\u00e4rzens and Munich Dunkels"
             ]
         },
         "Wee Heavy": {

@@ -182,6 +182,20 @@
 		* some ales, like altbier and kölsch
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
+* **Oktoberfest:** locally called Wiesn (the meadow) is a folk festival in Theresienwiese in Munich from the last 2 weekends of September to the first weekend of October
+	* began in 1810 with the marriage of Prince Ludwig
+	* image tied to immense beer tents (that can fit thousands of people!)
+	* beer is served in iconic masskrugs, selling about 6.5 million servings over the period
+	* strict regulations around beer served: only specific Munich breweries: Augustinerbräu Munchen, Kacker-Pschorr, Hofbräu, Löwenbräu, Paulaner, Spaten-Franziskaner-Bräu
+	* Beer used:
+		* first 60 yeasr, dominated by Bavarian Dunkel
+		* 1872, Vienna Lager also sold because Spaten-Leistbräu ran out of Dunkel
+			* probably around 8% bock, led to bock dominance until WW1
+		* Modern beer range now 5.8-6.3%
+		* Until 1990, marzenbier was dominant
+		* After 1990, more of a golden Festbier
+	* Used as a national symbol during Napoleonic wars, German unification in 1870s, Nazis in 1930s, reunification in 90s
+	* from 1870s, moved for weather reasons to be a little earlier
 * **Original Gravity:** density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 * **Open Fermentation:** fermentation that takes place in vessels "open" to environment; began prior to introduction of closed vessels
 	* now usually done in special clean rooms with minimal contamination and good air flow

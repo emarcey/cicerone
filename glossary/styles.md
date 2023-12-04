@@ -540,6 +540,31 @@
 	* sometimes a blend of lambic and non-lambic
 	* flash pasteurized
 	* very small audience
+
+# Festbier
+* Region: Bavaria, Germany
+* Categories: German Lagers, Lagers, Pale Lagers
+* Malt: Pilsner malt base, some Vienna or Munich
+* Hops:  Noble hops
+* Other Names: Oktoberfest (only when brewed in Munich)
+* Glassware: Ein Mass, Munich Stein, Becher
+* Color: light gold - gold (4-6 SRM)
+* Alcohol: normal - elevated (5.8 - 6.3% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: medium
+	* alcohol warmth: minimal, if at all
+* Bitterness: low (18-25 IBUs)
+* Flavors: 
+	* malt: malt-balanced; bread, cracker, subtle sweetness
+	* hop: low - moderate bitterness; minimal hop flavor/aroma
+	* fermentation: clean
+* Commercial Examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
+* Notes:
+	* Bavarians used Märzen to celebrate wedding of Crown Prince Ludwig in 1810
+		* annual celebrations became increasingly elaborate and ultimately called Oktoberfest
+	* Märzen and Festbier were once indistinguishable
+		* now, Festbier is usually lighter in color
 # Flanders Red Ale
 * Region: West Flanders, Belgium
 * Categories: Flanders Ales and Lambic Beers
@@ -670,8 +695,6 @@
 	* once bottled, stored for a few months to a year
 		* referment -> new flavors -> **rising carbonation**
 		* may be enjoyed for many years (as much as 2 decades!)
-
-
 # Imperial Stout
 * Region: Britain, North America
 * Categories: British Dark Ales, Stouts
@@ -815,6 +838,36 @@
 		* old, bottle produce (wood aged 3 years+ then bottle conditioning)
 			* very complex; no residual sugar; mixed acid/fruit/funk
 
+# Märzen
+* Region: Germany
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: Munich malt base
+* Hops: Noble hops
+* Other Names: Märzenbier, March beer
+* Glassware: Becher, Munich Stein
+* Color: gold - dark amber (8-17 SRM)
+* Alcohol: normal - elevated (5.6 - 6.3% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: medium
+	* alcohol warmth: slight
+* Bitterness: low (18 - 24 IBUs)
+* Flavors: 
+	* malt: malt balanced; toast, biscuit; aroma may be sweet, but flavor should not be
+	* hop: low - moderate bitterness; very low aroma/flavor
+	* fermentation: clean
+* Commercial Examples: Hacker Pschorr Oktoberfest-Märzen, Paulaner Oktoberfest-Märzen, Ayinger Oktoberfest-Märzen, Samuel Adams Oktoberfest, Victory Festbier
+* Notes:
+	* for hundreds of years, brewing was seasonal between October and March (by decree of Duke Albrecht V in 1553)
+		* later batches were brewed a bit stronger and named for March month of brewering
+			* These stayed in storage until October (start of next brewing season)
+			* Added strength helped preserve
+	* Some credit Gabriel Sedlmayr and Anton Dreher with the creation of this style in the 1840s
+		* better to consider as a broad historical evolution
+		* lagers made for hundreds of years, and a beer called Märzen had been brewed for centuries
+		* Chief contribution was introduction of indirect kilning, allowing less smokey malts
+		* first fixed instance was at Oktoberfest in 1841, when Spaten Brewery of Munich introduced the first märzenbier
+		* That year, Dreher Brewery near Vienna came out with a Vienna lager
 # Munich Dunkel
 * Region: Munich, Germany
 * Categories: German Lagers, Lagers, Dark Lagers
@@ -977,6 +1030,29 @@
 	* some Oud Bruins way different from Liefmans
 		* Petrus Oud Bruin blends a young brown beer and a sour, highly hopped pale ale aged for 2 years
 		* Vender Ghinste Roodbruin blends fermented beer and a brown lager
+
+# Rauchbier
+* Region: Bamberg, Bavaria, Germany
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: rauch malt, Munich malt
+* Hops: Noble
+* Other Names:
+* Glassware: Becher, Munich Stein
+* Color: amber - brown (12 - 22 SRM)
+* Alcohol: normal (4.8 - 6% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: medium - medium-high
+	* alcohol warmth
+* Bitterness: moderate (20-30 IBUs)
+* Flavors: 
+	* malt: malt-balanced; toast, biscuit; light - overwhelming wood smoke flavor
+	* hop: low - moderate bitterness; very low hop aroma/flavor
+	* fermentation: clean
+* Commercial Examples: Aecht Schlenkerla Rauchbier Märzen, Aecht Schlenkerla Rauchbier Urbock, Aecht Schlenkerla Eiche, Spezia Rauchbier Lager
+* Notes:
+	* German smoked beer based on the Märzen style
+	* Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)
 
 # Rotbier
 * Region: Franconia, Germany
@@ -1232,6 +1308,28 @@
 * Notes:
 	* Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance
 	* Softer roast character compared to Foreign Extra
+
+# Vienna Lager
+* Region: Vienna, Austria
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: Vienna malt
+* Hops: Noble
+* Other Names:
+* Glassware: Munich Stein, Becher
+* Color: light amber - amber (9-15 SRM)
+* Alcohol: normal (4.7 - 5.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: moderate
+	* alcohol warmth
+* Bitterness: moderate (18-30 IBUs)
+* Flavors: 
+	* malt: bread, biscuit, toast
+	* hop: low floral/spicy
+	* fermentation: clean
+* Commercial Examples: Devils Backbone Vienna Lager, Figueroa Mountain Danish Red Lager, Schell's Firebrick, Heavy Seas Cutlass, Ottakringer Wiener Original, Theresianer Vienna
+* Notes:
+	* Vienna malt is a bit lighter than Munich malt, so lighter in color than Märzens and Munich Dunkels
 
 # Wee Heavy
 * Region: Scotland
