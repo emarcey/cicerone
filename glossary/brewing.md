@@ -143,6 +143,23 @@
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Lager:** one of two major types of beer (the other being ale), primarily distinguished by choice of yeast
+	* As a result of yeast difference
+		* lagers are fermented longer and colder
+		* fewer fermentation characteristics
+		* cleaner ad crisper
+		* bottom-fermenting
+		* taste focused on malt and hops
+	* history
+		* developed in colder german climates
+		* Munich is at the same latitude as northern Minnesota, and is 3,500 feet above sea level
+		* brewing was a seasonal occupation because cold-fermented beer lasted longer and avoided spoilage better
+			* 1553, Duke Albrecht V of Bavaria declared that all beer brewing had to stop between April 23 and September 29
+			* virtually all lager styles have Bavarian roots
+			* originally cooled in cellars or ice-packed caves
+			* in 1873, Carl von Lide invented mechanical refrigeration for beer storage tanks
+			* allowed lagers to travel around the world
+			* now, 9/10 beers consumed are lagers
 * **Lagering:** Period of cold conditioning following primary fermentation of lagers
 	* History
 		* Began prior to mechanical refrigeration, beer stored in cool caves

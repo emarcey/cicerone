@@ -2364,6 +2364,89 @@
                 "\t\t\t- very complex; no residual sugar; mixed acid/fruit/funk"
             ]
         },
+        "Munich Dunkel": {
+            "name": "Munich Dunkel",
+            "region": "Munich, Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "Munich malt"
+            ],
+            "hops": [
+                "Noble hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Munich Stein",
+                "Masskrug",
+                "Ein Mass"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 17.0,
+                "srm_high": 28.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.5,
+                "abv_high": 5.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium full",
+                "carbonation": "moderate",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 18.0,
+                "ibu_high": 28.0
+            },
+            "flavors": {
+                "malt": [
+                    "toast",
+                    "biscuit; no sugar or caramel sweetness"
+                ],
+                "fermentation": [
+                    "none"
+                ],
+                "hop": [
+                    "moderate bitterness",
+                    "low hop flavor and aroma (spicy",
+                    "herbal",
+                    "floral if any)"
+                ]
+            },
+            "commercial_examples": [
+                "Hacker-Pschorr M\u00fcnchner Dunkel",
+                "Hofbr\u00e4u Dunkel",
+                "Gordon Biersch Dunkel",
+                "Capital Dark",
+                "Harpoon Dark",
+                "Ayinger Altbairisch Dunkel",
+                "Lakefront Eastside Dark",
+                "Adeschser Export Dunkel"
+            ],
+            "notes": [
+                "\t- was the everyday beer in munich for centuries, now second to the Munich Helles",
+                "\t\t- still most popular in some regions, like Franconia",
+                "\t- Franconian variant is drier than Munich",
+                "\t- usually produed with extensive decoction",
+                "\t- 1st beer style codified and regulated due to 1516 Reinheitsgebot",
+                "\t\t- Czech \u010cern\u00e9 pivo is  similar",
+                "\t\t- also popular in US, Mexico and South America due to german immigration"
+            ]
+        },
         "Oatmeal Stout": {
             "name": "Oatmeal Stout",
             "region": "Britain",
@@ -2816,6 +2899,87 @@
                 "\t\t- 3.5-5% ABC: session strength",
                 "\t- Many examples are bottle conditioned, giving a light tartness and funk",
                 "\t\t- overtly sour, and those with Brett, should not be considered saisons"
+            ]
+        },
+        "Schwarzbier": {
+            "name": "Schwarzbier",
+            "region": "Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "Munich malt",
+                "roasted malt"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [
+                "Black Lager"
+            ],
+            "glassware": [
+                "Munich Stein",
+                "Becher"
+            ],
+            "color": {
+                "color_range": [
+                    "dark amber",
+                    "dark brown"
+                ],
+                "srm_low": 19.0,
+                "srm_high": 30.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.4,
+                "abv_high": 5.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "toast",
+                    "roast",
+                    "chocolate",
+                    "dark caramel",
+                    "never burnt"
+                ],
+                "fermentation": [
+                    "none"
+                ],
+                "hop": [
+                    "low - moderate low; spicy",
+                    "floral",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "K\u00f6stritzer Schwarzbier",
+                "Samuel Adams Black Lager",
+                "Uinta Baba Black Lager",
+                "Sprecher Black Bavarian",
+                "Kulmbacher M\u00f6nchsof Schwarzbier",
+                "Devils Backbone Schwartzbier"
+            ],
+            "notes": [
+                "\t- relatively unknown in Western Germany until 1990 reunification",
+                "\t\t- led to decline in altbier",
+                "\t- specialty in Utah due to their strict ABV limits (nothing above 4%)"
             ]
         },
         "Scottish Export": {

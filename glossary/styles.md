@@ -815,6 +815,33 @@
 		* old, bottle produce (wood aged 3 years+ then bottle conditioning)
 			* very complex; no residual sugar; mixed acid/fruit/funk
 
+# Munich Dunkel
+* Region: Munich, Germany
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: Munich malt
+* Hops:  Noble hops
+* Other Names:
+* Glassware: Munich Stein, Masskrug, Ein Mass
+* Color: amber - brown (17-28 SRM)
+* Alcohol: normal (4.5-5.6% ABV)
+* Mouthfeel: 
+	* body: medium - medium full
+	* carbonation: moderate
+	* alcohol warmth:
+* Bitterness: moderate (18-28 IBUs)
+* Flavors: 
+	* malt: toast, biscuit; no sugar or caramel sweetness
+	* hop: moderate bitterness, low hop flavor and aroma (spicy, herbal, floral if any)
+	* fermentation: none
+* Commercial Examples: Hacker-Pschorr Münchner Dunkel, Hofbräu Dunkel, Gordon Biersch Dunkel, Capital Dark, Harpoon Dark, Ayinger Altbairisch Dunkel, Lakefront Eastside Dark, Adeschser Export Dunkel
+* Notes:
+	* was the everyday beer in munich for centuries, now second to the Munich Helles
+		* still most popular in some regions, like Franconia
+	* Franconian variant is drier than Munich
+	* usually produed with extensive decoction
+	* 1st beer style codified and regulated due to 1516 Reinheitsgebot
+		* Czech Černé pivo is  similar
+		* also popular in US, Mexico and South America due to german immigration
 # Oatmeal Stout
 * Region: Britain
 * Categories: British Dark Ales, Stouts
@@ -1017,6 +1044,30 @@
 		* 3.5-5% ABC: session strength
 	* Many examples are bottle conditioned, giving a light tartness and funk
 		* overtly sour, and those with Brett, should not be considered saisons
+
+# Schwarzbier
+* Region: Germany
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: Munich malt, roasted malt
+* Hops: Noble
+* Other Names: Black Lager
+* Glassware:  Munich Stein, Becher 
+* Color: dark amber - dark brown (19-30 SRM)
+* Alcohol: normal (4.4-5.4% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: moderate - moderate-high
+	* alcohol warmth:
+* Bitterness: moderate (20-35 IBUs)
+* Flavors: 
+	* malt: toast, roast, chocolate, dark caramel, never burnt
+	* hop: low - moderate low; spicy, floral, herbal
+	* fermentation: none
+* Commercial Examples: Köstritzer Schwarzbier, Samuel Adams Black Lager, Uinta Baba Black Lager, Sprecher Black Bavarian, Kulmbacher Mönchsof Schwarzbier, Devils Backbone Schwartzbier
+* Notes:
+	* relatively unknown in Western Germany until 1990 reunification
+		* led to decline in altbier
+	* specialty in Utah due to their strict ABV limits (nothing above 4%)
 
 # Scottish Export
 * Region: Scotland

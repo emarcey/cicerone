@@ -17,6 +17,7 @@
 	* rules included self-sufficiency, hospitality for visitors
 * **Salmon, Ernest E.:** professor at Wye College in Kent, responsible for a great deal of work on hop varieties in early-mid 20th century
 * **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
+* **von Linde, Carl:** German scientist who developed mechanical refrigeration for beer storage tanks in 1873, changing the way lagers would be made
 * **Wheeler, Daniel:** British brewer credited with inventing black malt and patented the method for its production
 	* used a modified coffee roaster to roast malt at elevated temp without charring
 		* deep brown color, readily soluble

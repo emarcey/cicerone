@@ -68,6 +68,13 @@
 	* 20th century, Guinness was the world's largest brewery
 	* 1932, Irish Free State passed control of Manufacturer's Act, headquarters moved to London; Guinness family still held 51% stake
 	* 1997, merged with Grand Metropolitan Holdings plc to form Diageo
+* **Köstritzer Schwarzbierbrauerei:** located in Bad Köstritz, Thuringia, Germany
+	* known for its Schwarzbier
+	* began brewing Schwarzbier in 1543; founded as Erbschenke (Hereditary Inn) - a tavern with hereditary brewing rights
+	* loved by Johann Wolfgang von Goethe
+	* ran a similar ad campaign in the early 20th century to Guinness: Guiness is good for you
+	* maintained private ownership through WWII and East German rule
+	* acquired by Bitburger in 1991, who distributed the schwarzbier nationally, raising its popularity 
 * **La Trappe:** uniquely commercial Trappist Brewery in the Netherlands at Koningshoeven Abbey, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Leffe Brewery:** Belgian brewery known for blonde ale
 	* began when Premonstratensian Order began farming, milling and brewing at the Abbaye Notre-Dame de Leffe in the 13th century
