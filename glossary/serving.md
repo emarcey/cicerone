@@ -79,6 +79,16 @@
 	* 1960s, Yoshiro Kuroiwa helped figure out the cause, and that it was the blue part of the visible spectrum
 	* Caused by iso-alpha acids mixing with sulfur-containing compounds when light breaks them off
 	* New Tetra and hexa hops are resilient against skunking, known as "light stable"
+- **Masskrug (Maß):** German word describing amount of beer in regulation mug (1 Liter in modern times)
+	- originally 1.069 L in Bavaria, with other measures in different places
+		- now standardized to 1 Liter everywhere
+		- technically slightly larger than 1 L with space above fill line for foam
+	- only called a stein if it's made of stone
+	- usually imprinted with brewery logo
+	- some bars rent out space for patrons to store mugs
+	- mostly used in Bavaria now
+	- Masskrugstemmen: the sport of holding out a (filled) Masskrug at arms length
+		- world record is 45 minutes and 2 seconds
 - **Mixed Gases:** usually a blend of CO2 and Nitrogen, used for long-draw systems
 	- When displayed as a proportion, CO2 comes first
 		- e.g. 70:30 -> 70% CO2, 30% Nitrogen

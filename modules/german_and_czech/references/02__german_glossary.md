@@ -2,13 +2,13 @@
 - **Bock:**
 - **Doppel:** double
 	- usually refers to a modest increase in malt and alcohol
-- **Dunkel:**
+- **Dunkel:** Dark
 - **Eis:** Ice
 	- refers to a beer that has undergone freeze distillation
 - **Farb:** color
 - **Hefe:**
 - **Hell:**
-- **Keller:**
+- **Keller:** Cellar
 - **Kölsch:**
 - **Kristall:**
 - **Lagern:** to store
@@ -16,8 +16,8 @@
 - **Märzen:**
 - **Oktober:** October
 - **Rauch:** Smoke
-- **Schwarz:**
-- **Stange:**
+- **Schwarz:** Black
+- **Stange:** rod
 - **Sticke:**
 - **Weiss:**
 - **Weizen:**

@@ -1,5 +1,5 @@
 # Malts
-- [x] wheat
+- [ ] malted wheat
 - [x] pilsner
 - [ ] munich
 
