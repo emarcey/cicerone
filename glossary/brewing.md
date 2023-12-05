@@ -15,6 +15,7 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
+* **Bock:** a protected category in Germany, requiring that the beer have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
@@ -104,6 +105,7 @@
 	* desirable in some ales and stouts
 	* amount is strain-dependent, but wort and fermentation conditions can play a role
 	* can also be formed by spoilage bacteria (lactic acid bacteria especially) during storage
+* **Doppelbock:** a protected category in Germany, requiring that the beer have an original gravity of at least 18° Plato (~1.074), leading to an alcohol content generally 7% or higher
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
 	* then mixed with water and 10-20% malt

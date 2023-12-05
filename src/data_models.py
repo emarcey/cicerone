@@ -170,7 +170,7 @@ class BeerStyleMap(BaseModel):
         print("\n" + self.styles[style].print_test())
         print("[magenta]Enter style: [/magenta]")
         guess = input("")
-        while guess not in all_lower_style_names and guess.lower() != "exit":
+        while guess.lower() not in all_lower_style_names and guess.lower() != "exit":
             tmp_guess = input("Not a valid style. Try again or type 'exit' to quit:\n")
             if tmp_guess == "exit":
                 break
@@ -206,9 +206,18 @@ class BeerStyleMap(BaseModel):
                         print("***           ***")
                     mistakes.append([style, guess, printed])
         except KeyboardInterrupt:
-            print(f"Results: {total} Attempted; {correct} Correct\n")
-            idx = 0
+            print("")
+            print("*" * 20)
+            print(f"Results:")
+            print(f"{total} Attempted")
+            print(f"{correct} Correct")
+            print(f"{round(correct/total,2)*100}% Accuracy")
+            print("*" * 20)
+            idx = 1
+            if mistakes:
+                print(f"Mistakes: \n")
             for mistake in mistakes:
                 print(f"Mistake {idx}")
                 print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
                 print(f"Prompt:\n{mistake[2]}\n")
+                idx += 1

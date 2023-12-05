@@ -1042,6 +1042,328 @@
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
             ]
         },
+        "Doppelbock": {
+            "name": "Doppelbock",
+            "region": "Munich, Bavaria, Germany",
+            "categories": [
+                "German Lagers",
+                "Dark Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner",
+                "Munich",
+                "Vienna"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [
+                "Salvator"
+            ],
+            "glassware": [
+                "Becher",
+                "Pilsner"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "brown"
+                ],
+                "srm_low": 6.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "abv_low": 7.0,
+                "abv_high": 10.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-low - medium",
+                "carbonation": "moderate-low - moderate",
+                "alcohol_warmth": "low"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 16.0,
+                "ibu_high": 26.0
+            },
+            "flavors": {
+                "malt": [
+                    "toast",
+                    "bread crusts",
+                    "nutty malt flavors",
+                    "caramel",
+                    "toffee"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but malt can provide a dark fruit character"
+                ],
+                "hop": [
+                    "low bitterness; minimal flavor and aroma"
+                ]
+            },
+            "commercial_examples": [
+                "Paulaner Salvator",
+                "Ayinger Celebrator",
+                "Spaten Optimator",
+                "Weihenstephaner Korbinian",
+                "Tr\u00f6egs Troegenator Double Bock",
+                "Andechs Doppelbock Dunkel"
+            ],
+            "notes": [
+                "\t- history",
+                "\t\t- 18th century, Paulist monks from Italy settled near Munich",
+                "\t\t- they brewed. strong beer for sustenance during Advent and Lent fasts",
+                "\t\t- They called it \"Salvator,\" or \"the Savior\"",
+                "\t\t- Began brewing in 1770s, began commercial production in early 1800s",
+                "\t\t- other breweries began imitating",
+                "\t\t- Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names",
+                "\t\t- Other breweries chose names ending in -ator",
+                "\t- must have original gravity of at least 18\u00b0P (~1.074), leading to alcohol content >= 7.0% ABV",
+                "\t- similar to Dunkles Bock, usually more intensely malty and sweet"
+            ]
+        },
+        "Dunkles Bock": {
+            "name": "Dunkles Bock",
+            "region": "Munich, Bavaria, Germany",
+            "categories": [
+                "German Lagers",
+                "Lagers",
+                "Dark Lagers"
+            ],
+            "malt": [
+                "Munich malt",
+                "Vienna malt",
+                "occasionally a small portion of roasted malt"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Becher"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 14.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "abv_low": 6.3,
+                "abv_high": 7.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "moderate-low - moderate",
+                "alcohol_warmth": "some"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 20.0,
+                "ibu_high": 27.0
+            },
+            "flavors": {
+                "malt": [
+                    "toast",
+                    "bread crust",
+                    "nutty",
+                    "caramel",
+                    "toffee; should not be overly sweet"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but malt can provide a dark fruit character"
+                ],
+                "hop": [
+                    "low bitterness",
+                    "minimal hop flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Einbecker Ur-Bock Dunkel",
+                "Schell's Bock",
+                "Aass Bock",
+                "Penn Brewery St. Nikolaus Bock",
+                "Lindeboom Bock"
+            ],
+            "notes": [
+                "\t- inspired by a popular beer brewed in Einbeck",
+                "\t- modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and M\u00e4rzen",
+                "\t- To be labeled a \"Bock,\" the beer must have an original gravity of at least 16\u00b0 Plato (~1.065), leading to an alcohol content generally 6% or higher"
+            ]
+        },
+        "Eisbock": {
+            "name": "Eisbock",
+            "region": "Germany",
+            "categories": [
+                "German Lagers",
+                "Dark Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner",
+                "Munich",
+                "Vienna"
+            ],
+            "hops": [
+                "Noble"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Becher",
+                "Pislner"
+            ],
+            "color": {
+                "color_range": [
+                    "dark amber",
+                    "dark brown"
+                ],
+                "srm_low": 17.0,
+                "srm_high": 30.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "high",
+                    "very high"
+                ],
+                "abv_low": 9.0,
+                "abv_high": 14.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "full - very full",
+                "carbonation": "low",
+                "alcohol_warmth": "significant"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 25.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "rich",
+                    "toast",
+                    "caramel"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but malt can provide dark fruit flavor"
+                ],
+                "hop": [
+                    "low bitterness; no hop flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Kulmbacher Eisbock"
+            ],
+            "notes": [
+                "\t- Eis = ice",
+                "\t- comes from a unique process where a Doppelbock is frozen",
+                "\t- water freezes before alcohol, so this process concentrates the alcohol and flavors",
+                "\t- this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt"
+            ]
+        },
+        "Helles Bock": {
+            "name": "Helles Bock",
+            "region": "Germany",
+            "categories": [
+                "German Lagers",
+                "Pale Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner",
+                "Vienna",
+                "Munich",
+                "occasionally crystal"
+            ],
+            "hops": [
+                "German Noble"
+            ],
+            "other_names": [
+                "Maibock"
+            ],
+            "glassware": [
+                "becher"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "light amber"
+                ],
+                "srm_low": 6.0,
+                "srm_high": 9.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "abv_low": 6.3,
+                "abv_high": 7.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 25.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "lightly toasted",
+                    "dough",
+                    "grainy-sweet"
+                ],
+                "fermentation": [
+                    "clean",
+                    "low fruity esters optional"
+                ],
+                "hop": [
+                    "moderate bitterness; low spicy and floral hop notes"
+                ]
+            },
+            "commercial_examples": [
+                "Einbecker Mai-Ur-Bock",
+                "Capital Maibock",
+                "Ayinger Maibock",
+                "Gordon Biersch Blonde Bock",
+                "Hofbr\u00e4u Maibock",
+                "Mahr's Heller Bock"
+            ],
+            "notes": [
+                "\t- spring seasonal (Maibock = May)",
+                "\t- same regulations as Dunkles Bock",
+                "not_too_similar_to_other_bocks",
+                "\t- light in color, display more hop profile"
+            ]
+        },
         "Old Ale": {
             "name": "Old Ale",
             "region": "England",
@@ -1581,7 +1903,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Pale Lagers"
+                "Pale Lagers",
+                "Historical March Beers"
             ],
             "malt": [
                 "Pilsner malt base",
@@ -2448,7 +2771,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Historical March Beers"
             ],
             "malt": [
                 "Munich malt base"
@@ -3781,7 +4105,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Historical March Beers"
             ],
             "malt": [
                 "Vienna malt"

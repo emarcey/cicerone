@@ -324,6 +324,109 @@
 	* alternative to pale lagers
 	* lighter in color than traditional bitters and distinctly refreshing
 
+# Doppelbock
+* Region: Munich, Bavaria, Germany
+* Categories: German Lagers, Dark Lagers, Lagers
+* Malt: Pilsner, Munich, Vienna
+* Hops: Noble
+* Other Names: Salvator
+* Glassware: Becher, Pilsner
+* Color: gold - brown (6-25 SRM)
+* Alcohol: elevated - high (7-10% ABV)
+* Mouthfeel: 
+	* body: medium-low - medium
+	* carbonation: moderate-low - moderate
+	* alcohol warmth: low
+* Bitterness: low (16-26 IBUs)
+* Flavors: 
+	* malt: toast, bread crusts, nutty malt flavors, caramel, toffee
+	* hop: low bitterness; minimal flavor and aroma
+	* fermentation: clean, but malt can provide a dark fruit character
+* Commercial Examples: Paulaner Salvator, Ayinger Celebrator, Spaten Optimator, Weihenstephaner Korbinian, Tröegs Troegenator Double Bock, Andechs Doppelbock Dunkel
+* Notes:
+	* history
+		* 18th century, Paulist monks from Italy settled near Munich
+		* they brewed. strong beer for sustenance during Advent and Lent fasts
+		* They called it "Salvator," or "the Savior"
+		* Began brewing in 1770s, began commercial production in early 1800s
+		* other breweries began imitating
+		* Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names
+		* Other breweries chose names ending in -ator
+	* must have original gravity of at least 18°P (~1.074), leading to alcohol content >= 7.0% ABV
+	* similar to Dunkles Bock, usually more intensely malty and sweet
+
+# Dunkles Bock
+* Region: Munich, Bavaria, Germany
+* Categories: German Lagers, Lagers, Dark Lagers
+* Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
+* Hops: Noble
+* Other Names:
+* Glassware: Becher
+* Color: amber - brown (14 - 22 SRM)
+* Alcohol: elevated (6.3-7.2% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: moderate-low - moderate
+	* alcohol warmth: some
+* Bitterness: low (20-27 IBUs)
+* Flavors: 
+	* malt: toast, bread crust, nutty, caramel, toffee; should not be overly sweet
+	* hop: low bitterness, minimal hop flavor
+	* fermentation: clean, but malt can provide a dark fruit character
+* Commercial Examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
+* Notes:
+	* inspired by a popular beer brewed in Einbeck
+	* modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and Märzen
+	* To be labeled a "Bock," the beer must have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
+
+# Eisbock
+* Region: Germany
+* Categories: German Lagers, Dark Lagers, Lagers
+* Malt: Pilsner, Munich, Vienna
+* Hops: Noble
+* Other Names:
+* Glassware: Becher, Pislner
+* Color: dark amber - dark brown (17-30 SRM)
+* Alcohol: high - very high (9-14% ABV)
+* Mouthfeel: 
+	* body: full - very full
+	* carbonation: low
+	* alcohol warmth: significant
+* Bitterness: low (25-35 IBUs)
+* Flavors: 
+	* malt: rich, toast, caramel
+	* hop: low bitterness; no hop flavor
+	* fermentation: clean, but malt can provide dark fruit flavor
+* Commercial Examples: Kulmbacher Eisbock
+* Notes:
+	* Eis = ice
+	* comes from a unique process where a Doppelbock is frozen
+	* water freezes before alcohol, so this process concentrates the alcohol and flavors
+	* this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt
+
+# Helles Bock
+* Region: Germany
+* Categories: German Lagers, Pale Lagers, Lagers
+* Malt: Pilsner, Vienna, Munich, occasionally crystal
+* Hops: German Noble
+* Other Names: Maibock
+* Glassware: becher
+* Color: gold - light amber (6-9 SRM)
+* Alcohol: elevated (6.3-7.4% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: moderate - moderate-high
+	* alcohol warmth: light, optional
+* Bitterness: moderate (25-35 IBUs)
+* Flavors: 
+	* malt: bread, lightly toasted, dough, grainy-sweet
+	* hop: moderate bitterness; low spicy and floral hop notes
+	* fermentation: clean, low fruity esters optional
+* Commercial Examples: Einbecker Mai-Ur-Bock, Capital Maibock, Ayinger Maibock, Gordon Biersch Blonde Bock, Hofbräu Maibock, Mahr's Heller Bock
+* Notes:
+	* spring seasonal (Maibock = May)
+	* same regulations as Dunkles Bock
+	* not too similar to other bocks: light in color, display more hop profile
 # Old Ale
 * Region: England
 * Categories: British Strong Ales

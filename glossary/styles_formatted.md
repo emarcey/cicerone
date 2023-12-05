@@ -346,6 +346,87 @@ first_brewed_in_1948_by_chimay
 	- some demand remains in northern England, West Midlands, South Wales
 	- often found in US brewpubs as a session ale
 
+# Doppelbock
+
+- Region: Munich, Bavaria, Germany
+- Categories: German Lagers, Dark Lagers, Lagers
+- Malt: Pilsner, Munich, Vienna
+- Hops: Noble
+- Other names: Salvator
+- Glassware: Becher, Pilsner
+- Color: gold - brown (6.0 - 25.0 SRM)
+- Alcohol: elevated - high (7.0 - 10.0% ABV)
+- Mouthfeel: 
+	- body: medium-low - medium
+	- carbonation: moderate-low - moderate
+	- alcohol_warmth: low
+- Bitterness: low (16.0 - 26.0 IBU)
+- Flavors: 
+	- malt: toast, bread crusts, nutty malt flavors, caramel, toffee
+	- fermentation: clean, but malt can provide a dark fruit character
+	- hop: low bitterness; minimal flavor and aroma
+- Commercial examples: Paulaner Salvator, Ayinger Celebrator, Spaten Optimator, Weihenstephaner Korbinian, Tröegs Troegenator Double Bock, Andechs Doppelbock Dunkel
+- Notes: 
+	- history
+		- 18th century, Paulist monks from Italy settled near Munich
+		- they brewed. strong beer for sustenance during Advent and Lent fasts
+		- They called it "Salvator," or "the Savior"
+		- Began brewing in 1770s, began commercial production in early 1800s
+		- other breweries began imitating
+		- Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names
+		- Other breweries chose names ending in -ator
+	- must have original gravity of at least 18°P (~1.074), leading to alcohol content >= 7.0% ABV
+	- similar to Dunkles Bock, usually more intensely malty and sweet
+
+# Dunkles Bock
+
+- Region: Munich, Bavaria, Germany
+- Categories: German Lagers, Lagers, Dark Lagers
+- Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
+- Hops: Noble
+- Glassware: Becher
+- Color: amber - brown (14.0 - 22.0 SRM)
+- Alcohol: elevated (6.3 - 7.2% ABV)
+- Mouthfeel: 
+	- body: medium - medium-full
+	- carbonation: moderate-low - moderate
+	- alcohol_warmth: some
+- Bitterness: low (20.0 - 27.0 IBU)
+- Flavors: 
+	- malt: toast, bread crust, nutty, caramel, toffee; should not be overly sweet
+	- fermentation: clean, but malt can provide a dark fruit character
+	- hop: low bitterness, minimal hop flavor
+- Commercial examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
+- Notes: 
+	- inspired by a popular beer brewed in Einbeck
+	- modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and Märzen
+	- To be labeled a "Bock," the beer must have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
+
+# Eisbock
+
+- Region: Germany
+- Categories: German Lagers, Dark Lagers, Lagers
+- Malt: Pilsner, Munich, Vienna
+- Hops: Noble
+- Glassware: Becher, Pislner
+- Color: dark amber - dark brown (17.0 - 30.0 SRM)
+- Alcohol: high - very high (9.0 - 14.0% ABV)
+- Mouthfeel: 
+	- body: full - very full
+	- carbonation: low
+	- alcohol_warmth: significant
+- Bitterness: low (25.0 - 35.0 IBU)
+- Flavors: 
+	- malt: rich, toast, caramel
+	- fermentation: clean, but malt can provide dark fruit flavor
+	- hop: low bitterness; no hop flavor
+- Commercial examples: Kulmbacher Eisbock
+- Notes: 
+	- Eis = ice
+	- comes from a unique process where a Doppelbock is frozen
+	- water freezes before alcohol, so this process concentrates the alcohol and flavors
+	- this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt
+
 # English Barley Wine
 
 - Region: England
@@ -516,7 +597,7 @@ big_names_to_know
 # Festbier
 
 - Region: Bavaria, Germany
-- Categories: German Lagers, Lagers, Pale Lagers
+- Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers
 - Malt: Pilsner malt base, some Vienna or Munich
 - Hops: Noble hops
 - Other names: Oktoberfest (only when brewed in Munich)
@@ -671,6 +752,32 @@ big_names_to_know
 	- once bottled, stored for a few months to a year
 		- referment -> new flavors -> rising carbonation
 		- may be enjoyed for many years (as much as 2 decades!)
+
+# Helles Bock
+
+- Region: Germany
+- Categories: German Lagers, Pale Lagers, Lagers
+- Malt: Pilsner, Vienna, Munich, occasionally crystal
+- Hops: German Noble
+- Other names: Maibock
+- Glassware: becher
+- Color: gold - light amber (6.0 - 9.0 SRM)
+- Alcohol: elevated (6.3 - 7.4% ABV)
+- Mouthfeel: 
+	- body: medium
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: light, optional
+- Bitterness: moderate (25.0 - 35.0 IBU)
+- Flavors: 
+	- malt: bread, lightly toasted, dough, grainy-sweet
+	- fermentation: clean, low fruity esters optional
+	- hop: moderate bitterness; low spicy and floral hop notes
+- Commercial examples: Einbecker Mai-Ur-Bock, Capital Maibock, Ayinger Maibock, Gordon Biersch Blonde Bock, Hofbräu Maibock, Mahr's Heller Bock
+- Notes: 
+	- spring seasonal (Maibock = May)
+	- same regulations as Dunkles Bock
+not_too_similar_to_other_bocks
+	- light in color, display more hop profile
 
 # Imperial Stout
 
@@ -848,7 +955,7 @@ two_groups
 # Märzen
 
 - Region: Germany
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
 - Malt: Munich malt base
 - Hops: Noble hops
 - Other names: Märzenbier, March beer
@@ -1298,7 +1405,7 @@ two_groups
 # Vienna Lager
 
 - Region: Vienna, Austria
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
 - Malt: Vienna malt
 - Hops: Noble
 - Glassware: Munich Stein, Becher

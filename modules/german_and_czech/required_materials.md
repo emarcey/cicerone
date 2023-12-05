@@ -33,7 +33,7 @@
 	- [x] Munich Dunkel
 	- [x] Schwarzbier
 - [x] 11a
-	- [ ] 4 or 5 different Marzen/Oktoberfest
+	- [x] 4 or 5 different Marzen/Oktoberfest
 		- [x] Paulaner Oktoberfest
 		- [x] Schlenkerla Marzen
 		- [x] Ayinger Oktoberfest
@@ -59,8 +59,8 @@
 - [ ] 14b
 	- [x] Dunkles Weissbier
 	- [x] Weizenbock
-	- [x] Berliner Weisse
-	- [ ] Gose
+	- [ ] Berliner Weisse
+	- [x] Gose
 - [ ] 14c
 	- [x] American Wheat Beer
 	- [x] Belgian Witbier

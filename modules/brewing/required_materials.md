@@ -1,7 +1,7 @@
 # Malt
 - [ ] Pale ale malt
 	- [ ] get more
-- [ ] One of
+- [x] One of
 	- [ ] Pilsner malt
 	- [ ] American two-row malt
 - [ ] One of
@@ -12,11 +12,11 @@
 	- [ ] Victory
 	- [ ] biscuit
 	- [ ] melanoidin
-- [ ] One of
+- [x] One of
 	- [ ] caramel
 	- [ ] crystal
-- [ ] black
-- [ ] roasted barley
+- [x] black
+- [x] roasted barley
 - [ ] flaked barley
 
 # Hops

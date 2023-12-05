@@ -1,0 +1,9 @@
+- [ ] 1 oz whole cone american hops
+- [ ] 2oz flaked barley
+- [ ] 2oz Victory
+- [ ] 2oz pale ale
+- [ ] 2oz 2-row
+- [ ] 2oz 6-row
+- [ ] 2oz malted wheat
+- [ ] 2oz munich
+- [ ] 
