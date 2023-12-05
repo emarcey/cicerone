@@ -12,4 +12,6 @@
 * [Imperial Stout vs Baltic Porter](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2Factivities%2F09_c__imperial_stout_v_baltic_porter)
 * [British, American, Munich](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2Factivities%2F10_a__brown_ale)
 * [English vs American IPA](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2Factivities%2F11_a__english_v_american_ipa)
-* 
+
+# German
+- [Dunkel vs Schwarzbier](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F10_a__dunkel_vs_schwarzbier)
