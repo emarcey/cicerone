@@ -543,7 +543,7 @@
 
 # Festbier
 * Region: Bavaria, Germany
-* Categories: German Lagers, Lagers, Pale Lagers
+* Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers
 * Malt: Pilsner malt base, some Vienna or Munich
 * Hops:  Noble hops
 * Other Names: Oktoberfest (only when brewed in Munich)
@@ -840,7 +840,7 @@
 
 # Märzen
 * Region: Germany
-* Categories: German Lagers, Lagers, Dark Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
 * Malt: Munich malt base
 * Hops: Noble hops
 * Other Names: Märzenbier, March beer
@@ -1311,7 +1311,7 @@
 
 # Vienna Lager
 * Region: Vienna, Austria
-* Categories: German Lagers, Lagers, Dark Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
 * Malt: Vienna malt
 * Hops: Noble
 * Other Names:

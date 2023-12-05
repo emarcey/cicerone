@@ -32,7 +32,7 @@
 - [ ] 10b
 	- [x] Munich Dunkel
 	- [x] Schwarzbier
-- [ ] 11a
+- [x] 11a
 	- [ ] 4 or 5 different Marzen/Oktoberfest
 		- [x] Paulaner Oktoberfest
 		- [x] Schlenkerla Marzen
@@ -49,8 +49,8 @@
 	- [x] Munich Helles
 	- [x] German Pils
 	- [x] Czech Premium Pale Lager
-	- [ ] International Pale Lager
-- [ ] 14a
+	- [x] International Pale Lager
+- [x] 14a
 	- [ ] 4 or 5 Weissbiers
 		- [x] Schneider Weisse
 		- [x] Ayinger Brau weisse
@@ -59,15 +59,15 @@
 - [ ] 14b
 	- [x] Dunkles Weissbier
 	- [x] Weizenbock
-	- [ ] Berliner Weisse
-	- [x] Gose
+	- [x] Berliner Weisse
+	- [ ] Gose
 - [ ] 14c
 	- [x] American Wheat Beer
-	- [ ] Belgian Witbier
+	- [x] Belgian Witbier
 - [ ] 15b
 	- [x] Kolsch
 	- [x] German Pilsner
-	- [ ] Belgian Blonde
+	- [x] Belgian Blonde
 - [ ] 15c
 	- [x] Altbier
 	- [x] American Amber Ale
