@@ -110,11 +110,19 @@
 	* 1984, Heineken launched Murphy's Red
 	* 2009, Heineken closed Williams, Beamish & Crawford because they now had 2 County Cork breweries
 * **Orval:** Trappist Brewery in Wallonia at Abbaye Notre-Dame d'Orval, known for wild yeast and unique flavor profile, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Paulaner:** brewery in Munich, Germany, originated by monks following the rule of Saint Franciscus of Paula
+	* In 1774, they brewed the first Doppelbock, called Sanct Pater Bier (Salvator)
+	* In 1896, they received sole rights to the name "Salvator," forcing other doppelbocks to change their name
 * **Rochefort:** Trappist Brewery in Wallonia at Abbaye Notre-Dame de Saint-Remy in Rochefort, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Rodenbach Brewery:** Belgian brewery founded in Roesalare in 1821. Famous for its Flanders Red Ale.
 	* Eugene Rodenbach worked at a brewery in England in the 1870s and came back with porter-ish beer
 	* sold their yeast to nearby breweries until 1999
 * **Samuel Smith:** an English brewery contracted numerous times to brew styles for the Americas, notably revitalizing the Imperial Stout and the Oatmeal Stout
+* **Schlenkerla:** a brewery from Bamber, Bavaria, Germany founded in 1877, known for its signature rauchbiers
+	* Aecht Schlenkerla, a smoky märzen style beer, is the archetype of rauchbiers
+* **Spaten:** Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807
+	* His son helped create the indirect kilning
+	* 1841, Spaten introduced the first Märzen
 * **Spencer:** former Trappist Brewery near Boston, Massachusetts at Saint Joseph's Abbey, was the only Trappist brewery outside Europe, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Stift Engelszell:** Trappist Brewery in northern Austria at Engelszell abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Tomsin**: last Belgian Witbier brewery before revival (closed in 1957)

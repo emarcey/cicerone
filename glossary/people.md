@@ -8,6 +8,8 @@
 	* 1985, brewery was destroyed
 	* bought by Interbrew/Anheuser-Busch Inbev
 * **DeClerck, Jean:** brewing scientist in the mid 20th century. Collaborated closely with Father Theodore and Chimay. He and his wife are both buried in Chimay's cemetary
+* **Dreher, Anton:** 19th century Austrian brewer whose eponymous brewery introduced the first Vienna Lager in 1836, competing with the newly-created Märzen of Spaten Brewery
+	* he also helped to introduce indirect kilning into Central European brewing practices
 * **Father Theodore:** well-known figure in Trappist brewing community in mid 20th century. Resided at Chimay and oversaw the brewery beginning in the 1940s
 * **Fuggle, Richard:** namesake of the Fuggle strain of hops
 * **Guinness, Arthur:** (1725-1807) founded Guinness. Began brewing in 1756, first as St. Jame's Gate brewery in 1759
@@ -16,6 +18,7 @@
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors
 * **Salmon, Ernest E.:** professor at Wye College in Kent, responsible for a great deal of work on hop varieties in early-mid 20th century
+* **Sedlmayr, Gabriel (the Younger):** 19th Century Bavarian brewer whose father acquired Spaten brewery before Gabriel the Younger took over upon is death in 1839. Known for introducing steam power and indirect kilning to Bavarian brewing practices
 * **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
 * **von Linde, Carl:** German scientist who developed mechanical refrigeration for beer storage tanks in 1873, changing the way lagers would be made
 * **Wheeler, Daniel:** British brewer credited with inventing black malt and patented the method for its production

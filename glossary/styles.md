@@ -348,7 +348,7 @@
 		* 18th century, Paulist monks from Italy settled near Munich
 		* they brewed. strong beer for sustenance during Advent and Lent fasts
 		* They called it "Salvator," or "the Savior"
-		* Began brewing in 1770s, began commercial production in early 1800s
+		* Began brewing in 1774, began commercial production in early 1800s
 		* other breweries began imitating
 		* Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names
 		* Other breweries chose names ending in -ator
@@ -360,7 +360,7 @@
 * Categories: German Lagers, Lagers, Dark Lagers
 * Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
 * Hops: Noble
-* Other Names:
+* Other Names: Weihnachstbock, Osterbock
 * Glassware: Becher
 * Color: amber - brown (14 - 22 SRM)
 * Alcohol: elevated (6.3-7.2% ABV)
@@ -375,7 +375,18 @@
 	* fermentation: clean, but malt can provide a dark fruit character
 * Commercial Examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
 * Notes:
-	* inspired by a popular beer brewed in Einbeck
+	* inspired by a popular beer brewed in Einbeck (Saxony)
+		* first commercial bock was brewed here
+		* 1368, Einbeck joined Hanseatic League, which helped beer exports
+		* 1378, Einbecker beer first mentioned
+		* success due in part to system of quality control:
+			* burghers could malt grains and brew in their own cellar, but could not own brewhouse
+			* city owned brewing equipment and employed professional brewers, who would go to homes of people wanting to brew
+			* brewmaster was a civil servant charged with overseeing and quality control
+		* historical town center buildings have wide doorways, so they could bring the brew kettle in
+		* 1521, Martin Luther loved it
+		* 1578, Munich bought a bunch of it
+		* 1617, Elias Pichler - a master brewer from Einbeck - was hired by Hofbräuhaus in Munich to brew a Bavarian version of Oanpock (a liquid bread for fasting)
 	* modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and Märzen
 	* To be labeled a "Bock," the beer must have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 

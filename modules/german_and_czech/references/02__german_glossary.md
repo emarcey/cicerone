@@ -1,5 +1,5 @@
 - **Alt:**
-- **Bock:**
+- **Bock:** ram (the animal)
 - **Doppel:** double
 	- usually refers to a modest increase in malt and alcohol
 - **Dunkel:** Dark
