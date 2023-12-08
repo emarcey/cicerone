@@ -12,6 +12,7 @@
 	* he also helped to introduce indirect kilning into Central European brewing practices
 * **Father Theodore:** well-known figure in Trappist brewing community in mid 20th century. Resided at Chimay and oversaw the brewery beginning in the 1940s
 * **Fuggle, Richard:** namesake of the Fuggle strain of hops
+* **Groll, Josef Felix:** 19th century Bavarian brewmaster who formulated the original Pilsner in Pilsen in the 1840s
 * **Guinness, Arthur:** (1725-1807) founded Guinness. Began brewing in 1756, first as St. Jame's Gate brewery in 1759
 * **Harwood, Ralph:** a London man, owner of Bell Brewhouse, who allegedly invented the Porter in 1722
 * **Hodgson, Mark:** English brewer who focused his father's brewery on pale ales, which led to term East India Pale Ale appearing in newspaper ads

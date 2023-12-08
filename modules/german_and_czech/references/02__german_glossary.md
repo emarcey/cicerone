@@ -7,7 +7,7 @@
 	- refers to a beer that has undergone freeze distillation
 - **Farb:** color
 - **Hefe:**
-- **Hell:**
+- **Hell:** light
 - **Keller:** Cellar
 - **Kölsch:**
 - **Kristall:**

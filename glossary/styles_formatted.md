@@ -314,6 +314,42 @@ first_brewed_in_1948_by_chimay
 	- alternative to pale lagers
 	- lighter in color than traditional bitters and distinctly refreshing
 
+# Czech Premium Pale Lager
+
+- Region: Pilsen, Czechia
+- Categories: Czech Lagers, Lagers, Pale Lagers
+- Malt: Czech Pilsner malt
+- Hops: Czech hops
+- Other names: Bohemian Pilsner, Czech Pilsner, Pilsner
+- Glassware: footed Pilsner
+- Color: straw - gold (3.5 - 6.0 SRM)
+- Alcohol: lower - normal (4.2 - 5.8% ABV)
+- Mouthfeel: 
+	- body: medium - medium-full; gentle creaminess
+	- carbonation: low - moderate
+	- alcohol_warmth: None
+- Bitterness: pronounced (30.0 - 45.0 IBU)
+- Flavors: 
+	- malt: complex, may be dry or caramel sweet; graham cracker
+	- fermentation: plum or berry, low diacetyl optional
+	- hop: prominent bitterness; low-moderate spicy hop flavor
+- Commercial examples: Pilsner Urquell, Czechvar (Budvar), Staropramen, Oska Blues Mama's Little Yella Pils
+- Notes: 
+	- 1840s, people in Pilsen wanted to build a brewery
+	- Decided to recruit Bavarian brewmaster Josef Felix Groll
+	- Groll combined local barley and hops with Pilsen's soft water and Bavarian lager yeast
+	- created a pale and hoppy beer
+	- Pilsen's soft water was a major component
+	- Contributed to pale color of malt, and enabled a pleasantly bitter beer
+first_brew
+	- October 5, 1842
+first_public_service
+	- November 11, 1842
+	- Pilsner Urquell has been making this lager at the same location since 1842
+	- 1990, still used wooden vessels in underground caves due to economic hardship through cold war
+	- modernization has led to stainless steel fermenters
+	- Pilsner Urquell still retains a touch of diacetyl
+
 # Dark Mild
 
 - Region: England
@@ -371,7 +407,7 @@ first_brewed_in_1948_by_chimay
 		- 18th century, Paulist monks from Italy settled near Munich
 		- they brewed. strong beer for sustenance during Advent and Lent fasts
 		- They called it "Salvator," or "the Savior"
-		- Began brewing in 1770s, began commercial production in early 1800s
+		- Began brewing in 1774, began commercial production in early 1800s
 		- other breweries began imitating
 		- Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names
 		- Other breweries chose names ending in -ator
@@ -384,6 +420,7 @@ first_brewed_in_1948_by_chimay
 - Categories: German Lagers, Lagers, Dark Lagers
 - Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
 - Hops: Noble
+- Other names: Weihnachstbock, Osterbock
 - Glassware: Becher
 - Color: amber - brown (14.0 - 22.0 SRM)
 - Alcohol: elevated (6.3 - 7.2% ABV)
@@ -398,7 +435,18 @@ first_brewed_in_1948_by_chimay
 	- hop: low bitterness, minimal hop flavor
 - Commercial examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
 - Notes: 
-	- inspired by a popular beer brewed in Einbeck
+	- inspired by a popular beer brewed in Einbeck (Saxony)
+		- first commercial bock was brewed here
+		- 1368, Einbeck joined Hanseatic League, which helped beer exports
+		- 1378, Einbecker beer first mentioned
+success_due_in_part_to_system_of_quality_control
+			- burghers could malt grains and brew in their own cellar, but could not own brewhouse
+			- city owned brewing equipment and employed professional brewers, who would go to homes of people wanting to brew
+			- brewmaster was a civil servant charged with overseeing and quality control
+		- historical town center buildings have wide doorways, so they could bring the brew kettle in
+		- 1521, Martin Luther loved it
+		- 1578, Munich bought a bunch of it
+		- 1617, Elias Pichler - a master brewer from Einbeck - was hired by Hofbräuhaus in Munich to brew a Bavarian version of Oanpock (a liquid bread for fasting)
 	- modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and Märzen
 	- To be labeled a "Bock," the beer must have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 
@@ -715,6 +763,28 @@ big_names_to_know
 		- then black currant and peach
 		- fruit aroma/flavor can add to wine-like impression
 	- often covered with spider webs in casks bc that means no other bugs are getting in
+
+# German Pils
+
+- Region: Northern Germany
+- Categories: German Lagers, Pale Lagers, Lagers
+- Malt: Pilsner malt
+- Hops: German hops
+- Glassware: Pilsner glass
+- Color: straw - light gold (2.0 - 4.0 SRM)
+- Alcohol: normal (4.4 - 5.2% ABV)
+- Mouthfeel: 
+	- body: medium-light
+	- carbonation: medium-high
+	- alcohol_warmth: None
+- Bitterness: pronounced (22.0 - 40.0 IBU)
+- Flavors: 
+	- malt: grain, sweet, doughy, honey, toasted
+	- fermentation: clean
+	- hop: medium-high bitterness, spicy, flowery, herbal
+- Commercial examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
+- Notes: 
+	- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s
 
 # Gueuze
 

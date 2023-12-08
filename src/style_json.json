@@ -1042,6 +1042,93 @@
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
             ]
         },
+        "Czech Premium Pale Lager": {
+            "name": "Czech Premium Pale Lager",
+            "region": "Pilsen, Czechia",
+            "categories": [
+                "Czech Lagers",
+                "Lagers",
+                "Pale Lagers"
+            ],
+            "malt": [
+                "Czech Pilsner malt"
+            ],
+            "hops": [
+                "Czech hops"
+            ],
+            "other_names": [
+                "Bohemian Pilsner",
+                "Czech Pilsner",
+                "Pilsner"
+            ],
+            "glassware": [
+                "footed Pilsner"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "srm_low": 3.5,
+                "srm_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 4.2,
+                "abv_high": 5.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full; gentle creaminess",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 30.0,
+                "ibu_high": 45.0
+            },
+            "flavors": {
+                "malt": [
+                    "complex",
+                    "may be dry or caramel sweet; graham cracker"
+                ],
+                "fermentation": [
+                    "plum or berry",
+                    "low diacetyl optional"
+                ],
+                "hop": [
+                    "prominent bitterness; low-moderate spicy hop flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Pilsner Urquell",
+                "Czechvar (Budvar)",
+                "Staropramen",
+                "Oska Blues Mama's Little Yella Pils"
+            ],
+            "notes": [
+                "\t- 1840s, people in Pilsen wanted to build a brewery",
+                "\t- Decided to recruit Bavarian brewmaster Josef Felix Groll",
+                "\t- Groll combined local barley and hops with Pilsen's soft water and Bavarian lager yeast",
+                "\t- created a pale and hoppy beer",
+                "\t- Pilsen's soft water was a major component",
+                "\t- Contributed to pale color of malt, and enabled a pleasantly bitter beer",
+                "first_brew",
+                "\t- October 5, 1842",
+                "first_public_service",
+                "\t- November 11, 1842",
+                "\t- Pilsner Urquell has been making this lager at the same location since 1842",
+                "\t- 1990, still used wooden vessels in underground caves due to economic hardship through cold war",
+                "\t- modernization has led to stainless steel fermenters",
+                "\t- Pilsner Urquell still retains a touch of diacetyl"
+            ]
+        },
         "Doppelbock": {
             "name": "Doppelbock",
             "region": "Munich, Bavaria, Germany",
@@ -1123,7 +1210,7 @@
                 "\t\t- 18th century, Paulist monks from Italy settled near Munich",
                 "\t\t- they brewed. strong beer for sustenance during Advent and Lent fasts",
                 "\t\t- They called it \"Salvator,\" or \"the Savior\"",
-                "\t\t- Began brewing in 1770s, began commercial production in early 1800s",
+                "\t\t- Began brewing in 1774, began commercial production in early 1800s",
                 "\t\t- other breweries began imitating",
                 "\t\t- Paulaner (brewery descended from monks) trademarked the name Salvator in 1896, forcing other breweries to choose different names",
                 "\t\t- Other breweries chose names ending in -ator",
@@ -1147,7 +1234,10 @@
             "hops": [
                 "Noble"
             ],
-            "other_names": [],
+            "other_names": [
+                "Weihnachstbock",
+                "Osterbock"
+            ],
             "glassware": [
                 "Becher"
             ],
@@ -1204,7 +1294,18 @@
                 "Lindeboom Bock"
             ],
             "notes": [
-                "\t- inspired by a popular beer brewed in Einbeck",
+                "\t- inspired by a popular beer brewed in Einbeck (Saxony)",
+                "\t\t- first commercial bock was brewed here",
+                "\t\t- 1368, Einbeck joined Hanseatic League, which helped beer exports",
+                "\t\t- 1378, Einbecker beer first mentioned",
+                "success_due_in_part_to_system_of_quality_control",
+                "\t\t\t- burghers could malt grains and brew in their own cellar, but could not own brewhouse",
+                "\t\t\t- city owned brewing equipment and employed professional brewers, who would go to homes of people wanting to brew",
+                "\t\t\t- brewmaster was a civil servant charged with overseeing and quality control",
+                "\t\t- historical town center buildings have wide doorways, so they could bring the brew kettle in",
+                "\t\t- 1521, Martin Luther loved it",
+                "\t\t- 1578, Munich bought a bunch of it",
+                "\t\t- 1617, Elias Pichler - a master brewer from Einbeck - was hired by Hofbr\u00e4uhaus in Munich to brew a Bavarian version of Oanpock (a liquid bread for fasting)",
                 "\t- modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and M\u00e4rzen",
                 "\t- To be labeled a \"Bock,\" the beer must have an original gravity of at least 16\u00b0 Plato (~1.065), leading to an alcohol content generally 6% or higher"
             ]
@@ -1281,6 +1382,81 @@
                 "\t- comes from a unique process where a Doppelbock is frozen",
                 "\t- water freezes before alcohol, so this process concentrates the alcohol and flavors",
                 "\t- this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt"
+            ]
+        },
+        "German Pils": {
+            "name": "German Pils",
+            "region": "Northern Germany",
+            "categories": [
+                "German Lagers",
+                "Pale Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner malt"
+            ],
+            "hops": [
+                "German hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Pilsner glass"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 2.0,
+                "srm_high": 4.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.4,
+                "abv_high": 5.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light",
+                "carbonation": "medium-high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 22.0,
+                "ibu_high": 40.0
+            },
+            "flavors": {
+                "malt": [
+                    "grain",
+                    "sweet",
+                    "doughy",
+                    "honey",
+                    "toasted"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "medium-high bitterness",
+                    "spicy",
+                    "flowery",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "K\u00f6nig Pilsener",
+                "Paulaner Pils",
+                "Trumer Pils",
+                "Bitburger Pils",
+                "Warseiner"
+            ],
+            "notes": [
+                "\t- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s"
             ]
         },
         "Helles Bock": {

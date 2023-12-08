@@ -324,6 +324,39 @@
 	* alternative to pale lagers
 	* lighter in color than traditional bitters and distinctly refreshing
 
+# Czech Premium Pale Lager
+* Region: Pilsen, Czechia
+* Categories: Czech Lagers, Lagers, Pale Lagers
+* Malt: Czech Pilsner malt
+* Hops: Czech hops
+* Other Names: Bohemian Pilsner, Czech Pilsner, Pilsner
+* Glassware: footed Pilsner
+* Color: straw - gold (3.5 - 6 SRM)
+* Alcohol: lower - normal (4.2 - 5.8% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full; gentle creaminess
+	* carbonation: low - moderate
+	* alcohol warmth
+* Bitterness: pronounced (30-45 IBUs)
+* Flavors: 
+	* malt: complex, may be dry or caramel sweet; graham cracker
+	* hop: prominent bitterness; low-moderate spicy hop flavor
+	* fermentation: plum or berry, low diacetyl optional
+* Commercial Examples: Pilsner Urquell, Czechvar (Budvar), Staropramen, Oska Blues Mama's Little Yella Pils
+* Notes:
+	* 1840s, people in Pilsen wanted to build a brewery
+	* Decided to recruit Bavarian brewmaster Josef Felix Groll
+	* Groll combined local barley and hops with Pilsen's soft water and Bavarian lager yeast
+	* created a pale and hoppy beer
+	* Pilsen's soft water was a major component
+	* Contributed to pale color of malt, and enabled a pleasantly bitter beer
+	* First brew: October 5, 1842
+	* First public service: November 11, 1842
+	* Pilsner Urquell has been making this lager at the same location since 1842
+	* 1990, still used wooden vessels in underground caves due to economic hardship through cold war
+	* modernization has led to stainless steel fermenters
+	* Pilsner Urquell still retains a touch of diacetyl
+
 # Doppelbock
 * Region: Munich, Bavaria, Germany
 * Categories: German Lagers, Dark Lagers, Lagers
@@ -415,6 +448,35 @@
 	* water freezes before alcohol, so this process concentrates the alcohol and flavors
 	* this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt
 
+# German Pils
+* Region: Northern Germany
+* Categories: German Lagers, Pale Lagers, Lagers
+* Malt: Pilsner malt
+* Hops:  German hops
+* Other Names:
+* Glassware: Pilsner glass
+* Color: straw - light gold (2-4 SRM)
+* Alcohol: normal (4.4-5.2% ABV)
+* Mouthfeel: 
+	* body: medium-light
+	* carbonation: medium-high
+	* alcohol warmth
+* Bitterness: pronounced (22-40 IBUs)
+* Flavors: 
+	* malt: grain, sweet, doughy, honey, toasted
+	* hop: medium-high bitterness, spicy, flowery, herbal
+	* fermentation: clean
+* Commercial Examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
+* Notes:
+	* copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s
+	* 1970s, major divergence from Czech original
+		* changes in brewing and yeast management led to crisper, highly attenuated beers
+		* no more diacetyl
+		* used German instead of Czech hops
+	* late 1980s, 2/3 German beer market was Pislner
+		* led to elaborate rituals, like a 7-minute draught pour to build the perfect foam
+			* turns out the beer tested better if you just served it quickly
+
 # Helles Bock
 * Region: Germany
 * Categories: German Lagers, Pale Lagers, Lagers
@@ -438,6 +500,39 @@
 	* spring seasonal (Maibock = May)
 	* same regulations as Dunkles Bock
 	* not too similar to other bocks: light in color, display more hop profile
+
+# Munich Helles
+* Region: Munich, Bavaria, Germany
+* Categories: German Lagers, Pale Lagers, Lagers
+* Malt: Pilsner malt
+* Hops: German hops
+* Other Names: Helles
+* Glassware: munich stein, ein mass, becher
+* Color: straw - light gold (3-5 SRM)
+* Alcohol: normal (4.7-5.4% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: medium
+	* alcohol warmth
+* Bitterness: moderate (16-22 IBUs)
+* Flavors: 
+	* malt: grainy-sweet, white bread, cracker; crisp finish
+	* hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
+	* fermentation: clean
+* Commercial Examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
+* Notes:
+	* like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager
+	* Munich's hard water prevented this until the mid-1890s
+		* 1872, Franziskaner-Leist-Breauerei came out with Helles Export Bier, which laid the foundation
+		* 1893, Hacker-Bräu (now Hacker-Pschorr) introduced paler brew: Münchner Gold
+		* 1894, Spaten brewed the first true helles
+			* released in Munich in 1895 as Helles Lagerbier, and received trademark on name
+		* 1895, Thomasbräu released Thomasbräu-Pilsner, advertised as best substitute for Bohemian Pilsner
+		* 1895, brewers association in Munich had a big angry meeting about this, aiming to preserve a local market for dunkel; spearheaded by big breweries that did not want to change
+			* nothing came of this
+		* 1928, Paulaner released a Helles
+	* lower in bitterness than a German pils
+	* lighter in body and character than a märzen
 # Old Ale
 * Region: England
 * Categories: British Strong Ales

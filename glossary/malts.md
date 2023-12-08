@@ -88,6 +88,11 @@
 		* amber - dark brown (Munich Dunkel, Dunkles Bock)
 		* some beers might add a portion of Pilsner to lighten color/flavor
 	* Belgian: sparingly. Small portions in dubbels, some Bière de Garde. Base malt for Flanders Red
+* Grain:
+	* Shape: teardrop
+	* Structure: husk, giving the teardrop a diamond shape, closed at one end; internal kernel has a groove down the middle
+	* Color: beige/tan, some hints of scorching
+	* Flavor: bread (pretzel?), dough, a little bit of caramel/toffee
 # Pale Ale Malt
 * Notes:
 	* highly modified (starch readily accessible)
@@ -224,7 +229,7 @@
 * Uses:
 	* German: Weizen style beers
 * Grain:
-	* Shape
-	* Structure
-	* Color
-	* Flavor
+	* Shape: oval
+	* Structure: no husk, deep groove splitting kernel in half
+	* Color: beige
+	* Flavor: bread, dough

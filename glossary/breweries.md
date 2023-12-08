@@ -2,6 +2,11 @@
 * **Anheuser-Busch InBev**: one of the largest brewery conglomerates ever
 * **Artois:** Belgian brewery that merged with others to form Interbrew. Now owned by AB InBev
 * **Bell Brewhouse:** A London brewery that allegedly invented the porter in 1722
+* **Bitburger:** German brewery (from Bitburg) famous for its Bitburger Pilsner
+	* originally founded as Simonbräu by Theobald Simon
+	* introduced their first pilsner style beer in 1933
+	* 1911 and 1912, lost court cases around use of term Pilsner
+	* 1913, German supreme court ruled that pilsner had become a generic term
 * **Brasserie Duyck:** Flemish brewery that popularized the Bière de Garde in the 1940s among Lille students, with their Duyck Jenlain Bière de Garde, considered to be the quintessential bière de garde
 * **Brasserie Dupont:** farmhouse brewery in Hainaut, Wallonia, Belgium. Brews the Vieille Provision, considered to be the quintessential saison
 * **Brouwerij Celis**: original name of **De Kluis**
@@ -113,6 +118,12 @@
 * **Paulaner:** brewery in Munich, Germany, originated by monks following the rule of Saint Franciscus of Paula
 	* In 1774, they brewed the first Doppelbock, called Sanct Pater Bier (Salvator)
 	* In 1896, they received sole rights to the name "Salvator," forcing other doppelbocks to change their name
+* **Pilsner Urquell:** Czech brewery, based in Pilsen, which brewed a pale lager in 1842, enabled by the town's soft water.
+	* Originally founded as Bürger Brauerei
+	* This lager became known as the Pilsner, and is the origin of all such styles
+	* Did not trademark until 1859, by which point many imitations were on the market
+	* 1898, trademarked "the original pilsner," or, in Czech: Pilsner Urquell
+		* also renamed the brewery
 * **Rochefort:** Trappist Brewery in Wallonia at Abbaye Notre-Dame de Saint-Remy in Rochefort, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Rodenbach Brewery:** Belgian brewery founded in Roesalare in 1821. Famous for its Flanders Red Ale.
 	* Eugene Rodenbach worked at a brewery in England in the 1870s and came back with porter-ish beer
@@ -123,11 +134,12 @@
 * **Spaten:** Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807
 	* His son helped create the indirect kilning
 	* 1841, Spaten introduced the first Märzen
+	* 1894, brewed first Munich Helles
 * **Spencer:** former Trappist Brewery near Boston, Massachusetts at Saint Joseph's Abbey, was the only Trappist brewery outside Europe, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Stift Engelszell:** Trappist Brewery in northern Austria at Engelszell abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Tomsin**: last Belgian Witbier brewery before revival (closed in 1957)
-*  **Tre Fontane:** Trappist Brewery in Italy at Tre Fontane abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
-*  **Tynt Meadow:** Trappist Brewery in UK at Mount Saint Bernard Abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Tre Fontane:** Trappist Brewery in Italy at Tre Fontane abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* **Tynt Meadow:** Trappist Brewery in UK at Mount Saint Bernard Abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westmalle:** Trappist Brewery in Antwerp, Belgium at Abbey of Our Lady of the Holy Heart of Westmalle, instrumental in Dubbel, Tripel and helping other Trappist breweries, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westvleteren**: Trappist Brewery in Westvleteren, Poperinge, Belgium at Abbey of Saint Sixtus of Westvleteren. Known for "best beer in world," difficult access, minimal commercialization. See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Williams, Beamish & Crawford** Irish brewery founded in 1792 as Cork Porter Brewery
