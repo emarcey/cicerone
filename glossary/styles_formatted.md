@@ -197,6 +197,33 @@ first_brewed_in_1948_by_chimay
 	- Chimay Tripel is the only Trappist tripel sold in keg form
 		- no bottle conditioning
 
+# Berliner Weisse
+
+- Region: Berlin, Germany
+- Categories: German Ales, German Wheat Ales, Sour Beers, Wheat Ales
+- Malt: Pilsner malt, malted wheat
+- Hops: German Noble Hops
+- Glassware: short, wide-mouthed, straight side or chalice
+- Color: straw (2.0 - 3.0 SRM)
+- Alcohol: lower (2.8 - 3.8% ABV)
+- Mouthfeel: 
+	- body: thin, light, crisp
+	- carbonation: high, effervescent
+	- alcohol_warmth: None
+- Bitterness: low (3.0 - 8.0 IBU)
+- Flavors: 
+	- malt: soft bready notes
+	- fermentation: tart, lactic acidity; may have some Brettanomyces profile
+	- hop: none
+- Commercial examples: Bayerischer Bahnhof Berliner Style Weisse, Professor Fritz Briem 1809 Berliner Weisse, Urban Chestnut Ku'damm
+- Notes: 
+	- key flavor derives from Lactobacillus
+	- modern producers split wort and pitch lager yeast in one vessel, and lactobacillus in another
+		- then blend after fermentation
+	- long history of flavored syrup (usually fruit) to cut acidity of beer
+	- Berlin regional specialty
+	- Napoleon called it "the champagne of the north"
+
 # Best Bitter
 
 - Region: England
@@ -248,7 +275,7 @@ first_brewed_in_1948_by_chimay
 # Bière de Mars
 
 - Region: Senne Valley and Pajottenland, Belgium
-- Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical
+- Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical, Wild Fermented Beers, Sour Beers
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Other names: March Beer, Bière de Printemps
@@ -450,6 +477,29 @@ success_due_in_part_to_system_of_quality_control
 	- modern formulation arose in Munich, shaped by same factors that formed Munich Dunkel and Märzen
 	- To be labeled a "Bock," the beer must have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 
+# Dunkles Weissbier
+
+- Region: Bavaria, Germany
+- Categories: German Ales, German Wheat Ales, Wheat Ales
+- Malt: at least 50% wheat malt, usually 30% Pilsner, usually 20% Munich or similar dark malt
+- Hops: German Nobel Hops
+- Other names: Dunkel Weisse, Hefeweissbier Dunke;, Hefe-Weisse Dunkel
+- Glassware: Weizen
+- Color: amber - brown (14.0 - 23.0 SRM)
+- Alcohol: normal (4.3 - 5.6% ABV)
+- Mouthfeel: 
+	- body: medium - medium-full
+	- carbonation: high, effervescent
+	- alcohol_warmth: None
+- Bitterness: low (10.0 - 18.0 IBU)
+- Flavors: 
+	- malt: toast, nut, caramel
+	- fermentation: low - moderate banana and clove
+	- hop: low spicy, herbal, floral
+- Commercial examples: Weihenstephaner Hefeweissbier Dunkel, Franziskaner Hefe-Weisse Dunkel, Ayinger Ur-Weisse, Andechser Dunkles Weissbier, Hacker-Pschorr Dunkel Weisse, Paulaner Hefeweissbier Dunkel
+- Notes: 
+	- dark wheat bear, using that german naming
+
 # Eisbock
 
 - Region: Germany
@@ -624,7 +674,7 @@ big_names_to_know
 # Faro
 
 - Region: Senne Valley and Pajottenland, Belgium
-- Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical
+- Categories: Flanders Ales and Lambic Beers, Farmhouse Beers, Historical, Wild Fermented Beers, Sour Beers
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Alcohol: low - normal (4.0 - 5.0% ABV)
@@ -671,7 +721,7 @@ big_names_to_know
 # Flanders Red Ale
 
 - Region: West Flanders, Belgium
-- Categories: Flanders Ales and Lambic Beers
+- Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers
 - Malt: Vienna, Munich, sometimes Pilsner, Crystal and Special B often used as "signature ingredients", flaked maize can be used for up to 20% to lighten body and accentuate dryness, some brewers use dark candi sugar instead
 - Hops: continental hops
 - Other names: Belgian Red Ale, sour red ale
@@ -733,7 +783,7 @@ big_names_to_know
 # Fruit Lambic
 
 - Region: Senne Valley and Pajottenland, Belgium
-- Categories: Flanders Ales and Lambic Beers
+- Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Glassware: lambic, tulip, footed pilsner
@@ -785,11 +835,40 @@ big_names_to_know
 - Commercial examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
 - Notes: 
 	- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s
+	- 1970s, major divergence from Czech original
+		- changes in brewing and yeast management led to crisper, highly attenuated beers
+		- no more diacetyl
+		- used German instead of Czech hops
+	- late 1980s, 2/3 German beer market was Pislner
+		- led to elaborate rituals, like a 7-minute draught pour to build the perfect foam
+			- turns out the beer tested better if you just served it quickly
+
+# Gose
+
+- Region: Leipzig, Germany
+- Categories: German Ales, German Wheat Ales, Sour Ales
+- Malt: Pilsner, Wheat
+- Hops: German Noble Hops
+- Glassware: narrow, straight-sided glass like a footed Stange
+- Color: straw - light gold (3.0 - 4.0 SRM)
+- Alcohol: lower - normal (4.2 - 4.8% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium-full
+	- carbonation: high, effervescent
+	- alcohol_warmth: None
+- Bitterness: low (5.0 - 12.0 IBU)
+- Flavors: 
+	- malt: coriander, salt (from additives in brew); uncooked sourdough
+	- fermentation: tart lactic acid; stone fruit, lemon
+	- hop: none
+- Commercial examples: Bayerisch Bahnhof Leipziger Gose, Ritterguts Gose, Anderson Valley The Kimmie the Yink and the Holy Gose, Westbrook Gose, Off Color Troublesome
+- Notes: 
+	- brewed with coriander and salt
 
 # Gueuze
 
 - Region: Senne Valley and Pajottenland, Belgium
-- Categories: Flanders Ales and Lambic Beers
+- Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Other names: Gueuze (Wallonian, French), Geuze (Flemish, Dutch), Champagne of Belgium
@@ -965,7 +1044,7 @@ not_too_similar_to_other_bocks
 # Lambic
 
 - Region: Senne Valley and Pajottenland, Belgium
-- Categories: Flanders Ales and Lambic Beers
+- Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers
 - Malt: 60% Pilsner malt, 40% unmalted wheat
 - Hops: aged continental European hops
 - Other names: Straight Lambic
@@ -1021,6 +1100,40 @@ two_groups
 	- 1st beer style codified and regulated due to 1516 Reinheitsgebot
 		- Czech Černé pivo is  similar
 		- also popular in US, Mexico and South America due to german immigration
+
+# Munich Helles
+
+- Region: Munich, Bavaria, Germany
+- Categories: German Lagers, Pale Lagers, Lagers
+- Malt: Pilsner malt
+- Hops: German hops
+- Other names: Helles
+- Glassware: munich stein, ein mass, becher
+- Color: straw - light gold (3.0 - 5.0 SRM)
+- Alcohol: normal (4.7 - 5.4% ABV)
+- Mouthfeel: 
+	- body: medium
+	- carbonation: medium
+	- alcohol_warmth: None
+- Bitterness: moderate (16.0 - 22.0 IBU)
+- Flavors: 
+	- malt: grainy-sweet, white bread, cracker; crisp finish
+	- fermentation: clean
+	- hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
+- Commercial examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
+- Notes: 
+	- like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager
+	- Munich's hard water prevented this until the mid-1890s
+		- 1872, Franziskaner-Leist-Breauerei came out with Helles Export Bier, which laid the foundation
+		- 1893, Hacker-Bräu (now Hacker-Pschorr) introduced paler brew: Münchner Gold
+		- 1894, Spaten brewed the first true helles
+			- released in Munich in 1895 as Helles Lagerbier, and received trademark on name
+		- 1895, Thomasbräu released Thomasbräu-Pilsner, advertised as best substitute for Bohemian Pilsner
+		- 1895, brewers association in Munich had a big angry meeting about this, aiming to preserve a local market for dunkel; spearheaded by big breweries that did not want to change
+			- nothing came of this
+		- 1928, Paulaner released a Helles
+	- lower in bitterness than a German pils
+	- lighter in body and character than a märzen
 
 # Märzen
 
@@ -1156,7 +1269,7 @@ two_groups
 # Oud Bruin
 
 - Region: East Flanders, Belgium
-- Categories: Flanders Ales and Lambic Beers
+- Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers
 - Malt: Pilsner malt, rarely use Vienna/Munich/Special B, chocolate, black malt, sometimes crystal
 - Hops: continental (unimportant)
 - Other names: sour brown ale, (east) Flanders Brown
@@ -1517,6 +1630,59 @@ two_groups
 - Notes: 
 	- first running of parti-gyle mash, other scottish ales brewed as later runnings
 	- peat flavors are not traditional, they are an american lie
+
+# Weissbier
+
+- Region: Bavaria, Germany
+- Categories: German Ales, German Wheat Ales, Wheat Ales
+- Malt: at least 50% malted wheat (often up to 2/3rds), Pilsner malt
+- Hops: German hops
+- Other names: Hefeweizen, Hefe-Weisse
+- Glassware: Weizen glass
+- Color: straw - gold (2.0 - 6.0 SRM)
+- Alcohol: normal (4.3 - 5.6% ABV)
+- Mouthfeel: 
+	- body: medium - medium-full
+	- carbonation: high, effervescent
+	- alcohol_warmth: None
+- Bitterness: low (8.0 - 15.0 IBU)
+- Flavors: 
+	- malt: white bread, flour
+	- fermentation: banana-clove
+	- hop: very low German Noble hop flavor optional
+- Commercial examples: Weihenstephaner Hefeweissbier, Franziskaner Hefe-Weisse, Paulaner Hefe-Weissbier Naturtrüb, Ayinger Bräu Weisse, Schneider Weisse Original, Two Brothers Ebel's Weiss Beer
+- Notes: 
+	- Hefeweizen translates as "yeast-wheat"
+	- characteristic haze/cloudiness from high protein levels in wheat, and yeast in unfiltered beer
+	- Germans view yeast as a healthy additive -> custom of rousing and pouring yeast into glass
+		- yeast may autolyze during storage -> meaty, rubbery flavors, so consider freshness before rousing
+	- some American establishments garnish with slice of lemon/orange, but this is not traditional
+	- Kristalweizen is a variation with protein haze and suspended yeast removed
+		- filtration makes it less bready and yeasty
+		- become stale more rapidly than traditional
+		- imported versions are often notably oxidized
+
+# Weizenbock
+
+- Region: Munich, Germany
+- Categories: German Ales, German Wheat Ales, Wheat Ales
+- Malt: at least 50% malted wheat, German, Vienna, Pilsner
+- Hops: German Noble Hops
+- Glassware: Weizen, special branded goblets
+- Color: gold - brown (6.0 - 25.0 SRM)
+- Alcohol: elevated - high (6.5 - 9.0% ABV)
+- Mouthfeel: 
+	- body: medium-full - full
+	- carbonation: moderate-high
+	- alcohol_warmth: low
+- Bitterness: low (15.0 - 30.0 IBU)
+- Flavors: 
+	- malt: bready, nutty, toasty
+	- fermentation: intense banana clove; may have dark fruit esters as it ages; light alcohol flavor optional
+	- hop: none
+- Commercial examples: Schneider Weisse Aventinus, Weihenstephaner Vitus, Ayinger Weizenbock, Penn Weizenbock, Plank Dunkler Weizenbock
+- Notes: 
+	- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16°P) regulations
 
 # Witbier
 

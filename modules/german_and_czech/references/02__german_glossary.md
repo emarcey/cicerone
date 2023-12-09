@@ -6,11 +6,11 @@
 - **Eis:** Ice
 	- refers to a beer that has undergone freeze distillation
 - **Farb:** color
-- **Hefe:**
+- **Hefe:** yeast
 - **Hell:** light
 - **Keller:** Cellar
 - **Kölsch:**
-- **Kristall:**
+- **Kristall:** crystal
 - **Lagern:** to store
 - **Mai:** May, as in the month of May
 - **Märzen:**
@@ -19,5 +19,5 @@
 - **Schwarz:** Black
 - **Stange:** rod
 - **Sticke:**
-- **Weiss:**
-- **Weizen:**
+- **Weiss:** white
+- **Weizen:** wheat

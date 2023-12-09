@@ -29,7 +29,7 @@
 	- [ ] Modelo Negra
 - [x] 8b
 	- [x] one bottle of bottle-conditioned beer
-- [ ] 10b
+- [x] 10b
 	- [x] Munich Dunkel
 	- [x] Schwarzbier
 - [x] 11a
@@ -41,14 +41,14 @@
 - [x] 12a
 	- [x] Doppelbock
 	- [x] Helles Bock
-- [ ] 12b
+- [x] 12b
 	- [x] Doppelbock
 	- [x] Belgian Dubbel
 	- [x] Schneider Aventinus Weizenbock
 - [ ] 13a
 	- [x] Munich Helles
 	- [x] German Pils
-	- [x] Czech Premium Pale Lager
+	- [ ] Czech Premium Pale Lager
 	- [x] International Pale Lager
 - [x] 14a
 	- [ ] 4 or 5 Weissbiers
@@ -59,7 +59,7 @@
 - [ ] 14b
 	- [x] Dunkles Weissbier
 	- [x] Weizenbock
-	- [ ] Berliner Weisse
+	- [x] Berliner Weisse
 	- [x] Gose
 - [ ] 14c
 	- [x] American Wheat Beer

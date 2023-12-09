@@ -663,6 +663,81 @@
                 "\t\t- no bottle conditioning"
             ]
         },
+        "Berliner Weisse": {
+            "name": "Berliner Weisse",
+            "region": "Berlin, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Sour Beers",
+                "Wheat Ales"
+            ],
+            "malt": [
+                "Pilsner malt",
+                "malted wheat"
+            ],
+            "hops": [
+                "German Noble Hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "short",
+                "wide-mouthed",
+                "straight side or chalice"
+            ],
+            "color": {
+                "color_range": [
+                    "straw"
+                ],
+                "srm_low": 2.0,
+                "srm_high": 3.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 2.8,
+                "abv_high": 3.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "thin, light, crisp",
+                "carbonation": "high, effervescent",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 3.0,
+                "ibu_high": 8.0
+            },
+            "flavors": {
+                "malt": [
+                    "soft bready notes"
+                ],
+                "fermentation": [
+                    "tart",
+                    "lactic acidity; may have some Brettanomyces profile"
+                ],
+                "hop": [
+                    "none"
+                ]
+            },
+            "commercial_examples": [
+                "Bayerischer Bahnhof Berliner Style Weisse",
+                "Professor Fritz Briem 1809 Berliner Weisse",
+                "Urban Chestnut Ku'damm"
+            ],
+            "notes": [
+                "\t- key flavor derives from Lactobacillus",
+                "\t- modern producers split wort and pitch lager yeast in one vessel, and lactobacillus in another",
+                "\t\t- then blend after fermentation",
+                "\t- long history of flavored syrup (usually fruit) to cut acidity of beer",
+                "\t- Berlin regional specialty",
+                "\t- Napoleon called it \"the champagne of the north\""
+            ]
+        },
         "Best Bitter": {
             "name": "Best Bitter",
             "region": "England",
@@ -845,7 +920,9 @@
             "categories": [
                 "Flanders Ales and Lambic Beers",
                 "Farmhouse Beers",
-                "Historical"
+                "Historical",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -1129,6 +1206,90 @@
                 "\t- Pilsner Urquell still retains a touch of diacetyl"
             ]
         },
+        "Dark Mild": {
+            "name": "Dark Mild",
+            "region": "England",
+            "categories": [
+                "British Dark Ales",
+                "Brown Ales"
+            ],
+            "malt": [
+                "Brown Malt originally",
+                "later by pale malts",
+                "crystal"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [],
+            "glassware": [
+                "nonic pint",
+                "pub mug",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 14.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.0,
+                "abv_high": 3.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "relatively low",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 10.0,
+                "ibu_high": 25.0
+            },
+            "flavors": {
+                "malt": [
+                    "malt balanced",
+                    "with caramel",
+                    "toffee",
+                    "nutty",
+                    "light roast"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "low bitterness"
+                ]
+            },
+            "commercial_examples": [
+                "Moorhouse Black Cat",
+                "Theakston Traditional Mild",
+                "Brain's Dark",
+                "Yards Brawler Pugilist Style Ale"
+            ],
+            "notes": [
+                "\t- initially described fresh, unsoured porter",
+                "\t- workingman's beer in 20th century england",
+                "\t- in 1930s, was 3/4 of all beer brewed",
+                "\t- started to die after WWII and never recovered",
+                "\t- low ABV made it inexpensive and sessionable",
+                "\t- minimal hop content - no flavor or aroma additions, only a little bitterness",
+                "\t- 20th century had a lot of colors, most today are dark",
+                "\t- some modern examples have a tannin character (like tea) which diminishes sweetness",
+                "\t- sales slipped in 20th century -> milds were adulterated in cheap pubs -> breweries dropped",
+                "\t- some demand remains in northern England, West Midlands, South Wales",
+                "\t- often found in US brewpubs as a session ale"
+            ]
+        },
         "Doppelbock": {
             "name": "Doppelbock",
             "region": "Munich, Bavaria, Germany",
@@ -1310,6 +1471,85 @@
                 "\t- To be labeled a \"Bock,\" the beer must have an original gravity of at least 16\u00b0 Plato (~1.065), leading to an alcohol content generally 6% or higher"
             ]
         },
+        "Dunkles Weissbier": {
+            "name": "Dunkles Weissbier",
+            "region": "Bavaria, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Wheat Ales"
+            ],
+            "malt": [
+                "at least 50% wheat malt",
+                "usually 30% Pilsner",
+                "usually 20% Munich or similar dark malt"
+            ],
+            "hops": [
+                "German Nobel Hops"
+            ],
+            "other_names": [
+                "Dunkel Weisse",
+                "Hefeweissbier Dunke;",
+                "Hefe-Weisse Dunkel"
+            ],
+            "glassware": [
+                "Weizen"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "srm_low": 14.0,
+                "srm_high": 23.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.3,
+                "abv_high": 5.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "high, effervescent",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 10.0,
+                "ibu_high": 18.0
+            },
+            "flavors": {
+                "malt": [
+                    "toast",
+                    "nut",
+                    "caramel"
+                ],
+                "fermentation": [
+                    "low - moderate banana and clove"
+                ],
+                "hop": [
+                    "low spicy",
+                    "herbal",
+                    "floral"
+                ]
+            },
+            "commercial_examples": [
+                "Weihenstephaner Hefeweissbier Dunkel",
+                "Franziskaner Hefe-Weisse Dunkel",
+                "Ayinger Ur-Weisse",
+                "Andechser Dunkles Weissbier",
+                "Hacker-Pschorr Dunkel Weisse",
+                "Paulaner Hefeweissbier Dunkel"
+            ],
+            "notes": [
+                "\t- dark wheat bear, using that german naming"
+            ]
+        },
         "Eisbock": {
             "name": "Eisbock",
             "region": "Germany",
@@ -1382,333 +1622,6 @@
                 "\t- comes from a unique process where a Doppelbock is frozen",
                 "\t- water freezes before alcohol, so this process concentrates the alcohol and flavors",
                 "\t- this process is illegal in the US, so US producers simply brew a Doppelbock with a higher gravity in the malt"
-            ]
-        },
-        "German Pils": {
-            "name": "German Pils",
-            "region": "Northern Germany",
-            "categories": [
-                "German Lagers",
-                "Pale Lagers",
-                "Lagers"
-            ],
-            "malt": [
-                "Pilsner malt"
-            ],
-            "hops": [
-                "German hops"
-            ],
-            "other_names": [],
-            "glassware": [
-                "Pilsner glass"
-            ],
-            "color": {
-                "color_range": [
-                    "straw",
-                    "light gold"
-                ],
-                "srm_low": 2.0,
-                "srm_high": 4.0
-            },
-            "alcohol": {
-                "alcohol_range": [
-                    "normal"
-                ],
-                "abv_low": 4.4,
-                "abv_high": 5.2,
-                "notes": []
-            },
-            "mouthfeel": {
-                "body": "medium-light",
-                "carbonation": "medium-high",
-                "alcohol_warmth": null
-            },
-            "bitterness": {
-                "bitterness_range": [
-                    "pronounced"
-                ],
-                "ibu_low": 22.0,
-                "ibu_high": 40.0
-            },
-            "flavors": {
-                "malt": [
-                    "grain",
-                    "sweet",
-                    "doughy",
-                    "honey",
-                    "toasted"
-                ],
-                "fermentation": [
-                    "clean"
-                ],
-                "hop": [
-                    "medium-high bitterness",
-                    "spicy",
-                    "flowery",
-                    "herbal"
-                ]
-            },
-            "commercial_examples": [
-                "K\u00f6nig Pilsener",
-                "Paulaner Pils",
-                "Trumer Pils",
-                "Bitburger Pils",
-                "Warseiner"
-            ],
-            "notes": [
-                "\t- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s"
-            ]
-        },
-        "Helles Bock": {
-            "name": "Helles Bock",
-            "region": "Germany",
-            "categories": [
-                "German Lagers",
-                "Pale Lagers",
-                "Lagers"
-            ],
-            "malt": [
-                "Pilsner",
-                "Vienna",
-                "Munich",
-                "occasionally crystal"
-            ],
-            "hops": [
-                "German Noble"
-            ],
-            "other_names": [
-                "Maibock"
-            ],
-            "glassware": [
-                "becher"
-            ],
-            "color": {
-                "color_range": [
-                    "gold",
-                    "light amber"
-                ],
-                "srm_low": 6.0,
-                "srm_high": 9.0
-            },
-            "alcohol": {
-                "alcohol_range": [
-                    "elevated"
-                ],
-                "abv_low": 6.3,
-                "abv_high": 7.4,
-                "notes": []
-            },
-            "mouthfeel": {
-                "body": "medium",
-                "carbonation": "moderate - moderate-high",
-                "alcohol_warmth": "light, optional"
-            },
-            "bitterness": {
-                "bitterness_range": [
-                    "moderate"
-                ],
-                "ibu_low": 25.0,
-                "ibu_high": 35.0
-            },
-            "flavors": {
-                "malt": [
-                    "bread",
-                    "lightly toasted",
-                    "dough",
-                    "grainy-sweet"
-                ],
-                "fermentation": [
-                    "clean",
-                    "low fruity esters optional"
-                ],
-                "hop": [
-                    "moderate bitterness; low spicy and floral hop notes"
-                ]
-            },
-            "commercial_examples": [
-                "Einbecker Mai-Ur-Bock",
-                "Capital Maibock",
-                "Ayinger Maibock",
-                "Gordon Biersch Blonde Bock",
-                "Hofbr\u00e4u Maibock",
-                "Mahr's Heller Bock"
-            ],
-            "notes": [
-                "\t- spring seasonal (Maibock = May)",
-                "\t- same regulations as Dunkles Bock",
-                "not_too_similar_to_other_bocks",
-                "\t- light in color, display more hop profile"
-            ]
-        },
-        "Old Ale": {
-            "name": "Old Ale",
-            "region": "England",
-            "categories": [
-                "British Strong Ales"
-            ],
-            "malt": [
-                "varied but usually pale malt base",
-                "caramel",
-                "specialty malts"
-            ],
-            "hops": [
-                "British"
-            ],
-            "other_names": [
-                "Stock Ale",
-                "Strong Ale"
-            ],
-            "glassware": [
-                "snifter"
-            ],
-            "color": {
-                "color_range": [
-                    "light amber",
-                    "brown"
-                ],
-                "srm_low": 10.0,
-                "srm_high": 22.0
-            },
-            "alcohol": {
-                "alcohol_range": [
-                    "normal",
-                    "high"
-                ],
-                "abv_low": 5.5,
-                "abv_high": 9.0,
-                "notes": []
-            },
-            "mouthfeel": {
-                "body": "medium - full",
-                "carbonation": "low - moderate",
-                "alcohol_warmth": "evident and welcome"
-            },
-            "bitterness": {
-                "bitterness_range": [
-                    "pronounced"
-                ],
-                "ibu_low": 30.0,
-                "ibu_high": 60.0
-            },
-            "flavors": {
-                "malt": [
-                    "caramel",
-                    "toffee",
-                    "treacle",
-                    "molasses"
-                ],
-                "fermentation": [
-                    "fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors"
-                ],
-                "hop": [
-                    "depends on aging"
-                ]
-            },
-            "commercial_examples": [
-                "Greene King Olde Suffolk Vintage Ale",
-                "Gale's Prize Old Ale",
-                "Founders Curmudgeon Old Ale",
-                "Fuller's Vintage Ale",
-                "Avery Old Jubilation Ale",
-                "Berlina Old Ale",
-                "Coniston Brewing Old Man Ale"
-            ],
-            "notes": [
-                "\t- usually a blend of young and old (stock) ales",
-                "\t- few commercial examples",
-                "\t- a style 2 centuries old",
-                "\t\t- emerged as stock/strong ales in late 18th/early 19th century",
-                "\t\t- usually made from first runnings of parti-gyle",
-                "\t\t- initially had an abv around 6-7%, kept in check by techniques that favored unfermentable sugars",
-                "\t\t- resulted in sweet beers",
-                "\t\t- so then the beers were aged, which gave some wild fermentation flavor, some barrel flavor, some oxidation flavor, and would eventually ferment some of the \"unfermentable sugars\"",
-                "\t\t- often blended with young ales to get some fresh beer features (Greene Kind Strong Suffolk still brewed this way)",
-                "\t\t- style changed heavily over time. Always been dark and favoring rich fruitiness",
-                "\t\t- wood aging is rare"
-            ]
-        },
-        "Dark Mild": {
-            "name": "Dark Mild",
-            "region": "England",
-            "categories": [
-                "British Dark Ales",
-                "Brown Ales"
-            ],
-            "malt": [
-                "Brown Malt originally",
-                "later by pale malts",
-                "crystal"
-            ],
-            "hops": [
-                "British"
-            ],
-            "other_names": [],
-            "glassware": [
-                "nonic pint",
-                "pub mug",
-                "tulip"
-            ],
-            "color": {
-                "color_range": [
-                    "amber",
-                    "brown"
-                ],
-                "srm_low": 14.0,
-                "srm_high": 25.0
-            },
-            "alcohol": {
-                "alcohol_range": [
-                    "lower"
-                ],
-                "abv_low": 3.0,
-                "abv_high": 3.8,
-                "notes": []
-            },
-            "mouthfeel": {
-                "body": "light - medium",
-                "carbonation": "relatively low",
-                "alcohol_warmth": null
-            },
-            "bitterness": {
-                "bitterness_range": [
-                    "moderate"
-                ],
-                "ibu_low": 10.0,
-                "ibu_high": 25.0
-            },
-            "flavors": {
-                "malt": [
-                    "malt balanced",
-                    "with caramel",
-                    "toffee",
-                    "nutty",
-                    "light roast"
-                ],
-                "fermentation": [
-                    "clean"
-                ],
-                "hop": [
-                    "low bitterness"
-                ]
-            },
-            "commercial_examples": [
-                "Moorhouse Black Cat",
-                "Theakston Traditional Mild",
-                "Brain's Dark",
-                "Yards Brawler Pugilist Style Ale"
-            ],
-            "notes": [
-                "\t- initially described fresh, unsoured porter",
-                "\t- workingman's beer in 20th century england",
-                "\t- in 1930s, was 3/4 of all beer brewed",
-                "\t- started to die after WWII and never recovered",
-                "\t- low ABV made it inexpensive and sessionable",
-                "\t- minimal hop content - no flavor or aroma additions, only a little bitterness",
-                "\t- 20th century had a lot of colors, most today are dark",
-                "\t- some modern examples have a tannin character (like tea) which diminishes sweetness",
-                "\t- sales slipped in 20th century -> milds were adulterated in cheap pubs -> breweries dropped",
-                "\t- some demand remains in northern England, West Midlands, South Wales",
-                "\t- often found in US brewpubs as a session ale"
             ]
         },
         "English Barley Wine": {
@@ -2028,7 +1941,9 @@
             "categories": [
                 "Flanders Ales and Lambic Beers",
                 "Farmhouse Beers",
-                "Historical"
+                "Historical",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -2156,7 +2071,9 @@
             "name": "Flanders Red Ale",
             "region": "West Flanders, Belgium",
             "categories": [
-                "Flanders Ales and Lambic Beers"
+                "Flanders Ales and Lambic Beers",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "Vienna",
@@ -2335,7 +2252,9 @@
             "name": "Fruit Lambic",
             "region": "Senne Valley and Pajottenland, Belgium",
             "categories": [
-                "Flanders Ales and Lambic Beers"
+                "Flanders Ales and Lambic Beers",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -2424,11 +2343,168 @@
                 "\t- often covered with spider webs in casks bc that means no other bugs are getting in"
             ]
         },
+        "German Pils": {
+            "name": "German Pils",
+            "region": "Northern Germany",
+            "categories": [
+                "German Lagers",
+                "Pale Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner malt"
+            ],
+            "hops": [
+                "German hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Pilsner glass"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 2.0,
+                "srm_high": 4.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.4,
+                "abv_high": 5.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light",
+                "carbonation": "medium-high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 22.0,
+                "ibu_high": 40.0
+            },
+            "flavors": {
+                "malt": [
+                    "grain",
+                    "sweet",
+                    "doughy",
+                    "honey",
+                    "toasted"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "medium-high bitterness",
+                    "spicy",
+                    "flowery",
+                    "herbal"
+                ]
+            },
+            "commercial_examples": [
+                "K\u00f6nig Pilsener",
+                "Paulaner Pils",
+                "Trumer Pils",
+                "Bitburger Pils",
+                "Warseiner"
+            ],
+            "notes": [
+                "\t- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s",
+                "\t- 1970s, major divergence from Czech original",
+                "\t\t- changes in brewing and yeast management led to crisper, highly attenuated beers",
+                "\t\t- no more diacetyl",
+                "\t\t- used German instead of Czech hops",
+                "\t- late 1980s, 2/3 German beer market was Pislner",
+                "\t\t- led to elaborate rituals, like a 7-minute draught pour to build the perfect foam",
+                "\t\t\t- turns out the beer tested better if you just served it quickly"
+            ]
+        },
+        "Gose": {
+            "name": "Gose",
+            "region": "Leipzig, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Sour Ales"
+            ],
+            "malt": [
+                "Pilsner",
+                "Wheat"
+            ],
+            "hops": [
+                "German Noble Hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "narrow",
+                "straight-sided glass like a footed Stange"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 3.0,
+                "srm_high": 4.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "abv_low": 4.2,
+                "abv_high": 4.8,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium-full",
+                "carbonation": "high, effervescent",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 5.0,
+                "ibu_high": 12.0
+            },
+            "flavors": {
+                "malt": [
+                    "coriander",
+                    "salt (from additives in brew); uncooked sourdough"
+                ],
+                "fermentation": [
+                    "tart lactic acid; stone fruit",
+                    "lemon"
+                ],
+                "hop": [
+                    "none"
+                ]
+            },
+            "commercial_examples": [
+                "Bayerisch Bahnhof Leipziger Gose",
+                "Ritterguts Gose",
+                "Anderson Valley The Kimmie the Yink and the Holy Gose",
+                "Westbrook Gose",
+                "Off Color Troublesome"
+            ],
+            "notes": [
+                "\t- brewed with coriander and salt"
+            ]
+        },
         "Gueuze": {
             "name": "Gueuze",
             "region": "Senne Valley and Pajottenland, Belgium",
             "categories": [
-                "Flanders Ales and Lambic Beers"
+                "Flanders Ales and Lambic Beers",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -2523,6 +2599,175 @@
                 "\t- once bottled, stored for a few months to a year",
                 "\t\t- referment -> new flavors -> rising carbonation",
                 "\t\t- may be enjoyed for many years (as much as 2 decades!)"
+            ]
+        },
+        "Helles Bock": {
+            "name": "Helles Bock",
+            "region": "Germany",
+            "categories": [
+                "German Lagers",
+                "Pale Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner",
+                "Vienna",
+                "Munich",
+                "occasionally crystal"
+            ],
+            "hops": [
+                "German Noble"
+            ],
+            "other_names": [
+                "Maibock"
+            ],
+            "glassware": [
+                "becher"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "light amber"
+                ],
+                "srm_low": 6.0,
+                "srm_high": 9.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "abv_low": 6.3,
+                "abv_high": 7.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 25.0,
+                "ibu_high": 35.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "lightly toasted",
+                    "dough",
+                    "grainy-sweet"
+                ],
+                "fermentation": [
+                    "clean",
+                    "low fruity esters optional"
+                ],
+                "hop": [
+                    "moderate bitterness; low spicy and floral hop notes"
+                ]
+            },
+            "commercial_examples": [
+                "Einbecker Mai-Ur-Bock",
+                "Capital Maibock",
+                "Ayinger Maibock",
+                "Gordon Biersch Blonde Bock",
+                "Hofbr\u00e4u Maibock",
+                "Mahr's Heller Bock"
+            ],
+            "notes": [
+                "\t- spring seasonal (Maibock = May)",
+                "\t- same regulations as Dunkles Bock",
+                "not_too_similar_to_other_bocks",
+                "\t- light in color, display more hop profile"
+            ]
+        },
+        "Munich Helles": {
+            "name": "Munich Helles",
+            "region": "Munich, Bavaria, Germany",
+            "categories": [
+                "German Lagers",
+                "Pale Lagers",
+                "Lagers"
+            ],
+            "malt": [
+                "Pilsner malt"
+            ],
+            "hops": [
+                "German hops"
+            ],
+            "other_names": [
+                "Helles"
+            ],
+            "glassware": [
+                "munich stein",
+                "ein mass",
+                "becher"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 3.0,
+                "srm_high": 5.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.7,
+                "abv_high": 5.4,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "medium",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "ibu_low": 16.0,
+                "ibu_high": 22.0
+            },
+            "flavors": {
+                "malt": [
+                    "grainy-sweet",
+                    "white bread",
+                    "cracker; crisp finish"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "moderate bitterness; little hop flavor or aroma (spicy",
+                    "herbal",
+                    "floral)"
+                ]
+            },
+            "commercial_examples": [
+                "Weihenstephaner Original",
+                "Hofbr\u00e4u Original",
+                "Spaten Premium Lager",
+                "Hacker Pschorr M\u00fcnchner Gold",
+                "Andechser Vollbier Hell",
+                "Augustiner Lagerbier Hell"
+            ],
+            "notes": [
+                "\t- like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager",
+                "\t- Munich's hard water prevented this until the mid-1890s",
+                "\t\t- 1872, Franziskaner-Leist-Breauerei came out with Helles Export Bier, which laid the foundation",
+                "\t\t- 1893, Hacker-Br\u00e4u (now Hacker-Pschorr) introduced paler brew: M\u00fcnchner Gold",
+                "\t\t- 1894, Spaten brewed the first true helles",
+                "\t\t\t- released in Munich in 1895 as Helles Lagerbier, and received trademark on name",
+                "\t\t- 1895, Thomasbr\u00e4u released Thomasbr\u00e4u-Pilsner, advertised as best substitute for Bohemian Pilsner",
+                "\t\t- 1895, brewers association in Munich had a big angry meeting about this, aiming to preserve a local market for dunkel; spearheaded by big breweries that did not want to change",
+                "\t\t\t- nothing came of this",
+                "\t\t- 1928, Paulaner released a Helles",
+                "\t- lower in bitterness than a German pils",
+                "\t- lighter in body and character than a m\u00e4rzen"
             ]
         },
         "Imperial Stout": {
@@ -2862,7 +3107,8 @@
             "name": "Lambic",
             "region": "Senne Valley and Pajottenland, Belgium",
             "categories": [
-                "Flanders Ales and Lambic Beers"
+                "Flanders Ales and Lambic Beers",
+                "Wild Fermented Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -3190,6 +3436,93 @@
                 "\t- oats are usually rolled"
             ]
         },
+        "Old Ale": {
+            "name": "Old Ale",
+            "region": "England",
+            "categories": [
+                "British Strong Ales"
+            ],
+            "malt": [
+                "varied but usually pale malt base",
+                "caramel",
+                "specialty malts"
+            ],
+            "hops": [
+                "British"
+            ],
+            "other_names": [
+                "Stock Ale",
+                "Strong Ale"
+            ],
+            "glassware": [
+                "snifter"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "brown"
+                ],
+                "srm_low": 10.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "high"
+                ],
+                "abv_low": 5.5,
+                "abv_high": 9.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - full",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": "evident and welcome"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "ibu_low": 30.0,
+                "ibu_high": 60.0
+            },
+            "flavors": {
+                "malt": [
+                    "caramel",
+                    "toffee",
+                    "treacle",
+                    "molasses"
+                ],
+                "fermentation": [
+                    "fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors"
+                ],
+                "hop": [
+                    "depends on aging"
+                ]
+            },
+            "commercial_examples": [
+                "Greene King Olde Suffolk Vintage Ale",
+                "Gale's Prize Old Ale",
+                "Founders Curmudgeon Old Ale",
+                "Fuller's Vintage Ale",
+                "Avery Old Jubilation Ale",
+                "Berlina Old Ale",
+                "Coniston Brewing Old Man Ale"
+            ],
+            "notes": [
+                "\t- usually a blend of young and old (stock) ales",
+                "\t- few commercial examples",
+                "\t- a style 2 centuries old",
+                "\t\t- emerged as stock/strong ales in late 18th/early 19th century",
+                "\t\t- usually made from first runnings of parti-gyle",
+                "\t\t- initially had an abv around 6-7%, kept in check by techniques that favored unfermentable sugars",
+                "\t\t- resulted in sweet beers",
+                "\t\t- so then the beers were aged, which gave some wild fermentation flavor, some barrel flavor, some oxidation flavor, and would eventually ferment some of the \"unfermentable sugars\"",
+                "\t\t- often blended with young ales to get some fresh beer features (Greene Kind Strong Suffolk still brewed this way)",
+                "\t\t- style changed heavily over time. Always been dark and favoring rich fruitiness",
+                "\t\t- wood aging is rare"
+            ]
+        },
         "Ordinary Bitter": {
             "name": "Ordinary Bitter",
             "region": "England",
@@ -3290,7 +3623,9 @@
             "name": "Oud Bruin",
             "region": "East Flanders, Belgium",
             "categories": [
-                "Flanders Ales and Lambic Beers"
+                "Flanders Ales and Lambic Beers",
+                "Wild Fermented Beers",
+                "Sour Beers"
             ],
             "malt": [
                 "Pilsner malt",
@@ -4425,6 +4760,163 @@
             "notes": [
                 "\t- first running of parti-gyle mash, other scottish ales brewed as later runnings",
                 "\t- peat flavors are not traditional, they are an american lie"
+            ]
+        },
+        "Weissbier": {
+            "name": "Weissbier",
+            "region": "Bavaria, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Wheat Ales"
+            ],
+            "malt": [
+                "at least 50% malted wheat (often up to 2/3rds)",
+                "Pilsner malt"
+            ],
+            "hops": [
+                "German hops"
+            ],
+            "other_names": [
+                "Hefeweizen",
+                "Hefe-Weisse"
+            ],
+            "glassware": [
+                "Weizen glass"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "srm_low": 2.0,
+                "srm_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "abv_low": 4.3,
+                "abv_high": 5.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "high, effervescent",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 8.0,
+                "ibu_high": 15.0
+            },
+            "flavors": {
+                "malt": [
+                    "white bread",
+                    "flour"
+                ],
+                "fermentation": [
+                    "banana-clove"
+                ],
+                "hop": [
+                    "very low German Noble hop flavor optional"
+                ]
+            },
+            "commercial_examples": [
+                "Weihenstephaner Hefeweissbier",
+                "Franziskaner Hefe-Weisse",
+                "Paulaner Hefe-Weissbier Naturtr\u00fcb",
+                "Ayinger Br\u00e4u Weisse",
+                "Schneider Weisse Original",
+                "Two Brothers Ebel's Weiss Beer"
+            ],
+            "notes": [
+                "\t- Hefeweizen translates as \"yeast-wheat\"",
+                "\t- characteristic haze/cloudiness from high protein levels in wheat, and yeast in unfiltered beer",
+                "\t- Germans view yeast as a healthy additive -> custom of rousing and pouring yeast into glass",
+                "\t\t- yeast may autolyze during storage -> meaty, rubbery flavors, so consider freshness before rousing",
+                "\t- some American establishments garnish with slice of lemon/orange, but this is not traditional",
+                "\t- Kristalweizen is a variation with protein haze and suspended yeast removed",
+                "\t\t- filtration makes it less bready and yeasty",
+                "\t\t- become stale more rapidly than traditional",
+                "\t\t- imported versions are often notably oxidized"
+            ]
+        },
+        "Weizenbock": {
+            "name": "Weizenbock",
+            "region": "Munich, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Wheat Ales"
+            ],
+            "malt": [
+                "at least 50% malted wheat",
+                "German",
+                "Vienna",
+                "Pilsner"
+            ],
+            "hops": [
+                "German Noble Hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "Weizen",
+                "special branded goblets"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "brown"
+                ],
+                "srm_low": 6.0,
+                "srm_high": 25.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "abv_low": 6.5,
+                "abv_high": 9.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-full - full",
+                "carbonation": "moderate-high",
+                "alcohol_warmth": "low"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 15.0,
+                "ibu_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "bready",
+                    "nutty",
+                    "toasty"
+                ],
+                "fermentation": [
+                    "intense banana clove; may have dark fruit esters as it ages; light alcohol flavor optional"
+                ],
+                "hop": [
+                    "none"
+                ]
+            },
+            "commercial_examples": [
+                "Schneider Weisse Aventinus",
+                "Weihenstephaner Vitus",
+                "Ayinger Weizenbock",
+                "Penn Weizenbock",
+                "Plank Dunkler Weizenbock"
+            ],
+            "notes": [
+                "\t- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16\u00b0P) regulations"
             ]
         },
         "Witbier": {

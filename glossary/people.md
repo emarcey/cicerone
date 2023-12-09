@@ -19,6 +19,7 @@
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
 	* rules included self-sufficiency, hospitality for visitors
 * **Salmon, Ernest E.:** professor at Wye College in Kent, responsible for a great deal of work on hop varieties in early-mid 20th century
+* **Schneider, Georg:** Bavarian brewer who successfully petitioned the Bavarian royal family that the right to brew wheat beer be remanded to the people (1870s). He founded a brewery in 1872.
 * **Sedlmayr, Gabriel (the Younger):** 19th Century Bavarian brewer whose father acquired Spaten brewery before Gabriel the Younger took over upon is death in 1839. Known for introducing steam power and indirect kilning to Bavarian brewing practices
 * **Verlinden, Hendrik:** Belgian beer consultant who helped Westmalle develop Dubbel (1926) and Tripel (1934), and who helped Drie Linden develop Witkap Pater in 1932
 * **von Linde, Carl:** German scientist who developed mechanical refrigeration for beer storage tanks in 1873, changing the way lagers would be made
