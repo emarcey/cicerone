@@ -1,3 +1,30 @@
+# Altbier
+
+- Region: Düsseldort, Germany
+- Categories: German Ales, German Hybrid Ales
+- Malt: Munich, Farb (black), Cara
+- Hops: Spalt
+- Glassware: similar glass to a stange but shorter and wider
+- Color: light amber - dark amber (9.0 - 17.0 SRM)
+- Alcohol: normal (4.3 - 5.5% ABV)
+- Mouthfeel: 
+	- body: medium
+	- carbonation: medium-medium high
+	- alcohol_warmth: None
+- Bitterness: pronounced (25.0 - 50.0 IBU)
+- Flavors: 
+	- malt: toast, nut, bread; dry finish
+	- fermentation: light fruity esters (especially dark fruit)
+	- hop: assertive bitterness; low-medium Noble hop flavors
+- Commercial examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
+- Notes: 
+refers_to_old_style_of_brewing
+	- ale brewing
+	- 4 brewpubs in Alstadt (old city section of Düsseldorf) brew traditional Altbier
+	- best known is Zum Uerige
+		- they also produce Sticket and Doppelsticker which are stronger variations of Altbier
+		- most bitter of 4 producers, lowest hop aroma/flavor
+
 # Baltic Porter
 
 - Region: Northern and Eastern Europe
@@ -217,12 +244,34 @@ first_brewed_in_1948_by_chimay
 	- hop: none
 - Commercial examples: Bayerischer Bahnhof Berliner Style Weisse, Professor Fritz Briem 1809 Berliner Weisse, Urban Chestnut Ku'damm
 - Notes: 
+	- history
+		- developed in Berlin from 17th-20th century
+		- murky origins
+			- some say that French Huguenots picked up techniques from Flanders on their way to Berlin
+			- some say that Halberstädter Broihan, supposedly brewed in 1640s, originated it
+		- were not originally sour
+		- however, did not use much hops and wort was not boiled
+			- hops were boiled in water then blended into mash to increase mash temp, instead of adding hops to kettle
+			- essentially an early infusion mash
+		- no sterilization -> microorganisms survived into cooled wart
+		- lactic acid bacteria survived
+			- not true wild fermentation
+		- modern formulation in 19th century
+			- at height of popularity, most popular drink in Berlin, produced by nearly 700 breweries
+		- production waned in 1950s
+		- only 2 major breweries produce it
+		- artisanal production
+			- especially in United States
 	- key flavor derives from Lactobacillus
 	- modern producers split wort and pitch lager yeast in one vessel, and lactobacillus in another
 		- then blend after fermentation
 	- long history of flavored syrup (usually fruit) to cut acidity of beer
 	- Berlin regional specialty
 	- Napoleon called it "the champagne of the north"
+protected_category
+	- can only be brewed in Berlin
+		- only brewed by 2 full-scale commercial breweries: Berliner Kindl and Schultheiss
+			- both use the split wort method
 
 # Best Bitter
 
@@ -1041,6 +1090,31 @@ not_too_similar_to_other_bocks
 	- during famine, population declined 20-25%, but beer production only declined by 10%, due to growin export
 	- Guinness launched super porter in 1806, became single stout in 1840, and exports were 53% of Guinness production
 
+# Kölsch
+
+- Region: Cologne, Germany
+- Categories: German Ales, German Hybrid Ales
+- Malt: German Pilsner, pale 2-row
+- Hops: Noble hops
+- Other names: Kolsch, Koelsch
+- Glassware: stange
+- Color: straw - light gold (3.5 - 5.0 SRM)
+- Alcohol: normal (4.4 - 5.2% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: medium-light - medium; very high attenuation
+	- alcohol_warmth: None
+- Bitterness: moderate (18.0 - 30.0 IBU)
+- Flavors: 
+	- malt: bready malt; light grain-sweetness
+	- fermentation: subtle fruity esters
+	- hop: moderate-pronounced bitterness; light Noble hop flavor
+- Commercial examples: Sunner Kölsch, Gaffel Kölsch, Reissdorf Kölsch, Goose Island Summertime
+- Notes: 
+	- top-fermenting ale from Cologne (Köln), first brewed in the 1800s
+	- style is a protected category in Germany
+	- uses lagering techniques with ale yeast
+
 # Lambic
 
 - Region: Senne Valley and Pajottenland, Belgium
@@ -1652,15 +1726,39 @@ two_groups
 	- hop: very low German Noble hop flavor optional
 - Commercial examples: Weihenstephaner Hefeweissbier, Franziskaner Hefe-Weisse, Paulaner Hefe-Weissbier Naturtrüb, Ayinger Bräu Weisse, Schneider Weisse Original, Two Brothers Ebel's Weiss Beer
 - Notes: 
+	- Ancient History
+		- oldest known depictions of beer drinking from Smerian artifacts from 3400 BC
+			- would have been a wheat beer
+		- Egyptions brewed wheat-heavy beers
+		- code of Hammurabi contains rules for wheat beers
+	- Modern History
+		- origins in 12th-13th century bohemia
+		- 1520, Degenberg family from Scwarzach obtained exclusive right to wheat beer from ruling Wittelsbach dynasty
+			- generated a ton of profits
+			- but also took a lot of wheat from people's baking ovens
+		- 1567, Duke Albrecht V of the Wittelsbachs outlwaed wheat beer drinking
+			- except for Degenberg clan because they had pre-existing right
+		- 1602, Hans Sigmund of Degenberg died without an heir, so Wittelsbach Maximilian I could reclaim the right to brew wheat beer
+		- Monopoly lasted until 1798, when a few monasteries and burgher breweries were given permission
+		- Subsequently, permission was for sale or lease
+		- 1872, sold rights to Georg Schneider I
+		- Sales declined into 1950s-1960s to < 3% of overall Bavarian production
+		- sudden shift in consumer tastes in 1965 led to explosion in weissbier popularity, now > 1/3 of total market share in Bavaria and nearly 10% across Germany
+	- Production
+		- high protein content requires long rests, so decoction mashing still common
+		- usually refermented in bottle using speise as priming sugar
 	- Hefeweizen translates as "yeast-wheat"
 	- characteristic haze/cloudiness from high protein levels in wheat, and yeast in unfiltered beer
 	- Germans view yeast as a healthy additive -> custom of rousing and pouring yeast into glass
 		- yeast may autolyze during storage -> meaty, rubbery flavors, so consider freshness before rousing
 	- some American establishments garnish with slice of lemon/orange, but this is not traditional
-	- Kristalweizen is a variation with protein haze and suspended yeast removed
-		- filtration makes it less bready and yeasty
-		- become stale more rapidly than traditional
-		- imported versions are often notably oxidized
+variations
+		- Kristalweizen is a variation with protein haze and suspended yeast removed
+			- filtration makes it less bready and yeasty
+			- become stale more rapidly than traditional
+			- imported versions are often notably oxidized
+leichtes_weissbier
+		- lower alcohol version
 
 # Weizenbock
 

@@ -150,3 +150,5 @@
 	* 1995, acquired by Scottish and Newcastle (which joined Heineken in 2008)
 	* 2009, Heineken closed Williams, Beamish & Crawford because they now had 2 County Cork breweries
 * **Zundert:** Trappist Brewery in Zundert, North Brabant, Netherlands at Abbey of Maria Toevlucht. Relatively recent brewery (2013). See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+* Zum Uerige: one of 4 remaining independent altbier brewpubs in Düsseldorf, and generally considered the gold standard
+	* They also brew Sticke and Doppelsticke which are stronger variations of Altbier

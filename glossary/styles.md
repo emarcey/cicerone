@@ -1,3 +1,44 @@
+# Altbier
+* Region: Düsseldort, Germany
+* Categories: German Ales, German Hybrid Ales
+* Malt: Munich, Vienna, Farb (black), Cara
+* Hops: Spalt, other German Noble hops
+* Other Names:
+* Glassware: similar glass to a stange but shorter and wider
+* Color: light amber - dark amber (9-17 SRM)
+* Alcohol: normal (4.3-5.5% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: medium-medium high
+	* alcohol warmth
+* Bitterness: pronounced (25-50 IBUs)
+* Flavors: 
+	* malt: toast, nut, bread; dry finish
+	* hop: assertive bitterness; low-medium Noble hop flavors
+	* fermentation: light fruity esters (especially dark fruit)
+* Commercial Examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
+* Notes:
+	* refers to old style of brewing: ale brewing
+		* evolved from medieval German ales, brewed with lots of hops and wheat (called Broyhan and Keutebier, for example)
+		* Hanseatic League became important figure in preserving and distributing the beer
+		* 1540-41 land record shows 35 Düsseldorf brewers, mostly making Keutebier
+		* 1622, brewers' and bakers' guild formed in Düsseldorf to protect local beer
+		* acquired name in 1800s when import of Bavarian and Bohemian lagers threatened Düsseldorf breweries
+		* 1822, Matthias Schumacher opened world's oldest still-operating altbier pub
+			* brewed a stronger variation
+		* 1840s, Im Füchschen opened
+		* 1850, Jakob Schwenger started brewery and bakery, now known as Zum Schlüssel
+		* 1855, Hubert Wilhelm Cürtem founded Zum Uerige, considered the gold standard
+		* 1860s, 100 altbier breweries
+		* end of WW1, < 50
+		* end of WW2, 18 left
+		* Only Schumacher, Im Füchschen, Zum Schlüssel and Zum Uerige remain independent
+	* 4 brewpubs in Alstadt (old city section of Düsseldorf) brew traditional Altbier
+	* best known is Zum Uerige
+		* they also produce Sticke and Doppelsticke which are stronger variations of Altbier
+		* most bitter of 4 producers, lowest hop aroma/flavor
+	* cool fermented with ale yeast
+		* although temperature is between ale and lager yeast (55-65°F, vs 59-77°F and 46-56°F)
 # Baltic Porter
 * Region: Northern and Eastern Europe
 * Categories: Porters, British Dark Ales
@@ -1083,6 +1124,43 @@
 	* in 20th century, this was Ireland's primary beer
 	* during famine, population declined 20-25%, but beer production only declined by 10%, due to growin export
 	* Guinness launched super porter in 1806, became single stout in 1840, and exports were 53% of Guinness production
+
+# Kölsch
+* Region: Cologne, Germany
+* Categories: German Ales, German Hybrid Ales
+* Malt: German Pilsner, pale 2-row
+* Hops: Noble hops
+* Other Names: Kolsch, Koelsch
+* Glassware: stange
+* Color: straw - light gold (3.5 - 5 SRM)
+* Alcohol: normal (4.4-5.2% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: medium-light - medium; very high attenuation
+	* alcohol warmth
+* Bitterness: moderate (18-30 IBUs)
+* Flavors: 
+	* malt: bready malt; light grain-sweetness
+	* hop: moderate-pronounced bitterness; light Noble hop flavor
+	* fermentation: subtle fruity esters
+* Commercial Examples: Sunner Kölsch, Gaffel Kölsch, Reissdorf Kölsch, Goose Island Summertime
+* Notes:
+	* top-fermenting ale from Cologne (Köln), first brewed in the 1800s
+	* style is a protected category in Germany
+	* uses lagering techniques with ale yeast
+	* history 
+		* goes back to 874 AD
+		* brewing office of Cologne, which already controlled kölsch pproduction, was first mentionedi n 1250
+		* 1396, reps of brewers' guild founded Kölner Brauer-Kooperation (Cologne Brewers Association), which still exists
+			* current day: 20 brewers, 11 of whom produce kölsch
+		* 1800s, Bohemian lager imports led Cologne brewers to develop a pale beer of their own
+			* this was the origin of the Kölsch
+		* 1986 Cologne brewers renewed definitions: 
+			* true kölsch: light-color, highly fermented, strongly hopped, bright, to-fermented Vollbier (beer with original gravity of 11-12%)
+			* service: in 0.2 liter Stange
+			* who is allowed to produce: Cologne brewers
+		* 1998, kölsch granted EU logo to be designated as protected category
+		* 
 
 # Lambic
 * Region: Senne Valley and Pajottenland, Belgium

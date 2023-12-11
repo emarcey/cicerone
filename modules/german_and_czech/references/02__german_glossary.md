@@ -1,4 +1,4 @@
-- **Alt:**
+- **Alt:** old
 - **Bock:** ram (the animal)
 - **Doppel:** double
 	- usually refers to a modest increase in malt and alcohol
@@ -9,15 +9,15 @@
 - **Hefe:** yeast
 - **Hell:** light
 - **Keller:** Cellar
-- **Kölsch:**
+- **Kölsch:** from Cologne
 - **Kristall:** crystal
 - **Lagern:** to store
 - **Mai:** May, as in the month of May
-- **Märzen:**
+- **Märzen:** March
 - **Oktober:** October
 - **Rauch:** Smoke
 - **Schwarz:** Black
 - **Stange:** rod
-- **Sticke:**
+- **Sticke:** secret
 - **Weiss:** white
 - **Weizen:** wheat
