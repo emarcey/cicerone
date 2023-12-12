@@ -547,7 +547,7 @@
 * Categories: German Ales, German Wheat Ales, Wheat Ales
 * Malt: at least 50% wheat malt, usually 30% Pilsner, usually 20% Munich or similar dark malt
 * Hops: German Nobel Hops
-* Other Names: Dunkel Weisse, Hefeweissbier Dunke;, Hefe-Weisse Dunkel
+* Other Names: Dunkel Weisse, Hefeweissbier Dunkel, Hefe-Weisse Dunkel
 * Glassware: Weizen
 * Color: amber - brown (14 - 23 SRM)
 * Alcohol: normal (4.3-5.6% ABV)
