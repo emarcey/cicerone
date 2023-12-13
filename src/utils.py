@@ -1,6 +1,12 @@
+import os
 from typing import Any, Dict, List, Optional, Union
+
 from src.const import ALCOHOL_PROFILE_REGEX, BITTERNESS_PROFILE_REGEX, COLOR_PROFILE_REGEX
 from src.generics import OPTIONAL_DICT_OR_DICT_ITEM, OPTIONAL_DICT_OR_LIST, DictItem
+
+
+def clear_screen():
+    os.system("clear")
 
 
 def to_snake_case(s: str) -> str:

@@ -1,3 +1,5 @@
+from datetime import datetime
+import os
 import random
 from pydantic import BaseModel, Field, validator
 from rich import print
@@ -5,6 +7,7 @@ from typing import Dict, List, Optional, Set, Tuple
 from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 
 from src.utils import (
+    clear_screen,
     snake_to_sentence_case,
     validate_alcohol_profile,
     validate_bitterness_profile,
@@ -142,8 +145,8 @@ class BeerStyle(BaseModel):
             v = self.__dict__[k]
             if not v:
                 continue
-            if k in ["name"]:
-                continue
+            if k in ["region"]:
+                v = v.split(", ")[-1]
             delimiter = ", "
             sep = ": "
             if k == "notes":
@@ -159,15 +162,17 @@ class BeerStyle(BaseModel):
 
 class BeerStyleMap(BaseModel):
     styles: Dict[str, BeerStyle]
+    output_directory: str = "./evaluate_results"
+    start_time: datetime = Field(default_factory=lambda: datetime.now())
 
     def __str__(self) -> str:
         sorted_styles = sorted(list(self.styles.values()), key=lambda x: x.name)
         return "\n\n".join(map(str, sorted_styles))
 
-    def test_evaluate_style(self, styles: Dict[str, BeerStyle]) -> Tuple[bool, str, str, str]:
-        style = random.choice(list(styles))
-        all_lower_style_names = [s.lower() for s in styles.keys()]
-        print("\n" + self.styles[style].print_test())
+    def test_evaluate_style(
+        self, style_name: str, style_value: BeerStyle, all_lower_style_names: Set[str]
+    ) -> Tuple[bool, str, str, str]:
+        print("\n" + style_value.print_test())
         print("[magenta]Enter style: [/magenta]")
         guess = input("")
         while guess.lower() not in all_lower_style_names and guess.lower() != "exit":
@@ -175,7 +180,11 @@ class BeerStyleMap(BaseModel):
             if tmp_guess == "exit":
                 break
             guess = tmp_guess
-        return guess.lower().strip() == style.lower().strip(), style, guess, self.styles[style].print_test()
+        return (
+            guess.lower().strip() == style_name.lower().strip(),
+            all_lower_style_names.get(guess.lower(), guess),
+            style_value.print_test(),
+        )
 
     def _select_eligible_styles(self, params: BeerStyleTestParams) -> Dict[str, BeerStyle]:
         eligible_styles: Dict[str, BeerStyle] = {}
@@ -186,15 +195,61 @@ class BeerStyleMap(BaseModel):
             eligible_styles[name] = style
         return eligible_styles
 
+    def output_results(
+        self, total: int, correct: int, mistakes: List[Tuple[str, str, str]], all_results: List[Tuple[str, str, bool]]
+    ) -> None:
+        clear_screen()
+        print("")
+        print("*" * 20)
+        print(f"Results:")
+        print("*" * 20)
+        print(f"{total} Attempted")
+        print(f"{correct} Correct")
+        accuracy = 0
+        if total > 0:
+            accuracy = round(correct / total, 2) * 100
+        print(f"{accuracy}% Accuracy")
+        print("*" * 20)
+        idx = 1
+        if mistakes:
+            print(f"Mistakes: \n")
+        for mistake in mistakes:
+            print(f"Mistake {idx}")
+            print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
+            print(f"Prompt:\n{mistake[2]}\n")
+            idx += 1
+
+        if not os.path.exists(self.output_directory):
+            os.makedirs(self.output_directory)
+        start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
+        all_lines = [["style", "guess", "is_correct"]] + all_results
+        if total > 0:
+            with open(f"{self.output_directory}/{start_time}.csv", "w") as f:
+                for line in all_lines:
+                    line_to_write = ",".join(map(str, line)) + "\n"
+                    f.write(line_to_write)
+
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0
         correct = 0
         mistakes = []
         eligible_styles = self._select_eligible_styles(params)
+        tmp_eligible_styles = list(eligible_styles)
+        all_results = []
+        clear_screen()
         try:
             while True:
-                is_correct, style, guess, printed = self.test_evaluate_style(eligible_styles)
+                if not tmp_eligible_styles:
+                    print("[green]Wow! You finished everything! Let's roll it back and start over![/green]")
+                    tmp_eligible_styles = list(eligible_styles)
+                style = random.choice(tmp_eligible_styles)
+                tmp_eligible_styles.remove(style)
+                all_lower_style_names = {s.lower(): s for s in eligible_styles.keys()}
+                is_correct, guess, printed = self.test_evaluate_style(
+                    style, eligible_styles[style], all_lower_style_names
+                )
                 total += 1
+                all_results.append((style, guess, is_correct))
                 if is_correct:
                     print(f"[green]Correct![/green]")
                     correct += 1
@@ -202,22 +257,8 @@ class BeerStyleMap(BaseModel):
                     print(f"[red]Incorrect![/red] Guess: {guess}, Actual: {style}\n")
                     if guess in self.styles:
                         print("*** Your Guess ***")
-                        print(self.styles[style].print_test())
-                        print("***           ***")
-                    mistakes.append([style, guess, printed])
+                        print(self.styles[guess].print_test())
+                        print("******************")
+                    mistakes.append((style, guess, printed))
         except KeyboardInterrupt:
-            print("")
-            print("*" * 20)
-            print(f"Results:")
-            print(f"{total} Attempted")
-            print(f"{correct} Correct")
-            print(f"{round(correct/total,2)*100}% Accuracy")
-            print("*" * 20)
-            idx = 1
-            if mistakes:
-                print(f"Mistakes: \n")
-            for mistake in mistakes:
-                print(f"Mistake {idx}")
-                print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
-                print(f"Prompt:\n{mistake[2]}\n")
-                idx += 1
+            self.output_results(total, correct, mistakes, all_results)

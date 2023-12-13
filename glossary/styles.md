@@ -1,5 +1,5 @@
 # Altbier
-* Region: Düsseldort, Germany
+* Region: Düsseldorf, Germany
 * Categories: German Ales, German Hybrid Ales
 * Malt: Munich, Vienna, Farb (black), Cara
 * Hops: Spalt, other German Noble hops
@@ -149,7 +149,7 @@
 	* beer caught on with hard drinkers lol
 	* traditionally doesn't use spices, but not prohibited
 # Belgian Golden Strong Ale
-* Region: Belgium, Flanders, Antwerp
+* Region: Flanders, Antwerp, Belgium
 * Categories: Secular and Trappist Strong Ales
 * Malt: Pilsner, lots of light brewing sugar (20-25%)
 * Hops: Saaz, Goldings

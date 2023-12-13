@@ -1,3 +1,5 @@
+# Review Questions
+
 1. What words would you use to describe the flavors of Pilsner malt?
 	1. Bread dough, white cracker, biscuit
 2. What words would you use to describe the flavors of Munich malt?
@@ -88,6 +90,57 @@
 	12. White: Weiss
 
 # Advanced Review Questions
+
+1. Describe the differences in flavor between the following:
+	1. lager yeast: clean fermentation profile
+	2. weizen yeast: banana, clove, nutmeg
+	3. ale yeast: generally produces fruity esters and phenolic flavors
+	4. lactobacillus: sharp, tart acidity
+2. What are the key differences between Märzen and Munich Dunkel?
+	1. They're quite similar beers in terms of flavor profile, but a Dunkel will tend a little darker than a Märzen, and a Märzen will be stronger and may have a hint of alcohol warmth
+3. What has caused the divergence of Märzen and Festbier styles in modern times?
+	1. The Märzen has stayed closer to the traditional darker lager, but the Festbier has developed more so as a concession to consumer tastes
+	2. Consumers like paler beers, for whatever reason
+4. What attributes of beers would lead to them being called a bock? Do you think that's an appropriate use of the word?
+	1. A beer can be labelled a bock when the original gravity is >= 16°P, usually leading to an ABV >= 6%
+	2. It comes from the German word for Ram, coming in turn from a quaint miscommunication which saw the city Einbeck, pronounced as "ein bock" (billy goat) by Bavarians
+	3. The term is a little unintuitive, but once you know that Bock means "this beer is strong," then it's quite simple and a delightful little piece of beer history
+5. Why is the term Bock based on original gravity, rather than ABV?
+	1. My guess would be that the term is from before ABV existed?
+	2. And/or, due to malt taxation
+6. What factors led to the brewing of a pale lager in Pilsen in the mid-1800s?
+	1. The people of Pilsen wanted a brewery
+	2. They recruited a brewmaster from Bavaria
+	3. He used local hops and barley, as well as the local soft water of Pilsen, which in combination tend towards paler, hoppier beers
+7. What factors do you think contributed to the popularity of Pilsners?
+	1. We have seen that the introduction of glassware rather than earthenware has led to a consumer preference for both bright and light-colored beers
+	2. Especially when compared to the hazy wheat ales and dark lagers of Southern Germany, the Pilsner is a much more aesthetically pleasing beverage to look at in a glass
+	3. Additionally, the Pilsner is crisp, light, drinkable, all making for a great session beer
+8. Have you sampled any beers labeled as German Pils that might not meet the BJCP guidelines for bitterness? What commercial examples best exemplify the BJCP style guidelines for German Pils?
+	1. I don't think I've had enough German Pils to answer that
+	2. The main one I've had is Bitburger, which is pretty spot on: crisp, some malt but not substantial, a moderate lingering bitterness
+9. Have you tried a Czech Premium Pale Lager other than Pilsner Urquell
+	1. I've tried Alexandr's Czech-style Pilsner
+	2. Biggest difference is presence/absence of diacetyl
+10. Why don't brewers use 100% wheat for brewing weizen-style beers?
+	1. It's hard to work with
+	2. The high glucan/protein content and lack of husks can cause issues in brewing
+	3. In particular, lack of husks prevents creation of filter bed to run off wort
+11. What factors contribute to the cloudiness of weizen-style beers? Why might the cloudiness of a bottled Weissbier vary greatly depending on storage and pouring?
+	1. Haziness is caused by two things: proteins from the wheat, and residual yeast from traditional bottle-conditioning
+	2. The variance in cloudiness can be caused by storing the bottle upside-down or on its side, by disturbing the bottle during transit or by rousing the yeast when pouring, all of which can lead to a cloudier, hazier pour
+12. Why do you suppose Düsseldorf and Cologne remained centers of ale brewing rather than becoming lager brewers?
+	1. Geographically, they are closer to the Belgian ale-focused tradition than the Bavarian lager-focused tradition
+	2. They were also not subject to the same restrictions as Bavarian brewers, one of which notably required fermentation only during the cooler months, which self-selected yeast strains that could survive the cold, leading to the development of lager yeast
+13. Although Altbier and Kölsch styles are very different in color, they are similar in several other ways. List them:
+	1. Top-fermented using ale yeast and a cool fermentation (for an ale), followed by a lagering period
+	2. Similar ABV ranges
+	3. Similar hop aroma and flavor, both with a notable bitterness
+	4. Served in similar glasses
+14. How would you distinguish a Kölsch from a German Pils?
+	1. The biggest difference is that the Kölsch will have some fruity esters from ale fermentation, as well as a vinous mouthfeel
+	2. The Pils will also tend to have a more pronounced hop bitterness, flavor, and aroma
+
 
 # Sample Cicerone Questions
 1. Name 2 German styles made with wheat

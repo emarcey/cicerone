@@ -2,18 +2,20 @@
     "styles": {
         "Altbier": {
             "name": "Altbier",
-            "region": "D\u00fcsseldort, Germany",
+            "region": "D\u00fcsseldorf, Germany",
             "categories": [
                 "German Ales",
                 "German Hybrid Ales"
             ],
             "malt": [
                 "Munich",
+                "Vienna",
                 "Farb (black)",
                 "Cara"
             ],
             "hops": [
-                "Spalt"
+                "Spalt",
+                "other German Noble hops"
             ],
             "other_names": [],
             "glassware": [
@@ -69,10 +71,26 @@
             "notes": [
                 "refers_to_old_style_of_brewing",
                 "\t- ale brewing",
+                "\t\t- evolved from medieval German ales, brewed with lots of hops and wheat (called Broyhan and Keutebier, for example)",
+                "\t\t- Hanseatic League became important figure in preserving and distributing the beer",
+                "\t\t- 1540-41 land record shows 35 D\u00fcsseldorf brewers, mostly making Keutebier",
+                "\t\t- 1622, brewers' and bakers' guild formed in D\u00fcsseldorf to protect local beer",
+                "\t\t- acquired name in 1800s when import of Bavarian and Bohemian lagers threatened D\u00fcsseldorf breweries",
+                "\t\t- 1822, Matthias Schumacher opened world's oldest still-operating altbier pub",
+                "\t\t\t- brewed a stronger variation",
+                "\t\t- 1840s, Im F\u00fcchschen opened",
+                "\t\t- 1850, Jakob Schwenger started brewery and bakery, now known as Zum Schl\u00fcssel",
+                "\t\t- 1855, Hubert Wilhelm C\u00fcrtem founded Zum Uerige, considered the gold standard",
+                "\t\t- 1860s, 100 altbier breweries",
+                "\t\t- end of WW1, < 50",
+                "\t\t- end of WW2, 18 left",
+                "\t\t- Only Schumacher, Im F\u00fcchschen, Zum Schl\u00fcssel and Zum Uerige remain independent",
                 "\t- 4 brewpubs in Alstadt (old city section of D\u00fcsseldorf) brew traditional Altbier",
                 "\t- best known is Zum Uerige",
-                "\t\t- they also produce Sticket and Doppelsticker which are stronger variations of Altbier",
-                "\t\t- most bitter of 4 producers, lowest hop aroma/flavor"
+                "\t\t- they also produce Sticke and Doppelsticke which are stronger variations of Altbier",
+                "\t\t- most bitter of 4 producers, lowest hop aroma/flavor",
+                "\t- cool fermented with ale yeast",
+                "\t\t- although temperature is between ale and lager yeast (55-65\u00b0F, vs 59-77\u00b0F and 46-56\u00b0F)"
             ]
         },
         "Baltic Porter": {
@@ -447,7 +465,7 @@
         },
         "Belgian Golden Strong Ale": {
             "name": "Belgian Golden Strong Ale",
-            "region": "Belgium, Flanders, Antwerp",
+            "region": "Flanders, Antwerp, Belgium",
             "categories": [
                 "Secular and Trappist Strong Ales"
             ],
@@ -1586,7 +1604,7 @@
             ],
             "other_names": [
                 "Dunkel Weisse",
-                "Hefeweissbier Dunke;",
+                "Hefeweissbier Dunkel",
                 "Hefe-Weisse Dunkel"
             ],
             "glassware": [
@@ -3269,7 +3287,23 @@
             "notes": [
                 "\t- top-fermenting ale from Cologne (K\u00f6ln), first brewed in the 1800s",
                 "\t- style is a protected category in Germany",
-                "\t- uses lagering techniques with ale yeast"
+                "\t- uses lagering techniques with ale yeast",
+                "\t- history",
+                "\t\t- goes back to 874 AD",
+                "\t\t- brewing office of Cologne, which already controlled k\u00f6lsch pproduction, was first mentionedi n 1250",
+                "\t\t- 1396, reps of brewers' guild founded K\u00f6lner Brauer-Kooperation (Cologne Brewers Association), which still exists",
+                "current_day",
+                "\t\t\t- 20 brewers, 11 of whom produce k\u00f6lsch",
+                "\t\t- 1800s, Bohemian lager imports led Cologne brewers to develop a pale beer of their own",
+                "\t\t\t- this was the origin of the K\u00f6lsch",
+                "1986_cologne_brewers_renewed_definitions",
+                "true_k\u00f6lsch",
+                "\t\t\t- light-color, highly fermented, strongly hopped, bright, to-fermented Vollbier (beer with original gravity of 11-12%)",
+                "service",
+                "\t\t\t- in 0.2 liter Stange",
+                "who_is_allowed_to_produce",
+                "\t\t\t- Cologne brewers",
+                "\t\t- 1998, k\u00f6lsch granted EU logo to be designated as protected category"
             ]
         },
         "Lambic": {
@@ -5211,5 +5245,7 @@
                 "\t- spices - coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon"
             ]
         }
-    }
+    },
+    "output_directory": "./evaluate_results",
+    "start_time": "2023-12-13T15:56:03.464416"
 }
