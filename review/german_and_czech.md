@@ -86,3 +86,52 @@
 	10. Smoke: Rauch
 	11. Yeast: Hefe
 	12. White: Weiss
+
+# Advanced Review Questions
+
+# Sample Cicerone Questions
+1. Name 2 German styles made with wheat
+	1. Weissbier
+	2. Weizenbock
+	3. Dunkles Weissbier
+	4. Berliner Weisse
+	5. Gose
+2. Name a German wheat beer style with evident lactic acid flavor
+	1. Berliner Weisse
+	2. Gose
+3. What is the maximum SRM value you would expect for a German Weissbier?
+	1. 6
+	2. 2-6 is range
+4. What portion of a Dunkles Weissbier must be wheat malt?
+	1. It follows the same rules as regular Weissbier, so it must be at least 50% wheat malt
+5. What is the expected minimum ABV of a Weizenbock?
+	1. 6.5%
+6. Which is generally palest in color: Munich Helles or Czech Premium Pale Lager?
+	1. Munich Helles (3-5 vs 3.5-6)
+7. Use of the word Pilsner is reserved for breweries in one particular town in what country?
+	1. Czechia (Pilsen)
+8. In Munich, water chemistry led to what kind of beers?
+	1. Dark and malty
+9. Soft water and locally grown hops in Czechia led to the development of what beer style in the early 1840s?
+	1. Pilsner, now known as Czech Premium Pale Lager
+10. Use of the word Oktoberfest is reserved for breweries located in one particular town in what country?
+	1. Germany (Munich)
+11. This style was the everyday drinking beer of Munich prior to 1900, and its name means "dark" in English
+	1. Munich Dunkel
+12. An often-dark and generally malt-balanced lager with a minimum ABV of 7% would be called:
+	1. Doppelbock
+13. A pale lager with a malty balance but notable flavor and aroma hop additions, and a minimum alcohol content of 6.3% would be known as:
+	1. Helles Bock
+14. A strong lager fortified by freezing would be known as:
+	1. Eisbock
+15. What is the maximum ABV you would expect from a Festbier?
+	1. 6.3%
+16. What malt is traditionally used to brew a Märzen?
+	1. Munich as the base
+17. Name the two hybrid ales along the Rhine?
+	1. Kölsch (Cologne)
+	2. Altbier (Düsseldorf)
+18. A pale, highly attenuated ale with a vinous character and low-level fruity character would most likely be an example of what German beer style?
+	1. Kölsch, I think
+19. What is the maximum IBU value specified for the German amber ale made in Düsseldorf?
+	1. 50
