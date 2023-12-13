@@ -172,7 +172,9 @@ class BeerStyleMap(BaseModel):
     def test_evaluate_style(
         self, style_name: str, style_value: BeerStyle, all_lower_style_names: Set[str]
     ) -> Tuple[bool, str, str, str]:
+        print("*" * 20)
         print("\n" + style_value.print_test())
+        print("*" * 20)
         print("[magenta]Enter style: [/magenta]")
         guess = input("")
         while guess.lower() not in all_lower_style_names and guess.lower() != "exit":
@@ -198,6 +200,8 @@ class BeerStyleMap(BaseModel):
     def output_results(
         self, total: int, correct: int, mistakes: List[Tuple[str, str, str]], all_results: List[Tuple[str, str, bool]]
     ) -> None:
+        if total <= 0:
+            return
         clear_screen()
         print("")
         print("*" * 20)
@@ -205,9 +209,7 @@ class BeerStyleMap(BaseModel):
         print("*" * 20)
         print(f"{total} Attempted")
         print(f"{correct} Correct")
-        accuracy = 0
-        if total > 0:
-            accuracy = round(correct / total, 2) * 100
+        accuracy = round(correct / total, 2) * 100
         print(f"{accuracy}% Accuracy")
         print("*" * 20)
         idx = 1
@@ -223,11 +225,10 @@ class BeerStyleMap(BaseModel):
             os.makedirs(self.output_directory)
         start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
         all_lines = [["style", "guess", "is_correct"]] + all_results
-        if total > 0:
-            with open(f"{self.output_directory}/{start_time}.csv", "w") as f:
-                for line in all_lines:
-                    line_to_write = ",".join(map(str, line)) + "\n"
-                    f.write(line_to_write)
+        with open(f"{self.output_directory}/{start_time}.csv", "w") as f:
+            for line in all_lines:
+                line_to_write = ",".join(map(str, line)) + "\n"
+                f.write(line_to_write)
 
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0
