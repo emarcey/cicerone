@@ -2,7 +2,7 @@ from datetime import datetime
 import os
 import random
 from pydantic import BaseModel, Field, validator
-from rich import print
+from rich.console import Console
 from typing import Dict, List, Optional, Set, Tuple
 from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 
@@ -17,6 +17,8 @@ from src.utils import (
     validate_optional_string_to_list_no_split,
     validate_string_input,
 )
+
+console = Console()
 
 
 class BeerStyleTestParams(BaseModel):
@@ -172,10 +174,10 @@ class BeerStyleMap(BaseModel):
     def test_evaluate_style(
         self, style_name: str, style_value: BeerStyle, all_lower_style_names: Set[str]
     ) -> Tuple[bool, str, str, str]:
-        print("*" * 20)
-        print("\n" + style_value.print_test())
-        print("*" * 20)
-        print("[magenta]Enter style: [/magenta]")
+        console.print("*" * 20)
+        console.print("\n" + style_value.print_test())
+        console.print("*" * 20)
+        console.print("Enter style: ", style="magenta")
         guess = input("")
         while guess.lower() not in all_lower_style_names and guess.lower() != "exit":
             tmp_guess = input("Not a valid style. Try again or type 'exit' to quit:\n")
@@ -192,7 +194,7 @@ class BeerStyleMap(BaseModel):
         eligible_styles: Dict[str, BeerStyle] = {}
         for name, style in self.styles.items():
             if len(set([cat.lower() for cat in style.categories]).intersection(params.exclude_categories)) > 0:
-                print(f"Excluding style: {name}")
+                console.print(f"Excluding style: {name}")
                 continue
             eligible_styles[name] = style
         return eligible_styles
@@ -203,22 +205,22 @@ class BeerStyleMap(BaseModel):
         if total <= 0:
             return
         clear_screen()
-        print("")
-        print("*" * 20)
-        print(f"Results:")
-        print("*" * 20)
-        print(f"{total} Attempted")
-        print(f"{correct} Correct")
+        console.print("")
+        console.print("*" * 20)
+        console.print(f"Results:")
+        console.print("*" * 20)
+        console.print(f"{total} Attempted")
+        console.print(f"{correct} Correct")
         accuracy = round(correct / total, 2) * 100
-        print(f"{accuracy}% Accuracy")
-        print("*" * 20)
+        console.print(f"{accuracy}% Accuracy")
+        console.print("*" * 20)
         idx = 1
         if mistakes:
-            print(f"Mistakes: \n")
+            console.print(f"Mistakes: \n")
         for mistake in mistakes:
-            print(f"Mistake {idx}")
-            print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
-            print(f"Prompt:\n{mistake[2]}\n")
+            console.print(f"Mistake {idx}")
+            console.print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
+            console.print(f"Prompt:\n{mistake[2]}\n")
             idx += 1
 
         if not os.path.exists(self.output_directory):
@@ -235,13 +237,16 @@ class BeerStyleMap(BaseModel):
         correct = 0
         mistakes = []
         eligible_styles = self._select_eligible_styles(params)
-        tmp_eligible_styles = list(eligible_styles)
+        # tmp_eligible_styles = list(eligible_styles)
+        tmp_eligible_styles = []
         all_results = []
         clear_screen()
         try:
             while True:
                 if not tmp_eligible_styles:
-                    print("[green]Wow! You finished everything! Let's roll it back and start over![/green]")
+                    console.print(
+                        "Wow! You finished everything! Let's roll it back and start over!", style="bold green"
+                    )
                     tmp_eligible_styles = list(eligible_styles)
                 style = random.choice(tmp_eligible_styles)
                 tmp_eligible_styles.remove(style)
@@ -252,14 +257,14 @@ class BeerStyleMap(BaseModel):
                 total += 1
                 all_results.append((style, guess, is_correct))
                 if is_correct:
-                    print(f"[green]Correct![/green]")
+                    console.print(f"Correct!", style="bold green")
                     correct += 1
                 else:
-                    print(f"[red]Incorrect![/red] Guess: {guess}, Actual: {style}\n")
+                    console.print(f"[bold][red]Incorrect![/red][/bold] Guess: {guess}, Actual: {style}\n")
                     if guess in self.styles:
-                        print("*** Your Guess ***")
-                        print(self.styles[guess].print_test())
-                        print("******************")
+                        console.print("**** Your Guess ****")
+                        console.print(self.styles[guess].print_test())
+                        console.print("********************")
                     mistakes.append((style, guess, printed))
         except KeyboardInterrupt:
             self.output_results(total, correct, mistakes, all_results)

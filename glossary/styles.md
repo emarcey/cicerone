@@ -981,39 +981,6 @@
 	* spring seasonal (Maibock = May)
 	* same regulations as Dunkles Bock
 	* not too similar to other bocks: light in color, display more hop profile
-
-# Munich Helles
-* Region: Munich, Bavaria, Germany
-* Categories: German Lagers, Pale Lagers, Lagers
-* Malt: Pilsner malt
-* Hops: German hops
-* Other Names: Helles
-* Glassware: munich stein, ein mass, becher
-* Color: straw - light gold (3-5 SRM)
-* Alcohol: normal (4.7-5.4% ABV)
-* Mouthfeel: 
-	* body: medium
-	* carbonation: medium
-	* alcohol warmth
-* Bitterness: moderate (16-22 IBUs)
-* Flavors: 
-	* malt: grainy-sweet, white bread, cracker; crisp finish
-	* hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
-	* fermentation: clean
-* Commercial Examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
-* Notes:
-	* like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager
-	* Munich's hard water prevented this until the mid-1890s
-		* 1872, Franziskaner-Leist-Breauerei came out with Helles Export Bier, which laid the foundation
-		* 1893, Hacker-Bräu (now Hacker-Pschorr) introduced paler brew: Münchner Gold
-		* 1894, Spaten brewed the first true helles
-			* released in Munich in 1895 as Helles Lagerbier, and received trademark on name
-		* 1895, Thomasbräu released Thomasbräu-Pilsner, advertised as best substitute for Bohemian Pilsner
-		* 1895, brewers association in Munich had a big angry meeting about this, aiming to preserve a local market for dunkel; spearheaded by big breweries that did not want to change
-			* nothing came of this
-		* 1928, Paulaner released a Helles
-	* lower in bitterness than a German pils
-	* lighter in body and character than a märzen
 # Imperial Stout
 * Region: Britain, North America
 * Categories: British Dark Ales, Stouts
@@ -1251,6 +1218,39 @@
 	* 1st beer style codified and regulated due to 1516 Reinheitsgebot
 		* Czech Černé pivo is  similar
 		* also popular in US, Mexico and South America due to german immigration
+# Munich Helles
+* Region: Munich, Bavaria, Germany
+* Categories: German Lagers, Pale Lagers, Lagers
+* Malt: Pilsner malt
+* Hops: German hops
+* Other Names: Helles
+* Glassware: munich stein, ein mass, becher
+* Color: straw - light gold (3-5 SRM)
+* Alcohol: normal (4.7-5.4% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: medium
+	* alcohol warmth
+* Bitterness: moderate (16-22 IBUs)
+* Flavors: 
+	* malt: grainy-sweet, white bread, cracker; crisp finish
+	* hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
+	* fermentation: clean
+* Commercial Examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
+* Notes:
+	* like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager
+	* Munich's hard water prevented this until the mid-1890s
+		* 1872, Franziskaner-Leist-Breauerei came out with Helles Export Bier, which laid the foundation
+		* 1893, Hacker-Bräu (now Hacker-Pschorr) introduced paler brew: Münchner Gold
+		* 1894, Spaten brewed the first true helles
+			* released in Munich in 1895 as Helles Lagerbier, and received trademark on name
+		* 1895, Thomasbräu released Thomasbräu-Pilsner, advertised as best substitute for Bohemian Pilsner
+		* 1895, brewers association in Munich had a big angry meeting about this, aiming to preserve a local market for dunkel; spearheaded by big breweries that did not want to change
+			* nothing came of this
+		* 1928, Paulaner released a Helles
+	* lower in bitterness than a German pils
+	* lighter in body and character than a märzen
+	* 
 # Oatmeal Stout
 * Region: Britain
 * Categories: British Dark Ales, Stouts
@@ -1434,7 +1434,7 @@
 	* clear to slightly hazy
 
 # Saison
-* Region: Belgium, Wallonia
+* Region: Wallonia, Belgium
 * Categories: French and Belgian Beers, Farmhouse Beers
 * Malt:
 	* Pilsner malt
