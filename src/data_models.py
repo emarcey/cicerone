@@ -1,7 +1,7 @@
 from datetime import datetime
 import os
 import random
-from pydantic import BaseModel, Field, validator
+from pydantic import BaseModel, Field, field_validator
 from rich.console import Console
 from typing import Dict, List, Optional, Set, Tuple
 from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
@@ -30,10 +30,8 @@ class MouthFeelProfile(BaseModel):
     carbonation: str
     alcohol_warmth: Optional[str] = None
 
-    _validate_string_input = validator("body", "carbonation", pre=True, allow_reuse=True)(validate_string_input)
-    _validate_optional_string_input = validator("alcohol_warmth", pre=True, allow_reuse=True)(
-        validate_optional_string_input
-    )
+    _validate_string_input = field_validator("body", "carbonation", mode="before")(validate_string_input)
+    _validate_optional_string_input = field_validator("alcohol_warmth", mode="before")(validate_optional_string_input)
 
     def __str__(self) -> str:
         vals = []
@@ -46,7 +44,7 @@ class FlavorProfile(BaseModel):
     malt: List[str]
     fermentation: List[str]
     hop: List[str]
-    _validate_string_input = validator("malt", "fermentation", "hop", pre=True, allow_reuse=True)(
+    _validate_string_input = field_validator("malt", "fermentation", "hop", mode="before")(
         validate_optional_string_to_list
     )
 
@@ -104,22 +102,21 @@ class BeerStyle(BaseModel):
     commercial_examples: List[str] = Field(default_factory=lambda: [])
     notes: List[str] = Field(default_factory=lambda: [])
 
-    _validate_string_input = validator("region", pre=True, allow_reuse=True)(validate_string_input)
-    _validate_optional_string_to_list_input = validator(
+    _validate_string_input = field_validator("region", mode="before")(validate_string_input)
+    _validate_optional_string_to_list_input = field_validator(
         "categories",
         "other_names",
         "glassware",
         "commercial_examples",
         "hops",
         "malt",
-        pre=True,
-        allow_reuse=True,
+        mode="before",
     )(validate_optional_string_to_list)
 
-    _validate_notes = validator("notes", pre=True, allow_reuse=True)(validate_optional_string_to_list_no_split)
-    _validate_color_profile = validator("color", pre=True, allow_reuse=True)(validate_color_profile)
-    _validate_alcohol_profile = validator("alcohol", pre=True, allow_reuse=True)(validate_alcohol_profile)
-    _validate_bitterness_profile = validator("bitterness", pre=True, allow_reuse=True)(validate_bitterness_profile)
+    _validate_notes = field_validator("notes", mode="before")(validate_optional_string_to_list_no_split)
+    _validate_color_profile = field_validator("color", mode="before")(validate_color_profile)
+    _validate_alcohol_profile = field_validator("alcohol", mode="before")(validate_alcohol_profile)
+    _validate_bitterness_profile = field_validator("bitterness", mode="before")(validate_bitterness_profile)
 
     def __str__(self) -> str:
         vals = []
@@ -140,6 +137,45 @@ class BeerStyle(BaseModel):
 
         serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
         return f"# {self.name}\n\n{serialized_vals}"
+
+    def evaluate_value(self) -> bool:
+        value = random.choice(["alcohol", "bitterness", "color"])
+        console.print("*" * 20)
+        console.print(self.name, style="bold")
+        console.print("*" * 20)
+
+        value_lower = -1
+        value_upper = -1
+        if value == "alcohol":
+            value_lower = self.alcohol.abv_low
+            value_upper = self.alcohol.abv_high
+        elif value == "bitterness":
+            value_lower = self.bitterness.ibu_low
+            value_upper = self.bitterness.ibu_high
+        elif value == "color":
+            value_lower = self.color.srm_low
+            value_upper = self.color.srm_high
+        else:
+            raise ValueError(f"Unexpected evaluate value: {value}")
+
+        guess_lower = console.input(f"Enter the lower bound for {value}: ")
+        guess_upper = console.input(f"Enter the upper bound for {value}: ")
+        lower_match = float(guess_lower) == float(value_lower)
+        lower_color = "cyan"
+        upper_match = float(guess_upper) == float(value_upper)
+        upper_color = "cyan"
+        if lower_match and upper_match:
+            console.print("Correct!", style="green bold")
+            return True
+        if lower_match:
+            lower_color = "green"
+        if upper_match:
+            upper_color = "green"
+        console.print(
+            f"Incorrect! Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; Your Guess: {guess_lower} - {guess_upper}",
+            style="red bold",
+        )
+        return False
 
     def print_test(self) -> str:
         vals = []
@@ -231,6 +267,32 @@ class BeerStyleMap(BaseModel):
             for line in all_lines:
                 line_to_write = ",".join(map(str, line)) + "\n"
                 f.write(line_to_write)
+
+    def evaluate_values(self, params: BeerStyleTestParams) -> None:
+        total = 0
+        correct = 0
+        eligible_styles = self._select_eligible_styles(params)
+        clear_screen()
+        try:
+            while True:
+                style = random.choice(list(eligible_styles))
+                is_correct = self.styles[style].evaluate_value()
+                total += 1
+                if is_correct:
+                    correct += 1
+        except KeyboardInterrupt:
+            if total <= 0:
+                return
+            clear_screen()
+            console.print("")
+            console.print("*" * 20)
+            console.print(f"Results:")
+            console.print("*" * 20)
+            console.print(f"{total} Attempted")
+            console.print(f"{correct} Correct")
+            accuracy = round(correct / total, 2) * 100
+            console.print(f"{accuracy}% Accuracy")
+            console.print("*" * 20)
 
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0

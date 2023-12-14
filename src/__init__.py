@@ -96,7 +96,7 @@ def gen_styles(in_filename: str, o_md_filename: str, o_filename: str):
     parsed_dict = parse_file(lines)
     styles = parse_dict_items_to_styles(parsed_dict)
     with open(o_filename, "w") as f:
-        json.dump(styles.model_dump(mode="json"), f, indent=4)
+        json.dump(styles.model_dump(include=["styles"], mode="json"), f, indent=4)
     with open(o_md_filename, "w") as f:
         f.write(str(styles))
     return styles
@@ -112,13 +112,20 @@ def evaluate(filename: str) -> None:
     styles.evaluate(BeerStyleTestParams())
 
 
+def evaluate_values(filename: str) -> None:
+    styles = load_styles(filename)
+    styles.evaluate_values(BeerStyleTestParams())
+
+
 @click.command()
-@click.option("--file_mode", type=click.Choice(["gen", "test"]))
+@click.option("--file_mode", type=click.Choice(["gen", "test", "test-values"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
     elif file_mode == "test":
         evaluate(JSON_STYLE_PATH)
+    elif file_mode == "test-values":
+        evaluate_values(JSON_STYLE_PATH)
     else:
         raise ValueError(f"Invalid file mode: {file_mode}")
 

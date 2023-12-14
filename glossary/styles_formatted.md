@@ -1460,7 +1460,7 @@ two_groups
 
 # Saison
 
-- Region: Belgium, Wallonia
+- Region: Wallonia, Belgium
 - Categories: French and Belgian Beers, Farmhouse Beers
 - Malt: Pilsner malt, May add wheat, oats, rye, spelt, grainy/bready quality, May add Vienna/Munich malt, adds color/malt flavor
 - Hops: Styrian Golding, Saaz, East Kent

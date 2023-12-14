@@ -15,3 +15,6 @@ gen:
 
 evaluate:
 	pipenv run python src/__init__.py --file_mode=test
+
+evaluate-values:
+	pipenv run python src/__init__.py --file_mode=test-values
