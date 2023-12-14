@@ -138,7 +138,7 @@ class BeerStyle(BaseModel):
         serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
         return f"# {self.name}\n\n{serialized_vals}"
 
-    def evaluate_value(self) -> bool:
+    def evaluate_value(self) -> Tuple[str, float, float, float, float]:
         value = random.choice(["alcohol", "bitterness", "color"])
         console.print("*" * 20)
         console.print(self.name, style="bold")
@@ -166,16 +166,24 @@ class BeerStyle(BaseModel):
         upper_color = "cyan"
         if lower_match and upper_match:
             console.print("Correct!", style="green bold")
-            return True
+            return "correct", float(value_lower), float(value_upper), float(guess_lower), float(guess_upper)
+
+        incorrect_message = "[red]Incorrect![/red]"
+        result = "incorrect"
+        if lower_match or upper_match:
+            incorrect_message = "[yellow]Close[/yellow]"
+            result = "close"
         if lower_match:
             lower_color = "green"
         if upper_match:
             upper_color = "green"
         console.print(
-            f"Incorrect! Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; Your Guess: {guess_lower} - {guess_upper}",
+            f"{incorrect_message} "
+            + f"Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; "
+            + f"Your Guess: {guess_lower} - {guess_upper}",
             style="red bold",
         )
-        return False
+        return result, float(value_lower), float(value_upper), float(guess_lower), float(guess_upper)
 
     def print_test(self) -> str:
         vals = []
@@ -259,11 +267,13 @@ class BeerStyleMap(BaseModel):
             console.print(f"Prompt:\n{mistake[2]}\n")
             idx += 1
 
-        if not os.path.exists(self.output_directory):
-            os.makedirs(self.output_directory)
+        output_directory = self.output_directory + "/evaluate"
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
         start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
         all_lines = [["style", "guess", "is_correct"]] + all_results
-        with open(f"{self.output_directory}/{start_time}.csv", "w") as f:
+
+        with open(f"{output_directory}/evaluate_{start_time}.csv", "w") as f:
             for line in all_lines:
                 line_to_write = ",".join(map(str, line)) + "\n"
                 f.write(line_to_write)
@@ -271,15 +281,20 @@ class BeerStyleMap(BaseModel):
     def evaluate_values(self, params: BeerStyleTestParams) -> None:
         total = 0
         correct = 0
+        close = 0
         eligible_styles = self._select_eligible_styles(params)
+        all_results = []
         clear_screen()
         try:
             while True:
                 style = random.choice(list(eligible_styles))
-                is_correct = self.styles[style].evaluate_value()
+                result, value_lower, value_upper, guess_low, guess_upper = self.styles[style].evaluate_value()
                 total += 1
-                if is_correct:
+                if result == "correct":
                     correct += 1
+                elif result == "close":
+                    close += 1
+                all_results.append((style, result, value_lower, value_upper, guess_low, guess_upper))
         except KeyboardInterrupt:
             if total <= 0:
                 return
@@ -290,9 +305,22 @@ class BeerStyleMap(BaseModel):
             console.print("*" * 20)
             console.print(f"{total} Attempted")
             console.print(f"{correct} Correct")
-            accuracy = round(correct / total, 2) * 100
+            console.print(f"{close} Close")
+            accuracy = round(round(correct / total, 4) * 100, 2)
+            close_accuracy = round(round((correct + close) / total, 4) * 100, 2)
             console.print(f"{accuracy}% Accuracy")
+            console.print(f"{close_accuracy}% Close")
             console.print("*" * 20)
+
+            output_directory = self.output_directory + "/evaluate_value"
+            if not os.path.exists(output_directory):
+                os.makedirs(output_directory)
+            start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
+            all_lines = [["style", "result", "value_lower", "value_upper", "guess_low", "guess_upper"]] + all_results
+            with open(f"{output_directory}/evaluate_value_{start_time}.csv", "w") as f:
+                for line in all_lines:
+                    line_to_write = ",".join(map(str, line)) + "\n"
+                    f.write(line_to_write)
 
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0
