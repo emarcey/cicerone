@@ -1161,6 +1161,32 @@
 		* old, bottle produce (wood aged 3 years+ then bottle conditioning)
 			* very complex; no residual sugar; mixed acid/fruit/funk
 
+# Lichtenhainer
+* Region: Lichtenhain, Thüringen, Germany
+* Categories: German Ales, German Wheat Ales, Sour Beers, Wheat Ales, Historical
+* Malt: wheat malt, smoked barley
+* Hops:  German Noble
+* Other Names:
+* Glassware: 
+* Color: straw - light gold (3 - 6 SRM)
+* Alcohol: lower (3.5 - 4.7% ABV)
+* Mouthfeel: 
+	* body: medium - medium-light
+	* carbonation: high; tingly acidity
+	* alcohol warmth
+* Bitterness: low (5-12 IBUs)
+* Flavors: 
+	* malt: dry, smoky, bready, grainy
+	* hop: none
+	* fermentation: lactic acid astringency, lemon, green apple
+* Commercial Examples: Live Oak Lichtenhainer, Wöllnitzer Weissbier, Freigeist Abraxas
+* Notes:
+	* historical style from central Germany
+	* similar to Berliner Weisse and Gose profiles, but uses smoked malt
+		* like a Berliner Weisse prior to the development of indirect kilning
+	* can also be made without wheat, but that's rarer
+	* 
+
 # Märzen
 * Region: Germany
 * Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers

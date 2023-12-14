@@ -3302,6 +3302,81 @@
                 "\t\t\t- very complex; no residual sugar; mixed acid/fruit/funk"
             ]
         },
+        "Lichtenhainer": {
+            "name": "Lichtenhainer",
+            "region": "Lichtenhain, Th\u00fcringen, Germany",
+            "categories": [
+                "German Ales",
+                "German Wheat Ales",
+                "Sour Beers",
+                "Wheat Ales",
+                "Historical"
+            ],
+            "malt": [
+                "wheat malt",
+                "smoked barley"
+            ],
+            "hops": [
+                "German Noble"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "srm_low": 3.0,
+                "srm_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "abv_low": 3.5,
+                "abv_high": 4.7,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-light",
+                "carbonation": "high; tingly acidity",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "ibu_low": 5.0,
+                "ibu_high": 12.0
+            },
+            "flavors": {
+                "malt": [
+                    "dry",
+                    "smoky",
+                    "bready",
+                    "grainy"
+                ],
+                "fermentation": [
+                    "lactic acid astringency",
+                    "lemon",
+                    "green apple"
+                ],
+                "hop": [
+                    "none"
+                ]
+            },
+            "commercial_examples": [
+                "Live Oak Lichtenhainer",
+                "W\u00f6llnitzer Weissbier",
+                "Freigeist Abraxas"
+            ],
+            "notes": [
+                "\t- historical style from central Germany",
+                "\t- similar to Berliner Weisse and Gose profiles, but uses smoked malt",
+                "\t\t- like a Berliner Weisse prior to the development of indirect kilning",
+                "\t- can also be made without wheat, but that's rarer"
+            ]
+        },
         "M\u00e4rzen": {
             "name": "M\u00e4rzen",
             "region": "Germany",
