@@ -47,6 +47,7 @@
 * Aroma/Flavor: 
 * Uses:
 # Malt
+* Type: Specialty/Base
 * Notes:
 * Other Names:
 * Kilning: 

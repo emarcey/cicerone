@@ -15,6 +15,11 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
+* **Base Malt:** any malt that has enough enzymatic power (diastatic activity) to ensure starch conversion during mashing
+	* accounts for the majority of the grist (60-100%)
+	* provides fermentable sugars and free amino nitrogen for yeast to consume
+	* provides both substrate and enzymes
+	* usual options: 2-row/6-row pilsner, pale ale, malted wheat, Munich malt (in special cases like Märzen)
 * **Bock:** a protected category in Germany, requiring that the beer have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
@@ -77,6 +82,8 @@
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
+* **Curing:** final process of kilning, which occurs when kernel moisture is around 5%
+	* occurs at higher temperature than earlier kilning, and is responsible for most of the variation in flavor and color
 * **Decoction Mashing:** traditional method of mashing, now controversial due to intensive nature
 	* German brewers tend to insist on its value to develop malt character, depth, foam
 	* Concept: remove part of mash, boil it, return to main mash
@@ -105,6 +112,13 @@
 	* desirable in some ales and stouts
 	* amount is strain-dependent, but wort and fermentation conditions can play a role
 	* can also be formed by spoilage bacteria (lactic acid bacteria especially) during storage
+* **Diastatic Power:** effectiveness of the enzymes that convert starch into fermentable sugar
+	* Lower power -> less breakdown of starch to sugar -> less fermentable sugar extraction
+	* recipes with lots of unmalted adjunct need high diastatic power
+		* general rule:
+			* 6 row has more than 2 row
+			* pale malts have more than dark malts
+			* specialty dark malts generally have none
 * **Doppelbock:** a protected category in Germany, requiring that the beer have an original gravity of at least 18° Plato (~1.074), leading to an alcohol content generally 7% or higher
 * **Double Mashing:** 
 	* First, cereal adjunct is cooked in cereal cooker
@@ -128,6 +142,10 @@
 	* fermentation vessel shape: tall, narrow -> lower levels of festers vs shallow, open
 		* high hydrostatic pressure & high CO2 in taller vessels
 	* stirring increases esters
+* **Extract:** malt carbohydrates and proteins that can be dissolved into the wort during the brewing process. 
+	* Extract potential is affected by barley variety, growing conditions, and malting process. 
+		* larger kernels yield more
+	* This is measured prior to fermentation using Original Gravity
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Free Mash-Tun Act (1880):** also known as the Inland Revenue Act, 1880
@@ -142,9 +160,23 @@
 	* saccharometer now essential, raised costs for small brewers prohibitively
 	* 1889, standard barrel OG reduced to 1055 to help smaller brewers
 	* 1993, duty changed to ABV of finished beer
+* **Germination:** process by which steeped barley is allowed to begin growing, in order to break down the endosperm and allow access to the carbohydrates for brewing
+* **Green Malt:** barley that has gone through the germination process, and is ready for kilning
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Kilning:** final stage of malting process, where germinated green malt is dried and toasted
+	* 4 goals:
+		* reduce grain's moisture content to facilitate long-term storage (down to about 4%)
+		* preserve key enzymes for activation during brewing
+		* drive off dimethyl sulfide (DMS) and undesirable flavor compounds
+		* develop malt flavor through light toasting
+	* process
+		* green malt loaded onto kiln's perforated floors
+		* fans drive hot air through floor to reduce moisture (usually 122-140°F/50-60°C)
+			* lower temperature than last stage to minimize destruction of enzymes
+		* curing: last stage of kilning when moisture is around 5%
+			* temperatures used are usually responsible for variations in flavor
 * **Lager:** one of two major types of beer (the other being ale), primarily distinguished by choice of yeast
 	* As a result of yeast difference
 		* lagers are fermented longer and colder
@@ -184,6 +216,36 @@
 		* some ales, like altbier and kölsch
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
+* **Malting:** the process by which starch is liberated from a grain for use in brewing
+	* Necessary because raw barley kernels are very hard, and carbohydrates are inaccessible
+	* Key stages
+		* steeping: barley is submerged in water on and off for 2-3 days
+			* moisture content rises from 12% to 45%
+			* hydration stimulates growth of barley plant
+		* germination: barley is removed from water and kept moist for 3-5 days, turned intermittently
+			* allows the barley seed to begin growing
+			* kernel produces little roots (chits or rootlets)
+			* internal structure changes
+				* enzymes break down protein matrix and cell walls
+				* endosperm becomes soft and chalky
+			* extent of modification is a result of germination time, temperature, and other factors
+			* modern brewers look for "well-modified malts,"
+				* this means that starches are readily accessible
+			* at the end of germination, the modified barley is known as "green malt"
+		* kilning
+			* 4 goals:
+				* reduce grain's moisture content to facilitate long-term storage (down to about 4%)
+				* preserve key enzymes for activation during brewing
+				* drive off dimethyl sulfide (DMS) and undesirable flavor compounds
+				* develop malt flavor through light toasting
+			* process
+				* green malt loaded onto kiln's perforated floors
+				* fans drive hot air through floor to reduce moisture (usually 122-140°F/50-60°C)
+					* lower temperature than last stage to minimize destruction of enzymes
+				* last stage of kilning when moisture is around 5%
+					* curing
+					* temperatures used are usually responsible for variations in flavor
+		* cleaning: kilned malt is cleaned (rootlets are removed)
 * **Oktoberfest:** locally called Wiesn (the meadow) is a folk festival in Theresienwiese in Munich from the last 2 weekends of September to the first weekend of October
 	* began in 1810 with the marriage of Prince Ludwig
 	* image tied to immense beer tents (that can fit thousands of people!)
@@ -232,9 +294,12 @@
 			* Ales can include other malts (e.g. wheat), pure sugars, and colorants made from sugars
 		* Bavarian version still restrictive
 			* Additional allowances for malted wheat and malted rye in top-fermented beers only
+* **Roasted Malt:** a category of specialty malts that have been roasted at high temperature and traditionally includes biscuit, caramel, crystal, brown, chocolate, black patent, black malts, as well as roasted barley
+	* purpose of roasting is to create unique colors, flavors, aromas through intense Maillard reactions
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
+* **Steeping:** first stage of malting, in which barley is submerged in water to trigger growth in kernels
 * **Top Cropping:** also known as skimming
 	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
 	* collected yeast is used in following fermentations, or sold to other breweries, distilleries, farms
