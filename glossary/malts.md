@@ -113,7 +113,7 @@
 	* Shape: oval
 	* Structure: husk over end, joined at flatter side, line down middle
 		* grainy mouthfeel
-	* Color: tan
+	* Color: tan, beige, hint of grey
 	* Flavor: bread, dough
 # Pilsner
 * Type: Base
