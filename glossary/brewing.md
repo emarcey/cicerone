@@ -4,6 +4,11 @@
 	* sometimes derided for use by major beers to cut costs
 	* sometimes traditional, sometimes by necessity
 		* e.g. american colonists using whatever starch was at hand, like pumpkin
+	* general impacts:
+		* reduced malt flavor
+		* if sugars or sugar-rich substances are used (honey, agave, molasses): body and mouthfeel lower
+		* contribute less protein (generally)
+			* need to create clear beer motivated initial use of rice and corn in American lagers in the 1800s
 	* **kettle adjunct**: a form of fermentable sugar, like Belgian Candi or honey
 	* **liquid adjuncts:** sugars/syrups
 		* added in wort boiling
