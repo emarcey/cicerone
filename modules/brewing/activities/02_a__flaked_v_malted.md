@@ -1,0 +1,5 @@
+- Aroma
+	- Flaked: pasta, bread, dough
+	- Malted: crackers, bread
+- What does the flaked bring?
+	- A starchy pasta smell, without any of the smell of having been kilned
