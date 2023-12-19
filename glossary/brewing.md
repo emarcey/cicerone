@@ -20,11 +20,29 @@
 		* cereals (e.g. unmalted barley/wheat, corn, rice, oats, rye, buckwheat, proso-millet (gluten intolerance))
 		* can be whole, grits, flour flakes, malted, torrefied
 		* could also be pre-processed via intense heat treatment (basically puffed cereal)
+* **Alpha Acids (humulones):** one of two bittering compounds derived from hop resins
+	* generally 3-4% of hop content, but in aggressive breeding programs, they can reach 20%
+	* during boil, alpha asids are isomerized into is-alpha acids, which are soluble and have substantial bitterness
+	* isomerization is slow, so hops usually added at beginning to maximize bitterness, referring to these hops that are boiled for 60-90 minutes as "bittering hops" or the "bittering addition"
+	* 3 analogues
+		* humulone
+		* adhumulone
+		* cohumulone: this one is not desirable, usually 15-50% of alpha acid content
+			* lower foam stability, harsher bitterness
+	* desired alpha:beta ratio is 1:1, but most are 2:1
+		* hops with much higher alpha:beta ratios are modern superalpha varities
+* **Aroma Hop:** a hop added in the last 10 minutes of a boil, to impart aroma to the finished beer
 * **Base Malt:** any malt that has enough enzymatic power (diastatic activity) to ensure starch conversion during mashing
 	* accounts for the majority of the grist (60-100%)
 	* provides fermentable sugars and free amino nitrogen for yeast to consume
 	* provides both substrate and enzymes
 	* usual options: 2-row/6-row pilsner, pale ale, malted wheat, Munich malt (in special cases like Märzen)
+* **Beta Acids (lupulones):** the minor bittering compound derived from hop resins
+	* 3 analogues
+		* lupulone
+		* colupulone
+		* adlupulone
+* **Bittering Hop:** a hop added during the beginning of a 90 minute boil, primarily to impart bitterness to beer
 * **Bock:** a protected category in Germany, requiring that the beer have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
@@ -131,6 +149,7 @@
 	* taken to boiling, then added to main mash at relatively low temp (113F/45C)
 	* leads to a rise in temperature to allow conversion of the starch from the malt
 * **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
+* **Dry Hopping:** the process of adding hops to beer after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
 * **Esters:** largest group of flavor compounds in alcoholic beverages
 	* generate "fruity" aromas
 	* formed by combination of organic acids and alcohols
@@ -151,6 +170,7 @@
 	* Extract potential is affected by barley variety, growing conditions, and malting process. 
 		* larger kernels yield more
 	* This is measured prior to fermentation using Original Gravity
+* **Flavor Hop:** a hop added in the last 30 minutes of a boil, to impart hop flavor to the finished beer
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 * **Free Mash-Tun Act (1880):** also known as the Inland Revenue Act, 1880
@@ -167,9 +187,28 @@
 	* 1993, duty changed to ABV of finished beer
 * **Germination:** process by which steeped barley is allowed to begin growing, in order to break down the endosperm and allow access to the carbohydrates for brewing
 * **Green Malt:** barley that has gone through the germination process, and is ready for kilning
+* **Hop Essential Oils:** hop extract that contributes to aroma
+	* some important ones:
+		* humulene: woody, balsamic
+		* myrcene: geranium, floral
+		* carophyllene: black-pepper, spicy
+		* farnese: gardenia, floral
+			* often either none or a lot
+		* linalool: citrus, bergamot
+			* can have disproportionate impact despite small levels
+	* about 300 different compounds
+* **Hop Extracts:** hop product that concentrates alpha acids and/or essential oils to give brewers easier, less expensive storage compare to baled hops
+	* oils and resins extracted using CO2 and concentrated into paste
+	* when added at same time as bittering hops, alpha acids isomerize
+	* can be stored at room temperature in tin cans
+	* fully soluble in wort, so no debris left behind
+* **Hop Pellets:** hop product that concentrates alpha acids and/or essential oils to give brewers easier, less expensive storage compare to baled hops
+	* hops are chopped into small pieces, then extruded so they look like tubes
+	* still need to be stored cold, but take up about 40% of the space as whole hops and are packaged in opaque bags to reduce degradation
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
+* **Iso-Alpha Acid Extracts:** extracts of isomerized alpha acids that have also been chemically treated to prevent lightstruck effects. Can be added to finished beer to provide bitterness. Some types can contribute to head formation and retention.
 * **Kilning:** final stage of malting process, where germinated green malt is dried and toasted
 	* 4 goals:
 		* reduce grain's moisture content to facilitate long-term storage (down to about 4%)
@@ -322,6 +361,8 @@
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun
 * **Well-modified:** a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
+* **Whirlpool hops:** hops added immediately after boil to dissolve hops with minimal evaporation. They get their name because most contact with wort is in whirlpool (even though they are usually added to kettle before wort is transferred)
+* **Whole Hops:** baled, dried hops without further processing used for centuries before technological advances
 * **Yorkshire Square:** a fermentation vessel originating in northern England
 	* traditionally made of stone, then slate, now stainless steel
 	* cubic shape between 50hl (traditional) and 250-300hl (modern)

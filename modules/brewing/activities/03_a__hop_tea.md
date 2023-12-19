@@ -1,0 +1,8 @@
+- Hops used: Mosaic Pellets
+- Describe Aroma: blood orange, lemon, pine
+- Check off the ones you perceived
+	- [x] Citrus (grapefruit, orange, lemon)
+	- [ ] Tropical (mango, pineapple, guava)
+	- [x] Earth/woody (tobacco, hay, leather, resin)
+	- [ ] Herbal/spicy (dill, pepper, anise, lavender)
+	- [ ] Floral (geranium, rose, chamomile)
