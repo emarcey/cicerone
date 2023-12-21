@@ -4,15 +4,24 @@
 	* Flavors/Aromas: assertive, sharp, vinegar tang
 	* Notes:
 		* produces acetic acid
+		* primary flavorant in vinegar
 * **Brettanomyces**: British Fungus; yeast strain
 	* Type: yeast
 		* considered a "wild yeast"
-	* Uses: Lambic, Orval, Flanders Red
+	* Uses: 
+		* Belgian: Lambic, Orval, Flanders Red
+		* American: broad embrace in craft brewing, especially with popularity of oak aging
 	* Flavors/Aromas:
 		* strain & condition dependent
 		* grapefruit, pineapple, leather, barnyard, goat, earthy
 	* Notes: 
 		* First came from British
+		* asexually budding form (anamorph), whereas Dekkera is the sexual form (teleomorph)
+		* 5 species
+			* 2 commonly used: bruxellensis and anomalus
+				* lambicus is substrain of bruxellensis
+				* claussenii is substrain of anomalus
+			* another has potential applications: custersianus
 		* can ferment wort alone, but often used as mixed culture in Belgian/wild styles
 			* alongside Saccharomyces and bacteria
 		* creates floating mat (pellicle) on surface of beer
@@ -30,6 +39,7 @@
 	* Notes:
 		* can produce acetic acid, isovaleric acid
 		* Key outputs: ethyl acetate, ethyl lactate, terahydrioyridines (mousy aroma), volatile phenolics, (medicine/barnyard), caprylic + capric acids + esters (goaty flavors)
+		* actually first isolated from British beer, name translates to British Fungus
 * **Brettanomyces Lambicus:** a sub-strain of Brettanomyces Bruxellensis, also found in the Senne Valley and Pajottenland, and also known for lambic production
 	* Type: yeast
 		* considered a "wild yeast"
@@ -48,6 +58,8 @@
 	* Flavors/Aromas tangy, smooth
 	* Notes: 
 		* that ferments sugar into lactic acid (tangy and smooth)
+		* is the thing that makes sour cream, buttermilk, yogurt, cheese, cultured butter
+		* prefers lactose, but ferments other stuff too
 		* can ferment with or without oxygen
 		* produces lactic acid & CO2
 		* **thinner and cleaner on palate than pediococcus**
@@ -80,8 +92,14 @@
 		* A hybrid organism between Saccharomyces cerevisiae and Saccharomyces bayanus
 			* bayanus is cold tolerant
 			* likely occurred during a few rounds of cold fermentation in 16th century Bavaria
+		* bottom fermenting
 * **Saccharomyces cerevisiae:** 
 	* Type: yeast
+	* Notes:
+		* works best at 65-75°F (18-24°C)
+		* top fermenting
+		* produces fruity and complex flavors and aromas
+		* 180-200 different commercially available strains
 	* Uses: ale
 		* all British and Irish styles
 		* all Belgian style ales, except Bière de Garde

@@ -32,6 +32,12 @@
 	* desired alpha:beta ratio is 1:1, but most are 2:1
 		* hops with much higher alpha:beta ratios are modern superalpha varities
 * **Aroma Hop:** a hop added in the last 10 minutes of a boil, to impart aroma to the finished beer
+* **Autolysis:** self-destruction of yeast when yeast finally, essentially, dies
+	* produces dramatic off-flavors ("yeast bite"): meat, rubber, sulphur
+	* can also increase pH of bear
+	* and lipid release may cause rancidity
+	* can reduce head retention and increase haze
+	* causes: age of yeast, high temperatures (above 25°C), sudden changes in temperature at pitching or chilling, osmotic shock
 * **Base Malt:** any malt that has enough enzymatic power (diastatic activity) to ensure starch conversion during mashing
 	* accounts for the majority of the grist (60-100%)
 	* provides fermentable sugars and free amino nitrogen for yeast to consume
@@ -313,6 +319,7 @@
 		* brewer can watch fermentation and gauge progress
 		* broad, shallow containers encourage ester formation
 		* top cropping allows yeast to be collected for future use
+* **Phenolic Off Flavor (POF)**: a sometimes-desired pepper and/or clove flavor imparted by ale yeasts that produce phenols (i.e. ales with the PAD gene (Phenyl Acrylate Decarboxylase))
 * **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
 * **Reinheitsgebot:** (also known as the Bavarian Purity Law of 1516, or the German Purity Law; originally called the Surrogatverbot)

@@ -14,6 +14,7 @@
 * **Fuggle, Richard:** namesake of the Fuggle strain of hops
 * **Groll, Josef Felix:** 19th century Bavarian brewmaster who formulated the original Pilsner in Pilsen in the 1840s
 * **Guinness, Arthur:** (1725-1807) founded Guinness. Began brewing in 1756, first as St. Jame's Gate brewery in 1759
+* **Hansen, Emil Christian:** a brewing scientist who isolated and maintained lager yeast strains in the 1880s
 * **Harwood, Ralph:** a London man, owner of Bell Brewhouse, who allegedly invented the Porter in 1722
 * **Hodgson, Mark:** English brewer who focused his father's brewery on pale ales, which led to term East India Pale Ale appearing in newspaper ads
 * **Saint Benedict:** monk who laid down the rules for monasteries in 530AD
