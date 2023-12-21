@@ -78,7 +78,13 @@
 	* oak not used to flavor beer; Marston's use neutral barrels
 	* very labor and capital intensive
 	* cleaning is difficult
-* **Calcium Carbonate:** (CaCO3) precipitate of bicarbonate, which is a key measure of temporary water hardness, sometimes referred to as alkalinity of water
+* **Calcium:** a compound useful for human nutrition and the brewing of good beer
+	* alpha-amylase is one of the key enzymes that converts starch to sugar, and it requires calcium to work
+	* during mash, calcium acidifies mash and wort
+	* yeast requires calcium for proper floculation
+	* also helps to prevent gushing
+	* plus, calcium + counterion can cause flavore effects
+* **Calcium Carbonate:** ($CaCO_3$) precipitate of bicarbonate, which is a key measure of temporary water hardness, sometimes referred to as alkalinity of water
 	* high water hardness in brewing is generally considered negative, as it can impart a harsh bitterness, especially when combined with aggressive hopping
 	* removal/reduction often desired
 		* done by heating or adding acid
@@ -86,7 +92,11 @@
 		* frequently featured in Munich, Dublin, and London beers
 		* Porters and stouts benefit from higher than average calcium carbonate levels
 	* formed when CO2 in rain reacts with calcite/dolomite in soil
-* **Calcium Sulfate:** (gypsum) critical component in measure of permanent water hardness, also known as non-carbonate hardness
+* **Calcium Chloride:** ($CaCl_2$) a calcium additive that promotes full mouthfeel and mellowness in malt flavors, valuable in malt-balanced beers
+	* one of primary components in measurement of permanent water hardness (non-carbonate hardness)
+	* permanent water hardness is sum of all calcium and magnesium ions associated with anions (e.g. cloride, sulfate)
+	* "permanent" because it will not precipitate under the influence of heat
+* **Calcium Sulfate:** (gypsum, $CaSO_4$) critical component in measure of permanent water hardness, also known as non-carbonate hardness
 	* sum of all calcium and magnesium ions associated with chloride/sulfate
 	* "permanent" because it will not precipitate under heat
 	* often used to improve calcium levels in beer
@@ -108,6 +118,12 @@
 		* Barrel (43.2 US gallons/~163.5L)
 		* Hogshead (64.8 US gallons/~245.3L)
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
+* **Chlorine:** a disinfecting compound often found in brewing water, due to additions by municipal water treatment facilities
+	* safe to drink, but can cause issues with brewing
+	* chlorine + organic phenols -> chlorophenols
+	* chlorophenols have a strong unpleasant aroma, described as "antiseptic" or "burning electrical wires"
+	* to remove, pass water through activated charcoal filter
+	* **this is not the same thing as Chloride, which has valuable uses in beer**
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
@@ -193,6 +209,12 @@
 	* 1993, duty changed to ABV of finished beer
 * **Germination:** process by which steeped barley is allowed to begin growing, in order to break down the endosperm and allow access to the carbohydrates for brewing
 * **Green Malt:** barley that has gone through the germination process, and is ready for kilning
+* **Gypsum:** a natural form of calcium sulfate
+	* in dry form, known as Alabaster, or Plaster of Paris
+	* main mineral in Burton-on-Trent water
+	* good for pale ales
+	* sulfate too high can cause "Burton stench" (Burton snatch, or sulfur bite): rotten eggs
+	* See [water](obsidian://open?vault=cicerone&file=glossary%2Fbrewing%2Fwater)
 * **Hop Essential Oils:** hop extract that contributes to aroma
 	* some important ones:
 		* humulene: woody, balsamic
@@ -319,6 +341,21 @@
 		* brewer can watch fermentation and gauge progress
 		* broad, shallow containers encourage ester formation
 		* top cropping allows yeast to be collected for future use
+* **pH:** "power/potential of hydrogen," denotes a solution's acidity or alkalinity
+	* range from 0 (most acidic) to 14 (most alkaline)
+		* 7 is neutral (pure, distilled water)
+		* acids are 0-7, bases are 7-14
+	* power of 10, so a solution of pH 1 is 10x more acidic than pH 2, and 100x more acidic than pH 3
+	* calcium releases hydrogen ions -> lowers pH
+	* bicarbonate is alkaline -> raises pH
+	* dark, heavily kilned, or roasted malts decrease pH
+	* pale malts increase pH
+	* ideal mash pH range is 5.4-5.6, though sometimes acidified to 5.2
+	* at start of boil, wort pH drops 0.2-0.3, to around 5 which is ideal for most strains
+	* end of fermentation:
+		* barley-based beer: 4.1-4.5
+		* wheat-based: slightly lower
+		* lambics and other sours: much lower because of acids produced
 * **Phenolic Off Flavor (POF)**: a sometimes-desired pepper and/or clove flavor imparted by ale yeasts that produce phenols (i.e. ales with the PAD gene (Phenyl Acrylate Decarboxylase))
 * **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)

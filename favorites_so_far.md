@@ -29,4 +29,6 @@
 10. Gulden Draak 9000
 	* Brewery: Gulden Draak
 	* Style: Belgian Dark Strong
-11.  
+11.  Prairie Bomb!
+	1. Brewery: Prairie Artisanal Ales
+	2. Style: Imperial Stout
