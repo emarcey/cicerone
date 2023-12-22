@@ -172,6 +172,12 @@
 	* leads to a rise in temperature to allow conversion of the starch from the malt
 * **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
 * **Dry Hopping:** the process of adding hops to beer after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
+* **Dry Milling:** most common milling process
+	* relies on a roller mill with 2 - 6 rollers and vibrate screens to crush grist kernels into smaller particles, and to separate husks, grits, and flour for mashing and lautering
+	* in complex mills, grist might be passed through several times
+	* Compared to wet milling
+		* Advantage: simpler
+		* Disadvantage: generates dust, which can be ignited by a spark
 * **Esters:** largest group of flavor compounds in alcoholic beverages
 	* generate "fruity" aromas
 	* formed by combination of organic acids and alcohols
@@ -209,6 +215,9 @@
 	* 1993, duty changed to ABV of finished beer
 * **Germination:** process by which steeped barley is allowed to begin growing, in order to break down the endosperm and allow access to the carbohydrates for brewing
 * **Green Malt:** barley that has gone through the germination process, and is ready for kilning
+* **Grist:** crushed grain (post-milling) that is ready to be used for mashing
+* **Grist Case:** container that contains all grist for a single batch of beer for a short period of time (minutes - hours)
+	* usually placed such that it can be gravity fed into mash tun from a short distance
 * **Gypsum:** a natural form of calcium sulfate
 	* in dry form, known as Alabaster, or Plaster of Paris
 	* main mineral in Burton-on-Trent water
@@ -318,6 +327,26 @@
 					* curing
 					* temperatures used are usually responsible for variations in flavor
 		* cleaning: kilned malt is cleaned (rootlets are removed)
+* **Milling:** the process by which whole barley kernels are ground up for mashing
+	* This is the first stage in the brewing process, followed by mashing
+	* Key Goals
+		* keep the husk large for filtration & to avoid off-flavors
+		* break up endosperm as much as possible to maximize water penetration
+	* During milling, brewers care about 2 parts of kernel
+		- Stiff outer husk:
+			- don't want ground too finely 
+				- used as filter during lautering
+				- husk contains polyphenols or tannins -> smaller pieces mean high extraction -> harsh, astringent beer flavors
+		- Endosperm (where starch is stored): 
+			- want this ground finely -> easier water penetration -> accelerates conversion of starch into sugar
+	- How to handle opposing priorities?
+		- When possible, large brewers have complex machines that split the husk and grind it separately
+		- However, this is complex and expensive, so brewers grind with a middle ground in mind
+			- goals is **mealy,** not chunky or floury
+			- because husk is resilient and endosperm is chalky/crumbly, this kinda works out
+			- when crushing between rollers
+				- husk breaks into larger pieces
+				- endosperm shatters into varying sizes
 * **Oktoberfest:** locally called Wiesn (the meadow) is a folk festival in Theresienwiese in Munich from the last 2 weekends of September to the first weekend of October
 	* began in 1810 with the marriage of Prince Ludwig
 	* image tied to immense beer tents (that can fit thousands of people!)
@@ -404,7 +433,23 @@
 		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun
-* **Well-modified:** a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
+* **Well-Modified:** a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
+* **Wet Milling:** or continuous steep milling, is a modern milling technique, recommended by major German brewing plant manufacturers, and used in conjunction with a lauter tun
+	* Requires that milling take place in time taken to mash a grist (normally about 20 minutes)
+		* Dry milling is usually independent of this, and as a result, tends to take longer
+	* Process:
+		* Malt is steeped in a stream of warm water to bring moisture content of husk to 15%
+		* Then, malt is ground on a pair of specially designed rollers
+	* Compared to dry milling
+		* Advantages
+			* husk remains largely intact
+				* faster run-off time
+				* greater loading on lauter tun (deeper grain depth)
+				* reduced oxidation of grain, and resulting wort
+			* no dust produced
+		* Disadvantages
+			* takes longer
+			* expensive and complicated
 * **Whirlpool hops:** hops added immediately after boil to dissolve hops with minimal evaporation. They get their name because most contact with wort is in whirlpool (even though they are usually added to kettle before wort is transferred)
 * **Whole Hops:** baled, dried hops without further processing used for centuries before technological advances
 * **Yorkshire Square:** a fermentation vessel originating in northern England

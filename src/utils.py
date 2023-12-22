@@ -52,8 +52,8 @@ def validate_string_input(cls, v: Union[str, DictItem]) -> str:
     # if v.children:
     # raise ValueError(f"Does not expect children!!")
     if isinstance(v, str):
-        return v
-    return v.value
+        return v.strip()
+    return v.value.strip()
 
 
 def validate_optional_string_input(cls, v: Optional[Union[str, DictItem]]) -> Optional[str]:

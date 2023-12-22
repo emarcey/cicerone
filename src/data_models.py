@@ -21,6 +21,31 @@ from src.utils import (
 console = Console()
 
 
+class GlossaryLine(BaseModel):
+    value: str
+    indent: int
+
+    _validate_string_input = field_validator("value", mode="before")(validate_string_input)
+
+    def __str__(self) -> str:
+        indent = "\t" * (self.indent - 1)
+        return f"{indent}-  {self.value}"
+
+
+class GlossaryHeader(BaseModel):
+    name: str
+    value: str
+    lines: List[GlossaryLine] = Field(default_factory=lambda: [])
+    _validate_string_input = field_validator("name", "value", mode="before")(validate_string_input)
+
+    def __str__(self) -> str:
+        lines = [f"# {self.name.title()}"]
+        if self.value:
+            lines.append(f"-  {self.value}")
+
+        return "\n".join(lines + list(map(str, self.lines)))
+
+
 class BeerStyleTestParams(BaseModel):
     exclude_categories: Set[str] = Field(default_factory=lambda: {STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY})
 

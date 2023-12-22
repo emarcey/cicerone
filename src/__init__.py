@@ -4,8 +4,18 @@ import json
 from rich import print
 from typing import Dict, List, Tuple
 
-from src.const import BULLET_REGEX, HEADER_REGEX, JSON_STYLE_PATH, NON_BULLET_REGEX, OUT_STYLE_PATH, STYLE_PATH
-from src.data_models import BeerStyle, BeerStyleMap, BeerStyleTestParams
+from src.const import (
+    BULLET_REGEX,
+    FIRST_LINE_REGEX,
+    GLOSSARY_FILE_NAMES,
+    GLOSSARY_LINE_REGEX,
+    HEADER_REGEX,
+    JSON_STYLE_PATH,
+    NON_BULLET_REGEX,
+    OUT_STYLE_PATH,
+    STYLE_PATH,
+)
+from src.data_models import BeerStyle, BeerStyleMap, BeerStyleTestParams, GlossaryHeader, GlossaryLine
 from src.generics import DictItem
 from src.utils import to_snake_case
 
@@ -32,6 +42,25 @@ def load_file(filename: str) -> List[str]:
             if len(line.strip()) > 0:
                 lines.append(line)
     return lines
+
+
+def parse_glossary_file(lines: List[str]) -> Dict[str, List[GlossaryHeader]]:
+    curr_header = None
+    parsed_lines = {}
+
+    for line in lines:
+        if FIRST_LINE_REGEX.match(line):
+            name, value = FIRST_LINE_REGEX.findall(line)[0]
+            curr_header = name
+            parsed_lines[name] = GlossaryHeader(name=name.strip(), value=value.strip())
+            continue
+
+        if not GLOSSARY_LINE_REGEX.match(line):
+            raise Exception(f"Line did not match glossary format! {line}")
+
+        indents, line_value = GLOSSARY_LINE_REGEX.findall(line)[0]
+        parsed_lines[curr_header].lines.append(GlossaryLine(value=line_value.strip(), indent=len(indents)))
+    return parsed_lines
 
 
 def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
@@ -117,11 +146,23 @@ def evaluate_values(filename: str) -> None:
     styles.evaluate_values(BeerStyleTestParams())
 
 
+def gen_glossary(glossary_file_names: List[str]) -> None:
+    for file_name in glossary_file_names:
+        lines = load_file(file_name)
+        glossary_file = parse_glossary_file(lines)
+        glossary_items = sorted(list(glossary_file.values()), key=lambda x: x.name)
+        glossary_str = "\n\n".join(list(map(str, glossary_items)))
+        o_file_name = file_name.replace(".md", ".clean.md")
+        with open(o_file_name, "w") as f:
+            f.write(glossary_str)
+
+
 @click.command()
 @click.option("--file_mode", type=click.Choice(["gen", "test", "test-values"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
+        gen_glossary(GLOSSARY_FILE_NAMES)
     elif file_mode == "test":
         evaluate(JSON_STYLE_PATH)
     elif file_mode == "test-values":
