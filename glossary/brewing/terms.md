@@ -314,6 +314,21 @@
 		* some ales, like altbier and kölsch
 * **Lautering:** process of separating wort/mash from residual grain as efficiently as possibly
 	* Usually consists of mashout, recirculation, sparging
+	* Third stage of brewing, following mashing and preceding boiling
+	* Goal: separate liquid portion and its dissolved contents from remaining solids
+		* at end of process, wort will be in boil kettle and spent grains will remain in lauter tun
+	* Some brewers use combo mash/lauter tuns, but most have separate tuns
+		* most frequently use combo tun in Britain
+	* Process:
+		* Vorlauf (recirculation)
+		* Sparging
+		* Wort Collection: continues for 10-20 minutes as wort is drained, until wort is desired strength
+	* Spent grain often used as cattle feed
+* **Lauter Tun:** a wide vessel used for lautering, with a false bottom/screen 1-3 inches above the actual bottom
+	* The screen holds back solids while allowing liquid to pass
+	* Usually includes rotating rakes to spread mash and disperse grain
+	* Some breweries (largely traditional British) use combo mash-lauter tuns
+		* don't produce as many brews a day because you can't fill mash tun while lautering
 * **Malting:** the process by which starch is liberated from a grain for use in brewing
 	* Necessary because raw barley kernels are very hard, and carbohydrates are inaccessible
 	* Key stages
@@ -446,12 +461,18 @@
 	* purpose of roasting is to create unique colors, flavors, aromas through intense Maillard reactions
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
+	* as wort is drawn off bottom of lauter tun, liquid level drops
+	* brewer adds hot water to top of lauter tun
+		* sprinkled slowly (over 20-40 minutes) and evenly to avoid disturbing grain bed
+		* helps rinse extract from grains
+	* brewers manage composition, temperature and volume of sparge water for proper outcome
+		* sparging too long or too hot can extract harsh, husky tannins
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
 * **Steeping:** first stage of malting, in which barley is submerged in water to trigger growth in kernels
 * **Step Mashing:** a mashing process that uses several target temperatures to influence the wort composition and beer character
 	* also called temperature-controlled or temperature-programmed infusion mashing
 	* requires a heated mash tun so that mash can begin at coolest desired temperature and warm stepwise until complete
-		* usually have a stirring device (motorized impeller) to stire mash during heating
+		* usually have a stirring device (motorized impeller) to stir mash during heating
 	* Process
 		* grain and water mixed to achieve first rest temperature
 		* after rest, heat applied to raise to next target
@@ -472,6 +493,11 @@
 		* turbid: removes liquid wort at end of each temperature rest to make room for more boiling water
 	* removed portion goes into kettle, heated near boiling
 		* later added back to mash tun
+* **Vorlauf:** also called recirculation, is the process whereby brewers draw liquid off the bottom of the lauter tun and pump it back into the top
+	* at start, liquid is murky and loaded with bits of solids from the mash
+	* vorlauf process builds a filter bed that traps solid bits and haze-forming compounds
+	* by the end, wort should be nearly clear
+	* once complete, brewer sends wort to kettle
 * **Well-Modified:** a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
 * **Wet Milling:** or continuous steep milling, is a modern milling technique, recommended by major German brewing plant manufacturers, and used in conjunction with a lauter tun
 	* Requires that milling take place in time taken to mash a grist (normally about 20 minutes)
