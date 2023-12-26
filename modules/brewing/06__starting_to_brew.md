@@ -13,7 +13,7 @@ Goals
 # Basic Brewing Process
 
 1. **[[glossary/brewing/terms.clean#Milling|Milling]]:** Grind the malt
-2. **Mash**: Mix ground malt with hot water to create mash
+2. **[[glossary/brewing/terms.clean#Mashing|Mashing]]**: Mix ground malt with hot water to create mash
 3. **Lauter**: separate liquid wort from solid spent grain
 4. **Boil**: boil wort with hops
 5. **Separate Wort**: remove hops and other solids

@@ -118,6 +118,13 @@
 		* Barrel (43.2 US gallons/~163.5L)
 		* Hogshead (64.8 US gallons/~245.3L)
 	* See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
+* **Cereal Mash:** mashing process sometimes used when treating unmalted cereals (particularly corn grits or rice)
+	* Process
+		* unmalted cereal + small portion of malted barley added to separate vessel (rice/grits cooker) with hot water
+		* heated to boiling temp of water: 212°F (100°C)
+		* hard starches gelatinize, making them susceptible to breakdown
+		* cereal mash then added to barely malt
+	* Almost all American mass-market beers are brewed with this technique
 * **Chlorine:** a disinfecting compound often found in brewing water, due to additions by municipal water treatment facilities
 	* safe to drink, but can cause issues with brewing
 	* chlorine + organic phenols -> chlorophenols
@@ -145,6 +152,7 @@
 			* original idea was to get a sweet/thick lent beer?
 	* triple decoction makes sense for dark and enzyme weak malts, but not for well-modified modern pale malts
 	* alternative: double decoction, single decoction
+	* requires 30-60% more energy than a similar step infusion mash
 * **Diacetyl:** flavor compound present in many beers and wines
 	* aroma: butter, butterscotch, buttermilk
 	* by-product of amino acid metabolism
@@ -244,6 +252,15 @@
 	* still need to be stored cold, but take up about 40% of the space as whole hops and are packaged in opaque bags to reduce degradation
 * **Infusion Mashing:** the most common mashing technique, developed by British and Irish brewers
 	* Simple, single-temperature mash, ideal for well modified grains
+	* Also called isothermal infusion mashing, when in the UK and using sparging
+	* Process:
+		* hot water and milled malt are combined and mixed to achieve a specific target temperature
+		* Mash then rests for 30-45 minutes, and is complete
+	* Simplest process:
+		* rest period is call a "Saccharification rest," in which starch is converted to sugar
+			* temp range is 140-158°F (60-70°C)
+	* Conducted in a simple (usually insulated) mash tun
+		* no heat applied during mash
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
 * **Iso-Alpha Acid Extracts:** extracts of isomerized alpha acids that have also been chemically treated to prevent lightstruck effects. Can be added to finished beer to provide bitterness. Some types can contribute to head formation and retention.
 * **Kilning:** final stage of malting process, where germinated green malt is dried and toasted
@@ -327,6 +344,20 @@
 					* curing
 					* temperatures used are usually responsible for variations in flavor
 		* cleaning: kilned malt is cleaned (rootlets are removed)
+* **Mashing:** the process by which malt starch is converted into fermentable sugar
+	* The second stage in the brewing process, between milling and lautering
+	* At its core, any mix of water and crushed malt is a mash
+	* The Goal: convert malt starch into sugars, like maltose, to be consumed during fermentation
+	* Enzymes drive conversion and require specific conditions
+		* Other enzymes break down proteins and other materials, which also requires specific conditions
+	* At the end of the mash, starch has been converted to sugars and dextrins (small carbohydrates)
+		* these have been dissolved into the liquid portion of the mash
+		* solid portion is mostly husks and other undesired insoluble bits
+	* Mashing out: brewer raises heat of mash tun to 176°F (80°C), which helps prepare the mash for lautering by reducing the viscosity of the wort so that it will flow more easily through the grain bed
+	* Three basic types: infusion, decoction, temperature-controlled infusion (or step)
+		* choice depends on level of modification of malt
+		* there is also a cereal mash used when working with unmalted cereals (particularly corn and rice)
+* **Mashing Off:** at the end of mashing, a brewer using a step mashing process will heat the wort to about 167-175°F (75-80°C) to reduce the viscosity of the wort for easier lautering
 * **Milling:** the process by which whole barley kernels are ground up for mashing
 	* This is the first stage in the brewing process, followed by mashing
 	* Key Goals
@@ -417,6 +448,14 @@
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 * **Speise:** a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
 * **Steeping:** first stage of malting, in which barley is submerged in water to trigger growth in kernels
+* **Step Mashing:** a mashing process that uses several target temperatures to influence the wort composition and beer character
+	* also called temperature-controlled or temperature-programmed infusion mashing
+	* requires a heated mash tun so that mash can begin at coolest desired temperature and warm stepwise until complete
+		* usually have a stirring device (motorized impeller) to stire mash during heating
+	* Process
+		* grain and water mixed to achieve first rest temperature
+		* after rest, heat applied to raise to next target
+		* between 2 and 5 step rests, but there is always at least one proper saccharification rest
 * **Top Cropping:** also known as skimming
 	* the process of harvesting yeast from the top of an open fermentation vessel during primary fermentation, to ensure a collection of healthy, "top-fermenting" yeast
 	* collected yeast is used in following fermentations, or sold to other breweries, distilleries, farms
