@@ -1459,6 +1459,35 @@
 	* rare, not recognized by BJCP
 	* clear to slightly hazy
 
+# Sahti
+* Region: Finland
+* Categories: Farmhouse Ales, Specialty
+* Malt: 90% Barley, 10% Rye
+* Hops: 
+* Other Names:
+* Glassware: wooden haarikka
+* Color: yellow - dark brown (4-22 SRM)
+* Alcohol: elevated - high (7-11% ABV)
+* Mouthfeel: 
+	* body: thick, viscous, heavy with protein
+	* carbonation: still - medium low
+	* alcohol warmth: moderate, but masked by sweetness
+* Bitterness: very low (0-15 IBUs)
+* Flavors: 
+	* malt: sweet, worty, caramel, toffee, woody, piney (due to juniper)
+	* hop: low if any
+	* fermentation: banana-clove yeast character
+* Commercial Examples:
+* Notes:
+	* traditional Finnish farmhouse style, at least 500 years old
+	* notably, one of few beers that do not boil the wort
+	* historically was wild fermented, but no longer
+	* yeast character somewhat similar to German Weizen yeast
+	* Lammin Sahti is the first commercial brewery, and opened in 1987
+	* As of 2010, half a dozen commercial licenses, and several microbreweries
+	* usually step infusion mashing for about 4 hours in specialty devices
+	* EU protected label
+
 # Saison
 * Region: Wallonia, Belgium
 * Categories: French and Belgian Beers, Farmhouse Beers

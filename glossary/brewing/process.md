@@ -8,7 +8,7 @@
 3. **[[glossary/brewing/terms.clean#Lautering|Lautering]]**: separate liquid wort from solid spent grain
 	1. [[glossary/brewing/terms.clean#Vorlauf|Vorlauf]]
 	2. [[glossary/brewing/terms.clean#Sparging|Sparging]]
-4. **Boil**: boil wort with hops
+4. **[[glossary/brewing/terms.clean#Boiling|Boil]]**: boil wort with hops
 5. **Separate Wort**: remove hops and other solids
 6. **Cool Wort**
 7. **Ferment**

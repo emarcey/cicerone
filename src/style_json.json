@@ -4143,6 +4143,79 @@
                 "\t- clear to slightly hazy"
             ]
         },
+        "Sahti": {
+            "name": "Sahti",
+            "region": "Finland",
+            "categories": [
+                "Farmhouse Ales",
+                "Specialty"
+            ],
+            "malt": [
+                "90% Barley",
+                "10% Rye"
+            ],
+            "hops": [],
+            "other_names": [],
+            "glassware": [
+                "wooden haarikka"
+            ],
+            "color": {
+                "color_range": [
+                    "yellow",
+                    "dark brown"
+                ],
+                "srm_low": 4.0,
+                "srm_high": 22.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "abv_low": 7.0,
+                "abv_high": 11.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "thick, viscous, heavy with protein",
+                "carbonation": "still - medium low",
+                "alcohol_warmth": "moderate, but masked by sweetness"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "very low"
+                ],
+                "ibu_low": 0.0,
+                "ibu_high": 15.0
+            },
+            "flavors": {
+                "malt": [
+                    "sweet",
+                    "worty",
+                    "caramel",
+                    "toffee",
+                    "woody",
+                    "piney (due to juniper)"
+                ],
+                "fermentation": [
+                    "banana-clove yeast character"
+                ],
+                "hop": [
+                    "low if any"
+                ]
+            },
+            "commercial_examples": [],
+            "notes": [
+                "\t- traditional Finnish farmhouse style, at least 500 years old",
+                "\t- notably, one of few beers that do not boil the wort",
+                "\t- historically was wild fermented, but no longer",
+                "\t- yeast character somewhat similar to German Weizen yeast",
+                "\t- Lammin Sahti is the first commercial brewery, and opened in 1987",
+                "\t- As of 2010, half a dozen commercial licenses, and several microbreweries",
+                "\t- usually step infusion mashing for about 4 hours in specialty devices",
+                "\t- EU protected label"
+            ]
+        },
         "Saison": {
             "name": "Saison",
             "region": "Wallonia, Belgium",
