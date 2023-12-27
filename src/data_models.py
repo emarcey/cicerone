@@ -1,4 +1,6 @@
+from collections import Counter
 from datetime import datetime
+from enum import Enum
 import os
 import random
 from pydantic import BaseModel, Field, field_validator
@@ -19,6 +21,31 @@ from src.utils import (
 )
 
 console = Console()
+
+
+class GuessProximity(Enum):
+    miss = 0
+    close = 1
+    very_close = 2
+    exact = 3
+
+    def _to_output_color(self) -> str:
+        if self.value == 0:
+            return "red"
+        elif self.value == 1 or self.value == 2:
+            return "cyan"
+        return "green"
+
+    def _to_output_message(self) -> str:
+        color = self._to_output_color()
+        message = "Correct"
+        if self.value == 0:
+            message = "Incorrect"
+        elif self.value == 1:
+            message = "Close"
+        elif self.value == 2:
+            message = "Almost Correct"
+        return f"[{color}]{message}[/{color}]"
 
 
 class GlossaryLine(BaseModel):
@@ -48,6 +75,8 @@ class GlossaryHeader(BaseModel):
 
 class BeerStyleTestParams(BaseModel):
     exclude_categories: Set[str] = Field(default_factory=lambda: {STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY})
+    proximity_threshold_default: float = 2.5
+    proximity_threshold_abv: float = 0.25
 
 
 class MouthFeelProfile(BaseModel):
@@ -163,7 +192,45 @@ class BeerStyle(BaseModel):
         serialized_vals = "\n".join(map(lambda x: f"- {x[0]}{x[1]}{x[2]}", vals))
         return f"# {self.name}\n\n{serialized_vals}"
 
-    def evaluate_value(self) -> Tuple[str, str, float, float, float, float]:
+    def _evaluate_match_proximity(
+        self,
+        name: str,
+        value_lower: float,
+        value_upper: float,
+        guess_lower: float,
+        guess_upper: float,
+        params: BeerStyleTestParams,
+    ) -> Tuple[GuessProximity, GuessProximity, GuessProximity]:
+        proximity_threshold = params.proximity_threshold_default
+        if name == "alcohol":
+            proximity_threshold = params.proximity_threshold_abv
+        lower_proximity = GuessProximity.miss
+        if value_lower == guess_lower:
+            lower_proximity = GuessProximity.exact
+        elif abs(value_lower - guess_lower) <= proximity_threshold:
+            lower_proximity = GuessProximity.close
+
+        upper_proximity = GuessProximity.miss
+        if value_upper == guess_upper:
+            upper_proximity = GuessProximity.exact
+        elif abs(value_upper - guess_upper) <= proximity_threshold:
+            upper_proximity = GuessProximity.close
+
+        overall_proximity = GuessProximity.miss
+        if lower_proximity == GuessProximity.exact and upper_proximity == GuessProximity.exact:
+            overall_proximity = GuessProximity.exact
+        elif (lower_proximity == GuessProximity.exact and upper_proximity == GuessProximity.close) or (
+            lower_proximity == GuessProximity.close and upper_proximity == GuessProximity.exact
+        ):
+            overall_proximity = GuessProximity.very_close
+        elif (lower_proximity == GuessProximity.exact or upper_proximity == GuessProximity.exact) or (
+            lower_proximity != GuessProximity.miss and upper_proximity != GuessProximity.miss
+        ):
+            overall_proximity = GuessProximity.close
+
+        return overall_proximity, lower_proximity, upper_proximity
+
+    def evaluate_value(self, params: BeerStyleTestParams) -> Tuple[str, str, float, float, float, float]:
         value = random.choice(["alcohol", "bitterness", "color"])
         console.print("*" * 20)
         console.print(self.name, style="bold")
@@ -185,30 +252,30 @@ class BeerStyle(BaseModel):
 
         guess_lower = console.input(f"Enter the lower bound for {value}: ")
         guess_upper = console.input(f"Enter the upper bound for {value}: ")
-        lower_match = float(guess_lower) == float(value_lower)
         lower_color = "cyan"
-        upper_match = float(guess_upper) == float(value_upper)
         upper_color = "cyan"
-        if lower_match and upper_match:
-            console.print("Correct!", style="green bold")
-            return "correct", value, float(value_lower), float(value_upper), float(guess_lower), float(guess_upper)
 
-        incorrect_message = "[red]Incorrect![/red]"
-        result = "incorrect"
-        if lower_match or upper_match:
-            incorrect_message = "[yellow]Close[/yellow]"
-            result = "close"
-        if lower_match:
-            lower_color = "green"
-        if upper_match:
-            upper_color = "green"
-        console.print(
-            f"{incorrect_message} "
-            + f"Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; "
-            + f"Your Guess: {guess_lower} - {guess_upper}",
-            style="red bold",
+        overall_proximity, lower_proximity, upper_proximity = self._evaluate_match_proximity(
+            value, float(value_lower), float(value_upper), float(guess_lower), float(guess_upper), params
         )
-        return result, value, float(value_lower), float(value_upper), float(guess_lower), float(guess_upper)
+
+        console.print(overall_proximity._to_output_message(), style="bold")
+        if overall_proximity != GuessProximity.exact:
+            lower_color = lower_proximity._to_output_color()
+            upper_color = upper_proximity._to_output_color()
+            console.print(
+                f"Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; "
+                + f"Your Guess: {guess_lower} - {guess_upper}",
+                style="bold",
+            )
+        return (
+            overall_proximity.name,
+            value,
+            float(value_lower),
+            float(value_upper),
+            float(guess_lower),
+            float(guess_upper),
+        )
 
     def print_test(self) -> str:
         vals = []
@@ -304,8 +371,9 @@ class BeerStyleMap(BaseModel):
                 f.write(line_to_write)
 
     def output_evaluate_values_results(
-        self, total: int, correct: int, close: int, all_results: List[Tuple[str, str, float, float, float, float]]
+        self, result_count: Counter, all_results: List[Tuple[str, str, float, float, float, float]]
     ) -> None:
+        total = sum(result_count.values())
         if total <= 0:
             return
         clear_screen()
@@ -314,12 +382,10 @@ class BeerStyleMap(BaseModel):
         console.print(f"Results:")
         console.print("*" * 20)
         console.print(f"{total} Attempted")
-        console.print(f"{correct} Correct")
-        console.print(f"{close} Close")
-        accuracy = round(round(correct / total, 4) * 100, 2)
-        close_accuracy = round(round((correct + close) / total, 4) * 100, 2)
-        console.print(f"{accuracy}% Accuracy")
-        console.print(f"{close_accuracy}% Close")
+        for guess_proximity_type in GuessProximity:
+            num_of_type = result_count.get(guess_proximity_type.name, 0)
+            accuracy = round(round(num_of_type / total, 4) * 100, 2)
+            console.print(f"{num_of_type} {guess_proximity_type._to_output_message()}: {accuracy}%")
         console.print("*" * 20)
 
         output_directory = self.output_directory + "/evaluate_value"
@@ -340,21 +406,23 @@ class BeerStyleMap(BaseModel):
         close = 0
         eligible_styles = self._select_eligible_styles(params)
         all_results = []
+        result_count = Counter()
         clear_screen()
         try:
             while True:
                 style = random.choice(list(eligible_styles))
                 result, value_name, value_lower, value_upper, guess_low, guess_upper = self.styles[
                     style
-                ].evaluate_value()
+                ].evaluate_value(params)
+                result_count.update([result])
                 total += 1
-                if result == "correct":
+                if result == GuessProximity.exact.name:
                     correct += 1
-                elif result == "close":
+                elif result != GuessProximity.miss.name:
                     close += 1
                 all_results.append((style, value_name, result, value_lower, value_upper, guess_low, guess_upper))
         except KeyboardInterrupt:
-            self.output_evaluate_values_results(total, correct, close, all_results)
+            self.output_evaluate_values_results(result_count, all_results)
 
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0

@@ -50,6 +50,32 @@
 		* adlupulone
 * **Bittering Hop:** a hop added during the beginning of a 90 minute boil, primarily to impart bitterness to beer
 * **Bock:** a protected category in Germany, requiring that the beer have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
+* **Boiling:** or Wort Boiling, is the process that transforms wort into a fermentable liquid
+	* It is the 4th step of the brewing process, preceded by Lautering and followed by Separation
+	* Goals
+		* Develop color and flavor via caramelization and Maillard reactions
+		* Evaporate excess water to achieve desired volume
+			* usually evaporates at 4% per hour
+		* Sterilize wort, killing bacteria carried in from malting
+		* Isomerize hop alpha acids to form bitterness
+			* At 212°F (100°C), in wort of pH 5.2, 1% of total alpha acid is isomerized per minute
+		* Extract hop oils responsible for hop flavors and aromas
+		* Coagulate excess protein
+			* requires vigorous mixing
+			* also usually aided by kettle coagulant, added 15 minutes before the end of the boil
+	* Process:
+		* Wort added to kettle
+		* Heat applied to bring wort to a boil
+			* rate of transfer of heat from condensing steam to wort is a function of surface area and temperature difference (ΔT)
+			* low ΔT is desired
+			* target is a "rolling boil"
+		* Boil continues for 60-90 minutes
+		* During this process, hops are added at various intervals
+			* Beginning: [[glossary/brewing/terms.clean#Bittering Hop|Bittering Hops]]
+			* With 30 minutes remaining: [[glossary/brewing/terms.clean#Flavor Hop|Flavor Hops]]
+			* With 10 minutes remaining: [[glossary/brewing/terms.clean#Aroma Hop|Aroma Hops]]
+		* With 15 minutes remaining,
+			* kettle coagulant added to cause protein to stick together, which forms larger, easier-to-remove flakes
 * **Bottle Conditioning:** a method of carbonating beer by adding yeast to bottled beer
 	* Pros: results in high carbonation, aids in preserving freshness, better foam retention, finer/silkier texture of carbonation
 	* Cons: yeast flavor, once yeast die they can release undesirable flavors (rubber, car tire, soy sauce, umami)
@@ -263,6 +289,13 @@
 		* no heat applied during mash
 	* See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
 * **Iso-Alpha Acid Extracts:** extracts of isomerized alpha acids that have also been chemically treated to prevent lightstruck effects. Can be added to finished beer to provide bitterness. Some types can contribute to head formation and retention.
+* **Kettle:** also called a boil kettle or a copper, is a vessel used for boiling wort
+	* Several designs
+		* direct fired: produce caramelization of wort sugars -> increased color and caramelized flavor
+			* trickier than pressurized steam, because over-heating can cause "burn-on" and lead to undesirable "cooked" flavors, as well as other substances that give aged or stale character
+		* pressurized steam: majority of modern kettles
+			* steam flows through jacked on bottom, sides, and calandria
+			* rapid and intense heating
 * **Kilning:** final stage of malting process, where germinated green malt is dried and toasted
 	* 4 goals:
 		* reduce grain's moisture content to facilitate long-term storage (down to about 4%)
@@ -484,6 +517,8 @@
 	* 10 active monasteries
 * **Traditional Specialty Guaranteed:** an EU designation for legal protection of traditional products (e.g. Lambic/Gueuze)
 * **Trub:** from the German, a word for the sediment that is created during wort production
+	* consists of hot break (formed in boiling), cold break (formed in cooling), cold trub (formed during cold storage of fermented beer)
+	* contents are usually proteins, polyphenols, hop residue, small malt particles
 * **Turbid Mash:** a unique brewhouse method historically used for Belgian styles, and primarily used for lambics today
 	* rooted in 1822 law that taxed brewers on mash tun capacity
 		* brewers used smallest possible vessels, jammed full of grain
