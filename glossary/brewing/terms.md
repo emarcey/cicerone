@@ -157,6 +157,25 @@
 	* chlorophenols have a strong unpleasant aroma, described as "antiseptic" or "burning electrical wires"
 	* to remove, pass water through activated charcoal filter
 	* **this is not the same thing as Chloride, which has valuable uses in beer**
+* **Cooling:** the process whereby wort is cooled after boiling, to prepare it for fermentation
+	* This is the 6th step in the brewing process, after separation and prior to fermentation
+	* Goals:
+		* clarification
+		* cooling
+	* Modern method uses a heat exchanger
+		* consists of ridged metal plates laid against one another, which allow for liquid to pass through
+	* Process
+		* hot wort leaves whirlpool
+		* passes through every other plate in heat exchanger
+		* cold water passes through alternate plates
+			* this water is usually hot by the time it exits
+			* hot water often used for next batch of beer
+		* cooled wort then passes to fermenter
+			* yeast usually added prior to wort
+		* filtered air or oxygen added to facilitate yeast growth
+	* Risks:
+		* improperly cleaned heat exchanger: could introduce bacteria or wild yeast
+		* slow cooling: if wort not cooled within 90 minutes, risk of DMS increases -> creamed corn, rotten vegetable, or shellfish flavor
 * **Coolship:** a shallow pool with a large surface area that uses evaporative cooling to cool wort prior to fermentation. Primarily used in lambic production today.
 	* term likely comes from early use of hollowed-out tree trunk, not unlike a primitive boat
 	* 3 functions: cool, aerate wort, separate cold trub (sediment)
@@ -232,6 +251,63 @@
 	* Extract potential is affected by barley variety, growing conditions, and malting process. 
 		* larger kernels yield more
 	* This is measured prior to fermentation using Original Gravity
+* **Fermentation:** anaerobic mode of yeast/bacteria metabolism whereby sugars from wort are consumed and alcohol and $CO_2$ are produced
+	* This is the 7th stage of the brewing process, between cooling and finishing
+	* Alcohol and $CO_2$ are primary products, but organisms produce other compounds as well
+	* organisms consume oxygen and wort sugars
+		* enter anaerobic fermentation mode
+		* produce $CO_2$, alcohol, and by products
+		* metabolic activity produces lots of heat
+			* fermenters have jackets (outside) or coils (inside) to carry coolant
+			* fermenter will have a dedicated thermostat to maintain steady temperature
+			* temperature used at different stages of fermentation
+				* rapid transitions could shock yeast, shutting them down
+	* History
+		* process was a mystery until later 19th century
+		* yeast not recognized until development of microscope
+		* in early English, what was effectively yeast was called "Godisgood"
+		* fermentation comes from Latin fevere "to boil" which indicated that carbonation during fermentation was thought to "boil" the beer and create the flavor/alcohol
+		* Louis Pasteur persuaded people in late 1800s that it was yeast
+	* Process:
+		* Primary Fermentation
+			* also called Active Fermentation
+			* indicated by rapid and continuous release of $CO_2$
+		* Transition
+			* solids settle to bottom 
+			* hop debris, coagulated protein (the cold break), dead/inactive yeast cells
+			* some fermenters require transferring beer to second tank
+			* modern designs have a cone shaped that concentrates solids, has a valve at bottom to purge debris
+			* when spent yeast/debris not separated, beer risks autolyzing yeast flavors and soapy trub flavors
+		* Secondary Fermentation
+			* Also called [[glossary/brewing/terms.clean#Maturation|terms.clean]]
+			* Beer at this stage is called "green beer"
+			* Few physical changes
+				* little $CO_2$ produced
+				* little change in gravity
+			* yeast continues to change character of beer
+			* brewer sets temperature and monitors progress
+			* taste is key indicator of progress
+			* yeast will reduce diacetyl, acetaldehyde, sulfur
+				* diacetyl lasts the longest, so its absence is the key indicator of "finished" beer
+			* yeast will produce esters
+		* Lagering
+			* for lagers (duh), this is the final phase
+			* long, cold (31-38°F) maturation
+			* yeast survives and continues cleanup, just slower
+			* originally would've been 10-20 weeks, now it's usually 2-4
+	* Key signs
+		* Production of $CO_2$
+			* a lot is produced and must be released to avoid pressure build up
+			* most breweries use closed fermenters with buckets/barrels of water with a pipe submerged, allowing easy release of $CO_2$
+			* speed of bubbling in hose is rough gauge of fermentation start, peak, and decline
+		* changes in gravity of wort
+	* Key control
+		* temperature
+			* each yeast strain produces unique flavors at unique temperatures, with its own ideal temperature range
+				* keeping temperature outside range change change flavors, introduce excess esters, and/or
+			* rapid cooling may induce premature dormancy, resulting in diacetyl, acetaldehyde, 
+	* Flavor Formation
+		* 
 * **Flavor Hop:** a hop added in the last 30 minutes of a boil, to impart hop flavor to the finished beer
 * **Foeder:** a large wooden container used to age and microaerate beer, common in Belgium, usually for wild fermented sours (e.g. Flanders Red Ale)
 * **Force Carbonation:** a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
@@ -258,6 +334,24 @@
 	* good for pale ales
 	* sulfate too high can cause "Burton stench" (Burton snatch, or sulfur bite): rotten eggs
 	* See [water](obsidian://open?vault=cicerone&file=glossary%2Fbrewing%2Fwater)
+* **Heat Exchanger:** device used to quickly raise or lower temperature of wort, also called a plate heat exchanger
+	* consists of ridged metal plates laid against one another, which allow for liquid to pass through
+	* some other types, like shell and tube, are used, but not as often
+	* also often used for flash pasteurization
+	* when equipped with glycol, they can rapidly cool liquids
+	* target size is such that wort can be cooled in <= 45 minutes
+	* Process
+		* hot wort leaves whirlpool
+		* passes through every other plate in heat exchanger
+		* cold water passes through alternate plates
+			* this water is usually hot by the time it exits
+			* hot water often used for next batch of beer
+		* cooled wort then passes to fermenter
+			* yeast usually added prior to wort
+		* filtered air or oxygen added to facilitate yeast growth
+	* Risks:
+		* improperly cleaned heat exchanger: could introduce bacteria or wild yeast
+		* slow cooling: if wort not cooled within 90 minutes, risk of DMS increases -> creamed corn, rotten vegetable, or shellfish flavor
 * **Hop Essential Oils:** hop extract that contributes to aroma
 	* some important ones:
 		* humulene: woody, balsamic
@@ -406,6 +500,22 @@
 		* choice depends on level of modification of malt
 		* there is also a cereal mash used when working with unmalted cereals (particularly corn and rice)
 * **Mashing Off:** at the end of mashing, a brewer using a step mashing process will heat the wort to about 167-175°F (75-80°C) to reduce the viscosity of the wort for easier lautering
+* **Maturation:** this term denotes all. transformations that occur between the end of primary fermentation and the removal of yeast from beer in preparation for packaging
+	* Traditionally, considered separate steps, but significant overlap
+	* Sometimes called "secondary fermentation"
+	* Immature beer often called "green beer"
+		* due to elevated acetaldehyde causing aroma of green apples
+	* Undesirable flavors are removed (diacetyl, sulfur, acetaldehyde)
+	* For lagers, this is done in a process called lagering
+	* Ales, relatively warm (50-68°F or 10-20°C)
+		* usually ready within 14 days of brewing
+	* Unitanks often used for both primary and secondary fermentation
+		* these having chilling jackets and cone-shaped bottoms for sediment collection
+	* Continuous maturation process being developed, can reduce secondary fermentation time to 2 hours (10 days for lagers)
+		* debate over whether it is high quality beer
+		* original yeast removed via centrifuge
+		* beer heat-treated to convert diacetyl precursor to diacetyl
+		* then rechilled and flowed through column of immobilized yeast cells that remove diacetyl
 * **Milling:** the process by which whole barley kernels are ground up for mashing
 	* This is the first stage in the brewing process, followed by mashing
 	* Key Goals
@@ -493,6 +603,9 @@
 * **Roasted Malt:** a category of specialty malts that have been roasted at high temperature and traditionally includes biscuit, caramel, crystal, brown, chocolate, black patent, black malts, as well as roasted barley
 	* purpose of roasting is to create unique colors, flavors, aromas through intense Maillard reactions
 * **Saccharification:** the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
+* **Separation:** the process whereby liquids and solids are separated after boiling, and prior to cooling
+	* This is the 5th stage in the brewing process
+	* The common procedure is the [[glossary/brewing/terms.clean#Whirlpool|whirlpool]]
 * **Sparging:** process of rinsing mash grain bed to extract as much sugar from grain as possible, without extracting tannins in the process
 	* as wort is drawn off bottom of lauter tun, liquid level drops
 	* brewer adds hot water to top of lauter tun
@@ -550,6 +663,15 @@
 		* Disadvantages
 			* takes longer
 			* expensive and complicated
+* **Whirlpool:** main vessel used for separation in the brewing process
+	* first developed at Moosehead Brewery in New Brunswick, Canada in 1960
+	* wort pumped in via tangential entry port along the inside edge of the tank
+	* the entire contents spin as the tank fills
+	* Once full, the contents are allowed to come to a rest after about 15 minutes
+	* as a result, the solids form a compact pile at the bottom-center of the vessel
+		* the physics behind it is called "torus eddies"
+	* liquid is drawn off, leaving the solids behind
+	* led to hop pellets being more common, because it's easier to remove the small pieces
 * **Whirlpool hops:** hops added immediately after boil to dissolve hops with minimal evaporation. They get their name because most contact with wort is in whirlpool (even though they are usually added to kettle before wort is transferred)
 * **Whole Hops:** baled, dried hops without further processing used for centuries before technological advances
 * **Yorkshire Square:** a fermentation vessel originating in northern England

@@ -1,3 +1,69 @@
 # Malt
-- [ ] American two-row
-- [ ] American six-row
+- [x] American two-row
+- [x] American six-row
+
+# Beers
+- [ ] 3a
+	- [ ] One of
+		- [ ] American Pale Ale
+		- [ ] American IPA
+	- [ ] German Pils
+- [ ] 3b
+	- [ ] Three different American IPAs
+- [ ] 4a
+	- [ ] One of
+		- [ ] American Lager
+		- [ ] International Pale Lager
+	- [ ] One of
+		- [ ] American Blonde Ale
+		- [ ] American Wheat Beer
+- [ ] 7a
+	- [ ] American Lager
+	- [ ] Munich Helles
+- [ ] 7b
+	- [ ] American Light Lager
+	- [ ] American Lager
+	- [ ] International Pale Lager
+- [ ] 8a
+	- [ ] American Wheat Beer
+	- [ ] Weissbier
+	- [ ] Belgian Witbier
+- [ ] 8b
+	- [ ] American Blonde Ale
+	- [ ] Belgian Blonde Ale
+- [ ] 9a
+	- [ ] American Pale Ale
+	- [ ] American Amber Ale
+- [ ] 9b
+	- [ ] Anchor Steam
+- [ ] 10a
+	- [ ] American Pale Ale
+	- [ ] American IPA
+	- [ ] Double IPA
+- [ ] 11a
+	- [ ] American Pale Ale
+	- [ ] Session IPA
+- [ ] 11b
+	- [ ] American IPA
+	- [ ] New England IPA
+- [ ] 12a
+	- [ ] American Brown Ale
+	- [ ] British Brown Ale
+- [ ] 12b
+	- [ ] American Porter
+	- [ ] English Porter
+	- [ ] Baltic Porter
+- [ ] 13a
+	- [ ] Irish Stout
+	- [ ] American Stout
+	- [ ] Imperial Stout
+- [ ] 13b
+	- [ ] American Porter
+	- [ ] American Stout
+- [ ] 14a
+	- [ ] American Barleywine
+	- [ ] English Barleywine
+- [ ] 15a
+	- [ ] barrel aged beer
+- [ ] 16a
+	- [ ] Brettanomyces or mixed-culture beer that does not fit into a designated style

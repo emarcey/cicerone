@@ -152,6 +152,9 @@
 -  trappist monastery in France that began selling beer in 2011.
 -  Their abbey ale (7.6% BAC amber strong ale) isn't made at the monastery, so it doesn't get the label
 
+# Moosehead Brewery
+-  brewery from New Brunswick, Canada that developed the whirlpool separation system in 1960
+
 # Murphy'S
 -  Irish brewery founded as Lady's Well brewery in 1854
 -  1901, reached peak volume

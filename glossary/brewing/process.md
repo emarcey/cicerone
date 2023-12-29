@@ -9,7 +9,9 @@
 	1. [[glossary/brewing/terms.clean#Vorlauf|Vorlauf]]
 	2. [[glossary/brewing/terms.clean#Sparging|Sparging]]
 4. **[[glossary/brewing/terms.clean#Boiling|Boil]]**: boil wort with hops
-5. **Separate Wort**: remove hops and other solids
-6. **Cool Wort**
-7. **Ferment**
+5. **[[glossary/brewing/terms.clean#Separation|Separate Wort]]**: remove hops and other solids
+6. **[[glossary/brewing/terms.clean#Cooling|Cool Wort]]**
+	1. [[glossary/brewing/terms.clean#Whirlpool|Whirlpool]]
+	2. [[glossary/brewing/terms.clean#Coolship|Coolship]]
+7. **[[glossary/brewing/terms.clean#Fermentation|terms.clean]]**
 8. **Finish**: Clarify, Carbonate, Package
