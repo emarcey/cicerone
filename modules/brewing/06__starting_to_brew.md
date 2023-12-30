@@ -52,3 +52,8 @@ Goals
 - crushed grain (grist) goes into grist case near mash tun, which is fed into tun by gravity
 - grist case contains all the milled malt for a single batch of beer
 - usually only stays in grist case for a few minutes - hours
+
+# Discussion Questions
+
+1. How would you describe the appearance of groundmalt?
+	1. Corn meal or grits

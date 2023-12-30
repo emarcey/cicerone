@@ -343,7 +343,7 @@
 		-  modern designs have a cone shaped that concentrates solids, has a valve at bottom to purge debris
 		-  when spent yeast/debris not separated, beer risks autolyzing yeast flavors and soapy trub flavors
 	-  Secondary Fermentation
-		-  Also called [[glossary/brewing/terms.clean#Maturation|terms.clean]]
+		-  Also called [[glossary/brewing/terms.clean#Maturation|Maturation]]
 		-  Beer at this stage is called "green beer"
 		-  Few physical changes
 			-  little $CO_2$ produced
