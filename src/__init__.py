@@ -3,6 +3,7 @@ from collections import OrderedDict, defaultdict
 import json
 from rich import print
 from typing import Dict, List, Tuple
+from src.analyze import analyze_historical_results
 
 from src.const import (
     BULLET_REGEX,
@@ -13,6 +14,7 @@ from src.const import (
     JSON_STYLE_PATH,
     NON_BULLET_REGEX,
     OUT_STYLE_PATH,
+    RESULT_DIR,
     STYLE_PATH,
 )
 from src.data_models import BeerStyle, BeerStyleMap, BeerStyleTestParams, GlossaryHeader, GlossaryLine
@@ -158,7 +160,7 @@ def gen_glossary(glossary_file_names: List[str]) -> None:
 
 
 @click.command()
-@click.option("--file_mode", type=click.Choice(["gen", "test", "test-values"]))
+@click.option("--file_mode", type=click.Choice(["gen", "test", "test-values", "analyze"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
@@ -167,6 +169,8 @@ def main(file_mode: str) -> None:
         evaluate(JSON_STYLE_PATH)
     elif file_mode == "test-values":
         evaluate_values(JSON_STYLE_PATH)
+    elif file_mode == "analyze":
+        analyze_historical_results(RESULT_DIR)
     else:
         raise ValueError(f"Invalid file mode: {file_mode}")
 

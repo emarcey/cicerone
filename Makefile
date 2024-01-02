@@ -18,3 +18,6 @@ evaluate:
 
 evaluate-values:
 	pipenv run python src/__init__.py --file_mode=test-values
+
+analyze:
+	pipenv run python src/__init__.py --file_mode=analyze

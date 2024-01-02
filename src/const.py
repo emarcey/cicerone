@@ -13,6 +13,7 @@ NON_BULLET_REGEX = re.compile(r"(\s*)\*\s*(\w[^\n]*)\n?")
 COLOR_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?) *SRM\)")
 ALCOHOL_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?)% *ABV\)")
 BITTERNESS_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?) *IBUs\)")
+FILENAME_DATE_REGEX = re.compile(r"evaluate_value_(\d+\_\d+)\.csv")
 
 STYLE_CAT__HISTORICAL = "historical"
 STYLE_CAT__SPECIALTY = "specialty"
@@ -31,3 +32,5 @@ GLOSSARY_FILE_NAMES = [
     TERMS_FILE_NAME__PEOPLE,
     TERMS_FILE_NAME__SERVING,
 ]
+
+RESULT_DIR = "./evaluate_results/evaluate_value"
