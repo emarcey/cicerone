@@ -161,14 +161,14 @@
 		4. yeasty flavor
 		5. yeast can die -> autolyze -> skunk the beer
 8. Compare and Contrast Witbier and Gose:
-		1. TODO: come back to this after doing German module
-		2. Similarities:
+	1. Similarities:
 			1. Central European wheat beer
 			2. low abv
-		3. Differences
+	2. Differences
 			1. Witbier uses Belgian yeast, spicy, fruity, pepper character
 			2. Gose is wild fermented
-			3. Witbier usually has spices added (primarily coriander/curaçao orange peel)
+			3. Witbier usually has coriander and curacao
+			4. Gose has salt added
 9. Discuss the fermentation of a modern Bière de Garde
 		1. fermentation is done with either an ale or lager yeast
 		2. temperature is controlled very tightly for fermentation

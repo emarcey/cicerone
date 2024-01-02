@@ -15,3 +15,8 @@
 
 # German
 - [Dunkel vs Schwarzbier](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F10_a__dunkel_vs_schwarzbier)
+- [Doppelbock, Dunkel, Dunkelweizenbock](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F12_b__dark_beer_comparison)
+- [Pale Lager Comparison](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F13_a__pale_lager_comparison)
+- [Wheat Beer Comparison](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F14_c__wheat_beer_comparison)
+- [Altbier, American Brown Ale, British Brown Ale](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F15_c__german_american_ale_comparison)
+- 

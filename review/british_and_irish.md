@@ -137,7 +137,7 @@
 		1. contains proteins that improve head retention
 	2. Similar:
 		1. increases gravity without changing flavor
-# Example Cicerone Exam Questions
+# Sample Cicerone Questions
 1. Name the dark ale that emerged as one of the earliest recognizable beer styles during the 1700s in England
 	1. Porter
 2. Name two modern beer styles that evolved from English Porter

@@ -37,6 +37,12 @@
 -  desired alpha:beta ratio is 1:1, but most are 2:1
 	-  hops with much higher alpha:beta ratios are modern superalpha varities
 
+# Amylase
+-  enzyme found in barley and malt which breaks bonds between individual sugars and starch molecules
+-  Alpha: forms in barley during malting and breaks bonds anywhere along entire length of starch molecule
+-  Beta: occurs in raw barley and survives in malt, but can only break bonds between sugars at the end of the starch molecule
+	-  produces most common sugar in wort: sugar maltose
+
 # Aroma Hop
 -  a hop added in the last 10 minutes of a boil, to impart aroma to the finished beer
 
@@ -104,6 +110,27 @@
 	-  common in Belgian beers
 	-  German, usually just weizen beers
 
+# Bottling
+-  took off in 19th century when glass became cheaper
+-  common variations
+	-  returnable bottles
+		-  becoming far less popular
+		-  uses tunnel pasteurizer, which pasteurizes beer
+	-  aseptic bottles
+		-  no tunnel pasteurizer
+		-  uses flash pasteurization or sterile filtration
+		-  smaller simpler line, but no pasteurization -> more demands on filler, hygiene, quality control
+	-  plastic bottles
+		-  made possible in the 90s
+		-  not as breakable
+		-  common globally, but not in US
+	-  manual or semi-manual
+		-  small breweries
+		-  bottle-conditioned/barrel-aged
+
+# Bright Tank
+-  (or brite tank) is a tank used to hold beer in preparation for packaging, where carbonation occurs, and, in the US, measurements are taken for tax reporting
+
 # Burton Union System
 -  wood barrel fermentation system used in Burton-on-Trent, England in 19th century
 -  also called Union Set
@@ -168,6 +195,32 @@
 	-  emulation has led to "Burtonization" via addition of calcium sulfate
 -  common treatment for pale ales/IPAs
 
+# Carbohydrates
+-  a broad class of compounds composed entirely of carbon, hydrogen, and oxygen
+-  includes big molecules like starch, and smaller individual sugars (maltose, glucose)
+-  name comes from fixed ratio where each Carbon ($C$) is accompanied by one molecule of water ($H_2O$)
+
+# Carbon Dioxide
+-  ($CO_2$) a gas produced by yeast during fermentation, which creates the "fizz" characteristic in beer
+-  sharp tingle when drinking caused by carbonic acid when $CO_2$ is dissolved
+-  created when yeast converts sugars into alcohol, mostly during primary fermentation
+-  additionally added during finishing, or bottle-conditioning
+-  measured in Volumes of $CO_2$
+-  Levels
+	-  Cask Conditioned: 1.2
+	-  Keg: usually 2-2.6
+	-  Higher Range: low 3s (especially Belgian beer)
+
+# Carbonation
+-  the second of 3 finishing steps, whereby the brewer dissolves $CO_2$ into beer
+-  usually occurs in a "brite tank," and  takes about 24 hours
+-  carbonates beer and, in US, measures exact volume for tax reporting
+-  brite tank equipped with sight glass for volume determination and carbonation stone that dispenses $CO_2$
+-  only real potential problem is incorrect carbonation
+
+# Carbonation Stone
+-  a device used in a brite tank to diffuse $CO_2$ into beer
+
 # Cask
 -  a container used for conditioning and serving beer, traditionally made of wood, though often made of stainless steel or plastic today
 -  UK Sizes:
@@ -194,6 +247,14 @@
 -  chlorophenols have a strong unpleasant aroma, described as "antiseptic" or "burning electrical wires"
 -  to remove, pass water through activated charcoal filter
 -  **this is not the same thing as Chloride, which has valuable uses in beer**
+
+# Clarification
+-  this is the first of 3 finishing stages, wherein brewers filter a beer to ensure a polished or consistently clear appearance
+-  many different types of filters or centrifuges
+-  recipes formulated to account for removal of flavor components and haze during clarification
+-  some brewers centrifuge, which reduces yeast and haze for easier filtration
+-  bigger danger: aeration
+-  also needs to avoid microbial contamination
 
 # Cooling
 -  the process whereby wort is cooled after boiling, to prepare it for fermentation
@@ -244,6 +305,10 @@
 -  alternative: double decoction, single decoction
 -  requires 30-60% more energy than a similar step infusion mash
 
+# Dextrin
+-  or limit dextrin, is a non-fermentable carbohydrate
+-  no flavor, but can affect body and mouthfeel
+
 # Diacetyl
 -  flavor compound present in many beers and wines
 -  aroma: butter, butterscotch, buttermilk
@@ -289,6 +354,11 @@
 -  Compared to wet milling
 	-  Advantage: simpler
 	-  Disadvantage: generates dust, which can be ignited by a spark
+
+# Enzyme
+-  a special type of protein that acts as a catalyst in a biochemical system
+-  each enzyme promotes one specific chemical reaction
+-  even a simple organism like yeast has thousands of different enzymes
 
 # Esters
 -  largest group of flavor compounds in alcoholic beverages
@@ -370,8 +440,37 @@
 		-  each yeast strain produces unique flavors at unique temperatures, with its own ideal temperature range
 			-  keeping temperature outside range change change flavors, introduce excess esters, and/or
 		-  rapid cooling may induce premature dormancy, resulting in diacetyl, acetaldehyde,
--  Flavor Formation
-	-  
+
+# Filtration
+-  the broad term for removing solids from liquids by passage through a porous medium
+-  helps stabilize beer and give polished, clear appearancae
+	-  can also remove dead yeast, which tastes bad
+-  Two basic types
+	-  Depth (powder): labyrinth of channels
+		-  uses Diatomaceous Earth, Perlite, or other porous media
+		-  rough, primary filtration
+	-  Surface: thin film material with small pores (smaller than material to be removed)
+		-  membrane or cross-flow
+-  Filter media/aid is critical to final clarity
+	-  Lautering uses grain bed as filter aid
+	-  Diatomaceous Earth and Perlite are most common
+
+# Finished
+-  a beer is "finished" or "mature" when it achieves desired flavor profile
+
+# Finishing
+-  the final stage of the brewing process, after fermentation
+-  once a beer is finished, goal is brewery -> consumer ASAP
+-  Three components
+	-  clarification
+	-  carbonation
+	-  packaging
+-  Must be careful not to spoil beer
+	-  Most common causes:
+		-  exposure to air
+			-  oxygen initiates reaction that leads to stale flavors
+		-  contamination with bacteria or wild yeast
+			-  can produce acetic acid, lactic acid, diacetyl, phenols
 
 # Flavor Hop
 -  a hop added in the last 30 minutes of a boil, to impart hop flavor to the finished beer
@@ -398,6 +497,9 @@
 
 # Germination
 -  process by which steeped barley is allowed to begin growing, in order to break down the endosperm and allow access to the carbohydrates for brewing
+
+# Gravity
+-  measure of extract dissolved in wort or beer
 
 # Green Malt
 -  barley that has gone through the germination process, and is ready for kilning
@@ -477,6 +579,12 @@
 
 # Iso-Alpha Acid Extracts
 -  extracts of isomerized alpha acids that have also been chemically treated to prevent lightstruck effects. Can be added to finished beer to provide bitterness. Some types can contribute to head formation and retention.
+
+# Isohumulone
+-  isomerized form of alpha acid humulone
+
+# Isomerize
+-  occurs when a compound changes structure without changing overall number and type of atoms contained
 
 # Kettle
 -  also called a boil kettle or a copper, is a vessel used for boiling wort
@@ -563,6 +671,10 @@
 	-  Wort Collection: continues for 10-20 minutes as wort is drained, until wort is desired strength
 -  Spent grain often used as cattle feed
 
+# Maillard Reaction
+-  a critical reaction in food and beer that is a main source of color and flavor
+-  occurs when amino acids and sugars combine under heat to initiate a long series of reactions
+
 # Malting
 -  the process by which starch is liberated from a grain for use in brewing
 -  Necessary because raw barley kernels are very hard, and carbohydrates are inaccessible
@@ -594,6 +706,9 @@
 				-  curing
 				-  temperatures used are usually responsible for variations in flavor
 	-  cleaning: kilned malt is cleaned (rootlets are removed)
+
+# Maltose
+-  a sugar consisting of two linked molecules of glucose
 
 # Mashing
 -  the process by which malt starch is converted into fermentable sugar
@@ -630,6 +745,9 @@
 	-  original yeast removed via centrifuge
 	-  beer heat-treated to convert diacetyl precursor to diacetyl
 	-  then rechilled and flowed through column of immobilized yeast cells that remove diacetyl
+
+# Melanoidin
+-  color compound formed by a Maillard Reaction
 
 # Milling
 -  the process by which whole barley kernels are ground up for mashing
@@ -682,8 +800,36 @@
 # Original Gravity
 -  density of wort prior to fermentation, giving an estimate of wort sugar content as well as potential alcohol content
 
+# Packaging
+-  the final stage of the finishing process, where beer is packaged in kegs, cans, or bottles
+-  quality control is critical here
+-  concerns:
+	-  air exposure
+	-  infection
+-  empty space in bottles usually filled with $CO_2$ using "cap on foam" process
+	-  beer is agitated to fill neck with foam, then cap is affixed when foam reaches top of bottle
+	-  quality control will periodically check bottles
+-  some breweries will pasteurize
+
+# Pasteurization
+-  sanitizing process that drastically reduces possibility of off flavors from microbes in packaged beer
+-  heat required changes flavor profile
+-  most small brewers do no pasteurize, but common where returnable bottles are used
+
 # Phenolic Off Flavor (Pof)
 -  a sometimes-desired pepper and/or clove flavor imparted by ale yeasts that produce phenols (i.e. ales with the PAD gene (Phenyl Acrylate Decarboxylase))
+
+# Plato
+-  a measure of gravity, expressed in degrees, which represents the percent, by weight, of extract in the solution being measured
+
+# Polyphenols
+-  a category of complex molecules that play roles in plant coloration, structure, protection, and other places
+-  affinity for binding to proteins
+-  tannins are one example
+
+# Protein
+-  one or more chains of hundreds - thousands of amino acids, with varied functions in cells
+-  enzymes are an important example
 
 # Real Ale
 -  beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide
@@ -721,6 +867,10 @@
 # Saccharification
 -  the process of breaking a complex carbohydrate (such as starch or cellulose) into its monosaccharide components
 
+# Saccharification Rest
+-  a critical rest during mashing, in which starch is converted to sugar
+-  temp range is 140-158°F (60-70°C)
+
 # Separation
 -  the process whereby liquids and solids are separated after boiling, and prior to cooling
 -  This is the 5th stage in the brewing process
@@ -735,8 +885,15 @@
 -  brewers manage composition, temperature and volume of sparge water for proper outcome
 	-  sparging too long or too hot can extract harsh, husky tannins
 
+# Specific Gravity
+-  common measure of gravity, representing the weight of the liquid, divided by an equivalent measure of pure water, usually of the form 1.XXX (e.g. 1.048)
+
 # Speise
 -  a mix of wort and yeast used instead of priming sugar for bottle conditioning by German brewers. Common in traditional hefeweizen
+
+# Starch
+-  a large carbohydrate used by plants to store energy reserves, with long chains and branches of simple glucose
+-  breakdown during mashing results (primarily) in maltose and dextrins
 
 # Steeping
 -  first stage of malting, in which barley is submerged in water to trigger growth in kernels
@@ -750,6 +907,19 @@
 	-  grain and water mixed to achieve first rest temperature
 	-  after rest, heat applied to raise to next target
 	-  between 2 and 5 step rests, but there is always at least one proper saccharification rest
+-  Mashing at different temperatures will influence the composition of the wort and the character of the beer by working on different constituents of the malt
+-  proteases break down at one temp, amylases that convert starch to glucose work at another
+-  Multiple temperatures also help with under-modified malts
+
+# Sugar
+-  a small carbohydrate, the building block for longer molecules like starch
+-  Glucose ($C_6H_{12}O_6$) is an example
+
+# Tannin
+-  a polyphenol noted for the flavor it contributes to wine, tea, and sometimes beer
+-  in red wine and strong tea, it adds an astringent flavor
+-  in beer, "drying" mouthfeel and astringency at high levels
+-  first taste of a beverage high in tannins may give a "mouth coating" impression
 
 # Top Cropping
 -  also known as skimming

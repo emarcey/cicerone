@@ -1,4 +1,5 @@
 # Black
+* Type: Specialty
 * Notes:
 	* malted before kindling
 	* **no enzymes, no fermentable sugars**

@@ -13,5 +13,8 @@
 6. **[[glossary/brewing/terms.clean#Cooling|Cool Wort]]**
 	1. [[glossary/brewing/terms.clean#Whirlpool|Whirlpool]]
 	2. [[glossary/brewing/terms.clean#Coolship|Coolship]]
-7. **[[glossary/brewing/terms.clean#Fermentation|terms.clean]]**
-8. **Finish**: Clarify, Carbonate, Package
+7. **[[glossary/brewing/terms.clean#Fermentation|Fermentation]]**
+8. **[[glossary/brewing/terms.clean#Finishing|Finishing]]**: 
+	1. [[glossary/brewing/terms.clean#Clarification|Clarification]]
+	2. [[glossary/brewing/terms.clean#Carbonation|Carbonation]]
+	3. [[glossary/brewing/terms.clean#Packaging|Packaging]]

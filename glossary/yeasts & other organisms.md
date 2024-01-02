@@ -110,7 +110,7 @@
 * **Weizen Yeast:**
 	* Type: yeast
 	* Uses: German Weizen beers
-	* Other Names: Weihenstephan strain
+	* Other Names: Weihenstephan strain, POF, PAD
 	* Strains: Torulaspora delbrueckii
 	* Flavors/Aromas: 
 		* spicy (clove) - due to 4-vinyl guaiacol
