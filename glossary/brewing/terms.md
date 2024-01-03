@@ -578,7 +578,7 @@
 	* Three basic types: infusion, decoction, temperature-controlled infusion (or step)
 		* choice depends on level of modification of malt
 		* there is also a cereal mash used when working with unmalted cereals (particularly corn and rice)
-* **Mashing Off:** at the end of mashing, a brewer using a step mashing process will heat the wort to about 167-175°F (75-80°C) to reduce the viscosity of the wort for easier lautering
+* **Mashing Out:** at the end of mashing, a brewer using a step mashing process will heat the wort to about 167-175°F (75-80°C) to reduce the viscosity of the wort for easier lautering
 * **Maturation:** this term denotes all. transformations that occur between the end of primary fermentation and the removal of yeast from beer in preparation for packaging
 	* Traditionally, considered separate steps, but significant overlap
 	* Sometimes called "secondary fermentation"

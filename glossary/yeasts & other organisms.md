@@ -75,6 +75,20 @@
 	* Type: yeast
 	* Uses: all
 	* Notes: genus for all brewer's yeast
+* **Saccharomyces cerevisiae:** 
+	* Type: yeast
+	* Notes:
+		* works best at 65-75°F (18-24°C)
+		* top fermenting
+		* produces fruity and complex flavors and aromas
+		* 180-200 different commercially available strains
+	* Uses: ale
+		* all British and Irish styles
+		* all Belgian style ales, except Bière de Garde
+		* German: only kölsch and altbier
+			* though these are still brewed in a lager style
+			* strains used are highly attenuative -> dry finish
+	* Notes: species of yeast used for ales
 * **Saccharomyces pastorianus:** 
 	* Type: yeast
 	* Uses: lager
@@ -93,20 +107,6 @@
 			* bayanus is cold tolerant
 			* likely occurred during a few rounds of cold fermentation in 16th century Bavaria
 		* bottom fermenting
-* **Saccharomyces cerevisiae:** 
-	* Type: yeast
-	* Notes:
-		* works best at 65-75°F (18-24°C)
-		* top fermenting
-		* produces fruity and complex flavors and aromas
-		* 180-200 different commercially available strains
-	* Uses: ale
-		* all British and Irish styles
-		* all Belgian style ales, except Bière de Garde
-		* German: only kölsch and altbier
-			* though these are still brewed in a lager style
-			* strains used are highly attenuative -> dry finish
-	* Notes: species of yeast used for ales
 * **Weizen Yeast:**
 	* Type: yeast
 	* Uses: German Weizen beers

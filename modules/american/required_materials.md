@@ -14,9 +14,9 @@
 	- [ ] One of
 		- [ ] American Lager
 		- [ ] International Pale Lager
-	- [ ] One of
+	- [x] One of
 		- [ ] American Blonde Ale
-		- [ ] American Wheat Beer
+		- [x] American Wheat Beer
 - [ ] 7a
 	- [ ] American Lager
 	- [ ] Munich Helles
@@ -25,7 +25,7 @@
 	- [ ] American Lager
 	- [ ] International Pale Lager
 - [ ] 8a
-	- [ ] American Wheat Beer
+	- [x] American Wheat Beer
 	- [ ] Weissbier
 	- [ ] Belgian Witbier
 - [ ] 8b
@@ -33,7 +33,7 @@
 	- [ ] Belgian Blonde Ale
 - [ ] 9a
 	- [ ] American Pale Ale
-	- [ ] American Amber Ale
+	- [x] American Amber Ale
 - [ ] 9b
 	- [ ] Anchor Steam
 - [ ] 10a
@@ -47,22 +47,22 @@
 	- [ ] American IPA
 	- [ ] New England IPA
 - [ ] 12a
-	- [ ] American Brown Ale
+	- [x] American Brown Ale
 	- [ ] British Brown Ale
 - [ ] 12b
 	- [ ] American Porter
 	- [ ] English Porter
-	- [ ] Baltic Porter
+	- [x] Baltic Porter
 - [ ] 13a
-	- [ ] Irish Stout
+	- [x] Irish Stout
 	- [ ] American Stout
 	- [ ] Imperial Stout
 - [ ] 13b
 	- [ ] American Porter
 	- [ ] American Stout
-- [ ] 14a
-	- [ ] American Barleywine
-	- [ ] English Barleywine
+- [x] 14a
+	- [x] American Barleywine
+	- [x] English Barleywine
 - [ ] 15a
 	- [ ] barrel aged beer
 - [ ] 16a

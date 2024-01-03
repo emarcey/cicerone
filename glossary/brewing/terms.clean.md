@@ -725,7 +725,7 @@
 	-  choice depends on level of modification of malt
 	-  there is also a cereal mash used when working with unmalted cereals (particularly corn and rice)
 
-# Mashing Off
+# Mashing Out
 -  at the end of mashing, a brewer using a step mashing process will heat the wort to about 167-175°F (75-80°C) to reduce the viscosity of the wort for easier lautering
 
 # Maturation
