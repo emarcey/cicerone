@@ -5,9 +5,10 @@ import os
 import random
 from pydantic import BaseModel, Field, field_validator
 from rich.console import Console
+from string import capwords
 from typing import Dict, List, Optional, Set, Tuple
-from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 
+from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 from src.utils import (
     clear_screen,
     snake_to_sentence_case,
@@ -66,7 +67,7 @@ class GlossaryHeader(BaseModel):
     _validate_string_input = field_validator("name", "value", mode="before")(validate_string_input)
 
     def __str__(self) -> str:
-        lines = [f"# {self.name.title()}"]
+        lines = [f"# {capwords(self.name)}"]
         if self.value:
             lines.append(f"-  {self.value}")
 
@@ -250,8 +251,15 @@ class BeerStyle(BaseModel):
         else:
             raise ValueError(f"Unexpected evaluate value: {value}")
 
-        guess_lower = console.input(f"Enter the lower bound for {value}: ")
-        guess_upper = console.input(f"Enter the upper bound for {value}: ")
+        guess_lower = None
+        guess_upper = None
+        while not guess_upper and not guess_lower:
+            try:
+                guess_lower = float(console.input(f"Enter the lower bound for {value}: "))
+                guess_upper = float(console.input(f"Enter the upper bound for {value}: "))
+            except ValueError as e:
+                console.print(e)
+                console.print("Try again")
         lower_color = "cyan"
         upper_color = "cyan"
 

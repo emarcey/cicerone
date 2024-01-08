@@ -19,17 +19,19 @@ STYLE_CAT__HISTORICAL = "historical"
 STYLE_CAT__SPECIALTY = "specialty"
 
 
-TERMS_FILE_NAME__BREWING = "./glossary/brewing/terms.md"
 TERMS_FILE_NAME__BREWERIES = "./glossary/breweries.md"
+TERMS_FILE_NAME__BREWING = "./glossary/brewing/terms.md"
 TERMS_FILE_NAME__ORGANIZATIONS = "./glossary/organizations.md"
 TERMS_FILE_NAME__PEOPLE = "./glossary/people.md"
+TERMS_FILE_NAME__PLACES = "./glossary/places.md"
 TERMS_FILE_NAME__SERVING = "./glossary/serving.md"
 
 GLOSSARY_FILE_NAMES = [
-    TERMS_FILE_NAME__BREWING,
     TERMS_FILE_NAME__BREWERIES,
+    TERMS_FILE_NAME__BREWING,
     TERMS_FILE_NAME__ORGANIZATIONS,
     TERMS_FILE_NAME__PEOPLE,
+    TERMS_FILE_NAME__PLACES,
     TERMS_FILE_NAME__SERVING,
 ]
 

@@ -132,6 +132,18 @@
 * **Samuel Smith:** an English brewery contracted numerous times to brew styles for the Americas, notably revitalizing the Imperial Stout and the Oatmeal Stout
 * **Schlenkerla:** a brewery from Bamber, Bavaria, Germany founded in 1877, known for its signature rauchbiers
 	* Aecht Schlenkerla, a smoky märzen style beer, is the archetype of rauchbiers
+* **Schlitz:** "The Beer that Made Milwaukee Famous"
+	* one of 4 major breweries during Milwaukee's brewing heyday
+	* after Great Chicago Fire, began exporting Schlitz big time
+	* 1873, received buyout offer from Bratton and Sons, which they rejected
+	* 1889, British syndicate attempted to combine them with Pabst and Blatz
+	* 1902, surpassed the million barrel per year mark, becoming the largest brewery in the US
+	* 1955, introduced Old Milwaukee value beer as cost-cutting measure due to similarity with other big 4 beers
+	* Schlitz was first victim of focus on cheapness
+		* experimented with high fermentation temps and continuous fermentation
+		* led to taste change in flagship beer and decline in sales
+	* 1976, Schlitz was 2nd behind Anheuser-Busch
+	* 1982, Schlitz abosrbed by Stroh Brewer of Detroit, Michigan
 * **Spaten:** Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807
 	* His son helped create the indirect kilning
 	* 1841, Spaten introduced the first Märzen

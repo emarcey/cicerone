@@ -52,6 +52,7 @@
 		* lupulone
 		* colupulone
 		* adlupulone
+* **Brewpub:** a restaurant within a microbrewery
 * **Bittering Hop:** a hop added during the beginning of a 90 minute boil, primarily to impart bitterness to beer
 * **Bock:** a protected category in Germany, requiring that the beer have an original gravity of at least 16° Plato (~1.065), leading to an alcohol content generally 6% or higher
 * **Boiling:** or Wort Boiling, is the process that transforms wort into a fermentable liquid
@@ -426,6 +427,9 @@
 	* Risks:
 		* improperly cleaned heat exchanger: could introduce bacteria or wild yeast
 		* slow cooling: if wort not cooled within 90 minutes, risk of DMS increases -> creamed corn, rotten vegetable, or shellfish flavor
+* **Homebrewer:** an individual who brews beer at home or locally, for personal rather than commercial use
+	* first became popular in the 1970s
+	* legalized in 1978
 * **Hop Essential Oils:** hop extract that contributes to aroma
 	* some important ones:
 		* humulene: woody, balsamic
@@ -671,6 +675,7 @@
 * **Polyphenols:** a category of complex molecules that play roles in plant coloration, structure, protection, and other places
 	* affinity for binding to proteins
 	* tannins are one example
+* **Prohibition:** refers to the period between 1919 and 1933, where, in the United States, the sale, manufacture, and distribution of alcohol were illegal
 * **Protein:** one or more chains of hundreds - thousands of amino acids, with varied functions in cells
 	* enzymes are an important example
 * **Real Ale:** beer that undergoes secondary fermentation in its serving vessel AND is dispensed without the use of supplementary carbon dioxide

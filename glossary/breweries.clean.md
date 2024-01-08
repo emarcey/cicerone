@@ -1,7 +1,7 @@
 # Achel
 -  former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 
-# Anheuser-Busch Inbev
+# Anheuser-busch Inbev
 -  one of the largest brewery conglomerates ever
 
 # Artois
@@ -155,7 +155,7 @@
 # Moosehead Brewery
 -  brewery from New Brunswick, Canada that developed the whirlpool separation system in 1960
 
-# Murphy'S
+# Murphy's
 -  Irish brewery founded as Lady's Well brewery in 1854
 -  1901, reached peak volume
 -  1967, British Watney Mann took controlling stake
@@ -194,6 +194,20 @@
 # Schlenkerla
 -  a brewery from Bamber, Bavaria, Germany founded in 1877, known for its signature rauchbiers
 -  Aecht Schlenkerla, a smoky märzen style beer, is the archetype of rauchbiers
+
+# Schlitz
+-  "The Beer that Made Milwaukee Famous"
+-  one of 4 major breweries during Milwaukee's brewing heyday
+-  after Great Chicago Fire, began exporting Schlitz big time
+-  1873, received buyout offer from Bratton and Sons, which they rejected
+-  1889, British syndicate attempted to combine them with Pabst and Blatz
+-  1902, surpassed the million barrel per year mark, becoming the largest brewery in the US
+-  1955, introduced Old Milwaukee value beer as cost-cutting measure due to similarity with other big 4 beers
+-  Schlitz was first victim of focus on cheapness
+	-  experimented with high fermentation temps and continuous fermentation
+	-  led to taste change in flagship beer and decline in sales
+-  1976, Schlitz was 2nd behind Anheuser-Busch
+-  1982, Schlitz abosrbed by Stroh Brewer of Detroit, Michigan
 
 # Spaten
 -  Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807

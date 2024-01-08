@@ -19,6 +19,8 @@ def load_all_dfs(dir: str) -> pd.DataFrame:
     dfs: List[pd.DataFrame] = []
 
     for row in os.scandir(dir):
+        if row.is_dir():
+            continue
         dfs.append(load_df(row))
     return pd.concat(dfs)
 
@@ -45,24 +47,10 @@ def transform_all_dfs(in_df: pd.DataFrame) -> pd.DataFrame:
         df[["tested_day", "style"]].groupby("tested_day").count().reset_index().rename(columns={"style": "daily_total"})
     )
 
-    first_date = df["tested_day"].min()
-    last_date = df["tested_day"].max()
-    date_df = pd.DataFrame(pd.date_range(first_date, last_date, freq="D")).rename(columns={0: "tested_day"})
-    guess_proximity_df = pd.DataFrame([x.name for x in list(GuessProximity)]).rename(columns={0: "result"})
-    guess_date_df = date_df.merge(guess_proximity_df, how="cross")
-
-    ext_daily_sums_df = date_df.merge(daily_sums_df, how="left", on="tested_day").fillna(0)
-    ext_daily_sums_df["daily_cumsum"] = ext_daily_sums_df["daily_total"].cumsum()
-
-    ext_date_df = guess_date_df.merge(
-        df[["tested_day", "result", "total"]], how="left", on=["tested_day", "result"]
-    ).fillna(0)
+    daily_sums_df["daily_cumsum"] = daily_sums_df["daily_total"].cumsum()
 
     pre_result_df = (
-        ext_date_df[["tested_day", "result", "total"]]
-        .groupby(["tested_day", "result"])
-        .agg({"total": "sum"})
-        .reset_index()
+        df[["tested_day", "result", "total"]].groupby(["tested_day", "result"]).agg({"total": "sum"}).reset_index()
     )
 
     pre_result_df["cumsum"] = (
@@ -73,16 +61,19 @@ def transform_all_dfs(in_df: pd.DataFrame) -> pd.DataFrame:
         .reset_index()["total"]
     )
 
-    result_df = pre_result_df.merge(ext_daily_sums_df, on="tested_day")
+    result_df = pre_result_df.merge(daily_sums_df, on="tested_day")
     result_df["daily_pct"] = result_df.apply(_calculate_percentage("total", "daily_total"), axis=1)
     result_df["daily_cum_pct"] = result_df.apply(_calculate_percentage("cumsum", "daily_cumsum"), axis=1)
     return result_df
 
 
-def display_results(result_df: pd.DataFrame) -> pd.DataFrame:
+def display_results(in_dir: str, result_df: pd.DataFrame) -> pd.DataFrame:
+    output_directory = f"{in_dir}/figs"
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
     display_df = result_df[["tested_day", "result", "daily_cum_pct"]].copy()
     display_df = display_df.set_index("tested_day")
-    display_df.groupby("result")["daily_cum_pct"].plot(
+    fig = display_df.groupby("result")["daily_cum_pct"].plot(
         legend=True,
         marker="o",
         linewidth=2,
@@ -91,13 +82,26 @@ def display_results(result_df: pd.DataFrame) -> pd.DataFrame:
         color={"miss": "red", "close": "orange", "very_close": "blue", "exact": "green"},
     )
     plt.legend(bbox_to_anchor=(0, 1.02, 1, 0.2), loc="lower left", mode="expand", borderaxespad=0, ncol=4)
-    plt.show()
+    plt.savefig(f"{output_directory}/daily_cum_pct.png")
+    plt.cla()
+    display_df2 = result_df[["tested_day", "result", "daily_pct"]].loc[result_df["daily_total"] >= 25].copy()
+    display_df2 = display_df2.set_index("tested_day")
+    display_df2.groupby("result")["daily_pct"].plot(
+        legend=True,
+        marker="o",
+        linewidth=2,
+        xlabel="% In Category",
+        ylabel="Total",
+        color={"miss": "red", "close": "orange", "very_close": "blue", "exact": "green"},
+    )
+    plt.legend(bbox_to_anchor=(0, 1.02, 1, 0.2), loc="lower left", mode="expand", borderaxespad=0, ncol=4)
+    plt.savefig(f"{output_directory}/daily_pct.png")
 
 
 def analyze_historical_results(in_dir: str) -> None:
     dfs = load_all_dfs(in_dir)
     result_df = transform_all_dfs(dfs)
-    display_results(result_df)
+    display_results(in_dir, result_df)
 
 
 if __name__ == "__main__":

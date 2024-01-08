@@ -43,6 +43,19 @@
 # Hodgson, Mark
 -  English brewer who focused his father's brewery on pale ales, which led to term East India Pale Ale appearing in newspaper ads
 
+# Nation, Carrie
+-  the most infamous member of the Women's Christian Temperance Movement
+-  a 6 foot woman, dressed in black, and carrying an axe
+-  In 1890, Kansas was a non-enforcing dry state
+	-  Nation prayed and read her Bible outside a saloon in Medicine Lodge
+	-  sick of waiting, she smashed the place with her ax
+-  1900-1910, arrested 30 times for violent conduct and criminal damage
+-  paid her fines with lecture tours and souvenir axes
+-  called herself a "bulldog running along at the feet of Jesus, barking at what He doesn't like"
+
+# Russell, Howard Hyde
+-  founder of the Anti-Saloon League
+
 # Saint Benedict
 -  monk who laid down the rules for monasteries in 530AD
 -  rules included self-sufficiency, hospitality for visitors
@@ -53,7 +66,7 @@
 # Schneider, Georg
 -  Bavarian brewer who successfully petitioned the Bavarian royal family that the right to brew wheat beer be remanded to the people (1870s). He founded a brewery in 1872.
 
-# Sedlmayr, Gabriel (The Younger)
+# Sedlmayr, Gabriel (the Younger)
 -  19th Century Bavarian brewer whose father acquired Spaten brewery before Gabriel the Younger took over upon is death in 1839. Known for introducing steam power and indirect kilning to Bavarian brewing practices
 
 # Verlinden, Hendrik

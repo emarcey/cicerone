@@ -1,10 +1,44 @@
-# Alcohol And Tobacco Tax And Trade Bureau (Ttb)
+# Alcohol And Tobacco Tax And Trade Bureau (ttb)
 -  the division of the US Department of Treasury responsible for collecting taxes on beer and for regulating beer ingredients and labeling
 
-# Beer Judge Certification Program
--  organization that administers certification for beer judges, does much of style classification
+# American Homebrewers Association (aha)
+-  association of US homebrewers
+-  later gave rise to the Brewers Association
 
-# Campaign For Real Ale (Camra)
+# Anti-saloon League (asl)
+-  a more moderate and politically-conscious temperance organization, as compared to the Women's Christian Temperance Movement
+-  perhaps the first single-issue pressure group
+-  founded in 1893, in Oberlin Ohio, by Howard Hyde Russell
+-  circumvented infighting of other groups by organizing along bureaucratic corporate lines
+-  focus was on how politicians voted, not whether they personally drank
+	-  focused on dry candidates, pressured waverers, made Prohibition a vote-winning issue
+-  also carried out a PR campaign demonizing drinking
+	-  used fake scientific studies and horror stories
+	-  portrayed drinks as victims of the saloon
+	-  
+
+# Beer Judge Certification Program (bjcp)
+-  organization that administers certification for beer judges, does much of style classification
+-  founded in 1985 by the American Homebrewers Association, in collaboration with the Home Wine and Beer Trade Association
+-  independent since 1995, but still work closely with the AHA
+-  Best known for style guidelines
+-  also administers exams for becoming a judge
+	-  Recognized
+	-  Certified
+	-  National
+	-  Master
+	-  Grand Master
+-  originally conceived for homebrew competitions
+	-  since 2001, also does Commercial Competitions like the GABF and the World Beer Cup
+
+# Brewers Association (ba)
+-  association of US brewers
+-  governs GABF
+-  produces style guide, highlighting details about American beer
+	-  includes more styles that only last for a few years
+-  developed out of the American Homebrewers Association
+
+# Campaign For Real Ale (camra)
 -  Consumer advocacy group in the UK founded in 1971 in Co. Kerry, Ireland
 -  goals are the protection of consumers, promotion of quality, support of pub as focus of community life, campaign for appreciation of traditional beers, ciders, perries
 -  They are the ones who do the cask ale defintion
@@ -15,6 +49,18 @@
 -  breakaway group of Benedictines who found the Benedictines too lax
 -  stricter interpretation of Rule of St. Benedict
 -  devotion to the motto: ora e labora (prayer and work)
+
+# Great American Beer Festival (gabf)
+-  the largest craft beer competition in the US
+-  the "Super Bowl of Beer"
+-  79 categories
+-  first held in 1982
+	-  22 brewers, 40 beers, 800 attendees
+-  governed by the Brewers Association
+-  held annually in Denver, Colorado
+-  first hosted by American Homebrewers Association
+-  2009 - 3,308 beers
+-  GABF Pro-Am competition for amateur homebrewers
 
 # Hoge Raad Voor Ambachtelijke Lambikbieren
 -  High Commission of Traditionally-Made Lambic Biers (HORAL)
@@ -40,6 +86,10 @@
 
 # Union Of Belgian Brewers
 -  professional association/guild of brewers in Belgium
+
+# Women's Christian Temperance Movement, The
+-  an organization formed in 1873, which advocated universal Prohibition of alcohol, because they believed the saloon was the center of society's ills
+-  [[glossary/people.clean#Nation, Carrie|Carrie Nation]] was one of the most infamous members
 
 # Wye College
 -  a college in Kent, England known for their hop breeding program

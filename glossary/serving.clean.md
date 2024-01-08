@@ -51,7 +51,7 @@
 -  other end: connects to tower shank or stainless steel
 -  **vinyl not recommended**
 
-# Cooler-Wall Draft System
+# Cooler-wall Draft System
 -  one of two direct draw systems, which applies the kegerator system to a larger operation.
 -  Consists of a large walk-in cooler, with a shared wall with the bar.
 -  draft faucets mounted on back bar (cooler wall)
@@ -62,7 +62,7 @@
 # Coupler
 -  piece that connects gas and beer lines to keg, enabling gas to flow in, and beer to flow out
 
-# Direct-Draw System
+# Direct-draw System
 -  the simpler of the two main draft systems. These usually move beer a short distance and remain fairly simple.
 -  Two primary types are kegerators and cooler-wall designs
 
@@ -72,7 +72,7 @@
 # Faucet
 -  device that dispenses beer from draft system into glass
 
-# Foam On Beer Detector (Fob)
+# Foam On Beer Detector (fob)
 -  stops flow of beer through line once keg empties, reducing beer loss
 -  usually has a float in a sealed bowl that drops when beer flow stops
 -  should be cleaned every two weeks
@@ -116,10 +116,10 @@
 -  Caused by iso-alpha acids mixing with sulfur-containing compounds when light breaks them off
 -  New Tetra and hexa hops are resilient against skunking, known as "light stable"
 
-# Long-Draw System
+# Long-draw System
 -  a more complex draft system, moving beer up to 300 feet
 
-# Masskrug (Maß)
+# Masskrug (maß)
 -  German word describing amount of beer in regulation mug (1 Liter in modern times)
 -  originally 1.069 L in Bavaria, with other measures in different places
 	-  now standardized to 1 Liter everywhere

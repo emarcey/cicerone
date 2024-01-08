@@ -13,10 +13,10 @@ typecheck:
 gen:
 	pipenv run python src/__init__.py --file_mode=gen
 
-evaluate:
+guess-the-style:
 	pipenv run python src/__init__.py --file_mode=test
 
-evaluate-values:
+guess-the-range:
 	pipenv run python src/__init__.py --file_mode=test-values
 
 analyze:

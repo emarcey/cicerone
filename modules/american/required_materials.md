@@ -2,28 +2,53 @@
 - [x] American two-row
 - [x] American six-row
 
+# IPAs by Hops
+
+- Lawson's Sip of Sunshine
+	- Varieties:
+	- Aroma/Flavor: Tropical Fruit, Dank/Skunk, Pine/Resin
+- Goose Island IPA
+	- Varieties: Pilgrim, Celeia, Cascade, Centennial
+	- Aroma/Flavor: Grapefruit, Pine Resin, Herbal, Tangerine, Honeysuckles
+- Elysian Space Dust IPA
+	- Varieties: Chinook, Citra, Amarillo
+	- Aroma/Flavor: Grapefruit, Mango, Orange
+- Lagunitas IPA
+	- Varieties: Cascade, Centennial, Chinook, Simcoe
+	- Aroma/Flavor: Citrus, Pine
+- Dogfish Head 60 Minute IPA
+	- Varieties:
+	- Aroma/Flavor: Citrus, Pine, Grass
+- Harpoon IPA
+	- Varieties: Cascade
+	- Aroma/Flavor: Flowery, Spicy, Citrus, Grapefruit
+
 # Beers
-- [ ] 3a
-	- [ ] One of
+- [x] 3a
+	- [x] One of
 		- [ ] American Pale Ale
-		- [ ] American IPA
-	- [ ] German Pils
-- [ ] 3b
-	- [ ] Three different American IPAs
-- [ ] 4a
-	- [ ] One of
+		- [x] American IPA
+			- [ ] Lagunitas
+	- [x] German Pils
+- [x] 3b
+	- [x] Three different American IPAs
+		- [x] Lawson's
+		- [x] Harpoon
+		- [x] Elysian
+- [x] 4a
+	- [x] One of
 		- [ ] American Lager
-		- [ ] International Pale Lager
+		- [x] International Pale Lager
 	- [x] One of
 		- [ ] American Blonde Ale
 		- [x] American Wheat Beer
 - [ ] 7a
-	- [ ] American Lager
+	- [x] American Lager
 	- [ ] Munich Helles
-- [ ] 7b
-	- [ ] American Light Lager
-	- [ ] American Lager
-	- [ ] International Pale Lager
+- [x] 7b
+	- [x] American Light Lager
+	- [x] American Lager
+	- [x] International Pale Lager
 - [ ] 8a
 	- [x] American Wheat Beer
 	- [ ] Weissbier
@@ -31,20 +56,22 @@
 - [ ] 8b
 	- [ ] American Blonde Ale
 	- [ ] Belgian Blonde Ale
-- [ ] 9a
-	- [ ] American Pale Ale
+- [x] 9a
+	- [x] American Pale Ale
 	- [x] American Amber Ale
 - [ ] 9b
 	- [ ] Anchor Steam
 - [ ] 10a
 	- [ ] American Pale Ale
-	- [ ] American IPA
+	- [x] American IPA
+		- [x] Goose Island
 	- [ ] Double IPA
 - [ ] 11a
 	- [ ] American Pale Ale
 	- [ ] Session IPA
 - [ ] 11b
-	- [ ] American IPA
+	- [x] American IPA
+		- [x] Dogfishhead
 	- [ ] New England IPA
 - [ ] 12a
 	- [x] American Brown Ale

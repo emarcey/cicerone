@@ -24,7 +24,7 @@
 	-  can be whole, grits, flour flakes, malted, torrefied
 	-  could also be pre-processed via intense heat treatment (basically puffed cereal)
 
-# Alpha Acids (Humulones)
+# Alpha Acids (humulones)
 -  one of two bittering compounds derived from hop resins
 -  generally 3-4% of hop content, but in aggressive breeding programs, they can reach 20%
 -  during boil, alpha asids are isomerized into is-alpha acids, which are soluble and have substantial bitterness
@@ -61,7 +61,7 @@
 -  provides both substrate and enzymes
 -  usual options: 2-row/6-row pilsner, pale ale, malted wheat, Munich malt (in special cases like Märzen)
 
-# Beta Acids (Lupulones)
+# Beta Acids (lupulones)
 -  the minor bittering compound derived from hop resins
 -  3 analogues
 	-  lupulone
@@ -127,6 +127,9 @@
 	-  manual or semi-manual
 		-  small breweries
 		-  bottle-conditioned/barrel-aged
+
+# Brewpub
+-  a restaurant within a microbrewery
 
 # Bright Tank
 -  (or brite tank) is a tank used to hold beer in preparation for packaging, where carbonation occurs, and, in the US, measurements are taken for tax reporting
@@ -481,7 +484,7 @@
 # Force Carbonation
 -  a method of carbonating beer where pressurized CO2 is bubbled into a bulk tank
 
-# Free Mash-Tun Act (1880)
+# Free Mash-tun Act (1880)
 -  also known as the Inland Revenue Act, 1880
 -  British law that changed emphasis of brewery taxation from malt to beer, under British Prime Minister William Gladstone
 -  tax not on malted barley, allowing more leeway in raw materials; substitutes commonplace, essential in poor harvests
@@ -539,6 +542,11 @@
 	-  improperly cleaned heat exchanger: could introduce bacteria or wild yeast
 	-  slow cooling: if wort not cooled within 90 minutes, risk of DMS increases -> creamed corn, rotten vegetable, or shellfish flavor
 
+# Homebrewer
+-  an individual who brews beer at home or locally, for personal rather than commercial use
+-  first became popular in the 1970s
+-  legalized in 1978
+
 # Hop Essential Oils
 -  hop extract that contributes to aroma
 -  some important ones:
@@ -577,7 +585,7 @@
 	-  no heat applied during mash
 -  See [06__infusion_mashing](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F06__infusion_mashing)
 
-# Iso-Alpha Acid Extracts
+# Iso-alpha Acid Extracts
 -  extracts of isomerized alpha acids that have also been chemically treated to prevent lightstruck effects. Can be added to finished beer to provide bitterness. Some types can contribute to head formation and retention.
 
 # Isohumulone
@@ -816,7 +824,7 @@
 -  heat required changes flavor profile
 -  most small brewers do no pasteurize, but common where returnable bottles are used
 
-# Phenolic Off Flavor (Pof)
+# Phenolic Off Flavor (pof)
 -  a sometimes-desired pepper and/or clove flavor imparted by ale yeasts that produce phenols (i.e. ales with the PAD gene (Phenyl Acrylate Decarboxylase))
 
 # Plato
@@ -826,6 +834,9 @@
 -  a category of complex molecules that play roles in plant coloration, structure, protection, and other places
 -  affinity for binding to proteins
 -  tannins are one example
+
+# Prohibition
+-  refers to the period between 1919 and 1933, where, in the United States, the sale, manufacture, and distribution of alcohol were illegal
 
 # Protein
 -  one or more chains of hundreds - thousands of amino acids, with varied functions in cells
@@ -956,7 +967,7 @@
 -  by the end, wort should be nearly clear
 -  once complete, brewer sends wort to kettle
 
-# Well-Modified
+# Well-modified
 -  a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
 
 # Wet Milling
