@@ -1,3 +1,55 @@
+# 2-Row Malt
+* Type: Base
+* Notes:
+	* Hordeum distichon
+	* 2 row has 2 barley kernels at each node
+	* species native to Europe, brought to US
+		* did not adapt to US easily
+	* more starch than 6 row and less protein
+		* larger kernels
+		* lower huskiness
+		* lower enzyme activity
+		* more starch means less barley needed for a given gravity
+		* lower protein means less haze
+* Other Names: Pale malt
+* Kilning: 
+* Flavors: white bread, unsalted saltine, light grainy note
+* Color: 1.5-2°L, upper end of Pilsner
+* Uses:
+	* all European beer, but not under this malt name
+	* US:
+		* beers from smaller breweries
+* Grain:
+	* Shape
+	* Structure
+	* Color
+	* Flavor
+# 6-Row Malt
+* Type: Base
+* Notes:
+	* Hordeum vulgare
+	* 6 row has 6 barley kernels at each node
+	* species native to the US
+		* 2 row was later brought over, but did not adapt easily
+	* less starch than 2 row and more protein
+		* less starch means more barley required for a given gravity
+		* higher protein means more haze
+		* higher enzymatic power -> assists in conversion of adjunct-heavy wort or poorly-modified malt
+		* higher huskiness
+		* smaller kernels
+* Other Names: Pale malt
+* Kilning: 
+* Flavors: white bread, unsalted saltine, light grainy note
+* Color: 1.5-2°L, upper end of Pilsner
+* Uses:
+	* US:
+		* American lagers
+			* both for traditional flavor and ability to break down adjuncts
+* Grain:
+	* Shape
+	* Structure
+	* Color
+	* Flavor
 # Black
 * Type: Specialty
 * Notes:
@@ -11,11 +63,15 @@
 		* modified coffee roaster that roasted at elevated temperature without charring
 		* deep brown color, readily soluble in water
 		* adopted by Whitbread brewery in 1817, and others soon follow
+	* Americans have come up with a special "debittered" black malt for Black IPAs
+		* reduces bitter/astringent flavors
+		* helpful for bitter, hoppy dark IPAs
 * Other Names: black patent malt
 * Kilning: very high (>445F/230C)
 	* this temperature denatures all enzymes
 * Flavors: chocolate, coffee, espresso, burnt, nutty, rich/sweet
 	* porter: astringent, smokey
+	* debittered: reduces bitter/astringent flavors
 * Color: deep brown, black (500-650°L)
 * Uses:
 	* Belgian:
@@ -25,6 +81,9 @@
 	* British:
 		* porter/stout
 	* German: Farb malt is infrequent, but sometimes found
+	* American:
+		* porter/stout
+		* special "debittered" malt: Black IPA
 * Grain:
 	* Shape: small oval, fragmented because of high kilning
 	* Structure: no husk, line down middle
@@ -69,6 +128,7 @@
 		* Flanders Red Ale/Oud Bruin: ruby hue
 	* British/Irish: numerous styles
 	* German: rare
+	* American: various styles
 *  Grain:
 	* Shape: thick oval
 	* Structure: husk over end, joined at flatter side, seems like it's a little flimsier than the pale ale, line down middle

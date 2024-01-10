@@ -14,6 +14,32 @@
 * Aroma/Flavor: pleassant, English
 * Uses:
 
+# Amarillo
+* Location: Toppenish area, Washington, United States
+* Other Names:VGXP01
+* Notes:
+	* trademarked hop by Virgil Gamache Farms, Inc in 2000
+	* limited acreage
+		* keeps it from becoming as popular as Cascade
+	* good resistance to mildew, moderate tolerance to verticillium wilt
+	* favored by craft brewers
+	* "a hop's hop"
+		* a pleasant aroma that can intensify hops in a wide range of styles
+* Biology:
+	* Alpha Acid Content: 8-11%
+	* Beta Acid Content: 6-7%
+	* Cohumulone levels: 21-24%
+	* Myrcene: 68-70%
+	* Caryophyllene: 2-4%
+	* Farnesene: 2-4%
+	* Humulene: 9-11%
+	* Oil Levels:
+* Aroma/Flavor: floral, citrus, tangerine, apricot
+* Uses:
+	* US: pale ales, IPAs, DIPAs (as dry hop)
+	* Belgium: American-influenced beers
+	* British: some small breweries
+
 # Bramling Cross
 * Location: Kent, England
 * Other Names:
@@ -70,6 +96,80 @@
 	* Oil Levels:
 * Aroma/Flavor: 
 * Uses:
+
+# Cascade
+* Location:  Pacific Northwest, United States
+* Other Names:
+* Notes:
+	* developed by the USDA hop breeding program and released in 1971
+	* first aroma hop from this program
+	* one of the prevalent classic American hops
+	* derived from open pollinated hop seed collection in 1956
+		* parentage includes English Fuggle, Russian Serebrianka, unknown male
+	* alpha/beta similar to Hallertauer
+		* co-humulone and oil composition are quite different
+	* resistent to both powdery and down mildew in crown
+		* but moderately susceptible in cone/leaf stage
+	* excellent yield potential but poor storage stability
+* Biology:
+	* Alpha Acid Content: low - moderate (4.5-7%)
+	* Beta Acid Content: 
+	* Cohumulone levels: 
+	* Humulene: 
+	* Oil Levels: mid (0.7-1.4 ml/100g)
+* Aroma/Flavor:  floral, citrusy, grapefruit, pine needles
+* Uses: many US styles
+
+# Chinook
+* Location: Prosser, Washington, United States
+* Other Names:
+* Notes:
+	* bred by Chuck Zimmermann
+	* released by Steve Kenny in 1985 as art of USDA hop breeding program
+	* parentage:
+		* Petham Golding
+		* Brewer's Gold
+		* wild Utah hops
+	* moderate resistance to downy mildew, resistant to verticillium wilt, susceptible to vrial infection
+	* storage stability is fair to good
+* Biology:
+	* Alpha Acid Content: high (12-14%)
+	* Beta Acid Content: low (3-4%)
+	* Cohumulone levels: 
+	* Humulene: 
+	* Oil Levels: high (1.7-2.7 ml/100g)
+* Aroma/Flavor: clean bitterness, pine needles, grapefruit, catty when concentrated
+* Uses:
+	* US: pale ales and IPAs
+
+# Citra
+* Location: Yakima Valley, Washington, United States
+* Other Names: HBC 394
+* Notes:
+	* Result of cross performed in 1990 as part of a controlled breeding program in Washington's Yakima Valley
+	* released in 2009 by Hop Breeding Company LLC (HBC)
+	* pedigree:
+		* 50% Hallertauer Mittelfrueh
+		* 25% US Tettnanger
+		* 19% Brewer's Gold
+		* 3% East Kent Golding
+	* classified as aroma hop due to high alpha acid content
+		* can also be used as bittering hop, since cohumulone is relatively low
+	* moderate resistance to downy and powdery mildew
+	* average yield and fair stability
+* Biology:
+	* Alpha Acid Content: 11-13%
+	* Beta Acid Content: 
+	* Cohumulone levels: 22-24%
+	* Humulene: 11-13%
+	* Myrcene: 60-65%
+	* Caryophyllene: 6-8%
+	* Linalool: 1-2%
+		* Notably high
+	* Oil Levels: very high (2.2-2.8% or 2.2-2.8 ml/100g)
+* Aroma/Flavor: citrus, gooseberry, tropical fruit, lychee, catty black currant
+* Uses: 
+	* US: pale ale and IPA
 # East Kent Golding
 * Location: East Kent, England
 * Other Names:

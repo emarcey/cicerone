@@ -4,6 +4,11 @@
 # American Homebrewers Association (aha)
 -  association of US homebrewers
 -  later gave rise to the Brewers Association
+-  founded by Charlie Papazian and Charlie Matzen in 1978
+-  1979, launched National Homebrew Competition and National Homebrewers Conference
+-  1982, held inaugural GABF
+-  1983, added division: Institute for Brewing and Fermentation Studies
+-  1985, teamed up with Home Wine and Beer Trade Association to form BJCP
 
 # Anti-saloon League (asl)
 -  a more moderate and politically-conscious temperance organization, as compared to the Women's Christian Temperance Movement
@@ -66,6 +71,7 @@
 -  High Commission of Traditionally-Made Lambic Biers (HORAL)
 -  organization that protects authentic lambics with "Oude" designation
 -  all lambic producers/blenders are members except for Belle-Vue (owned by ABInBev) and Cantillon (HORAL isn't traditional enough)
+-  **Hop Breeding Company LLC (HBC)** an hop-breeding organization responsible for, among others, the Citra hop
 
 # International Trappist Association
 -  organization charged with certifying Trappist breweries.

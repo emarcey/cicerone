@@ -26,15 +26,15 @@
                     "light amber",
                     "dark amber"
                 ],
-                "srm_low": 9.0,
-                "srm_high": 17.0
+                "value_low": 9.0,
+                "value_high": 17.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.3,
-                "abv_high": 5.5,
+                "value_low": 4.3,
+                "value_high": 5.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -46,8 +46,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 50.0
+                "value_low": 25.0,
+                "value_high": 50.0
             },
             "flavors": {
                 "malt": [
@@ -117,16 +117,16 @@
                     "dark amber",
                     "dark brown"
                 ],
-                "srm_low": 17.0,
-                "srm_high": 30.0
+                "value_low": 17.0,
+                "value_high": 30.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 6.5,
-                "abv_high": 9.5,
+                "value_low": 6.5,
+                "value_high": 9.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -138,8 +138,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 40.0
+                "value_low": 20.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -202,15 +202,15 @@
                     "light gold",
                     "gold"
                 ],
-                "srm_low": 4.0,
-                "srm_high": 6.0
+                "value_low": 4.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated"
                 ],
-                "abv_low": 6.0,
-                "abv_high": 7.5,
+                "value_low": 6.0,
+                "value_high": 7.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -222,8 +222,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 15.0,
-                "ibu_high": 30.0
+                "value_low": 15.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -289,16 +289,16 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 12.0,
-                "srm_high": 22.0
+                "value_low": 12.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high",
                     "very high"
                 ],
-                "abv_low": 8.0,
-                "abv_high": 12.0,
+                "value_low": 8.0,
+                "value_high": 12.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -310,8 +310,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 35.0
+                "value_low": 20.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -391,15 +391,15 @@
                     "light amber",
                     "dark amber"
                 ],
-                "srm_low": 10.0,
-                "srm_high": 17.0
+                "value_low": 10.0,
+                "value_high": 17.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated"
                 ],
-                "abv_low": 6.0,
-                "abv_high": 7.5,
+                "value_low": 6.0,
+                "value_high": 7.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -411,8 +411,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 15.0,
-                "ibu_high": 25.0
+                "value_low": 15.0,
+                "value_high": 25.0
             },
             "flavors": {
                 "malt": [
@@ -488,16 +488,16 @@
                     "straw",
                     "gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 6.0
+                "value_low": 3.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high",
                     "very high"
                 ],
-                "abv_low": 7.5,
-                "abv_high": 10.5,
+                "value_low": 7.5,
+                "value_high": 10.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -509,8 +509,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 22.0,
-                "ibu_high": 35.0
+                "value_low": 22.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -583,15 +583,15 @@
                     "gold",
                     "amber"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 14.0
+                "value_low": 8.0,
+                "value_high": 14.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.8,
-                "abv_high": 5.5,
+                "value_low": 4.8,
+                "value_high": 5.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -603,8 +603,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 30.0
+                "value_low": 20.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -676,15 +676,15 @@
                     "light gold",
                     "gold"
                 ],
-                "srm_low": 4.5,
-                "srm_high": 7.0
+                "value_low": 4.5,
+                "value_high": 7.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high"
                 ],
-                "abv_low": 7.5,
-                "abv_high": 9.5,
+                "value_low": 7.5,
+                "value_high": 9.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -697,8 +697,8 @@
                     "moderate",
                     "pronounced"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 40.0
+                "value_low": 20.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -782,15 +782,15 @@
                 "color_range": [
                     "straw"
                 ],
-                "srm_low": 2.0,
-                "srm_high": 3.0
+                "value_low": 2.0,
+                "value_high": 3.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 2.8,
-                "abv_high": 3.8,
+                "value_low": 2.8,
+                "value_high": 3.8,
                 "notes": []
             },
             "mouthfeel": {
@@ -802,8 +802,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 3.0,
-                "ibu_high": 8.0
+                "value_low": 3.0,
+                "value_high": 8.0
             },
             "flavors": {
                 "malt": [
@@ -883,16 +883,16 @@
                     "gold",
                     "amber"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 16.0
+                "value_low": 8.0,
+                "value_high": 16.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 3.8,
-                "abv_high": 4.6,
+                "value_low": 3.8,
+                "value_high": 4.6,
                 "notes": []
             },
             "mouthfeel": {
@@ -904,8 +904,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 40.0
+                "value_low": 25.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -962,16 +962,16 @@
                     "gold",
                     "light brown"
                 ],
-                "srm_low": 6.0,
-                "srm_high": 19.0
+                "value_low": 6.0,
+                "value_high": 19.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 6.0,
-                "abv_high": 8.5,
+                "value_low": 6.0,
+                "value_high": 8.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -983,8 +983,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 28.0
+                "value_low": 18.0,
+                "value_high": 28.0
             },
             "flavors": {
                 "malt": [
@@ -1056,8 +1056,8 @@
                 "alcohol_range": [
                     "very low"
                 ],
-                "abv_low": 2.0,
-                "abv_high": 4.0,
+                "value_low": 2.0,
+                "value_high": 4.0,
                 "notes": []
             },
             "mouthfeel": null,
@@ -1107,16 +1107,16 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 12.0,
-                "srm_high": 22.0
+                "value_low": 12.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.2,
-                "abv_high": 5.9,
+                "value_low": 4.2,
+                "value_high": 5.9,
                 "notes": []
             },
             "mouthfeel": {
@@ -1128,8 +1128,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 30.0
+                "value_low": 20.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -1183,16 +1183,16 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 2.0,
-                "srm_high": 5.0
+                "value_low": 2.0,
+                "value_high": 5.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 3.8,
-                "abv_high": 5.0,
+                "value_low": 3.8,
+                "value_high": 5.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -1204,8 +1204,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 45.0
+                "value_low": 20.0,
+                "value_high": 45.0
             },
             "flavors": {
                 "malt": [
@@ -1240,7 +1240,7 @@
             "categories": [
                 "Czech Lagers",
                 "Lagers",
-                "Pale Lagers"
+                "Pale German Lagers"
             ],
             "malt": [
                 "Czech Pilsner malt"
@@ -1261,16 +1261,16 @@
                     "straw",
                     "gold"
                 ],
-                "srm_low": 3.5,
-                "srm_high": 6.0
+                "value_low": 3.5,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.2,
-                "abv_high": 5.8,
+                "value_low": 4.2,
+                "value_high": 5.8,
                 "notes": []
             },
             "mouthfeel": {
@@ -1282,8 +1282,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 30.0,
-                "ibu_high": 45.0
+                "value_low": 30.0,
+                "value_high": 45.0
             },
             "flavors": {
                 "malt": [
@@ -1347,15 +1347,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 14.0,
-                "srm_high": 25.0
+                "value_low": 14.0,
+                "value_high": 25.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.0,
-                "abv_high": 3.8,
+                "value_low": 3.0,
+                "value_high": 3.8,
                 "notes": []
             },
             "mouthfeel": {
@@ -1367,8 +1367,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 10.0,
-                "ibu_high": 25.0
+                "value_low": 10.0,
+                "value_high": 25.0
             },
             "flavors": {
                 "malt": [
@@ -1411,7 +1411,8 @@
             "categories": [
                 "German Lagers",
                 "Dark Lagers",
-                "Lagers"
+                "Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Pilsner",
@@ -1433,16 +1434,16 @@
                     "gold",
                     "brown"
                 ],
-                "srm_low": 6.0,
-                "srm_high": 25.0
+                "value_low": 6.0,
+                "value_high": 25.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 7.0,
-                "abv_high": 10.0,
+                "value_low": 7.0,
+                "value_high": 10.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -1454,8 +1455,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 16.0,
-                "ibu_high": 26.0
+                "value_low": 16.0,
+                "value_high": 26.0
             },
             "flavors": {
                 "malt": [
@@ -1500,7 +1501,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Munich malt",
@@ -1522,15 +1524,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 14.0,
-                "srm_high": 22.0
+                "value_low": 14.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated"
                 ],
-                "abv_low": 6.3,
-                "abv_high": 7.2,
+                "value_low": 6.3,
+                "value_high": 7.2,
                 "notes": []
             },
             "mouthfeel": {
@@ -1542,8 +1544,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 27.0
+                "value_low": 20.0,
+                "value_high": 27.0
             },
             "flavors": {
                 "malt": [
@@ -1615,15 +1617,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 14.0,
-                "srm_high": 23.0
+                "value_low": 14.0,
+                "value_high": 23.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.3,
-                "abv_high": 5.6,
+                "value_low": 4.3,
+                "value_high": 5.6,
                 "notes": []
             },
             "mouthfeel": {
@@ -1635,8 +1637,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 10.0,
-                "ibu_high": 18.0
+                "value_low": 10.0,
+                "value_high": 18.0
             },
             "flavors": {
                 "malt": [
@@ -1671,7 +1673,8 @@
             "categories": [
                 "German Lagers",
                 "Dark Lagers",
-                "Lagers"
+                "Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Pilsner",
@@ -1691,16 +1694,16 @@
                     "dark amber",
                     "dark brown"
                 ],
-                "srm_low": 17.0,
-                "srm_high": 30.0
+                "value_low": 17.0,
+                "value_high": 30.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high",
                     "very high"
                 ],
-                "abv_low": 9.0,
-                "abv_high": 14.0,
+                "value_low": 9.0,
+                "value_high": 14.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -1712,8 +1715,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 35.0
+                "value_low": 25.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -1764,16 +1767,16 @@
                     "gold",
                     "brown"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 22.0
+                "value_low": 8.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high",
                     "very high"
                 ],
-                "abv_low": 8.0,
-                "abv_high": 12.0,
+                "value_low": 8.0,
+                "value_high": 12.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -1785,8 +1788,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 35.0,
-                "ibu_high": 70.0
+                "value_low": 35.0,
+                "value_high": 70.0
             },
             "flavors": {
                 "malt": [
@@ -1861,16 +1864,16 @@
                     "gold",
                     "amber"
                 ],
-                "srm_low": 6.0,
-                "srm_high": 14.0
+                "value_low": 6.0,
+                "value_high": 14.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.0,
-                "abv_high": 7.5,
+                "value_low": 5.0,
+                "value_high": 7.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -1882,8 +1885,8 @@
                 "bitterness_range": [
                     "assertive"
                 ],
-                "ibu_low": 40.0,
-                "ibu_high": 60.0
+                "value_low": 40.0,
+                "value_high": 60.0
             },
             "flavors": {
                 "malt": [
@@ -1968,16 +1971,16 @@
                     "light",
                     "dark brown"
                 ],
-                "srm_low": 20.0,
-                "srm_high": 30.0
+                "value_low": 20.0,
+                "value_high": 30.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.0,
-                "abv_high": 5.4,
+                "value_low": 4.0,
+                "value_high": 5.4,
                 "notes": []
             },
             "mouthfeel": {
@@ -1989,8 +1992,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 35.0
+                "value_low": 18.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -2075,8 +2078,8 @@
                     "low",
                     "normal"
                 ],
-                "abv_low": 4.0,
-                "abv_high": 5.0,
+                "value_low": 4.0,
+                "value_high": 5.0,
                 "notes": []
             },
             "mouthfeel": null,
@@ -2110,7 +2113,8 @@
                 "German Lagers",
                 "Lagers",
                 "Pale Lagers",
-                "Historical March Beers"
+                "Historical March Beers",
+                "Pale German Lagers"
             ],
             "malt": [
                 "Pilsner malt base",
@@ -2132,16 +2136,16 @@
                     "light gold",
                     "gold"
                 ],
-                "srm_low": 4.0,
-                "srm_high": 6.0
+                "value_low": 4.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.8,
-                "abv_high": 6.3,
+                "value_low": 5.8,
+                "value_high": 6.3,
                 "notes": []
             },
             "mouthfeel": {
@@ -2153,8 +2157,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 25.0
+                "value_low": 18.0,
+                "value_high": 25.0
             },
             "flavors": {
                 "malt": [
@@ -2214,16 +2218,16 @@
                     "red",
                     "brown"
                 ],
-                "srm_low": 10.0,
-                "srm_high": 17.0
+                "value_low": 10.0,
+                "value_high": 17.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 4.6,
-                "abv_high": 6.5,
+                "value_low": 4.6,
+                "value_high": 6.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -2235,8 +2239,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 10.0,
-                "ibu_high": 25.0
+                "value_low": 10.0,
+                "value_high": 25.0
             },
             "flavors": {
                 "malt": [
@@ -2314,16 +2318,16 @@
                     "dark brown",
                     "black"
                 ],
-                "srm_low": 30.0,
-                "srm_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 6.3,
-                "abv_high": 8.0,
+                "value_low": 6.3,
+                "value_high": 8.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -2335,8 +2339,8 @@
                 "bitterness_range": [
                     "assertive"
                 ],
-                "ibu_low": 50.0,
-                "ibu_high": 70.0
+                "value_low": 50.0,
+                "value_high": 70.0
             },
             "flavors": {
                 "malt": [
@@ -2388,16 +2392,16 @@
                 "color_range": [
                     "varies with fruit"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 7.0
+                "value_low": 3.0,
+                "value_high": 7.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.0,
-                "abv_high": 7.0,
+                "value_low": 5.0,
+                "value_high": 7.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -2409,8 +2413,8 @@
                 "bitterness_range": [
                     "very low"
                 ],
-                "ibu_low": 0.0,
-                "ibu_high": 10.0
+                "value_low": 0.0,
+                "value_high": 10.0
             },
             "flavors": {
                 "malt": [
@@ -2464,7 +2468,8 @@
             "categories": [
                 "German Lagers",
                 "Pale Lagers",
-                "Lagers"
+                "Lagers",
+                "Pale German Lagers"
             ],
             "malt": [
                 "Pilsner malt"
@@ -2481,15 +2486,15 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 2.0,
-                "srm_high": 4.0
+                "value_low": 2.0,
+                "value_high": 4.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.4,
-                "abv_high": 5.2,
+                "value_low": 4.4,
+                "value_high": 5.2,
                 "notes": []
             },
             "mouthfeel": {
@@ -2501,8 +2506,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 22.0,
-                "ibu_high": 40.0
+                "value_low": 22.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -2565,16 +2570,16 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 4.0
+                "value_low": 3.0,
+                "value_high": 4.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.2,
-                "abv_high": 4.8,
+                "value_low": 4.2,
+                "value_high": 4.8,
                 "notes": []
             },
             "mouthfeel": {
@@ -2586,8 +2591,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 5.0,
-                "ibu_high": 12.0
+                "value_low": 5.0,
+                "value_high": 12.0
             },
             "flavors": {
                 "malt": [
@@ -2645,16 +2650,16 @@
                     "straw",
                     "gold"
                 ],
-                "srm_low": 5.0,
-                "srm_high": 6.0
+                "value_low": 5.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.0,
-                "abv_high": 8.0,
+                "value_low": 5.0,
+                "value_high": 8.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -2666,8 +2671,8 @@
                 "bitterness_range": [
                     "very low"
                 ],
-                "ibu_low": 0.0,
-                "ibu_high": 10.0
+                "value_low": 0.0,
+                "value_high": 10.0
             },
             "flavors": {
                 "malt": [
@@ -2722,7 +2727,8 @@
             "categories": [
                 "German Lagers",
                 "Pale Lagers",
-                "Lagers"
+                "Lagers",
+                "Pale German LAgers"
             ],
             "malt": [
                 "Pilsner",
@@ -2744,15 +2750,15 @@
                     "gold",
                     "light amber"
                 ],
-                "srm_low": 6.0,
-                "srm_high": 9.0
+                "value_low": 6.0,
+                "value_high": 9.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated"
                 ],
-                "abv_low": 6.3,
-                "abv_high": 7.4,
+                "value_low": 6.3,
+                "value_high": 7.4,
                 "notes": []
             },
             "mouthfeel": {
@@ -2764,8 +2770,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 35.0
+                "value_low": 25.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -2823,16 +2829,16 @@
                     "dark brown",
                     "black"
                 ],
-                "srm_low": 30.0,
-                "srm_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "high",
                     "very high"
                 ],
-                "abv_low": 8.0,
-                "abv_high": 12.0,
+                "value_low": 8.0,
+                "value_high": 12.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -2845,8 +2851,8 @@
                     "pronounced",
                     "assertive"
                 ],
-                "ibu_low": 50.0,
-                "ibu_high": 90.0
+                "value_low": 50.0,
+                "value_high": 90.0
             },
             "flavors": {
                 "malt": [
@@ -2924,16 +2930,16 @@
                     "dark brown",
                     "black"
                 ],
-                "srm_low": 30.0,
-                "srm_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.0,
-                "abv_high": 6.5,
+                "value_low": 5.0,
+                "value_high": 6.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -2945,8 +2951,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 35.0,
-                "ibu_high": 50.0
+                "value_low": 35.0,
+                "value_high": 50.0
             },
             "flavors": {
                 "malt": [
@@ -2997,16 +3003,16 @@
                     "light amber",
                     "amber"
                 ],
-                "srm_low": 9.0,
-                "srm_high": 14.0
+                "value_low": 9.0,
+                "value_high": 14.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 3.8,
-                "abv_high": 5.0,
+                "value_low": 3.8,
+                "value_high": 5.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -3018,8 +3024,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 28.0
+                "value_low": 18.0,
+                "value_high": 28.0
             },
             "flavors": {
                 "malt": [
@@ -3078,15 +3084,15 @@
                     "brown",
                     "black"
                 ],
-                "srm_low": 25.0,
-                "srm_high": 40.0
+                "value_low": 25.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.8,
-                "abv_high": 5.0,
+                "value_low": 3.8,
+                "value_high": 5.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -3098,8 +3104,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 40.0
+                "value_low": 25.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -3156,15 +3162,15 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 3.5,
-                "srm_high": 5.0
+                "value_low": 3.5,
+                "value_high": 5.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.4,
-                "abv_high": 5.2,
+                "value_low": 4.4,
+                "value_high": 5.2,
                 "notes": []
             },
             "mouthfeel": {
@@ -3176,8 +3182,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 30.0
+                "value_low": 18.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -3244,16 +3250,16 @@
                     "straw",
                     "gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 6.0
+                "value_low": 3.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.0,
-                "abv_high": 6.5,
+                "value_low": 5.0,
+                "value_high": 6.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -3265,8 +3271,8 @@
                 "bitterness_range": [
                     "very low"
                 ],
-                "ibu_low": 0.0,
-                "ibu_high": 10.0
+                "value_low": 0.0,
+                "value_high": 10.0
             },
             "flavors": {
                 "malt": [
@@ -3326,15 +3332,15 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 6.0
+                "value_low": 3.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.5,
-                "abv_high": 4.7,
+                "value_low": 3.5,
+                "value_high": 4.7,
                 "notes": []
             },
             "mouthfeel": {
@@ -3346,8 +3352,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 5.0,
-                "ibu_high": 12.0
+                "value_low": 5.0,
+                "value_high": 12.0
             },
             "flavors": {
                 "malt": [
@@ -3384,7 +3390,8 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Historical March Beers"
+                "Historical March Beers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Munich malt base"
@@ -3405,16 +3412,16 @@
                     "gold",
                     "dark amber"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 17.0
+                "value_low": 8.0,
+                "value_high": 17.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 5.6,
-                "abv_high": 6.3,
+                "value_low": 5.6,
+                "value_high": 6.3,
                 "notes": []
             },
             "mouthfeel": {
@@ -3426,8 +3433,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 24.0
+                "value_low": 18.0,
+                "value_high": 24.0
             },
             "flavors": {
                 "malt": [
@@ -3468,7 +3475,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Munich malt"
@@ -3487,15 +3495,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 17.0,
-                "srm_high": 28.0
+                "value_low": 17.0,
+                "value_high": 28.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.5,
-                "abv_high": 5.6,
+                "value_low": 4.5,
+                "value_high": 5.6,
                 "notes": []
             },
             "mouthfeel": {
@@ -3507,8 +3515,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 28.0
+                "value_low": 18.0,
+                "value_high": 28.0
             },
             "flavors": {
                 "malt": [
@@ -3551,7 +3559,8 @@
             "categories": [
                 "German Lagers",
                 "Pale Lagers",
-                "Lagers"
+                "Lagers",
+                "Pale German Lagers"
             ],
             "malt": [
                 "Pilsner malt"
@@ -3572,15 +3581,15 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 5.0
+                "value_low": 3.0,
+                "value_high": 5.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.7,
-                "abv_high": 5.4,
+                "value_low": 4.7,
+                "value_high": 5.4,
                 "notes": []
             },
             "mouthfeel": {
@@ -3592,8 +3601,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 16.0,
-                "ibu_high": 22.0
+                "value_low": 16.0,
+                "value_high": 22.0
             },
             "flavors": {
                 "malt": [
@@ -3661,16 +3670,16 @@
                     "brown",
                     "black"
                 ],
-                "srm_low": 22.0,
-                "srm_high": 40.0
+                "value_low": 22.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.2,
-                "abv_high": 5.9,
+                "value_low": 4.2,
+                "value_high": 5.9,
                 "notes": []
             },
             "mouthfeel": {
@@ -3682,8 +3691,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 40.0
+                "value_low": 25.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -3740,16 +3749,16 @@
                     "light amber",
                     "brown"
                 ],
-                "srm_low": 10.0,
-                "srm_high": 22.0
+                "value_low": 10.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "high"
                 ],
-                "abv_low": 5.5,
-                "abv_high": 9.0,
+                "value_low": 5.5,
+                "value_high": 9.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -3761,8 +3770,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 30.0,
-                "ibu_high": 60.0
+                "value_low": 30.0,
+                "value_high": 60.0
             },
             "flavors": {
                 "malt": [
@@ -3833,15 +3842,15 @@
                     "gold",
                     "amber"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 14.0
+                "value_low": 8.0,
+                "value_high": 14.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.2,
-                "abv_high": 3.8,
+                "value_low": 3.2,
+                "value_high": 3.8,
                 "notes": []
             },
             "mouthfeel": {
@@ -3853,8 +3862,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 35.0
+                "value_low": 25.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -3928,15 +3937,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 17.0,
-                "srm_high": 22.0
+                "value_low": 17.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower to high"
                 ],
-                "abv_low": 4.0,
-                "abv_high": 8.0,
+                "value_low": 4.0,
+                "value_high": 8.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -3948,8 +3957,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 35.0
+                "value_low": 20.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -4002,7 +4011,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "rauch malt",
@@ -4021,15 +4031,15 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 12.0,
-                "srm_high": 22.0
+                "value_low": 12.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.8,
-                "abv_high": 6.0,
+                "value_low": 4.8,
+                "value_high": 6.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4041,8 +4051,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 30.0
+                "value_low": 20.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -4094,15 +4104,15 @@
                     "amber",
                     "dark red"
                 ],
-                "srm_low": 13.0,
-                "srm_high": 23.0
+                "value_low": 13.0,
+                "value_high": 23.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.8,
-                "abv_high": 5.6,
+                "value_low": 4.8,
+                "value_high": 5.6,
                 "notes": []
             },
             "mouthfeel": {
@@ -4116,8 +4126,8 @@
                     "medium",
                     "low"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 28.0
+                "value_low": 20.0,
+                "value_high": 28.0
             },
             "flavors": {
                 "malt": [
@@ -4164,16 +4174,16 @@
                     "yellow",
                     "dark brown"
                 ],
-                "srm_low": 4.0,
-                "srm_high": 22.0
+                "value_low": 4.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 7.0,
-                "abv_high": 11.0,
+                "value_low": 7.0,
+                "value_high": 11.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4185,8 +4195,8 @@
                 "bitterness_range": [
                     "very low"
                 ],
-                "ibu_low": 0.0,
-                "ibu_high": 15.0
+                "value_low": 0.0,
+                "value_high": 15.0
             },
             "flavors": {
                 "malt": [
@@ -4249,16 +4259,16 @@
                     "light gold",
                     "brown"
                 ],
-                "srm_low": 5.0,
-                "srm_high": 22.0
+                "value_low": 5.0,
+                "value_high": 22.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "low",
                     "high"
                 ],
-                "abv_low": 3.5,
-                "abv_high": 9.0,
+                "value_low": 3.5,
+                "value_high": 9.0,
                 "notes": [
                     "Table - low-normal (3.5-5% ABV)",
                     "Standard - normal - elevated (5-7% ABV)",
@@ -4274,8 +4284,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 35.0
+                "value_low": 20.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -4326,7 +4336,8 @@
             "categories": [
                 "German Lagers",
                 "Lagers",
-                "Dark Lagers"
+                "Dark Lagers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Munich malt",
@@ -4347,15 +4358,15 @@
                     "dark amber",
                     "dark brown"
                 ],
-                "srm_low": 19.0,
-                "srm_high": 30.0
+                "value_low": 19.0,
+                "value_high": 30.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.4,
-                "abv_high": 5.4,
+                "value_low": 4.4,
+                "value_high": 5.4,
                 "notes": []
             },
             "mouthfeel": {
@@ -4367,8 +4378,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 35.0
+                "value_low": 20.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -4430,15 +4441,15 @@
                     "amber",
                     "light brown"
                 ],
-                "srm_low": 12.0,
-                "srm_high": 20.0
+                "value_low": 12.0,
+                "value_high": 20.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.9,
-                "abv_high": 6.0,
+                "value_low": 3.9,
+                "value_high": 6.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4450,8 +4461,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 15.0,
-                "ibu_high": 35.0
+                "value_low": 15.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -4503,15 +4514,15 @@
                     "amber",
                     "light brown"
                 ],
-                "srm_low": 12.0,
-                "srm_high": 20.0
+                "value_low": 12.0,
+                "value_high": 20.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 3.3,
-                "abv_high": 3.9,
+                "value_low": 3.3,
+                "value_high": 3.9,
                 "notes": []
             },
             "mouthfeel": {
@@ -4523,8 +4534,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 10.0,
-                "ibu_high": 20.0
+                "value_low": 10.0,
+                "value_high": 20.0
             },
             "flavors": {
                 "malt": [
@@ -4576,15 +4587,15 @@
                     "dark amber",
                     "brown"
                 ],
-                "srm_low": 17.0,
-                "srm_high": 25.0
+                "value_low": 17.0,
+                "value_high": 25.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower"
                 ],
-                "abv_low": 2.5,
-                "abv_high": 3.3,
+                "value_low": 2.5,
+                "value_high": 3.3,
                 "notes": []
             },
             "mouthfeel": {
@@ -4596,8 +4607,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 10.0,
-                "ibu_high": 20.0
+                "value_low": 10.0,
+                "value_high": 20.0
             },
             "flavors": {
                 "malt": [
@@ -4653,16 +4664,16 @@
                     "gold",
                     "dark amber"
                 ],
-                "srm_low": 8.0,
-                "srm_high": 18.0
+                "value_low": 8.0,
+                "value_high": 18.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "elevated"
                 ],
-                "abv_low": 4.6,
-                "abv_high": 6.2,
+                "value_low": 4.6,
+                "value_high": 6.2,
                 "notes": []
             },
             "mouthfeel": {
@@ -4674,8 +4685,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 30.0,
-                "ibu_high": 50.0
+                "value_low": 30.0,
+                "value_high": 50.0
             },
             "flavors": {
                 "malt": [
@@ -4734,16 +4745,16 @@
                     "dark brown",
                     "black"
                 ],
-                "srm_low": 30.0,
-                "srm_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "lower",
                     "normal"
                 ],
-                "abv_low": 4.0,
-                "abv_high": 6.0,
+                "value_low": 4.0,
+                "value_high": 6.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4755,8 +4766,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 20.0,
-                "ibu_high": 40.0
+                "value_low": 20.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -4823,15 +4834,15 @@
                     "straw",
                     "light gold"
                 ],
-                "srm_low": 3.0,
-                "srm_high": 5.0
+                "value_low": 3.0,
+                "value_high": 5.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.8,
-                "abv_high": 6.0,
+                "value_low": 4.8,
+                "value_high": 6.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4843,8 +4854,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 25.0,
-                "ibu_high": 45.0
+                "value_low": 25.0,
+                "value_high": 45.0
             },
             "flavors": {
                 "malt": [
@@ -4913,16 +4924,16 @@
                     "dark brown",
                     "black"
                 ],
-                "srm_low": 30.0,
-                "srm_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal",
                     "high"
                 ],
-                "abv_low": 5.5,
-                "abv_high": 8.0,
+                "value_low": 5.5,
+                "value_high": 8.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -4934,8 +4945,8 @@
                 "bitterness_range": [
                     "pronounced"
                 ],
-                "ibu_low": 30.0,
-                "ibu_high": 40.0
+                "value_low": 30.0,
+                "value_high": 40.0
             },
             "flavors": {
                 "malt": [
@@ -4968,7 +4979,8 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Historical March Beers"
+                "Historical March Beers",
+                "Dark German Lagers"
             ],
             "malt": [
                 "Vienna malt"
@@ -4986,15 +4998,15 @@
                     "light amber",
                     "amber"
                 ],
-                "srm_low": 9.0,
-                "srm_high": 15.0
+                "value_low": 9.0,
+                "value_high": 15.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.7,
-                "abv_high": 5.5,
+                "value_low": 4.7,
+                "value_high": 5.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -5006,8 +5018,8 @@
                 "bitterness_range": [
                     "moderate"
                 ],
-                "ibu_low": 18.0,
-                "ibu_high": 30.0
+                "value_low": 18.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -5039,7 +5051,8 @@
             "region": "Scotland",
             "categories": [
                 "British and Irish Ales",
-                "Scottish Ales"
+                "Scottish Ales",
+                "British Strong Ales"
             ],
             "malt": [
                 "Pale ale malt",
@@ -5064,16 +5077,16 @@
                     "amber",
                     "brown"
                 ],
-                "srm_low": 14.0,
-                "srm_high": 25.0
+                "value_low": 14.0,
+                "value_high": 25.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 6.5,
-                "abv_high": 10.0,
+                "value_low": 6.5,
+                "value_high": 10.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -5085,8 +5098,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 17.0,
-                "ibu_high": 35.0
+                "value_low": 17.0,
+                "value_high": 35.0
             },
             "flavors": {
                 "malt": [
@@ -5140,15 +5153,15 @@
                     "straw",
                     "gold"
                 ],
-                "srm_low": 2.0,
-                "srm_high": 6.0
+                "value_low": 2.0,
+                "value_high": 6.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.3,
-                "abv_high": 5.6,
+                "value_low": 4.3,
+                "value_high": 5.6,
                 "notes": []
             },
             "mouthfeel": {
@@ -5160,8 +5173,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 8.0,
-                "ibu_high": 15.0
+                "value_low": 8.0,
+                "value_high": 15.0
             },
             "flavors": {
                 "malt": [
@@ -5246,16 +5259,16 @@
                     "gold",
                     "brown"
                 ],
-                "srm_low": 6.0,
-                "srm_high": 25.0
+                "value_low": 6.0,
+                "value_high": 25.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "elevated",
                     "high"
                 ],
-                "abv_low": 6.5,
-                "abv_high": 9.0,
+                "value_low": 6.5,
+                "value_high": 9.0,
                 "notes": []
             },
             "mouthfeel": {
@@ -5267,8 +5280,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 15.0,
-                "ibu_high": 30.0
+                "value_low": 15.0,
+                "value_high": 30.0
             },
             "flavors": {
                 "malt": [
@@ -5325,15 +5338,15 @@
                 "color_range": [
                     "straw to light gold"
                 ],
-                "srm_low": 2.0,
-                "srm_high": 4.0
+                "value_low": 2.0,
+                "value_high": 4.0
             },
             "alcohol": {
                 "alcohol_range": [
                     "normal"
                 ],
-                "abv_low": 4.5,
-                "abv_high": 5.5,
+                "value_low": 4.5,
+                "value_high": 5.5,
                 "notes": []
             },
             "mouthfeel": {
@@ -5345,8 +5358,8 @@
                 "bitterness_range": [
                     "low"
                 ],
-                "ibu_low": 8.0,
-                "ibu_high": 20.0
+                "value_low": 8.0,
+                "value_high": 20.0
             },
             "flavors": {
                 "malt": [

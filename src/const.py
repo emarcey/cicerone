@@ -1,8 +1,9 @@
 import re
 
-STYLE_PATH = "/Users/evanmarcey/notes/cicerone/glossary/styles.md"
-OUT_STYLE_PATH = "/Users/evanmarcey/notes/cicerone/glossary/styles_formatted.md"
-JSON_STYLE_PATH = "/Users/evanmarcey/notes/cicerone/src/style_json.json"
+STYLE_PATH = "./glossary/styles.md"
+OUT_STYLE_PATH = "./glossary/styles_formatted.md"
+JSON_STYLE_PATH = "./src/style_json.json"
+OUT_CHARTS_PATH = "./references/charts"
 
 HEADER_REGEX = re.compile(r"#\s*(\w[\w\s]+)\n?")
 FIRST_LINE_REGEX = re.compile(r"[\*-] \*\*(.+)(?:\*\*:|:\*\*)(.*)\n?")
@@ -33,6 +34,19 @@ GLOSSARY_FILE_NAMES = [
     TERMS_FILE_NAME__PEOPLE,
     TERMS_FILE_NAME__PLACES,
     TERMS_FILE_NAME__SERVING,
+]
+
+CHART_CATEGORIES = [
+    "British Dark Ales",
+    "British Strong Ales",
+    "Dark German Lagers",
+    "English Pale Ales",
+    "Flanders Ales and Lambic Beers",
+    "French and Belgian Beers",
+    "German Hybrid Ales",
+    "German Wheat Ales",
+    "Pale German Lagers",
+    "Secular and Trappist Strong Ales",
 ]
 
 RESULT_DIR = "./evaluate_results/evaluate_value"

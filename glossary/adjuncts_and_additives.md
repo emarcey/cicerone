@@ -66,6 +66,36 @@
 	* Structure: wrapped in a husk
 	* Color: light brown
 	* Flavor: bitter. Like coriander...
+
+# Corn
+* Stage: Mash
+* Type: Grain
+* Notes:
+	* along with rice, it is a solution from German immigrants to problems of high-protein 6-row barley
+	* used in kernel form
+	* due to high gelatinization temp, requires a [[glossary/brewing/terms.clean#Cereal Mash|Cereal Mash]]
+	* smaller breweries might use syrup form
+	* can be used as source of starch and sugar
+	* used in form of: grits, flour, torrified, flaked, syrup
+		* grits: dry-milling process that removes outer layers and oil-rich germ, resulting in very fine endosperm
+			* requires cereal mash
+		* flour: requires cereal mash
+		* corn starch: is from wet milling
+			* require cereal mash
+		* syrup: converted from corn starch via acid or hydrolysis
+			* no amino acids -> limit to use if nitrogen deficiency in fermentation is to be avoided
+		* torrified/flaked: heated to 500°F leading to popping -> gelatinization of starch
+			* then rolled to produce flakes
+			* do not need separate cooking to be added to mash
+	* up to 20% of grist in American mass market beers
+		* especially in grits form
+			* 
+* Textures:  lightens body
+* Appearance: little color, so beer tends paler
+* Aromas: 
+* Flavors: little to none
+* Uses:
+	* US: lagers
 # Dried Orange Peel
 * Stage: Kettle
 * Type: Spice
@@ -195,6 +225,28 @@
 		* Modern Belgian styles: ~5% of grist
 	*  British and Irish:
 		* Oatmeal Stout: 5-10% of grist, as flaked oats
+
+# Rice
+* Stage: Mash
+* Type: Grain
+* Notes:
+	* along with corn, it is a solution from German immigrants to problems of high-protein 6-row barley
+	* used in kernel form
+	* due to high gelatinization temp, requires a [[glossary/brewing/terms.clean#Cereal Mash|Cereal Mash]]
+	* largely disliked by craft brewers
+		* lowers body, flavor, and color
+		* although some are experimenting with "pre-Prohibition" lagers
+			* up to 20% rice
+			* highly hopped
+		* some are using specialized rice that adds flavor
+	* using >= 30% rice in a mash can lead to problematically low enzymatic activity and high mash bed density
+	* high levels can also lead to problems with yeast nutrition because adjuncts lack necessary proteins and vitamins
+* Textures: lighter body
+* Appearance: little color, so beer tends paler
+* Aromas: 
+* Flavors: little to none
+* Uses:
+	* US: lagers
 # Sugar
 * Stage: Kettle
 * Type: Sugar
@@ -212,6 +264,9 @@
 	* British and Irish:
 		* Ordinary Bitter, Dark Mild
 		* Scottish ales
+	* US:
+		* some beers, hasn't been specific
+		* often via corn sugar, table sugar, honey, agave, molasses
 # Unmalted Wheat
 * Stage: Mash
 * Type: Grain

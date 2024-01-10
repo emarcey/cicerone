@@ -1,18 +1,27 @@
 import click
 from collections import OrderedDict, defaultdict
+import colorcet as cc
 import json
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+import numpy as np
+import os
 from rich import print
+import seaborn as sns
 from typing import Dict, List, Tuple
-from src.analyze import analyze_historical_results
 
+
+from src.analyze import analyze_historical_results
 from src.const import (
     BULLET_REGEX,
+    CHART_CATEGORIES,
     FIRST_LINE_REGEX,
     GLOSSARY_FILE_NAMES,
     GLOSSARY_LINE_REGEX,
     HEADER_REGEX,
     JSON_STYLE_PATH,
     NON_BULLET_REGEX,
+    OUT_CHARTS_PATH,
     OUT_STYLE_PATH,
     RESULT_DIR,
     STYLE_PATH,
@@ -159,12 +168,59 @@ def gen_glossary(glossary_file_names: List[str]) -> None:
             f.write(glossary_str)
 
 
+def make_chart(target_dir: str, chart_groups: List[BeerStyle], style_cat: str, metric_cat: str) -> None:
+    vals = [
+        {
+            "label": style.name,
+            "xmin": getattr(style, metric_cat).value_low,
+            "xmax": getattr(style, metric_cat).value_high,
+        }
+        for style in chart_groups
+        if getattr(style, metric_cat)
+    ]
+    sorted_vals = sorted(vals, key=lambda x: (x["xmin"], x["xmax"], x["label"]))
+    palette = sns.color_palette(cc.glasbey, n_colors=25)
+    title = f"{style_cat}: {metric_cat.title()}"
+
+    min_x = min([x["xmin"] for x in sorted_vals])
+    max_x = max([x["xmax"] for x in sorted_vals])
+
+    for i in range(len(sorted_vals)):
+        val = sorted_vals[i]
+        y = i + 1
+        plt.hlines(y=y, xmin=val["xmin"], xmax=val["xmax"], colors=palette[i])
+        plt.text((val["xmin"] + val["xmax"]) / 2, y, val["label"], color=palette[i], ha="center", va="bottom")
+        plt.text(val["xmin"], y, val["xmin"], color="black", ha="right", va="top", size="smaller")
+        plt.text(val["xmax"], y, val["xmax"], color="black", va="top", size="smaller")
+
+    plt.yticks([])
+    plt.title(title)
+    plt.savefig(f"{target_dir}/{title}.png")
+    plt.cla()
+
+
+def gen_charts(target_dir: str, styles: BeerStyleMap) -> None:
+    output_directory = f"{target_dir}"
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+    all_chart_groups = defaultdict(list)
+    for cat in CHART_CATEGORIES:
+        for k, v in styles.styles.items():
+            if cat in v.categories:
+                all_chart_groups[cat].append(v)
+
+    for style_cat, chart_groups in all_chart_groups.items():
+        for metric_cat in ["alcohol", "color", "bitterness"]:
+            make_chart(target_dir, chart_groups, style_cat, metric_cat)
+
+
 @click.command()
 @click.option("--file_mode", type=click.Choice(["gen", "test", "test-values", "analyze"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
-        gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
+        styles = gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
         gen_glossary(GLOSSARY_FILE_NAMES)
+        gen_charts(OUT_CHARTS_PATH, styles)
     elif file_mode == "test":
         evaluate(JSON_STYLE_PATH)
     elif file_mode == "test-values":

@@ -115,11 +115,11 @@ def validate_color_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dict[
         return None
     if isinstance(v, dict):
         return v
-    range, srm_low, srm_high = COLOR_PROFILE_REGEX.findall(v.value)[0]
+    range, value_low, value_high = COLOR_PROFILE_REGEX.findall(v.value)[0]
     return {
         "color_range": [x.strip() for x in range.split("-")],
-        "srm_low": float(srm_low),
-        "srm_high": float(srm_high),
+        "value_low": float(value_low),
+        "value_high": float(value_high),
     }
 
 
@@ -128,12 +128,12 @@ def validate_alcohol_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dic
         return None
     if isinstance(v, dict):
         return v
-    range, abv_low, abv_high = ALCOHOL_PROFILE_REGEX.findall(v.value)[0]
+    range, value_low, value_high = ALCOHOL_PROFILE_REGEX.findall(v.value)[0]
 
     return {
         "alcohol_range": [x.strip() for x in range.split("-")],
-        "abv_low": float(abv_low),
-        "abv_high": float(abv_high),
+        "value_low": float(value_low),
+        "value_high": float(value_high),
         "notes": v.to_list(include_value=False),
     }
 
@@ -143,9 +143,9 @@ def validate_bitterness_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[
         return None
     if isinstance(v, dict):
         return v
-    range, ibu_low, ibu_high = BITTERNESS_PROFILE_REGEX.findall(v.value)[0]
+    range, value_low, value_high = BITTERNESS_PROFILE_REGEX.findall(v.value)[0]
     return {
         "bitterness_range": [x.strip() for x in range.split("-")],
-        "ibu_low": float(ibu_low),
-        "ibu_high": float(ibu_high),
+        "value_low": float(value_low),
+        "value_high": float(value_high),
     }

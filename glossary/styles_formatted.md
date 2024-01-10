@@ -409,7 +409,7 @@ protected_category
 # Czech Premium Pale Lager
 
 - Region: Pilsen, Czechia
-- Categories: Czech Lagers, Lagers, Pale Lagers
+- Categories: Czech Lagers, Lagers, Pale German Lagers
 - Malt: Czech Pilsner malt
 - Hops: Czech hops
 - Other names: Bohemian Pilsner, Czech Pilsner, Pilsner
@@ -477,7 +477,7 @@ first_public_service
 # Doppelbock
 
 - Region: Munich, Bavaria, Germany
-- Categories: German Lagers, Dark Lagers, Lagers
+- Categories: German Lagers, Dark Lagers, Lagers, Dark German Lagers
 - Malt: Pilsner, Munich, Vienna
 - Hops: Noble
 - Other names: Salvator
@@ -509,7 +509,7 @@ first_public_service
 # Dunkles Bock
 
 - Region: Munich, Bavaria, Germany
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
 - Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
 - Hops: Noble
 - Other names: Weihnachstbock, Osterbock
@@ -568,7 +568,7 @@ success_due_in_part_to_system_of_quality_control
 # Eisbock
 
 - Region: Germany
-- Categories: German Lagers, Dark Lagers, Lagers
+- Categories: German Lagers, Dark Lagers, Lagers, Dark German Lagers
 - Malt: Pilsner, Munich, Vienna
 - Hops: Noble
 - Glassware: Becher, Pislner
@@ -760,7 +760,7 @@ big_names_to_know
 # Festbier
 
 - Region: Bavaria, Germany
-- Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers
+- Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers, Pale German Lagers
 - Malt: Pilsner malt base, some Vienna or Munich
 - Hops: Noble hops
 - Other names: Oktoberfest (only when brewed in Munich)
@@ -882,7 +882,7 @@ big_names_to_know
 # German Pils
 
 - Region: Northern Germany
-- Categories: German Lagers, Pale Lagers, Lagers
+- Categories: German Lagers, Pale Lagers, Lagers, Pale German Lagers
 - Malt: Pilsner malt
 - Hops: German hops
 - Glassware: Pilsner glass
@@ -970,7 +970,7 @@ big_names_to_know
 # Helles Bock
 
 - Region: Germany
-- Categories: German Lagers, Pale Lagers, Lagers
+- Categories: German Lagers, Pale Lagers, Lagers, Pale German LAgers
 - Malt: Pilsner, Vienna, Munich, occasionally crystal
 - Hops: German Noble
 - Other names: Maibock
@@ -1206,7 +1206,7 @@ two_groups
 # Munich Dunkel
 
 - Region: Munich, Germany
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
 - Malt: Munich malt
 - Hops: Noble hops
 - Glassware: Munich Stein, Masskrug, Ein Mass
@@ -1234,7 +1234,7 @@ two_groups
 # Munich Helles
 
 - Region: Munich, Bavaria, Germany
-- Categories: German Lagers, Pale Lagers, Lagers
+- Categories: German Lagers, Pale Lagers, Lagers, Pale German Lagers
 - Malt: Pilsner malt
 - Hops: German hops
 - Other names: Helles
@@ -1268,7 +1268,7 @@ two_groups
 # Märzen
 
 - Region: Germany
-- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
+- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, Dark German Lagers
 - Malt: Munich malt base
 - Hops: Noble hops
 - Other names: Märzenbier, March beer
@@ -1438,7 +1438,7 @@ two_groups
 # Rauchbier
 
 - Region: Bamberg, Bavaria, Germany
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
 - Malt: rauch malt, Munich malt
 - Hops: Noble
 - Glassware: Becher, Munich Stein
@@ -1550,7 +1550,7 @@ two_groups
 # Schwarzbier
 
 - Region: Germany
-- Categories: German Lagers, Lagers, Dark Lagers
+- Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
 - Malt: Munich malt, roasted malt
 - Hops: Noble
 - Other names: Black Lager
@@ -1745,7 +1745,7 @@ two_groups
 # Vienna Lager
 
 - Region: Vienna, Austria
-- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers
+- Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, Dark German Lagers
 - Malt: Vienna malt
 - Hops: Noble
 - Glassware: Munich Stein, Becher
@@ -1767,7 +1767,7 @@ two_groups
 # Wee Heavy
 
 - Region: Scotland
-- Categories: British and Irish Ales, Scottish Ales
+- Categories: British and Irish Ales, Scottish Ales, British Strong Ales
 - Malt: Pale ale malt, roasted barley
 - Hops: British
 - Other names: Strong Scotch Ale, 90-shilling, 120-shilling, 90/-, 120/-

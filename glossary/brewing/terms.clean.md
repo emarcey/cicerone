@@ -348,7 +348,7 @@
 -  device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
 
 # Dry Hopping
--  the process of adding hops to beer after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
+-  the process of adding hops to beer during or after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
 
 # Dry Milling
 -  most common milling process

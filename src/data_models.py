@@ -112,21 +112,21 @@ class FlavorProfile(BaseModel):
 
 class ColorProfile(BaseModel):
     color_range: List[str]
-    srm_low: float
-    srm_high: float
+    value_low: float
+    value_high: float
 
     def __str__(self) -> str:
-        return f"{' - '.join(self.color_range)} ({self.srm_low} - {self.srm_high} SRM)"
+        return f"{' - '.join(self.color_range)} ({self.value_low} - {self.value_high} SRM)"
 
 
 class AlcoholProfile(BaseModel):
     alcohol_range: List[str]
-    abv_low: float
-    abv_high: float
+    value_low: float
+    value_high: float
     notes: List[str] = Field(default_factory=lambda: [])
 
     def __str__(self) -> str:
-        vals = [f"{' - '.join(self.alcohol_range)} ({self.abv_low} - {self.abv_high}% ABV)"]
+        vals = [f"{' - '.join(self.alcohol_range)} ({self.value_low} - {self.value_high}% ABV)"]
         for note in self.notes:
             vals.append(f"\t- {note}")
         return "\n".join(vals)
@@ -134,11 +134,11 @@ class AlcoholProfile(BaseModel):
 
 class BitternessProfile(BaseModel):
     bitterness_range: List[str]
-    ibu_low: float
-    ibu_high: float
+    value_low: float
+    value_high: float
 
     def __str__(self) -> str:
-        return f"{' - '.join(self.bitterness_range)} ({self.ibu_low} - {self.ibu_high} IBU)"
+        return f"{' - '.join(self.bitterness_range)} ({self.value_low} - {self.value_high} IBU)"
 
 
 class BeerStyle(BaseModel):
@@ -237,19 +237,8 @@ class BeerStyle(BaseModel):
         console.print(self.name, style="bold")
         console.print("*" * 20)
 
-        value_lower = -1
-        value_upper = -1
-        if value == "alcohol":
-            value_lower = self.alcohol.abv_low
-            value_upper = self.alcohol.abv_high
-        elif value == "bitterness":
-            value_lower = self.bitterness.ibu_low
-            value_upper = self.bitterness.ibu_high
-        elif value == "color":
-            value_lower = self.color.srm_low
-            value_upper = self.color.srm_high
-        else:
-            raise ValueError(f"Unexpected evaluate value: {value}")
+        value_lower = getattr(self, value).value_low
+        value_upper = getattr(self, value).value_high
 
         guess_lower = None
         guess_upper = None

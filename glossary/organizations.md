@@ -54,6 +54,7 @@
 * **Hoge Raad voor Ambachtelijke Lambikbieren:** High Commission of Traditionally-Made Lambic Biers (HORAL)
 	* organization that protects authentic lambics with "Oude" designation
 	* all lambic producers/blenders are members except for Belle-Vue (owned by ABInBev) and Cantillon (HORAL isn't traditional enough)
+* **Hop Breeding Company LLC (HBC)** an hop-breeding organization responsible for, among others, the Citra hop
 * **International Trappist Association:** organization charged with certifying Trappist breweries.
 	* composed of Trappist monks
 	* gained legal authority of "Trappist" term in 20th century

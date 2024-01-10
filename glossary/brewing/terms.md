@@ -272,7 +272,7 @@
 	* taken to boiling, then added to main mash at relatively low temp (113F/45C)
 	* leads to a rise in temperature to allow conversion of the starch from the malt
 * **Drum Roaster:** device invented by Daniel Wheeler in 1817 to roast pale malts at an elevated temperature without charring them. Led to black malt/black patent malt
-* **Dry Hopping:** the process of adding hops to beer after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
+* **Dry Hopping:** the process of adding hops to beer during or after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
 * **Dry Milling:** most common milling process
 	* relies on a roller mill with 2 - 6 rollers and vibrate screens to crush grist kernels into smaller particles, and to separate husks, grits, and flour for mashing and lautering
 	* in complex mills, grist might be passed through several times
