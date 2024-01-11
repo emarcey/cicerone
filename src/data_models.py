@@ -155,6 +155,7 @@ class BeerStyle(BaseModel):
     bitterness: Optional[BitternessProfile] = None
     flavors: FlavorProfile
     commercial_examples: List[str] = Field(default_factory=lambda: [])
+    pairings: List[str] = Field(default_factory=lambda: [])
     notes: List[str] = Field(default_factory=lambda: [])
 
     _validate_string_input = field_validator("region", mode="before")(validate_string_input)
@@ -165,6 +166,7 @@ class BeerStyle(BaseModel):
         "commercial_examples",
         "hops",
         "malt",
+        "pairings",
         mode="before",
     )(validate_optional_string_to_list)
 

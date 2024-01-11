@@ -4,6 +4,7 @@
 - Categories: German Ales, German Hybrid Ales
 - Malt: Munich, Vienna, Farb (black), Cara
 - Hops: Spalt, other German Noble hops
+- Other names: Düsseldorf Altbier
 - Glassware: similar glass to a stange but shorter and wider
 - Color: light amber - dark amber (9.0 - 17.0 SRM)
 - Alcohol: normal (4.3 - 5.5% ABV)
@@ -17,6 +18,7 @@
 	- fermentation: light fruity esters (especially dark fruit)
 	- hop: assertive bitterness; low-medium Noble hop flavors
 - Commercial examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
+- Pairings: medium-intensity food, such as roast pork, smoked sausage, salmon
 - Notes: 
 refers_to_old_style_of_brewing
 	- ale brewing
@@ -59,6 +61,7 @@ refers_to_old_style_of_brewing
 	- fermentation: clean
 	- hop: low to medium spicy
 - Commercial examples: Sinebrychoff Porter, Okocim Porter, Żywiec Porter, Baltika 6 Porter, Southampton Imperial Porter, Devil's Backbone Danzig
+- Pairings: roasted and smoked food; barbecue, prime rib, chocolate cake
 - Notes: 
 	- after popularity declined in England in mid 1800s, new life found in Baltic countries
 		- Henry Thrale's Anchor Brewery in London shipped a strong version to the Baltics for Catherine the great
@@ -89,6 +92,7 @@ refers_to_old_style_of_brewing
 	- fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
 	- hop: low perfumy, floral, spicy aromas
 - Commercial examples: Leffe Blond, Affligem Blond, Grimbergen Blond, La Trappe Blond, Maredsous 6 Blond, St. Feuillien Blond, Val-Dieu Blond, pFriem Belgian-Style Blonde Ale
+- Pairings: wide range, lighter cheese, mussels, seafood
 - Notes: 
 	- created to compete with European golden lagers after WWI
 
@@ -98,7 +102,7 @@ refers_to_old_style_of_brewing
 - Categories: Trappist Ales, Secular and Trappist Strong Ales
 - Malt: Pilsner, dark candy sugar
 - Hops: Noble, Goldings (East Kent, Styrian)
-- Other names: Quadrupel, Quad
+- Other names: Quadrupel, Quad, Belgian Strong Dark Ale
 - Glassware: tulip, goblet, chalice
 - Color: amber - brown (12.0 - 22.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
@@ -112,6 +116,7 @@ refers_to_old_style_of_brewing
 	- fermentation: banana, pear, pepper, clove
 	- hop: low, spicy, floral, rosy
 - Commercial examples: St. Bernardus Abt 12, Chimay Grand Réserve, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
+- Pairings: very heart food; strong cheese; chocolate
 - Notes: 
 first_brewed_in_1948_by_chimay
 	- Grande Réserve
@@ -140,6 +145,7 @@ first_brewed_in_1948_by_chimay
 	- fermentation: classic Belgian yeast - banana, pear, spicy, peppery, clove
 	- hop: low, spicy, floral, rosy
 - Commercial examples: Westmalle Dubbel, Chimay Première, Affligem Dubbel, Corsendonk Pater, La Trappe Dubbel, Grimbergen Dubbel, Ommegang Abbey Ale, St. Bernardus Pater 6, Trappistes Rochefort 6, Westvleteren 8, Achel 8 Bruin
+- Pairings: wide range of hearty food; barbecued ribs, abbey cheese, tiramisu, chocolate cake, medium-intensity desserts
 - Notes: 
 	- amber/brown ales produced for 100s of years as table beers
 	- emerged in 1920s in face of imported beer
@@ -156,6 +162,7 @@ first_brewed_in_1948_by_chimay
 - Categories: Secular and Trappist Strong Ales
 - Malt: Pilsner, lots of light brewing sugar (20-25%)
 - Hops: Saaz, Goldings
+- Other names: Belgian Strong Golden Ale
 - Glassware: tulip, goblet, chalice
 - Color: straw - gold (3.0 - 6.0 SRM)
 - Alcohol: high - very high (7.5 - 10.5% ABV)
@@ -169,6 +176,7 @@ first_brewed_in_1948_by_chimay
 	- fermentation: fruity (pear, apple, orange); peppery, spicy
 	- hop: floral, spicy, peppery, clean
 - Commercial examples: Duvel, Alken-Maes Judas, De Dolle Dulle Teve, Delirium Tremens, Het Anker Lucifer, North Coast PranQster, Russian River Damnation, Van Honsebrouck Brigand, Van Steenberge Piraat
+- Pairings: wide range, salmon, chicken, spicy cuisine (e.g. Thai)
 - Notes: 
 	- 1923 - Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale
 	- despite high ABV, found it very drinkable
@@ -197,6 +205,7 @@ first_brewed_in_1948_by_chimay
 	- fermentation: classic Belgian yeast, fruity, spicy - orange, pear, apricot, peppery, carefully managed fermentation temperature/conditions to keep yeast character restrained
 	- hop: spicy, herbal, floral, moderate bitterness, East Kent Goldings, Fuggles, Styrian Goldings, Saaz
 - Commercial examples: Bolleke de Koninck, Dobbel PALM, PALM Spéciale Belge, De Ryck Spécial
+- Pairings: wide range, cheese, mussels, chicken, spicy dishes
 - Notes: 
 	- inspired by English pale ale/Bitter
 		- much overlap with English pale ale
@@ -222,6 +231,7 @@ first_brewed_in_1948_by_chimay
 	- fermentation: orange, lemon, apricot, peach, pear, banana, pepper, clove, spice, rose
 	- hop: spicy, herbal, floral; pronounced bitterness
 - Commercial examples: Westmalle Tripel, Chimay Cinq Cents, Affligem Tripel, La Trappe Tripel, St. Bernardus Tripel, St. Feuillien Tripel, Tripel Karmeliet, Unibroue La Fin du Monde, Victory Golden Monkey, Allagash Triple, Brooklyn Local 1
+- Pairings: roast pork, rich seafood (e.g. lobster), creamy desserts (e.g. crème brûlée)
 - Notes: 
 	- emerged in 1930s in response to import popularity and Vandervelde act in 1919
 	- Dubbels were successful but lacked the bright golden color and clarity of popular lagers
@@ -259,6 +269,7 @@ first_brewed_in_1948_by_chimay
 	- fermentation: tart, lactic acidity; may have some Brettanomyces profile
 	- hop: none
 - Commercial examples: Bayerischer Bahnhof Berliner Style Weisse, Professor Fritz Briem 1809 Berliner Weisse, Urban Chestnut Ku'damm
+- Pairings: lightest salads and seafood, mild cheese
 - Notes: 
 	- history
 		- developed in Berlin from 17th-20th century
@@ -308,6 +319,7 @@ protected_category
 	- fermentation: moderate-low - moderate-high fruity esters
 	- hop: medium - moderate-high bitterness; low - moderate hop flavor; earthy, resiny, floral, fruity
 - Commercial examples: Fuller's London Pride, Adnams Southwold Bitter, Timothy Taylor Landlord
+- Pairings: wide rang of food; roast chicken or pork; classic with curry
 
 # Bière de Garde
 
@@ -328,6 +340,7 @@ protected_category
 	- fermentation: low fruity esters
 	- hop: mild hop (anise, floral, herbal)
 - Commercial examples: Duyck Jenlain (blonde, amber), Castelain Blond, Castelain CH'TI (blonde, amber, brown), La Choulette (blonde, amber), Saint-Germain Page 24 Reserve Hildegarde (blonde, amber), Saint-Germain Page 24 Brun, Saint-Sylvestre 3 Monts (blonde), Saint Sylvestre Gavroche (amber), Two Brothers Domain DuPage (amber)
+- Pairings: hearty, rich food; steak, roast pork, beef stew; simple desserts
 - Notes: 
 	- 3 color ranges
 	- may have brewing sugar added
@@ -364,6 +377,7 @@ protected_category
 - Categories: British Dark Ales, Brown Ales
 - Malt: Brown Malt originally, later by pale malts, crystal
 - Hops: British
+- Other names: English Brown Ale
 - Glassware: nonic, pub mug, tulip
 - Color: amber - brown (12.0 - 22.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.9% ABV)
@@ -377,6 +391,7 @@ protected_category
 	- fermentation: clean
 	- hop: malt-hop balance is even; moderate bitterness
 - Commercial examples: Samuel Smith's Nut Brown Ale, Black Sheep Riggwelter Yorkshire Ale, Maxim Double Maxim, Newcastle Brown Ale
+- Pairings: Roasted meats and a wide range of hearty foods
 - Notes: 
 	- classic example is Newcastle Brown, first brewed in 1927
 	- northern english is dry and a little stronger (5% ABV), southern is a little sweeter and weaker (usually around 4.2% ABV)
@@ -401,6 +416,7 @@ protected_category
 	- fermentation: low - moderate-low fruity esters
 	- hop: medium - medium-high bitterness; pronounced hop flavor; resiny, floral, herbal, earthy
 - Commercial examples: Hop Back Summer Lightning, Adnams Explorer, Golden Hill Exmoor Gold, Spitfire Golden Ale
+- Pairings: a wide range of food; chicken, spicy cuisine
 - Notes: 
 	- relatively new, originated in 1980s
 	- alternative to pale lagers
@@ -426,6 +442,7 @@ protected_category
 	- fermentation: plum or berry, low diacetyl optional
 	- hop: prominent bitterness; low-moderate spicy hop flavor
 - Commercial examples: Pilsner Urquell, Czechvar (Budvar), Staropramen, Oska Blues Mama's Little Yella Pils
+- Pairings: wide range of lighter food; chicken, salads, salmon, bratwurst
 - Notes: 
 	- 1840s, people in Pilsen wanted to build a brewery
 	- Decided to recruit Bavarian brewmaster Josef Felix Groll
@@ -461,6 +478,7 @@ first_public_service
 	- fermentation: clean
 	- hop: low bitterness
 - Commercial examples: Moorhouse Black Cat, Theakston Traditional Mild, Brain's Dark, Yards Brawler Pugilist Style Ale
+- Pairings: roasted meats and a wide range of hearty foods
 - Notes: 
 	- initially described fresh, unsoured porter
 	- workingman's beer in 20th century england
@@ -494,6 +512,7 @@ first_public_service
 	- fermentation: clean, but malt can provide a dark fruit character
 	- hop: low bitterness; minimal flavor and aroma
 - Commercial examples: Paulaner Salvator, Ayinger Celebrator, Spaten Optimator, Weihenstephaner Korbinian, Tröegs Troegenator Double Bock, Andechs Doppelbock Dunkel
+- Pairings: rich, roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese
 - Notes: 
 	- history
 		- 18th century, Paulist monks from Italy settled near Munich
@@ -526,6 +545,7 @@ first_public_service
 	- fermentation: clean, but malt can provide a dark fruit character
 	- hop: low bitterness, minimal hop flavor
 - Commercial examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
+- Pairings: rich or spicy food; washed-rind or high-fat bloomy-rind cheese
 - Notes: 
 	- inspired by a popular beer brewed in Einbeck (Saxony)
 		- first commercial bock was brewed here
@@ -562,6 +582,7 @@ success_due_in_part_to_system_of_quality_control
 	- fermentation: low - moderate banana and clove
 	- hop: low spicy, herbal, floral
 - Commercial examples: Weihenstephaner Hefeweissbier Dunkel, Franziskaner Hefe-Weisse Dunkel, Ayinger Ur-Weisse, Andechser Dunkles Weissbier, Hacker-Pschorr Dunkel Weisse, Paulaner Hefeweissbier Dunkel
+- Pairings: hearty food, such as roast pork, beef, smoked ham; big desserts; aged cheese
 - Notes: 
 	- dark wheat bear, using that german naming
 
@@ -584,6 +605,7 @@ success_due_in_part_to_system_of_quality_control
 	- fermentation: clean, but malt can provide dark fruit flavor
 	- hop: low bitterness; no hop flavor
 - Commercial examples: Kulmbacher Eisbock
+- Pairings: rich, roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese
 - Notes: 
 	- Eis = ice
 	- comes from a unique process where a Doppelbock is frozen
@@ -609,6 +631,7 @@ success_due_in_part_to_system_of_quality_control
 	- fermentation: dark fruit, some alcohol character
 	- hop: highly varied; earthy, herbal
 - Commercial examples: Fuller's Golden Pride, J.W. Lees Harvest Ale, Weyerbacher Blithering Idiot, Coniston No. 9, Robinson's Old Tom
+- Pairings: very intense food, but best with dessert; try with Stilton cheese
 - Notes: 
 	- less hoppy/bitter, more malt/fruit than American Barley Wine
 	- emerged from british farmhouse tradition, which used the parti-gyle
@@ -652,6 +675,7 @@ success_due_in_part_to_system_of_quality_control
 	- fermentation: fruity or mineral yeast character might be present
 	- hop: moderate-high earthy, floral, herbal
 - Commercial examples: Meantime London IPA, Brooklyn East IPA, Samuel Smith's India Ale, Fuller's Bengal Lancer
+- Pairings: strong, spicy food; bold, sweet desserts like carrot cake
 - Notes: 
 	- Less hop character and more malt flavor than American
 	- style
@@ -702,6 +726,7 @@ big_names_to_know
 	- fermentation: traditionally had lactic acid, acetobacter, brettanomyces, but no longer common; moderate-low diacetyl optional
 	- hop: earthy, floral British hops
 - Commercial examples: Fuller's London Porter, Samuel Smith's Taddy Porter, Harviestoun Old Engine Oil
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- largely influenced by available malt; pale malt limited prior to 1700
 	- most malts kilned using direct-fire methods, fueled by wood
@@ -777,6 +802,7 @@ big_names_to_know
 	- fermentation: clean
 	- hop: low - moderate bitterness; minimal hop flavor/aroma
 - Commercial examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
+- Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
 	- Bavarians used Märzen to celebrate wedding of Crown Prince Ludwig in 1810
 		- annual celebrations became increasingly elaborate and ultimately called Oktoberfest
@@ -803,6 +829,7 @@ big_names_to_know
 	- fermentation: tart, fruity, black cherry, plum, current
 	- hop: low earthy wild
 - Commercial examples: Rodenbach Classic, Rodenbach Grand Cru, Verhaeghe Duchesse de Bourgogne, Bockor Cuvée des Jacobins Rouge, Bruery Terreux Oude Tart, Monk's Café Flemish Sour Ale, New Belgium La Folie, Panil Barriquée, Verhaeghe Vichtenaar
+- Pairings: tangy cheese, rich meat, fried dishes, light fruit tart
 - Notes: 
 	- The Burgundy of Belgium
 	- first model was Rodenbach Flanders Red Ale
@@ -842,6 +869,7 @@ big_names_to_know
 	- fermentation: clean
 	- hop: assertive bitterness
 - Commercial examples: Guinness Foreign Extra Stout, Cooper's Best Extra Stout, Pike XXXXX Stout, The Kernel Export Stout
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- originally brewed for export, similar to an Irish Extra Stout
 
@@ -864,6 +892,7 @@ big_names_to_know
 	- fermentation: low-moderate sourness, fruit character; fruity esters; funky barnyard, hay-like, earthy, spicy wild yeast notes
 	- hop: none
 - Commercial examples: Boon Framboise/Kriek Mariage Parfait, Cantillon Fou' Foune, Cantillon Kriek, Cantillion Rosé de Gambrinus, De Cam Oude Kriek, 3 Fonteinen Oude Kriek, Girardin Kriek, Hanssens Oude Kriek, Oud Beersel Framboise, Oud Beersel Kriek, Oude Quetsche Tilquin à l'ancienne, Lindemans Framboise/Kriek
+- Pairings: excellent with desserts
 - Notes: 
 	- brewers blend lambic beer with fruit then age
 	- extended fermentation consumes sugars, leaving flavor/aroma
@@ -898,6 +927,7 @@ big_names_to_know
 	- fermentation: clean
 	- hop: medium-high bitterness, spicy, flowery, herbal
 - Commercial examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
+- Pairings: wide range of lighter food; salads, seafood, bratwurst
 - Notes: 
 	- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s
 	- 1970s, major divergence from Czech original
@@ -950,6 +980,7 @@ big_names_to_know
 	- fermentation: acidity with fruit (apple citrus, tropical, grape), hay/barnyard yeast
 	- hop: none
 - Commercial examples: Boon Oude Geuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
+- Pairings: difficult to pair, but nice with seafood and some cheeses
 - Notes: 
 	- production began in 19th century due in part to strong glass bottles that could handle high carbonation
 	- Faro, a historic beer, was the dominant style, most lambic beer is used to make Gueuze
@@ -987,6 +1018,7 @@ big_names_to_know
 	- fermentation: clean, low fruity esters optional
 	- hop: moderate bitterness; low spicy and floral hop notes
 - Commercial examples: Einbecker Mai-Ur-Bock, Capital Maibock, Ayinger Maibock, Gordon Biersch Blonde Bock, Hofbräu Maibock, Mahr's Heller Bock
+- Pairings: rich or spicy food (e.g. Thai); cheesecake, apple strudel
 - Notes: 
 	- spring seasonal (Maibock = May)
 	- same regulations as Dunkles Bock
@@ -1013,6 +1045,7 @@ not_too_similar_to_other_bocks
 	- fermentation: dark fruit esters, alcohol
 	- hop: wide range
 - Commercial examples: 2SP Brewing Co The Russian (English), Courage Imperial Russian Stout (English), Le Coq Imperial Extra Double Stout (English), Samuel Smith Imperial Stout (English), Thornbridge Saint Petersburg (English), Bell's Expedition Stout (American), Great Divide Yeti Imperial Stout (American), North Coast Old Rasputin (American), Oskar Blues Ten Fiddy (American), Sierra Nevada Narwhal (American)
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- originally brewed in late 18th century in London as "extra stout" for export to Baltics/Russia
 	- given to Russian Imperial court -> Russian Imperial Stout
@@ -1051,6 +1084,7 @@ not_too_similar_to_other_bocks
 	- fermentation: clean
 	- hop: pronounced bitterness
 - Commercial examples: Guinness Extra Stout, O'Hara's Leann Folláin, Porterhouse XXXX, Sheaf Stout
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- quite similar to an Irish stout, but with a higher ABV and more intense flavors
 
@@ -1073,6 +1107,7 @@ not_too_similar_to_other_bocks
 	- fermentation: low fruity esters
 	- hop: little to none
 - Commercial examples: Smithwick's Irish Red Ale, O'Hara's Irish Red Ale, Murphy's Irish Red, Great Lakes Conway's Irish Ale, Kilkenny Irish Beer, Porterhouse Nitro Red Ale, Franciscan Well Rebel Red
+- Pairings: wide range; salmon, roast pork, washed-rind cheese
 - Notes: 
 	- the name actually popularized by Coors in the early 90s with the Killian's Irish Red
 		- First brewed by Killian family's Lett's Brewery in County Wexford, Ireland as Enniscorthy Ruby Ale
@@ -1098,6 +1133,7 @@ not_too_similar_to_other_bocks
 	- fermentation: clean
 	- hop: pronounced bitterness
 - Commercial examples: Guinness Draught, Murphy's Irish Stout, O'Hara's Irish Stout, Beamish Irish Stout, Belhaven Black Scottish stout
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- Porter first brewed in Ireland in 1776, with brown malt; later made from pale/brown
 	- then in 1817, black malt introduced
@@ -1126,6 +1162,7 @@ not_too_similar_to_other_bocks
 	- fermentation: subtle fruity esters
 	- hop: moderate-pronounced bitterness; light Noble hop flavor
 - Commercial examples: Sunner Kölsch, Gaffel Kölsch, Reissdorf Kölsch, Goose Island Summertime
+- Pairings: lighter food, chicken, salad, salmon, bratwurst
 - Notes: 
 	- top-fermenting ale from Cologne (Köln), first brewed in the 1800s
 	- style is a protected category in Germany
@@ -1167,6 +1204,7 @@ who_is_allowed_to_produce
 	- fermentation: sour, apple, citrus, barnyard, hay, wild yeast; large variation, more complex character in older versions
 	- hop: virtually none
 - Commercial examples: Cantillon Grand Cru Bruocsella, Oude Lambiek De Cam
+- Pairings: lighter foods; cuts fat nicely
 - Notes: 
 	- difficult to find outside of Senne Valley
 		- in valley served as cheap easy-drinking everyday beer
@@ -1222,6 +1260,7 @@ two_groups
 	- fermentation: none
 	- hop: moderate bitterness, low hop flavor and aroma (spicy, herbal, floral if any)
 - Commercial examples: Hacker-Pschorr Münchner Dunkel, Hofbräu Dunkel, Gordon Biersch Dunkel, Capital Dark, Harpoon Dark, Ayinger Altbairisch Dunkel, Lakefront Eastside Dark, Adeschser Export Dunkel
+- Pairings: hearty, spicy food; barbecue, sausages, roast meat, bread pudding
 - Notes: 
 	- was the everyday beer in munich for centuries, now second to the Munich Helles
 		- still most popular in some regions, like Franconia
@@ -1237,7 +1276,7 @@ two_groups
 - Categories: German Lagers, Pale Lagers, Lagers, Pale German Lagers
 - Malt: Pilsner malt
 - Hops: German hops
-- Other names: Helles
+- Other names: Helles, Münchener Helles
 - Glassware: munich stein, ein mass, becher
 - Color: straw - light gold (3.0 - 5.0 SRM)
 - Alcohol: normal (4.7 - 5.4% ABV)
@@ -1251,6 +1290,7 @@ two_groups
 	- fermentation: clean
 	- hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
 - Commercial examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
+- Pairings: wide range of lighter food; salads, seafood; classic with Weisswurst
 - Notes: 
 	- like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager
 	- Munich's hard water prevented this until the mid-1890s
@@ -1285,6 +1325,7 @@ two_groups
 	- fermentation: clean
 	- hop: low - moderate bitterness; very low aroma/flavor
 - Commercial examples: Hacker Pschorr Oktoberfest-Märzen, Paulaner Oktoberfest-Märzen, Ayinger Oktoberfest-Märzen, Samuel Adams Oktoberfest, Victory Festbier
+- Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
 	- for hundreds of years, brewing was seasonal between October and March (by decree of Duke Albrecht V in 1553)
 		- later batches were brewed a bit stronger and named for March month of brewering
@@ -1316,6 +1357,7 @@ two_groups
 	- fermentation: clean
 	- hop: moderate bitterness
 - Commercial examples: Samuel Smith's Oatmeal Stout, St-Ambroise Oatmeal Stout, Anderson Valley Barney Flats Oatmeal Stout, New Holland The Poet, Summit Oatmeal Stout
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- subtype of sweet stout
 	- sweetness between Irish and Sweet Stout
@@ -1346,6 +1388,7 @@ two_groups
 	- fermentation: fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors
 	- hop: depends on aging
 - Commercial examples: Greene King Olde Suffolk Vintage Ale, Gale's Prize Old Ale, Founders Curmudgeon Old Ale, Fuller's Vintage Ale, Avery Old Jubilation Ale, Berlina Old Ale, Coniston Brewing Old Man Ale
+- Pairings: big, intense dishes, such as roast beef and lamb; stands up to rich desserts
 - Notes: 
 	- usually a blend of young and old (stock) ales
 	- few commercial examples
@@ -1379,6 +1422,7 @@ two_groups
 	- fermentation: moderate-low - moderate-high fruity esters
 	- hop: moderate - moderate-high bitterness; low - moderate hop flavor; resiny, herbal, floral, fruity
 - Commercial examples: Fuller's Chiswick Bitter, Greene King IPA, Tetley's Original Bitter, Bateman's XB, Brains Bitter, Brakspear Gravity
+- Pairings: wide rang of food; roast chicken or pork; classic with curry
 - Notes: 
 	- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)
 	- Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales
@@ -1416,6 +1460,7 @@ two_groups
 	- fermentation: sweet and sour, raisin, plum, fig, date, black cherry
 	- hop: none
 - Commercial examples: Liefmans Goudenband, Liefmans Oud Bruin, Ichtegem Oud Bruin, Petrus Oud Bruin, VanderGhinste Roodbruin
+- Pairings: tangy cheese, rich meat, fried dishes, light fruit tart
 - Notes: 
 	- Liefmans Goudenband is the prime example
 	- initial fermentation in stainless steel with Sacch and Lacto
@@ -1531,6 +1576,7 @@ two_groups
 	- fermentation: spicy, fruity phenolic characteristics
 	- hop: earthy, herbal
 - Commercial examples: Saison DuPont, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle, Transmitter Bière de Garde
+- Pairings: substantial salads, chicken, richer seafood dishes; very nice with bloomy-rind cheese; earthier version great with ripened goat cheese
 - Notes: 
 	- lots of variation
 3_major_characteristics
@@ -1567,6 +1613,7 @@ two_groups
 	- fermentation: none
 	- hop: low - moderate low; spicy, floral, herbal
 - Commercial examples: Köstritzer Schwarzbier, Samuel Adams Black Lager, Uinta Baba Black Lager, Sprecher Black Bavarian, Kulmbacher Mönchsof Schwarzbier, Devils Backbone Schwartzbier
+- Pairings: hearty, spicy food such as barbecue, sausages, roast meat; bread pudding
 - Notes: 
 	- relatively unknown in Western Germany until 1990 reunification
 		- led to decline in altbier
@@ -1592,6 +1639,7 @@ two_groups
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
 - Commercial examples: McEwan's 70
+- Pairings: lighter food; moderately intense cheeses, lighter preparations of salmon and pork
 
 # Scottish Heavy
 
@@ -1613,6 +1661,7 @@ two_groups
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
 - Commercial examples: McEwan's 70
+- Pairings: lighter food; simple cheeses, lighter preparations of salmon and chicken
 
 # Scottish Light
 
@@ -1634,6 +1683,7 @@ two_groups
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
 - Commercial examples: Belhaven Best, McEwan's 60
+- Pairings: lighter food; simple cheeses, lighter preparations of salmon and chicken
 
 # Strong Bitter
 
@@ -1655,6 +1705,7 @@ two_groups
 	- fermentation: moderate-low - high fruity esters
 	- hop: medium - medium high bitterness; noticeable hop flavor; floral, earthy, resiny, herbal
 - Commercial examples: Bass Pale Ale, Morland Old Speckled Hen, Shipyard Old Thumper, Adnams Broadside, Shepherd Neame Bishop's Finger, Robinsons Trooper
+- Pairings: wide rang of food; roast chicken or pork; classic with curry
 
 # Sweet Stout
 
@@ -1676,6 +1727,7 @@ two_groups
 	- fermentation: clean
 	- hop: low
 - Commercial examples: Mackeson's XXX Stout, Samuel Adams Cream Stout, Left Hand Milk Stout, Hitachino Nest Sweet Stout, Firestone Walker Nitro Merlin Milk Stout, Bristol Beer Factor Milk Stout, Mast Land Brewing Gunner's Daughter
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- significants hops, low bitterness and high residual gravity to give impression of sweetness
 	- some brewers add unfermentable lactose to ensure sweetness, then called a "Milk Stout"
@@ -1738,6 +1790,7 @@ two_groups
 	- fermentation: clean
 	- hop: pronounced bitterness
 - Commercial examples: Lion Stout, Dragon Stout, Jamaica Stout, ABC Extra Stout, Royal Extra Stout
+- Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
 	- Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance
 	- Softer roast character compared to Foreign Extra
@@ -1761,6 +1814,7 @@ two_groups
 	- fermentation: clean
 	- hop: low floral/spicy
 - Commercial examples: Devils Backbone Vienna Lager, Figueroa Mountain Danish Red Lager, Schell's Firebrick, Heavy Seas Cutlass, Ottakringer Wiener Original, Theresianer Vienna
+- Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
 	- Vienna malt is a bit lighter than Munich malt, so lighter in color than Märzens and Munich Dunkels
 
@@ -1784,6 +1838,7 @@ two_groups
 	- fermentation: some fruit esters with dark fruit; hint of alcohol
 	- hop: low bitterness, low aroma
 - Commercial examples: Orkney Skull Splitter, Traquair House Ale, Founders Dirty Bastard, Belhaven Wee Heavy
+- Pairings: sticky pudding and other substantial desserts
 - Notes: 
 	- first running of parti-gyle mash, other scottish ales brewed as later runnings
 	- peat flavors are not traditional, they are an american lie
@@ -1808,6 +1863,7 @@ two_groups
 	- fermentation: banana-clove
 	- hop: very low German Noble hop flavor optional
 - Commercial examples: Weihenstephaner Hefeweissbier, Franziskaner Hefe-Weisse, Paulaner Hefe-Weissbier Naturtrüb, Ayinger Bräu Weisse, Schneider Weisse Original, Two Brothers Ebel's Weiss Beer
+- Pairings: wide range of lighter foods; salads, seafood; classic with Weisswurst
 - Notes: 
 	- Ancient History
 		- oldest known depictions of beer drinking from Smerian artifacts from 3400 BC
@@ -1862,6 +1918,7 @@ leichtes_weissbier
 	- fermentation: intense banana clove; may have dark fruit esters as it ages; light alcohol flavor optional
 	- hop: none
 - Commercial examples: Schneider Weisse Aventinus, Weihenstephaner Vitus, Ayinger Weizenbock, Penn Weizenbock, Plank Dunkler Weizenbock
+- Pairings: hearty food, such as roast pork, beef, smoked ham; big desserts; aged cheese
 - Notes: 
 	- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16°P) regulations
 
@@ -1871,7 +1928,7 @@ leichtes_weissbier
 - Categories: French and Belgian Beers, Wheat Beers
 - Malt: Pilsner malt, wheat, , unmalted wheat (traditional), pale haze (30-40%, up to 50%), some brewers add oats (5-10% of grist) for creaminess/body, pale haze
 - Hops: continental European
-- Other names: bière blanche
+- Other names: bière blanche, White Ale
 - Glassware: French jelly glass, tulip
 - Color: straw to light gold (2.0 - 4.0 SRM)
 - Alcohol: normal (4.5 - 5.5% ABV)
@@ -1885,6 +1942,7 @@ leichtes_weissbier
 	- fermentation: spicy, citrusy
 	- hop: herbal, citrusy, mild sourness sometimes
 - Commercial examples: Allagash White, Hoegaarden Wit, Ommegang Witte, St. Bernardus Abt 4 Witbier, Blue Moon Belgian White, Shock Top Belgian Ale, Celis White, Lefebvre Blanche de Bruxelles, De Brabandere Wittekerke, Avery White Rascal
+- Pairings: lighter foods, such as mussels, salmon, chicken
 - Notes: 
 	- unfiltered, top-fermented wheat beer
 	- white refers to hazy cloudy whiteness

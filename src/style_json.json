@@ -17,7 +17,9 @@
                 "Spalt",
                 "other German Noble hops"
             ],
-            "other_names": [],
+            "other_names": [
+                "D\u00fcsseldorf Altbier"
+            ],
             "glassware": [
                 "similar glass to a stange but shorter and wider"
             ],
@@ -67,6 +69,12 @@
                 "Schl\u00fcssel Alt",
                 "F\u00fcchschen Alt",
                 "Schumacher Alt"
+            ],
+            "pairings": [
+                "medium-intensity food",
+                "such as roast pork",
+                "smoked sausage",
+                "salmon"
             ],
             "notes": [
                 "refers_to_old_style_of_brewing",
@@ -163,6 +171,11 @@
                 "Southampton Imperial Porter",
                 "Devil's Backbone Danzig"
             ],
+            "pairings": [
+                "roasted and smoked food; barbecue",
+                "prime rib",
+                "chocolate cake"
+            ],
             "notes": [
                 "\t- after popularity declined in England in mid 1800s, new life found in Baltic countries",
                 "\t\t- Henry Thrale's Anchor Brewery in London shipped a strong version to the Baltics for Catherine the great",
@@ -255,6 +268,12 @@
                 "Val-Dieu Blond",
                 "pFriem Belgian-Style Blonde Ale"
             ],
+            "pairings": [
+                "wide range",
+                "lighter cheese",
+                "mussels",
+                "seafood"
+            ],
             "notes": [
                 "\t- created to compete with European golden lagers after WWI"
             ]
@@ -277,7 +296,8 @@
             ],
             "other_names": [
                 "Quadrupel",
-                "Quad"
+                "Quad",
+                "Belgian Strong Dark Ale"
             ],
             "glassware": [
                 "tulip",
@@ -348,6 +368,9 @@
                 "Gouden Carolus Grand Cru of the Emperor",
                 "La Trappe Quadrupel",
                 "Unibroue Trois Pistoles"
+            ],
+            "pairings": [
+                "very heart food; strong cheese; chocolate"
             ],
             "notes": [
                 "first_brewed_in_1948_by_chimay",
@@ -452,6 +475,13 @@
                 "Westvleteren 8",
                 "Achel 8 Bruin"
             ],
+            "pairings": [
+                "wide range of hearty food; barbecued ribs",
+                "abbey cheese",
+                "tiramisu",
+                "chocolate cake",
+                "medium-intensity desserts"
+            ],
             "notes": [
                 "\t- amber/brown ales produced for 100s of years as table beers",
                 "\t- emerged in 1920s in face of imported beer",
@@ -477,7 +507,9 @@
                 "Saaz",
                 "Goldings"
             ],
-            "other_names": [],
+            "other_names": [
+                "Belgian Strong Golden Ale"
+            ],
             "glassware": [
                 "tulip",
                 "goblet",
@@ -541,6 +573,12 @@
                 "Russian River Damnation",
                 "Van Honsebrouck Brigand",
                 "Van Steenberge Piraat"
+            ],
+            "pairings": [
+                "wide range",
+                "salmon",
+                "chicken",
+                "spicy cuisine (e.g. Thai)"
             ],
             "notes": [
                 "\t- 1923 - Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale",
@@ -638,6 +676,13 @@
                 "Dobbel PALM",
                 "PALM Sp\u00e9ciale Belge",
                 "De Ryck Sp\u00e9cial"
+            ],
+            "pairings": [
+                "wide range",
+                "cheese",
+                "mussels",
+                "chicken",
+                "spicy dishes"
             ],
             "notes": [
                 "\t- inspired by English pale ale/Bitter",
@@ -737,6 +782,11 @@
                 "Allagash Triple",
                 "Brooklyn Local 1"
             ],
+            "pairings": [
+                "roast pork",
+                "rich seafood (e.g. lobster)",
+                "creamy desserts (e.g. cr\u00e8me br\u00fbl\u00e9e)"
+            ],
             "notes": [
                 "\t- emerged in 1930s in response to import popularity and Vandervelde act in 1919",
                 "\t- Dubbels were successful but lacked the bright golden color and clarity of popular lagers",
@@ -821,6 +871,10 @@
                 "Bayerischer Bahnhof Berliner Style Weisse",
                 "Professor Fritz Briem 1809 Berliner Weisse",
                 "Urban Chestnut Ku'damm"
+            ],
+            "pairings": [
+                "lightest salads and seafood",
+                "mild cheese"
             ],
             "notes": [
                 "\t- history",
@@ -928,6 +982,9 @@
                 "Adnams Southwold Bitter",
                 "Timothy Taylor Landlord"
             ],
+            "pairings": [
+                "wide rang of food; roast chicken or pork; classic with curry"
+            ],
             "notes": []
         },
         "Bi\u00e8re de Garde": {
@@ -1019,6 +1076,12 @@
                 "Saint Sylvestre Gavroche (amber)",
                 "Two Brothers Domain DuPage (amber)"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "roast pork",
+                "beef stew; simple desserts"
+            ],
             "notes": [
                 "\t- 3 color ranges",
                 "\t- may have brewing sugar added",
@@ -1072,6 +1135,7 @@
             "commercial_examples": [
                 "Lembeek's 2%"
             ],
+            "pairings": [],
             "notes": [
                 "\t- popular until 20th century, rarely made now",
                 "\t- lower gravity/alcohol than even Faro",
@@ -1096,7 +1160,9 @@
             "hops": [
                 "British"
             ],
-            "other_names": [],
+            "other_names": [
+                "English Brown Ale"
+            ],
             "glassware": [
                 "nonic",
                 "pub mug",
@@ -1147,6 +1213,9 @@
                 "Black Sheep Riggwelter Yorkshire Ale",
                 "Maxim Double Maxim",
                 "Newcastle Brown Ale"
+            ],
+            "pairings": [
+                "Roasted meats and a wide range of hearty foods"
             ],
             "notes": [
                 "\t- classic example is Newcastle Brown, first brewed in 1927",
@@ -1228,6 +1297,10 @@
                 "Golden Hill Exmoor Gold",
                 "Spitfire Golden Ale"
             ],
+            "pairings": [
+                "a wide range of food; chicken",
+                "spicy cuisine"
+            ],
             "notes": [
                 "\t- relatively new, originated in 1980s",
                 "\t- alternative to pale lagers",
@@ -1303,6 +1376,12 @@
                 "Czechvar (Budvar)",
                 "Staropramen",
                 "Oska Blues Mama's Little Yella Pils"
+            ],
+            "pairings": [
+                "wide range of lighter food; chicken",
+                "salads",
+                "salmon",
+                "bratwurst"
             ],
             "notes": [
                 "\t- 1840s, people in Pilsen wanted to build a brewery",
@@ -1390,6 +1469,9 @@
                 "Theakston Traditional Mild",
                 "Brain's Dark",
                 "Yards Brawler Pugilist Style Ale"
+            ],
+            "pairings": [
+                "roasted meats and a wide range of hearty foods"
             ],
             "notes": [
                 "\t- initially described fresh, unsoured porter",
@@ -1482,6 +1564,10 @@
                 "Tr\u00f6egs Troegenator Double Bock",
                 "Andechs Doppelbock Dunkel"
             ],
+            "pairings": [
+                "rich",
+                "roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese"
+            ],
             "notes": [
                 "\t- history",
                 "\t\t- 18th century, Paulist monks from Italy settled near Munich",
@@ -1570,6 +1656,9 @@
                 "Aass Bock",
                 "Penn Brewery St. Nikolaus Bock",
                 "Lindeboom Bock"
+            ],
+            "pairings": [
+                "rich or spicy food; washed-rind or high-fat bloomy-rind cheese"
             ],
             "notes": [
                 "\t- inspired by a popular beer brewed in Einbeck (Saxony)",
@@ -1663,6 +1752,12 @@
                 "Hacker-Pschorr Dunkel Weisse",
                 "Paulaner Hefeweissbier Dunkel"
             ],
+            "pairings": [
+                "hearty food",
+                "such as roast pork",
+                "beef",
+                "smoked ham; big desserts; aged cheese"
+            ],
             "notes": [
                 "\t- dark wheat bear, using that german naming"
             ]
@@ -1734,6 +1829,10 @@
             },
             "commercial_examples": [
                 "Kulmbacher Eisbock"
+            ],
+            "pairings": [
+                "rich",
+                "roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese"
             ],
             "notes": [
                 "\t- Eis = ice",
@@ -1814,6 +1913,10 @@
                 "Weyerbacher Blithering Idiot",
                 "Coniston No. 9",
                 "Robinson's Old Tom"
+            ],
+            "pairings": [
+                "very intense food",
+                "but best with dessert; try with Stilton cheese"
             ],
             "notes": [
                 "\t- less hoppy/bitter, more malt/fruit than American Barley Wine",
@@ -1909,6 +2012,11 @@
                 "Brooklyn East IPA",
                 "Samuel Smith's India Ale",
                 "Fuller's Bengal Lancer"
+            ],
+            "pairings": [
+                "strong",
+                "spicy food; bold",
+                "sweet desserts like carrot cake"
             ],
             "notes": [
                 "\t- Less hop character and more malt flavor than American",
@@ -2018,6 +2126,11 @@
                 "Samuel Smith's Taddy Porter",
                 "Harviestoun Old Engine Oil"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- largely influenced by available malt; pale malt limited prior to 1700",
                 "\t- most malts kilned using direct-fire methods, fueled by wood",
@@ -2096,6 +2209,7 @@
                 "Brouwerij DeTroch",
                 "Brasserie Cantillon"
             ],
+            "pairings": [],
             "notes": [
                 "\t- historical beer made from Lambic wort, not commonly made today",
                 "\t- sweetened lambic",
@@ -2178,6 +2292,11 @@
                 "Hacker-Pschorr Superior Festbier Hofbr\u00e4u Festbier",
                 "Paulaner Wiesn",
                 "Weihenstephaner Festbier"
+            ],
+            "pairings": [
+                "Mexican cuisine and other spicy food; chicken",
+                "sausage",
+                "milder cheeses"
             ],
             "notes": [
                 "\t- Bavarians used M\u00e4rzen to celebrate wedding of Crown Prince Ludwig in 1810",
@@ -2269,6 +2388,12 @@
                 "New Belgium La Folie",
                 "Panil Barriqu\u00e9e",
                 "Verhaeghe Vichtenaar"
+            ],
+            "pairings": [
+                "tangy cheese",
+                "rich meat",
+                "fried dishes",
+                "light fruit tart"
             ],
             "notes": [
                 "\t- The Burgundy of Belgium",
@@ -2363,6 +2488,11 @@
                 "Pike XXXXX Stout",
                 "The Kernel Export Stout"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- originally brewed for export, similar to an Irish Extra Stout"
             ]
@@ -2445,6 +2575,9 @@
                 "Oud Beersel Kriek",
                 "Oude Quetsche Tilquin \u00e0 l'ancienne",
                 "Lindemans Framboise/Kriek"
+            ],
+            "pairings": [
+                "excellent with desserts"
             ],
             "notes": [
                 "\t- brewers blend lambic beer with fruit then age",
@@ -2534,6 +2667,11 @@
                 "Bitburger Pils",
                 "Warseiner"
             ],
+            "pairings": [
+                "wide range of lighter food; salads",
+                "seafood",
+                "bratwurst"
+            ],
             "notes": [
                 "\t- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s",
                 "\t- 1970s, major divergence from Czech original",
@@ -2614,6 +2752,7 @@
                 "Westbrook Gose",
                 "Off Color Troublesome"
             ],
+            "pairings": [],
             "notes": [
                 "\t- brewed with coriander and salt"
             ]
@@ -2702,6 +2841,10 @@
                 "Mort Subite (Unfiltered) Gueuze",
                 "Oud Beersel Oude Geuze",
                 "Oude Gueuze Tilquin \u00e0 l'ancienne"
+            ],
+            "pairings": [
+                "difficult to pair",
+                "but nice with seafood and some cheeses"
             ],
             "notes": [
                 "\t- production began in 19th century due in part to strong glass bottles that could handle high carbonation",
@@ -2796,6 +2939,10 @@
                 "Hofbr\u00e4u Maibock",
                 "Mahr's Heller Bock"
             ],
+            "pairings": [
+                "rich or spicy food (e.g. Thai); cheesecake",
+                "apple strudel"
+            ],
             "notes": [
                 "\t- spring seasonal (Maibock = May)",
                 "\t- same regulations as Dunkles Bock",
@@ -2883,6 +3030,11 @@
                 "North Coast Old Rasputin (American)",
                 "Oskar Blues Ten Fiddy (American)",
                 "Sierra Nevada Narwhal (American)"
+            ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
             ],
             "notes": [
                 "\t- originally brewed in late 18th century in London as \"extra stout\" for export to Baltics/Russia",
@@ -2974,6 +3126,11 @@
                 "Porterhouse XXXX",
                 "Sheaf Stout"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- quite similar to an Irish stout, but with a higher ABV and more intense flavors"
             ]
@@ -3051,6 +3208,11 @@
                 "Porterhouse Nitro Red Ale",
                 "Franciscan Well Rebel Red"
             ],
+            "pairings": [
+                "wide range; salmon",
+                "roast pork",
+                "washed-rind cheese"
+            ],
             "notes": [
                 "\t- the name actually popularized by Coors in the early 90s with the Killian's Irish Red",
                 "\t\t- First brewed by Killian family's Lett's Brewery in County Wexford, Ireland as Enniscorthy Ruby Ale",
@@ -3127,6 +3289,11 @@
                 "Beamish Irish Stout",
                 "Belhaven Black Scottish stout"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- Porter first brewed in Ireland in 1776, with brown malt; later made from pale/brown",
                 "\t- then in 1817, black malt introduced",
@@ -3201,6 +3368,13 @@
                 "Gaffel K\u00f6lsch",
                 "Reissdorf K\u00f6lsch",
                 "Goose Island Summertime"
+            ],
+            "pairings": [
+                "lighter food",
+                "chicken",
+                "salad",
+                "salmon",
+                "bratwurst"
             ],
             "notes": [
                 "\t- top-fermenting ale from Cologne (K\u00f6ln), first brewed in the 1800s",
@@ -3295,6 +3469,9 @@
                 "Cantillon Grand Cru Bruocsella",
                 "Oude Lambiek De Cam"
             ],
+            "pairings": [
+                "lighter foods; cuts fat nicely"
+            ],
             "notes": [
                 "\t- difficult to find outside of Senne Valley",
                 "\t\t- in valley served as cheap easy-drinking everyday beer",
@@ -3376,6 +3553,7 @@
                 "W\u00f6llnitzer Weissbier",
                 "Freigeist Abraxas"
             ],
+            "pairings": [],
             "notes": [
                 "\t- historical style from central Germany",
                 "\t- similar to Berliner Weisse and Gose profiles, but uses smoked malt",
@@ -3455,6 +3633,11 @@
                 "Ayinger Oktoberfest-M\u00e4rzen",
                 "Samuel Adams Oktoberfest",
                 "Victory Festbier"
+            ],
+            "pairings": [
+                "Mexican cuisine and other spicy food; chicken",
+                "sausage",
+                "milder cheeses"
             ],
             "notes": [
                 "\t- for hundreds of years, brewing was seasonal between October and March (by decree of Duke Albrecht V in 1553)",
@@ -3543,6 +3726,13 @@
                 "Lakefront Eastside Dark",
                 "Adeschser Export Dunkel"
             ],
+            "pairings": [
+                "hearty",
+                "spicy food; barbecue",
+                "sausages",
+                "roast meat",
+                "bread pudding"
+            ],
             "notes": [
                 "\t- was the everyday beer in munich for centuries, now second to the Munich Helles",
                 "\t\t- still most popular in some regions, like Franconia",
@@ -3569,7 +3759,8 @@
                 "German hops"
             ],
             "other_names": [
-                "Helles"
+                "Helles",
+                "M\u00fcnchener Helles"
             ],
             "glassware": [
                 "munich stein",
@@ -3626,6 +3817,10 @@
                 "Hacker Pschorr M\u00fcnchner Gold",
                 "Andechser Vollbier Hell",
                 "Augustiner Lagerbier Hell"
+            ],
+            "pairings": [
+                "wide range of lighter food; salads",
+                "seafood; classic with Weisswurst"
             ],
             "notes": [
                 "\t- like the German Pils, Munich brewers attempted an imitation of the Czech Premium Pale Lager",
@@ -3712,6 +3907,11 @@
                 "New Holland The Poet",
                 "Summit Oatmeal Stout"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- subtype of sweet stout",
                 "\t- sweetness between Irish and Sweet Stout",
@@ -3795,6 +3995,11 @@
                 "Avery Old Jubilation Ale",
                 "Berlina Old Ale",
                 "Coniston Brewing Old Man Ale"
+            ],
+            "pairings": [
+                "big",
+                "intense dishes",
+                "such as roast beef and lamb; stands up to rich desserts"
             ],
             "notes": [
                 "\t- usually a blend of young and old (stock) ales",
@@ -3887,6 +4092,9 @@
                 "Bateman's XB",
                 "Brains Bitter",
                 "Brakspear Gravity"
+            ],
+            "pairings": [
+                "wide rang of food; roast chicken or pork; classic with curry"
             ],
             "notes": [
                 "\t- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)",
@@ -3985,6 +4193,12 @@
                 "Petrus Oud Bruin",
                 "VanderGhinste Roodbruin"
             ],
+            "pairings": [
+                "tangy cheese",
+                "rich meat",
+                "fried dishes",
+                "light fruit tart"
+            ],
             "notes": [
                 "\t- Liefmans Goudenband is the prime example",
                 "\t- initial fermentation in stainless steel with Sacch and Lacto",
@@ -4072,6 +4286,7 @@
                 "Aecht Schlenkerla Eiche",
                 "Spezia Rauchbier Lager"
             ],
+            "pairings": [],
             "notes": [
                 "\t- German smoked beer based on the M\u00e4rzen style",
                 "\t- Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)"
@@ -4148,6 +4363,7 @@
             "commercial_examples": [
                 "Schlenkerla Rotbier (also kind of a Rauchbier)"
             ],
+            "pairings": [],
             "notes": [
                 "\t- rare, not recognized by BJCP",
                 "\t- clear to slightly hazy"
@@ -4215,6 +4431,7 @@
                 ]
             },
             "commercial_examples": [],
+            "pairings": [],
             "notes": [
                 "\t- traditional Finnish farmhouse style, at least 500 years old",
                 "\t- notably, one of few beers that do not boil the wort",
@@ -4313,6 +4530,11 @@
                 "North Coast Le Merle",
                 "Transmitter Bi\u00e8re de Garde"
             ],
+            "pairings": [
+                "substantial salads",
+                "chicken",
+                "richer seafood dishes; very nice with bloomy-rind cheese; earthier version great with ripened goat cheese"
+            ],
             "notes": [
                 "\t- lots of variation",
                 "3_major_characteristics",
@@ -4406,6 +4628,12 @@
                 "Kulmbacher M\u00f6nchsof Schwarzbier",
                 "Devils Backbone Schwartzbier"
             ],
+            "pairings": [
+                "hearty",
+                "spicy food such as barbecue",
+                "sausages",
+                "roast meat; bread pudding"
+            ],
             "notes": [
                 "\t- relatively unknown in Western Germany until 1990 reunification",
                 "\t\t- led to decline in altbier",
@@ -4483,6 +4711,10 @@
             "commercial_examples": [
                 "McEwan's 70"
             ],
+            "pairings": [
+                "lighter food; moderately intense cheeses",
+                "lighter preparations of salmon and pork"
+            ],
             "notes": []
         },
         "Scottish Heavy": {
@@ -4555,6 +4787,10 @@
             },
             "commercial_examples": [
                 "McEwan's 70"
+            ],
+            "pairings": [
+                "lighter food; simple cheeses",
+                "lighter preparations of salmon and chicken"
             ],
             "notes": []
         },
@@ -4629,6 +4865,10 @@
             "commercial_examples": [
                 "Belhaven Best",
                 "McEwan's 60"
+            ],
+            "pairings": [
+                "lighter food; simple cheeses",
+                "lighter preparations of salmon and chicken"
             ],
             "notes": []
         },
@@ -4714,6 +4954,9 @@
                 "Shepherd Neame Bishop's Finger",
                 "Robinsons Trooper"
             ],
+            "pairings": [
+                "wide rang of food; roast chicken or pork; classic with curry"
+            ],
             "notes": []
         },
         "Sweet Stout": {
@@ -4789,6 +5032,11 @@
                 "Firestone Walker Nitro Merlin Milk Stout",
                 "Bristol Beer Factor Milk Stout",
                 "Mast Land Brewing Gunner's Daughter"
+            ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
             ],
             "notes": [
                 "\t- significants hops, low bitterness and high residual gravity to give impression of sweetness",
@@ -4886,6 +5134,7 @@
                 "Achel 5",
                 ""
             ],
+            "pairings": [],
             "notes": [
                 "\t- low strength brew for meals/daily occasions",
                 "\t- used with second/third worts",
@@ -4967,6 +5216,11 @@
                 "ABC Extra Stout",
                 "Royal Extra Stout"
             ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies; oysters; chocolate"
+            ],
             "notes": [
                 "\t- Caribbean and other tropical brewers adapted Foreign Extra Stout for sweeter balance",
                 "\t- Softer roast character compared to Foreign Extra"
@@ -5041,6 +5295,11 @@
                 "Heavy Seas Cutlass",
                 "Ottakringer Wiener Original",
                 "Theresianer Vienna"
+            ],
+            "pairings": [
+                "Mexican cuisine and other spicy food; chicken",
+                "sausage",
+                "milder cheeses"
             ],
             "notes": [
                 "\t- Vienna malt is a bit lighter than Munich malt, so lighter in color than M\u00e4rzens and Munich Dunkels"
@@ -5121,6 +5380,9 @@
                 "Founders Dirty Bastard",
                 "Belhaven Wee Heavy"
             ],
+            "pairings": [
+                "sticky pudding and other substantial desserts"
+            ],
             "notes": [
                 "\t- first running of parti-gyle mash, other scottish ales brewed as later runnings",
                 "\t- peat flavors are not traditional, they are an american lie"
@@ -5195,6 +5457,10 @@
                 "Ayinger Br\u00e4u Weisse",
                 "Schneider Weisse Original",
                 "Two Brothers Ebel's Weiss Beer"
+            ],
+            "pairings": [
+                "wide range of lighter foods; salads",
+                "seafood; classic with Weisswurst"
             ],
             "notes": [
                 "\t- Ancient History",
@@ -5303,6 +5569,12 @@
                 "Penn Weizenbock",
                 "Plank Dunkler Weizenbock"
             ],
+            "pairings": [
+                "hearty food",
+                "such as roast pork",
+                "beef",
+                "smoked ham; big desserts; aged cheese"
+            ],
             "notes": [
                 "\t- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16\u00b0P) regulations"
             ]
@@ -5328,7 +5600,8 @@
                 "continental European"
             ],
             "other_names": [
-                "bi\u00e8re blanche"
+                "bi\u00e8re blanche",
+                "White Ale"
             ],
             "glassware": [
                 "French jelly glass",
@@ -5389,6 +5662,12 @@
                 "Lefebvre Blanche de Bruxelles",
                 "De Brabandere Wittekerke",
                 "Avery White Rascal"
+            ],
+            "pairings": [
+                "lighter foods",
+                "such as mussels",
+                "salmon",
+                "chicken"
             ],
             "notes": [
                 "\t- unfiltered, top-fermented wheat beer",

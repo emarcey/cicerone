@@ -32,6 +32,7 @@
 	* hop
 	* fermentation
 * Commercial Examples:
+* Pairings: intensity and examples
 * Notes:
 
 # Hop
