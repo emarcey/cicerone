@@ -902,16 +902,14 @@
                 "\t- Berlin regional specialty",
                 "\t- Napoleon called it \"the champagne of the north\"",
                 "protected_category",
-                "\t- can only be brewed in Berlin",
-                "\t\t- only brewed by 2 full-scale commercial breweries: Berliner Kindl and Schultheiss",
-                "\t\t\t- both use the split wort method"
+                "\t- can only be brewed in Berlin"
             ]
         },
         "Best Bitter": {
             "name": "Best Bitter",
             "region": "England",
             "categories": [
-                "English Pale Ales",
+                "British Pale Ales",
                 "Bitters"
             ],
             "malt": [
@@ -1313,7 +1311,7 @@
             "categories": [
                 "Czech Lagers",
                 "Lagers",
-                "Pale German Lagers"
+                "German Pale Lagers"
             ],
             "malt": [
                 "Czech Pilsner malt"
@@ -1494,7 +1492,7 @@
                 "German Lagers",
                 "Dark Lagers",
                 "Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Pilsner",
@@ -1588,7 +1586,7 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Munich malt",
@@ -1769,7 +1767,7 @@
                 "German Lagers",
                 "Dark Lagers",
                 "Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Pilsner",
@@ -2228,7 +2226,7 @@
                 "Lagers",
                 "Pale Lagers",
                 "Historical March Beers",
-                "Pale German Lagers"
+                "German Pale Lagers"
             ],
             "malt": [
                 "Pilsner malt base",
@@ -2602,7 +2600,7 @@
                 "German Lagers",
                 "Pale Lagers",
                 "Lagers",
-                "Pale German Lagers"
+                "German Pale Lagers"
             ],
             "malt": [
                 "Pilsner malt"
@@ -2871,7 +2869,7 @@
                 "German Lagers",
                 "Pale Lagers",
                 "Lagers",
-                "Pale German LAgers"
+                "German Pale Lagers"
             ],
             "malt": [
                 "Pilsner",
@@ -3569,7 +3567,7 @@
                 "Lagers",
                 "Dark Lagers",
                 "Historical March Beers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Munich malt base"
@@ -3659,7 +3657,7 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Munich malt"
@@ -3750,7 +3748,7 @@
                 "German Lagers",
                 "Pale Lagers",
                 "Lagers",
-                "Pale German Lagers"
+                "German Pale Lagers"
             ],
             "malt": [
                 "Pilsner malt"
@@ -4019,7 +4017,7 @@
             "name": "Ordinary Bitter",
             "region": "England",
             "categories": [
-                "English Pale Ales",
+                "British Pale Ales",
                 "Bitters"
             ],
             "malt": [
@@ -4111,7 +4109,8 @@
                 "\t\t- midlands - sweeter (Marston's Burton bitter)",
                 "\t\t- West Country - fruity",
                 "\t\t- South wales - malty",
-                "\t\t- Yorkshire, Manchester - smooth and creamy"
+                "\t\t- Yorkshire, Manchester - smooth and creamy",
+                "\t- best drunk fresh"
             ]
         },
         "Oud Bruin": {
@@ -4226,7 +4225,7 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "rauch malt",
@@ -4559,7 +4558,7 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Munich malt",
@@ -4876,7 +4875,7 @@
             "name": "Strong Bitter",
             "region": "England",
             "categories": [
-                "English Pale Ales",
+                "British Pale Ales",
                 "Bitters"
             ],
             "malt": [
@@ -5056,7 +5055,8 @@
             "name": "Trappist Single",
             "region": "Belgium",
             "categories": [
-                "Trappist Ales"
+                "Trappist Ales",
+                "Secular and Trappist Strong Ales"
             ],
             "malt": [
                 "Pilsner"
@@ -5234,7 +5234,7 @@
                 "Lagers",
                 "Dark Lagers",
                 "Historical March Beers",
-                "Dark German Lagers"
+                "German Dark Lagers"
             ],
             "malt": [
                 "Vienna malt"

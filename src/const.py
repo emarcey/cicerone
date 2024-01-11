@@ -8,8 +8,8 @@ OUT_CHARTS_PATH = "./references/charts"
 HEADER_REGEX = re.compile(r"#\s*(\w[\w\s]+)\n?")
 FIRST_LINE_REGEX = re.compile(r"[\*-] \*\*(.+)(?:\*\*:|:\*\*)(.*)\n?")
 GLOSSARY_LINE_REGEX = re.compile(r"(\t*)(?:[\*-]|\d+\.)\s?(.*)\n?")
-BULLET_REGEX = re.compile(r"(\s*)\*\s*([\w ]+)(\:\s*\w?[^\n]*)\n?")
-NON_BULLET_REGEX = re.compile(r"(\s*)\*\s*(\w[^\n]*)\n?")
+BULLET_REGEX = re.compile(r"(\s*)[\*-]\s*([\w ]+)(\:\s*\w?[^\n]*)\n?")
+NON_BULLET_REGEX = re.compile(r"(\s*)[\*-]\s*(\w[^\n]*)\n?")
 
 COLOR_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?) *SRM\)")
 ALCOHOL_PROFILE_REGEX = re.compile(r"([\w\- ]+) *\((\d+(?:\.\d+)?) *- *(\d+(?:\.\d+)?)% *ABV\)")
@@ -38,14 +38,14 @@ GLOSSARY_FILE_NAMES = [
 
 CHART_CATEGORIES = [
     "British Dark Ales",
+    "British Pale Ales",
     "British Strong Ales",
-    "Dark German Lagers",
-    "English Pale Ales",
+    "German Dark Lagers",
     "Flanders Ales and Lambic Beers",
     "French and Belgian Beers",
     "German Hybrid Ales",
     "German Wheat Ales",
-    "Pale German Lagers",
+    "German Pale Lagers",
     "Secular and Trappist Strong Ales",
 ]
 

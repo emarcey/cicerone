@@ -179,7 +179,7 @@ def make_chart(target_dir: str, chart_groups: List[BeerStyle], style_cat: str, m
         if getattr(style, metric_cat)
     ]
     sorted_vals = sorted(vals, key=lambda x: (x["xmin"], x["xmax"], x["label"]))
-    palette = sns.color_palette(cc.glasbey, n_colors=25)
+    palette = sns.color_palette(cc.glasbey, n_colors=len(chart_groups))
     title = f"{style_cat}: {metric_cat.title()}"
 
     min_x = min([x["xmin"] for x in sorted_vals])

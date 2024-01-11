@@ -306,7 +306,7 @@
 
 # Best Bitter
 * Region: England
-* Categories: English Pale Ales, Bitters
+* Categories: British Pale Ales, Bitters
 * Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 * Hops: British, Fuggle, Golding, american sometimes acceptable
 * Other Names:
@@ -428,7 +428,7 @@
 
 # Czech Premium Pale Lager
 * Region: Pilsen, Czechia
-* Categories: Czech Lagers, Lagers, Pale German Lagers
+* Categories: Czech Lagers, Lagers, German Pale Lagers
 * Malt: Czech Pilsner malt
 * Hops: Czech hops
 * Other Names: Bohemian Pilsner, Czech Pilsner, Pilsner
@@ -493,7 +493,7 @@
 
 # Doppelbock
 * Region: Munich, Bavaria, Germany
-* Categories: German Lagers, Dark Lagers, Lagers, Dark German Lagers
+* Categories: German Lagers, Dark Lagers, Lagers, German Dark Lagers
 * Malt: Pilsner, Munich, Vienna
 * Hops: Noble
 * Other Names: Salvator
@@ -525,7 +525,7 @@
 
 # Dunkles Bock
 * Region: Munich, Bavaria, Germany
-* Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
 * Malt: Munich malt, Vienna malt, occasionally a small portion of roasted malt
 * Hops: Noble
 * Other Names: Weihnachstbock, Osterbock
@@ -584,7 +584,7 @@
 
 # Eisbock
 * Region: Germany
-* Categories: German Lagers, Dark Lagers, Lagers, Dark German Lagers
+* Categories: German Lagers, Dark Lagers, Lagers, German Dark Lagers
 * Malt: Pilsner, Munich, Vienna
 * Hops: Noble
 * Other Names:
@@ -777,7 +777,7 @@
 
 # Festbier
 * Region: Bavaria, Germany
-* Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers, Pale German Lagers
+* Categories: German Lagers, Lagers, Pale Lagers, Historical March Beers, German Pale Lagers
 * Malt: Pilsner malt base, some Vienna or Munich
 * Hops:  Noble hops
 * Other Names: Oktoberfest (only when brewed in Munich)
@@ -901,7 +901,7 @@
 
 # German Pils
 * Region: Northern Germany
-* Categories: German Lagers, Pale Lagers, Lagers, Pale German Lagers
+* Categories: German Lagers, Pale Lagers, Lagers, German Pale Lagers
 * Malt: Pilsner malt
 * Hops:  German hops
 * Other Names:
@@ -988,7 +988,7 @@
 
 # Helles Bock
 * Region: Germany
-* Categories: German Lagers, Pale Lagers, Lagers, Pale German LAgers
+* Categories: German Lagers, Pale Lagers, Lagers, German Pale Lagers
 * Malt: Pilsner, Vienna, Munich, occasionally crystal
 * Hops: German Noble
 * Other Names: Maibock
@@ -1224,7 +1224,7 @@
 
 # Märzen
 * Region: Germany
-* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, German Dark Lagers
 * Malt: Munich malt base
 * Hops: Noble hops
 * Other Names: Märzenbier, March beer
@@ -1255,7 +1255,7 @@
 		* That year, Dreher Brewery near Vienna came out with a Vienna lager
 # Munich Dunkel
 * Region: Munich, Germany
-* Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
 * Malt: Munich malt
 * Hops:  Noble hops
 * Other Names:
@@ -1283,7 +1283,7 @@
 		* also popular in US, Mexico and South America due to german immigration
 # Munich Helles
 * Region: Munich, Bavaria, Germany
-* Categories: German Lagers, Pale Lagers, Lagers, Pale German Lagers
+* Categories: German Lagers, Pale Lagers, Lagers, German Pale Lagers
 * Malt: Pilsner malt
 * Hops: German hops
 * Other Names: Helles, Münchener Helles
@@ -1380,7 +1380,7 @@
 
 # Ordinary Bitter
 * Region: England
-* Categories: English Pale Ales, Bitters
+* Categories: British Pale Ales, Bitters
 * Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 * Hops: British, Fuggle, Golding, american sometimes acceptable
 * Other Names: Bitter
@@ -1457,7 +1457,7 @@
 
 # Rauchbier
 * Region: Bamberg, Bavaria, Germany
-* Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
 * Malt: rauch malt, Munich malt
 * Hops: Noble
 * Other Names:
@@ -1577,7 +1577,7 @@
 
 # Schwarzbier
 * Region: Germany
-* Categories: German Lagers, Lagers, Dark Lagers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
 * Malt: Munich malt, roasted malt
 * Hops: Noble
 * Other Names: Black Lager
@@ -1665,7 +1665,7 @@
 * Notes:
 # Strong Bitter
 * Region: England
-* Categories: English Pale Ales, Bitters
+* Categories: British Pale Ales, Bitters
 * Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 * Hops: British, Fuggle, Golding, american sometimes acceptable
 * Other Names: Special Bitter
@@ -1718,7 +1718,7 @@
 		* South African Breweries introduced a milk stout (Castle milk stout 6% ABV) in 2003, which is now brewed in 9 African countries
 # Trappist Single
 * Region: Belgium
-* Categories: Trappist Ales
+* Categories: Trappist Ales, Secular and Trappist Strong Ales
 * Malt: Pilsner
 * Hops: 
 	* early hopping
@@ -1772,7 +1772,7 @@
 
 # Vienna Lager
 * Region: Vienna, Austria
-* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, Dark German Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, Historical March Beers, German Dark Lagers
 * Malt: Vienna malt
 * Hops: Noble
 * Other Names:
