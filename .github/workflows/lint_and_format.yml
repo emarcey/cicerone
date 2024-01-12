@@ -1,11 +1,11 @@
-name: Regenerate Data
+name: Lint & Format
 on:
   push:
     branches:
       - main
 
 jobs:
-  regenerate:
+  clean:
     runs-on: ubuntu-20.04
     steps:
       - name: Cancel Previous Runs (if any)
@@ -35,16 +35,3 @@ jobs:
         run: make lint
       - name: Typecheck
         run: make typecheck
-      - name: Regen
-        run: make gen
-      - name: Commit Changes
-        run: |
-          git config --global user.name 'Cicerone Actions Bot'
-          git config --global user.email 'emarcey@no-reply.github.com'
-          git commit -am "Automated Regen" | exit 0
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ github.token }}
-          branch: ${{ github.HEAD_REF }}
-          atomic: false
