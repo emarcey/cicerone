@@ -234,14 +234,28 @@
 	-  Hogshead (64.8 US gallons/~245.3L)
 -  See [07__beer_service](obsidian://open?vault=cicerone&file=modules%2Fbritish_and_irish%2F07__beer_service)
 
+# Cereal Cooker
+-  a brewhouse vessel that is used for a cereal mash: gelatinizing unmalted cereals (e.g. corn, rice) along with a small portion of barley
+-  Works much like a mash mixer
+-  Generally only found in large breweries that regularly produce beers with lots of adjuncts
+
 # Cereal Mash
 -  mashing process sometimes used when treating unmalted cereals (particularly corn grits or rice)
+-  Purpose:
+	-  unmalted grains do not have readily accessible starches
 -  Process
-	-  unmalted cereal + small portion of malted barley added to separate vessel (rice/grits cooker) with hot water
-	-  heated to boiling temp of water: 212°F (100°C)
-	-  hard starches gelatinize, making them susceptible to breakdown
-	-  cereal mash then added to barely malt
+	-  Cereal mash:
+		-  unmalted cereal + small portion of malted barley (about 10% of total malt for recipe) added to separate vessel (cereal cooker) with hot water
+		-  heated to boiling temp of water: 212°F (100°C)
+		-  hard starches gelatinize, making them susceptible to breakdown
+	-  Main mash:
+		-  other 90% of barley heated to low stage: 122-131°F
+			-  often referred to as a "protein rest"
+	-  Combining:
+		-  cereal mash then added to barley malt
+		-  hot cereal mash brings temperature to saccharification range (140-158°F)
 -  Almost all American mass-market beers are brewed with this technique
+	-  they also tend to use 6 row barley because of the high protein content, used to keep the cereal mash from becoming too thick
 
 # Chlorine
 -  a disinfecting compound often found in brewing water, due to additions by municipal water treatment facilities
@@ -578,10 +592,24 @@
 	-  improperly cleaned heat exchanger: could introduce bacteria or wild yeast
 	-  slow cooling: if wort not cooled within 90 minutes, risk of DMS increases -> creamed corn, rotten vegetable, or shellfish flavor
 
+# High-gravity Brewing
+-  a technique where beers are brewed to a higher original gravity than what is needed to produce the target alcohol content
+-  Can also be used for a beer with a high ABV (e.g. Bock, Tripel, Barley Wine)
+-  Normal Gravity Wort: 10-13°P -> 4-6% ABV
+-  High-Gravity Wort: 14-17°P -> 6-8% ABV
+-  Very High-Gravity Wort: > 17°P -> greater than 8% ABV
+-  Example:
+	-  A beer aimed at 5% ABV usually has an OG of 1.050 or 12.5°P
+	-  With high-gravity brewing, this might be 1.060 (15°P)
+	-  The wort is then chilled and fermented with normal practices, leading to a beer of 6% ABV
+	-  The beer is then diluted with dearated water to reach the target of 5%
+-  Benefit: reduces the brewery's fermentation and lagering tanks relative to volume of beer sold
+-  Consequence: higher gravity -> increased ester production -> light fruitiness characteristic to American lagers
+
 # Homebrewer
 -  an individual who brews beer at home or locally, for personal rather than commercial use
--  first became popular in the 1970s
--  legalized in 1978
+-  first became popular in the US in the 1970s
+-  legalized in the US in 1978
 
 # Hop Essential Oils
 -  hop extract that contributes to aroma
