@@ -1,0 +1,47 @@
+name: Regenerate Data
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Cancel Previous Runs (if any)
+        uses: styfle/cancel-workflow-action@0.9.1
+        with:
+          access_token: ${{ github.token }}
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          github_token: ${{ github.token }}
+          ref: ${{ github.HEAD_REF }}
+          persist-credentials: false
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          # Semantic version range syntax or exact version of a Python version
+          python-version: "3.x"
+      - name: Install
+        run: make build
+      - name: Format
+        run: make format
+      - name: Lint
+        run: make lint
+      - name: Typecheck
+        run: make typecheck
+      - name: Regen
+        run: make gen
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'Cicerone Actions Bot'
+          git config --global user.email 'emarcey@no-reply.github.com'
+          git commit -am "Automated Regen" | exit 0
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ github.token }}
+          branch: ${{ github.HEAD_REF }}
+          atomic: false

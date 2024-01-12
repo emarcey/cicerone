@@ -6,7 +6,7 @@ import random
 from pydantic import BaseModel, Field, field_validator
 from rich.console import Console
 from string import capwords
-from typing import Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 from src.utils import (
@@ -242,15 +242,18 @@ class BeerStyle(BaseModel):
         value_lower = getattr(self, value).value_low
         value_upper = getattr(self, value).value_high
 
-        guess_lower = None
-        guess_upper = None
-        while not guess_upper and not guess_lower:
+        guess_lower: Optional[float] = None
+        guess_upper: Optional[float] = None
+        while guess_upper is None or guess_lower is None:
             try:
                 guess_lower = float(console.input(f"Enter the lower bound for {value}: "))
                 guess_upper = float(console.input(f"Enter the upper bound for {value}: "))
             except ValueError as e:
                 console.print(e)
                 console.print("Try again")
+                guess_upper = None
+                guess_lower = None
+
         lower_color = "cyan"
         upper_color = "cyan"
 
@@ -263,7 +266,8 @@ class BeerStyle(BaseModel):
             lower_color = lower_proximity._to_output_color()
             upper_color = upper_proximity._to_output_color()
             console.print(
-                f"Actual Value: [{lower_color}]{value_lower}[/{lower_color}] - [{upper_color}]{value_upper}[/{upper_color}]; "
+                f"Actual Value: [{lower_color}]{value_lower}[/{lower_color}] -"
+                + f" [{upper_color}]{value_upper}[/{upper_color}]; "
                 + f"Your Guess: {guess_lower} - {guess_upper}",
                 style="bold",
             )
@@ -307,8 +311,8 @@ class BeerStyleMap(BaseModel):
         return "\n\n".join(map(str, sorted_styles))
 
     def test_evaluate_style(
-        self, style_name: str, style_value: BeerStyle, all_lower_style_names: Set[str]
-    ) -> Tuple[bool, str, str, str]:
+        self, style_name: str, style_value: BeerStyle, all_lower_style_names: Dict[str, str]
+    ) -> Tuple[bool, str, str]:
         console.print("*" * 20)
         console.print("\n" + style_value.print_test())
         console.print("*" * 20)
@@ -342,7 +346,7 @@ class BeerStyleMap(BaseModel):
         clear_screen()
         console.print("")
         console.print("*" * 20)
-        console.print(f"Results:")
+        console.print("Results:")
         console.print("*" * 20)
         console.print(f"{total} Attempted")
         console.print(f"{correct} Correct")
@@ -351,7 +355,7 @@ class BeerStyleMap(BaseModel):
         console.print("*" * 20)
         idx = 1
         if mistakes:
-            console.print(f"Mistakes: \n")
+            console.print("Mistakes: \n")
         for mistake in mistakes:
             console.print(f"Mistake {idx}")
             console.print(f"Guess: {mistake[1]}, Actual: {mistake[0]}")
@@ -362,7 +366,7 @@ class BeerStyleMap(BaseModel):
         if not os.path.exists(output_directory):
             os.makedirs(output_directory)
         start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
-        all_lines = [["style", "guess", "is_correct"]] + all_results
+        all_lines: List[Any] = [["style", "guess", "is_correct"]] + all_results
 
         with open(f"{output_directory}/evaluate_{start_time}.csv", "w") as f:
             for line in all_lines:
@@ -370,7 +374,7 @@ class BeerStyleMap(BaseModel):
                 f.write(line_to_write)
 
     def output_evaluate_values_results(
-        self, result_count: Counter, all_results: List[Tuple[str, str, float, float, float, float]]
+        self, result_count: Counter, all_results: List[Tuple[str, str, str, float, float, float, float]]
     ) -> None:
         total = sum(result_count.values())
         if total <= 0:
@@ -378,7 +382,7 @@ class BeerStyleMap(BaseModel):
         clear_screen()
         console.print("")
         console.print("*" * 20)
-        console.print(f"Results:")
+        console.print("Results:")
         console.print("*" * 20)
         console.print(f"{total} Attempted")
         for guess_proximity_type in GuessProximity:
@@ -405,7 +409,7 @@ class BeerStyleMap(BaseModel):
         close = 0
         eligible_styles = self._select_eligible_styles(params)
         all_results = []
-        result_count = Counter()
+        result_count: Counter = Counter()
         clear_screen()
         try:
             while True:
@@ -429,7 +433,7 @@ class BeerStyleMap(BaseModel):
         mistakes = []
         eligible_styles = self._select_eligible_styles(params)
         # tmp_eligible_styles = list(eligible_styles)
-        tmp_eligible_styles = []
+        tmp_eligible_styles: List[str] = []
         all_results = []
         clear_screen()
         try:
@@ -448,7 +452,7 @@ class BeerStyleMap(BaseModel):
                 total += 1
                 all_results.append((style, guess, is_correct))
                 if is_correct:
-                    console.print(f"Correct!", style="bold green")
+                    console.print("Correct!", style="bold green")
                     correct += 1
                 else:
                     console.print(f"[bold][red]Incorrect![/red][/bold] Guess: {guess}, Actual: {style}\n")

@@ -5,7 +5,6 @@ from typing import Callable, List
 import pandas as pd
 
 from src.const import FILENAME_DATE_REGEX, RESULT_DIR
-from src.data_models import GuessProximity
 
 
 def load_df(dir_entry: os.DirEntry) -> pd.DataFrame:
@@ -73,7 +72,7 @@ def display_results(in_dir: str, result_df: pd.DataFrame) -> pd.DataFrame:
         os.makedirs(output_directory)
     display_df = result_df[["tested_day", "result", "daily_cum_pct"]].copy()
     display_df = display_df.set_index("tested_day")
-    fig = display_df.groupby("result")["daily_cum_pct"].plot(
+    display_df.groupby("result")["daily_cum_pct"].plot(
         legend=True,
         marker="o",
         linewidth=2,

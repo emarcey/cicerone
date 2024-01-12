@@ -3,12 +3,10 @@ from collections import OrderedDict, defaultdict
 import colorcet as cc
 import json
 import matplotlib.pyplot as plt
-import matplotlib.colors as mcolors
-import numpy as np
 import os
 from rich import print
 import seaborn as sns
-from typing import Dict, List, Tuple
+from typing import Any, Dict, List, Tuple
 
 
 from src.analyze import analyze_historical_results
@@ -55,18 +53,20 @@ def load_file(filename: str) -> List[str]:
     return lines
 
 
-def parse_glossary_file(lines: List[str]) -> Dict[str, List[GlossaryHeader]]:
+def parse_glossary_file(lines: List[str]) -> Dict[str, GlossaryHeader]:
     curr_header = None
     parsed_lines = {}
 
     for line in lines:
-        if FIRST_LINE_REGEX.match(line):
+        first_line_match = FIRST_LINE_REGEX.match(line)
+        if first_line_match is not None:
             name, value = FIRST_LINE_REGEX.findall(line)[0]
             curr_header = name
             parsed_lines[name] = GlossaryHeader(name=name.strip(), value=value.strip())
             continue
 
-        if not GLOSSARY_LINE_REGEX.match(line):
+        glossary_line_match = GLOSSARY_LINE_REGEX.match(line)
+        if not glossary_line_match:
             raise Exception(f"Line did not match glossary format! {line}")
 
         indents, line_value = GLOSSARY_LINE_REGEX.findall(line)[0]
@@ -74,22 +74,23 @@ def parse_glossary_file(lines: List[str]) -> Dict[str, List[GlossaryHeader]]:
     return parsed_lines
 
 
-def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
+def parse_file(lines: List[str]) -> Dict[str, Dict[Any, Any]]:
     curr_header = None
     parsed_header = defaultdict(list)
 
     for line in lines:
-        if HEADER_REGEX.match(line):
+        header_line_match = HEADER_REGEX.match(line)
+        if header_line_match is not None:
             curr_header = HEADER_REGEX.findall(line)[0].strip()
             continue
 
         parsed_header[curr_header].append(line)
 
-    parsed_dict = {}
+    parsed_dict: Dict[str, Dict[Any, Any]] = {}
 
     for header, header_lines in parsed_header.items():
         stack = [DictItem(value=header, children=OrderedDict(), indent=0)]
-        tmp_header_lines = []
+        tmp_header_lines: List[Tuple[int, str, str]] = []
         for idx in range(len(header_lines)):
             header_line = header_lines[idx].replace("**", "", -1)
             indent, name, value = parse_depth_name_value(header_line)
@@ -97,7 +98,7 @@ def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
                 continue
             if not name:
                 name = str(idx)
-            tmp_header_lines.append([indent, to_snake_case(name), value])
+            tmp_header_lines.append((indent, to_snake_case(name), value))
 
         num_lines = len(tmp_header_lines)
         for idx in range(len(tmp_header_lines)):
@@ -114,7 +115,7 @@ def parse_file(lines: List[str]) -> Dict[str, BeerStyle]:
     return parsed_dict
 
 
-def parse_dict_items_to_styles(parsed_dict: Dict[str, DictItem]) -> BeerStyleMap:
+def parse_dict_items_to_styles(parsed_dict: Dict[str, Dict[Any, Any]]) -> BeerStyleMap:
     styles = {}
     for style, body in parsed_dict.items():
         try:
@@ -136,7 +137,16 @@ def gen_styles(in_filename: str, o_md_filename: str, o_filename: str):
     parsed_dict = parse_file(lines)
     styles = parse_dict_items_to_styles(parsed_dict)
     with open(o_filename, "w") as f:
-        json.dump(styles.model_dump(include=["styles"], mode="json"), f, indent=4)
+        json.dump(
+            styles.model_dump(
+                include={
+                    "styles",
+                },
+                mode="json",
+            ),
+            f,
+            indent=4,
+        )
     with open(o_md_filename, "w") as f:
         f.write(str(styles))
     return styles
@@ -181,9 +191,6 @@ def make_chart(target_dir: str, chart_groups: List[BeerStyle], style_cat: str, m
     sorted_vals = sorted(vals, key=lambda x: (x["xmin"], x["xmax"], x["label"]))
     palette = sns.color_palette(cc.glasbey, n_colors=len(chart_groups))
     title = f"{style_cat}: {metric_cat.title()}"
-
-    min_x = min([x["xmin"] for x in sorted_vals])
-    max_x = max([x["xmax"] for x in sorted_vals])
 
     for i in range(len(sorted_vals)):
         val = sorted_vals[i]
