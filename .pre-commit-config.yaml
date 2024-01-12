@@ -1,0 +1,7 @@
+repos:
+  - repo: local
+    hooks:
+      - id: regen
+        name: regen
+        entry: pre-commit-script.sh
+        language: script

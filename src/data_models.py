@@ -76,8 +76,8 @@ class GlossaryHeader(BaseModel):
 
 class BeerStyleTestParams(BaseModel):
     exclude_categories: Set[str] = Field(default_factory=lambda: {STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY})
-    proximity_threshold_default: float = 2.5
-    proximity_threshold_abv: float = 0.25
+    proximity_threshold_default: float = 3
+    proximity_threshold_abv: float = 0.3
 
 
 class MouthFeelProfile(BaseModel):

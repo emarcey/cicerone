@@ -259,6 +259,9 @@
 -  bigger danger: aeration
 -  also needs to avoid microbial contamination
 
+# Clean (fermentation Profile)
+-  a phrase used to describe a beer with few fruity esters or other byproducts of fermentation in the flavor
+
 # Cooling
 -  the process whereby wort is cooled after boiling, to prepare it for fermentation
 -  This is the 6th step in the brewing process, after separation and prior to fermentation
@@ -349,6 +352,39 @@
 
 # Dry Hopping
 -  the process of adding hops to beer during or after primary fermentation. They obviously get wet, but don't experience high heat of boiling wort, so dry hopped beers have an aroma more similar to raw hops
+-  Goal: infuse beer with fresh hop flavor and aroma
+-  Cold infusion technique that intensifies hop aromatics + adds aromatics different from late hopping
+-  Alpha acids are not isomerized -> remain insoluble
+	-  bitterness *perception* increased by dry hopping, but IBUs may not change
+-  historically, most associated with English pale ales from the mid-1800s on
+	-  most common technique was adding a handful of dried whole hops to the cask before filling
+	-  while beer conditioned in the cask, the fresh hop aroma would suffuse the beer
+	-  cask tap perforated with holes to strain out hops
+-  taken up with fervor by American craft brewers
+-  considered a quintessential American attribute
+	-  partially due to aromatic concentration of American hop varieties
+	-  they contain far more essential oils
+-  fresh dry hop aroma, "hop-sack aroma," most associated with monoterpenoid fractions of hop oils
+	-  late aromatic wet hopping is more associated with sesquiterpenoid fractions (humulene, caryophyllene, farnesene)
+-  now generally performed in fermentation or conditioning tank, with various methods
+	-  efficacy and quality based on contact time, surface area, temperature, and agitation
+-  most often occurs after primary fermentation
+	-  but sometimes happens during primary fermentation
+-  traditionally done with whole flowers, but they float so you have to work to keep them submerged
+	-  more common in the US to use pellets
+		-  they quickly break up and change character rapidly
+	-  done by:
+		-  dropping them in the top of the tank
+		-  using a pipe
+		-  or a hop cannon that uses $CO_2$
+-  beer often recirculated for greater contact/agitation
+-  **Hop aroma transfer is faster at warmer temperatures than at cold temperatures**
+	-  40°F may take twice as long as at 60°F
+	-  unpleasant grassy, vegetal, chlorophyll flavors can result from extended dry hopping, so limiting contact time to 1 week or less is important
+-  Common in IPAs and DIPAs/Imperial IPAs
+-  bright hoppy character has a short shelf life
+	-  degrades within 2-3 months before becoming tropical fruity then tea-like
+	-  can also add haze over time
 
 # Dry Milling
 -  most common milling process
@@ -779,6 +815,16 @@
 			-  husk breaks into larger pieces
 			-  endosperm shatters into varying sizes
 
+# Monoterpenoids
+-  hop essential oils most associated with dry hop aroma
+-  aromatic compounds created by most plant species, notably flowering plants, wine grapes, and citrus fruits
+-  most important:
+	-  myrcene: spicy, herbal, also an aromatic in thyme leaves
+	-  gerianol: floral, rose, used in perfumes
+	-  linalool: floral, citrusy, minty
+	-  limonene: orange, lemon
+	-  beta pinene: piney, woodsy, part of rosemary and basil aromas
+
 # Oktoberfest
 -  locally called Wiesn (the meadow) is a folk festival in Theresienwiese in Munich from the last 2 weekends of September to the first weekend of October
 -  began in 1810 with the marriage of Prince Ludwig
@@ -969,6 +1015,18 @@
 
 # Well-modified
 -  a well modified malt is a malt in which the starch is already liberated from the cellular structure, and is available for brewing.
+
+# Wet Hopping
+-  the process of using un-kilned (hence "wet") hops in brewing
+-  Wet hops are approximately 80% moisture, and kilning drops them to 9%
+	-  If too dry, they oxidize, and there is a risk of fire
+	-  If too wet, may become moldy
+-  Beers produced with un-kilned hops are called "wet hop," "fresh hop," or "green hop" beers
+-  popular in the past 10 years with American brewers living in hop-growing areas
+	-  usually use 4-5x weight of wet hops as dry
+-  "wet dry hopping" is also gaining popularity
+	-  to capture the most delicate and volatile aroma oils
+	-  may also give off distinct grassy, chlorophyll-like aromatics
 
 # Wet Milling
 -  or continuous steep milling, is a modern milling technique, recommended by major German brewing plant manufacturers, and used in conjunction with a lauter tun
