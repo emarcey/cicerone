@@ -1,5 +1,4 @@
 name: Regenerate Data
-
 on:
   push:
     branches:
