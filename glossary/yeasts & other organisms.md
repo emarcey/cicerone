@@ -88,12 +88,14 @@
 		* German: only kölsch and altbier
 			* though these are still brewed in a lager style
 			* strains used are highly attenuative -> dry finish
+		* American: ales, but generally with fewer fruity esters than European counterparts
 	* Notes: species of yeast used for ales
 * **Saccharomyces pastorianus:** 
 	* Type: yeast
 	* Uses: lager
-		* all German styles, except kölsch and altbier
+		* all German styles, except kölsch, altbier, and weizens
 		* Belgian: bière de garde
+		* American: lagers, tend to have more fermentation-derived flavors than European counterparts
 	* Flavors: 
 	* Notes: 
 		* species of yeast used for lagers
