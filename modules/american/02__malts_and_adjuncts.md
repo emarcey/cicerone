@@ -31,4 +31,6 @@ See [[glossary/adjuncts_and_additives|adjuncts_and_additives]]
 		1. very full, bready feel
 	4. Oats: Samuel Smith Oatmeal Stout
 		1. silky feel
-3. 
+3. Can you distinguish between 2 and 6 row malt flavors in a beer?
+	1. Maybe, I would focus on the grain sweetness of the malt
+	2. Probably would prefer 2 row

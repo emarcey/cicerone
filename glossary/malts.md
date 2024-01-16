@@ -20,10 +20,10 @@
 	* US:
 		* beers from smaller breweries
 * Grain:
-	* Shape
-	* Structure
-	* Color
-	* Flavor
+	* Shape: teardrop, larger than 6 row
+	- Structure: bifurcated, with husk, closed at one end
+	- Color: tan a hint of gray
+	- Flavor: bread, dough, a little sweet
 # 6-Row Malt
 * Type: Base
 * Notes:
@@ -46,10 +46,10 @@
 		* American lagers
 			* both for traditional flavor and ability to break down adjuncts
 * Grain:
-	* Shape
-	* Structure
-	* Color
-	* Flavor
+	* Shape: teardrop, smaller than 2 row
+	- Structure: bifurcated, with husk, closed at one end
+	- Color: tan, with a little more gray than 2 row
+	- Flavor: cracker, a touch of sweetness, but less than 2 row, almost like corn
 # Black
 * Type: Specialty
 * Notes:

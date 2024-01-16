@@ -1,0 +1,15 @@
+- 2 row
+	- Shape: teardrop, larger than 6 row
+	- Structure: bifurcated, with husk, closed at one end
+	- Color: tan a hint of gray
+	- Flavor: bread, dough, a little sweet
+- 6 row
+- Shape: teardrop, smaller than 2 row
+- Structure: bifurcated, with husk, closed at one end
+- Color: tan, with a little more gray than 2 row
+- Flavor: cracker, a touch of sweetness, but less than 2 row, almost like corn
+
+- Differences?
+	- 2 row is bigger
+	- 6 row is a little darker, grayer
+	- 2 row is sweeter
