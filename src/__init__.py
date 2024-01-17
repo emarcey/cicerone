@@ -3,6 +3,8 @@ import click
 from collections import OrderedDict, defaultdict
 import colorcet as cc
 import json
+from matplotlib import figure
+from matplotlib.axis import Axis
 from matplotlib.collections import LineCollection
 from matplotlib.colors import BoundaryNorm, ListedColormap
 import matplotlib.pyplot as plt
@@ -183,7 +185,7 @@ def gen_glossary(glossary_file_names: List[str]) -> None:
             f.write(glossary_str)
 
 
-def make_color_chart(fig, axs, sorted_vals: List[any]) -> None:
+def make_color_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> Tuple[figure.Figure, Axis]:
     n = 1000
 
     for i in range(len(sorted_vals)):
@@ -209,7 +211,7 @@ def make_color_chart(fig, axs, sorted_vals: List[any]) -> None:
     return fig, axs
 
 
-def make_metric_chart(fig, axs, sorted_vals: List[Any]) -> None:
+def make_metric_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> Tuple[figure.Figure, Axis]:
     palette = sns.color_palette(cc.glasbey, n_colors=len(sorted_vals))
 
     for i in range(len(sorted_vals)):
