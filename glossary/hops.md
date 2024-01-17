@@ -98,7 +98,7 @@
 * Uses:
 
 # Cascade
-* Location:  Pacific Northwest, United States
+* Location: Pacific Northwest, United States
 * Other Names:
 * Notes:
 	* developed by the USDA hop breeding program and released in 1971
