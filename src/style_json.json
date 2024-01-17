@@ -196,7 +196,8 @@
             "categories": [
                 "American Lagers",
                 "Lagers",
-                "American Pale Lagers and Ales"
+                "American Pale Lagers and Ales",
+                "Light Beers"
             ],
             "malt": [
                 "2-Row",
@@ -270,7 +271,11 @@
                 "\t- American Light Lagers supplanted American Lagers as the #1 brand",
                 "\t- made like an American Lager, but with less malt and grain",
                 "\t\t- sometimes additional enzymatic methods to further degrade carbs and reduce body",
-                "\t\t- reduced alcohol content, malt flavor, and calories"
+                "\t\t- reduced alcohol content, malt flavor, and calories",
+                "experts_attribute_success_to",
+                "\t\t- very light \"non-beer taste\" with minimal bitterness",
+                "\t\t- low caloric content",
+                "\t\t- effective marketing"
             ]
         },
         "Baltic Porter": {
@@ -1489,7 +1494,12 @@
                 "2-Row",
                 "6-Row"
             ],
-            "hops": [],
+            "hops": [
+                "Cluster",
+                "Brewer's Gold",
+                "Northern Brewer",
+                "German aroma hops"
+            ],
             "other_names": [],
             "glassware": [
                 "shaker"

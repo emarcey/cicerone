@@ -83,7 +83,7 @@ refers_to_old_style_of_brewing
 # American Light Lager
 
 - Region: United States
-- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales, Light Beers
 - Malt: 2-Row, 6-Row
 - Hops: light use of American hops
 - Glassware: shaker
@@ -112,6 +112,10 @@ refers_to_old_style_of_brewing
 	- made like an American Lager, but with less malt and grain
 		- sometimes additional enzymatic methods to further degrade carbs and reduce body
 		- reduced alcohol content, malt flavor, and calories
+experts_attribute_success_to
+		- very light "non-beer taste" with minimal bitterness
+		- low caloric content
+		- effective marketing
 
 # Baltic Porter
 
@@ -495,6 +499,7 @@ protected_category
 - Region: United States
 - Categories: American Lagers, Lagers, American Pale Lagers and Ales
 - Malt: 2-Row, 6-Row
+- Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
 - Glassware: shaker
 - Color: straw - light gold (2.0 - 5.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.6% ABV)

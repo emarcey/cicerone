@@ -1,8 +1,71 @@
 # Achel
 -  former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
-
-# Anheuser-busch Inbev
--  one of the largest brewery conglomerates ever
+-  **Anheuser-Busch InBev** (A-B InBev):  American brewery founded in the mid-1852 by Adolphus Busch and brewmaster Irwin Sprule
+-  largest brewery group in the world, with approximately 25% of global market share
+-  History:
+	-  Anheuser Busch:
+		-  1852, founded
+		-  1870s, created beer that would become Budweiser
+		-  1919, survived Prohibition due to vast resources and non-beer interests (diesel engines, corn syrup, ice cream, railroad)
+			-  also marketed Bevo, a "near beer"
+		-  1913, August Busch Sr took the reigns
+		-  1934, Sr killed himself, Adolphus Busch III took over
+		-  1957, surpassed Schlitz to become the largest brewery in the US
+		-  1974, August III took advantage of poor profits to take over from his father
+			-  led a marketing revolution
+			-  in 2007, A-B spent $1.35 billion in marketing
+		-  1982, fought back against Miller Lite with Bud Light
+		-  1997, Bud Light overtook Miller Lite
+		-  2004, Bud Light overtook Budweiser
+		-  2006, August Busch IV became CEO
+		-  2008, hostile takeover by Belgian brewing company InBev
+			-  now headquartered in Leuven, Belgium
+	-  Post-Merger
+		-  2010, 1,600 St. Louis layoffs
+-  Brands
+	-  A total of 20 Brands worldwide
+		-  Hoegaarden
+		-  Leffe
+	-  Anheuser Busch:
+		-  Budweiser:
+			-  first launched a Bohemian style pilsner: St. Louis Lager
+			-  then made: Conrad Budweiser for liquor merchant Carl Conrad
+				-  a variant of the Czech Budweis
+				-  used 23.5% rice, and a combination of American and European hops
+			-  originally a bottled product, so label was a guarantee of origin
+				-  by the late 1870s, it was so copied that Busch had to sue
+			-  **first beer bottled and pasteurized on a large scale**
+			-  1882, Conrad was bankrupt, so brand was transferred to Anheuser-Busch
+				-  1891, Busch finally got perpetual rights, selling 14 million bottles
+				-  1901, Budweiser was 65% of A-B's total volume
+			-  1907, battles with German/Bohemian brewers over name
+				-  settled with large payments
+			-  1984, when A-B tried to break into Europe, UK granted both American and Czech versions rights to use the name
+			-  Post USSR, A-B tried to buy Budweis brewery, but Vaclav Havel stopped the sale
+			-  now known in Europe as "Bud," while Czech version is Czechvar in the US
+			-  2010, European Court denied Budweiser brand registration
+		-  Bud Light:
+			-  1982 launch
+			-  2004, surpassed Budweiser
+			-  now the single largest beer brand in the world
+		-  Michelob
+			-  1901 as draught-only fancy restaurant beer
+			-  1961, bottled
+			-  also been platform for experiments, like Michelob Light and a range of "craft-like" beers
+		-  Shock Top: Belgian-style Witbier associated with Michelob
+		-  Bud Select
+			-  2005, introduced on Superbowl Sunday
+		-  Busch (Busch Light): discount beer (1955)
+		-  Natural Light: discount beer (1977)
+-  Breweries Owned:
+	-  Anheuser Busch:
+		-  12 US Breweries
+		-  Craft Beer:
+			-  Goose Island (100%)
+			-  Red Hook (25%)
+			-  Craft Brewers Alliance (40%)
+				-  Kona, Coastal
+		-  Grupo Modelo (50%)
 
 # Artois
 -  Belgian brewery that merged with others to form Interbrew. Now owned by AB InBev
@@ -39,6 +102,25 @@
 
 # Chiswell Street Brewery
 -  a London-based Porter brewery that was once the 2nd largest brewery in England. Closed during WWII
+
+# Coors Brewing Company
+-  an American brewery founded in Colorado in 1873 by Adolph Kurs
+-  1873,  founded Schueler & Coors Golden Brewery with Jacob Schueler
+-  1880, Coors bought out Schueler and renamed it as Adolph Coors Golden Brewery
+-  1989, settled on Coors Brewing Company
+-  1916-1933, made near beer and malted milk; also had a porcelain plant
+	-  sold malted milk to Mars Candy Company
+-  1933, reopened at 12 AM on the dot
+-  1959, developed first two-piece aluminum can for beverages and implemented sterile filtration in lieu of pasteurization
+-  1978, introduce Coors Light
+-  1970s, trade unions started a boycott
+-  1990, acquired Stroh Brewing Company in Memphis
+	-  operated for 13 years, until closing in 2003
+-  1991, achieved distribution in all states
+-  1992, spun off all non-brewing assets
+-  1994, introduced first flavored malt beverage: Zima
+-  2005, merged with Molson to form Molson Coors Brewing Company
+-  2008, merged with SABMiller to form MillerCoors
 
 # De Kluis
 -  brewery founded by Pierre Celis that revitalized Witbier as "Hoegaarden", later sold to Artois
@@ -147,6 +229,18 @@
 
 # Meux Brewery
 -  London Porter brewery that set the record for largest aging vat. Several people were killed in 1814 when one vat exploded and flooded a street
+
+# Miller Brewing Company
+-  American brewery founded by Frederick Miller in 1855
+-  1855, Miller purchased Plank Road Brewing and renamed
+-  1966, purchased by W.R. Grace
+-  1969, purchased by Philip Morris
+-  1973, Miller Brewing Company was the 7th largest US brewer
+	-  Miller acquired a formula for a "light" beer, a style previously marketed as a diet beer
+		-  re-branded as "Tastes great! Less Filling!"
+-  1980, Miller had tripled in size, becoming the #2 brewer in the US
+-  2002, South African Breweries purchased, and formed SABMiller
+-  2007, SABMiller merged with Molson Coors to form MillerCoors
 
 # Monts De Cats
 -  trappist monastery in France that began selling beer in 2011.

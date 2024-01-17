@@ -7,6 +7,11 @@
 # Brother Thomas
 -  influential monk and lead brewer at Westmalle in the mid 20th century who increased the hops in the Tripel, and helped to establish Achel's brewing practice in 1998
 
+# Busch, Adolphus
+-  German-American businessman who founded Anheuser-Busch in 1852
+-  in 1874, he was instrumental in the development of refrigerated railcars
+-  died in 1913
+
 # Celis, Pierre
 -  man who revitalized the Witbier style in the 1960s and created the beer that would come to be named Hoegaarden
 -  born in 1925

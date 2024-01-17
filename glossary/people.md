@@ -1,6 +1,10 @@
+
 * **Allsopp, Samuel:** English brewer who reverse engineered Hodgson's Pale Ale, and produced a far better version
 * **Ballantine, Peter:** Scottish emigre to the United States in the 1800s. Brought the IPA with him, and his recipe was an inspiration for the IPA revitalization in the craft beer revolution
 * **Brother Thomas:** influential monk and lead brewer at Westmalle in the mid 20th century who increased the hops in the Tripel, and helped to establish Achel's brewing practice in 1998
+* **Busch, Adolphus:** German-American businessman who founded Anheuser-Busch in 1852
+	* in 1874, he was instrumental in the development of refrigerated railcars
+	* died in 1913
 * **Celis, Pierre :** man who revitalized the Witbier style in the 1960s and created the beer that would come to be named Hoegaarden
 	* born in 1925
 	* worked at Tomsin brewery before it closed, and also as a milkman

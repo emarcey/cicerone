@@ -42,55 +42,55 @@
 	- [x] One of
 		- [ ] American Blonde Ale
 		- [x] American Wheat Beer
-- [ ] 7a
+- [x] 7a
 	- [x] American Lager
-	- [ ] Munich Helles
+	- [x] Munich Helles
 - [x] 7b
 	- [x] American Light Lager
 	- [x] American Lager
 	- [x] International Pale Lager
-- [ ] 8a
+- [x] 8a
 	- [x] American Wheat Beer
-	- [ ] Weissbier
-	- [ ] Belgian Witbier
-- [ ] 8b
-	- [ ] American Blonde Ale
-	- [ ] Belgian Blonde Ale
+	- [x] Weissbier
+	- [x] Belgian Witbier
+- [x] 8b
+	- [x] American Blonde Ale
+	- [x] Belgian Blonde Ale
 - [x] 9a
 	- [x] American Pale Ale
 	- [x] American Amber Ale
 - [ ] 9b
 	- [ ] Anchor Steam
-- [ ] 10a
-	- [ ] American Pale Ale
+- [x] 10a
+	- [x] American Pale Ale
 	- [x] American IPA
 		- [x] Goose Island
-	- [ ] Double IPA
+	- [x] Double IPA
 - [ ] 11a
-	- [ ] American Pale Ale
+	- [x] American Pale Ale
 	- [ ] Session IPA
-- [ ] 11b
+- [x] 11b
 	- [x] American IPA
 		- [x] Dogfishhead
-	- [ ] New England IPA
+	- [x] New England IPA
 - [ ] 12a
 	- [x] American Brown Ale
-	- [ ] British Brown Ale
+	- [x] British Brown Ale
 - [ ] 12b
-	- [ ] American Porter
+	- [x] American Porter
 	- [ ] English Porter
 	- [x] Baltic Porter
 - [ ] 13a
 	- [x] Irish Stout
 	- [ ] American Stout
-	- [ ] Imperial Stout
+	- [x] Imperial Stout
 - [ ] 13b
 	- [ ] American Porter
 	- [ ] American Stout
 - [x] 14a
 	- [x] American Barleywine
 	- [x] English Barleywine
-- [ ] 15a
-	- [ ] barrel aged beer
+- [x] 15a
+	- [x] barrel aged beer
 - [ ] 16a
 	- [ ] Brettanomyces or mixed-culture beer that does not fit into a designated style
