@@ -43,6 +43,76 @@ refers_to_old_style_of_brewing
 	- cool fermented with ale yeast
 		- although temperature is between ale and lager yeast (55-65°F, vs 59-77°F and 46-56°F)
 
+# American Lager
+
+- Region: United States
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Malt: 6-Row, 2-Row
+- Hops: light use of American hops
+- Glassware: shaker
+- Color: straw - light gold (2.0 - 4.0 SRM)
+- Alcohol: lower - normal (4.2 - 5.3% ABV)
+- Mouthfeel: 
+	- body: low - medium
+	- carbonation: very high; slight carbonic bite
+	- alcohol_warmth: None
+- Bitterness: low (8.0 - 18.0 IBU)
+- Flavors: 
+	- malt: light, hint of grainy malt; crisp, dry finish
+	- fermentation: occasional low, yeast-derived fruitiness
+	- hop: light spicy or floral hop aroma/flavor
+- Commercial examples: Coors Original, Budweiser, Miller High Life, Pabst Blue Ribbon
+- Pairings: only the lightest of dishes
+- Notes: 
+	- style first developed by German immigrants to the US in the 1800s
+	- originally made with 6 row
+	- unable to filter out haze from 100% 6 row malt
+		- added portion of corn or rice to achieve desired clarity
+		- initially just about 15-20%
+		- early 20th century financial difficulties drove it up to 35%
+	- today, made with a combination of 2 and 6 row malt
+		- 6 row provides traditional flavor profile
+			- also better able to break down adjuncts
+	- critics say it lacks flavor
+		- adjuncts reduce malt flavor and residual sweetness
+		- this, in turn, limits the hops it can support
+		- generally milder when compared to American ales, or to classic European lagers
+	- delicate profile -> flaws in process very obvious
+	- served very cold
+
+# American Light Lager
+
+- Region: United States
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Malt: 2-Row, 6-Row
+- Hops: light use of American hops
+- Glassware: shaker
+- Color: straw (2.0 - 3.0 SRM)
+- Alcohol: lower (2.8 - 4.2% ABV)
+- Mouthfeel: 
+	- body: very light, even watery
+	- carbonation: very high, slight carbonic bite
+	- alcohol_warmth: None
+- Bitterness: low (8.0 - 12.0 IBU)
+- Flavors: 
+	- malt: very low grainy notes
+	- fermentation: may have subtle yeast-derived fruitiness
+	- hop: very low spicy, floral, or herbal character
+- Commercial examples: Bud Light, Coors Light, Miller Lite, Keystone Light, Michelob Light
+- Pairings: do not pair
+- Notes: 
+	- first made by Coors in the 1940s
+	- brewed by Rheingold in 1967 as a diet conscious beer
+	- in 1973, Miller Brewing Company was the 7th largest US brewer
+	- Miller acquired a formula for a "light" beer, a style previously marketed as a diet beer
+		- re-branded as "Tastes great! Less Filling!"
+	- 1980, Miller had tripled in size, becoming the #2 brewer in the US
+	- Anheuser-Busch launched Bud Light in 1982
+	- American Light Lagers supplanted American Lagers as the #1 brand
+	- made like an American Lager, but with less malt and grain
+		- sometimes additional enzymatic methods to further degrade carbs and reduce body
+		- reduced alcohol content, malt flavor, and calories
+
 # Baltic Porter
 
 - Region: Northern and Eastern Europe
@@ -419,6 +489,30 @@ protected_category
 	- relatively new, originated in 1980s
 	- alternative to pale lagers
 	- lighter in color than traditional bitters and distinctly refreshing
+
+# Cream Ale
+
+- Region: United States
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Malt: 2-Row, 6-Row
+- Glassware: shaker
+- Color: straw - light gold (2.0 - 5.0 SRM)
+- Alcohol: lower - normal (4.2 - 5.6% ABV)
+- Mouthfeel: 
+	- body: low - medium; highly-attenuated
+	- carbonation: high
+	- alcohol_warmth: None
+- Bitterness: low (8.0 - 20.0 IBU)
+- Flavors: 
+	- malt: sweet-corn, grain, cracker
+	- fermentation: low fruity esters, low Dimethyl Sulfide
+	- hop: low floral or herbal
+- Commercial examples: Genesee Cream Ale, Little Kinds Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale
+- Pairings: lighter foods and snacks; some craft version can stand up to a little more
+- Notes: 
+	- up to 20% corn, up to 20% sugar in boil
+	- hybrid lagers made with ale yeast (some contemporary version made with lager yeast)
+	- originated in 1800s, survived Prohibition, but relatively rare today
 
 # Czech Premium Pale Lager
 
@@ -1062,6 +1156,28 @@ not_too_similar_to_other_bocks
 	- among the most popular American craft brews
 	- United States produces mre than any other country
 	- can keep well, and age in bottle up to decades
+
+# International Pale Lager
+
+- Region: Global
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Malt: 2-Row, 6-Row
+- Glassware: shaker
+- Color: straw - gold (2.0 - 6.0 SRM)
+- Alcohol: normal (4.5 - 6.0% ABV)
+- Mouthfeel: 
+	- body: light - medium; crisp, well-attenuated finish
+	- carbonation: moderate-high - high
+	- alcohol_warmth: None
+- Bitterness: moderate (18.0 - 25.0 IBU)
+- Flavors: 
+	- malt: moderately-low grain, neutral or cracker
+	- fermentation: low yeast-derived fruitiness optional
+	- hop: moderately-low floral, spicy, or herbal
+- Commercial examples: Heineken, Stella Artois, Corona Extra, Red Stripe, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Asahi Super Dry
+- Notes: 
+	- may include corn or rice adjunct, but often all malt
+	- some similarity to American lagers, but kind of like a low-bitterness helles/pilsner
 
 # Irish Extra Stout
 

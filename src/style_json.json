@@ -101,6 +101,178 @@
                 "\t\t- although temperature is between ale and lager yeast (55-65\u00b0F, vs 59-77\u00b0F and 46-56\u00b0F)"
             ]
         },
+        "American Lager": {
+            "name": "American Lager",
+            "region": "United States",
+            "categories": [
+                "American Lagers",
+                "Lagers",
+                "American Pale Lagers and Ales"
+            ],
+            "malt": [
+                "6-Row",
+                "2-Row"
+            ],
+            "hops": [
+                "light use of American hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "value_low": 2.0,
+                "value_high": 4.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "value_low": 4.2,
+                "value_high": 5.3,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "low - medium",
+                "carbonation": "very high; slight carbonic bite",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "value_low": 8.0,
+                "value_high": 18.0
+            },
+            "flavors": {
+                "malt": [
+                    "light",
+                    "hint of grainy malt; crisp",
+                    "dry finish"
+                ],
+                "fermentation": [
+                    "occasional low",
+                    "yeast-derived fruitiness"
+                ],
+                "hop": [
+                    "light spicy or floral hop aroma/flavor"
+                ]
+            },
+            "commercial_examples": [
+                "Coors Original",
+                "Budweiser",
+                "Miller High Life",
+                "Pabst Blue Ribbon"
+            ],
+            "pairings": [
+                "only the lightest of dishes"
+            ],
+            "notes": [
+                "\t- style first developed by German immigrants to the US in the 1800s",
+                "\t- originally made with 6 row",
+                "\t- unable to filter out haze from 100% 6 row malt",
+                "\t\t- added portion of corn or rice to achieve desired clarity",
+                "\t\t- initially just about 15-20%",
+                "\t\t- early 20th century financial difficulties drove it up to 35%",
+                "\t- today, made with a combination of 2 and 6 row malt",
+                "\t\t- 6 row provides traditional flavor profile",
+                "\t\t\t- also better able to break down adjuncts",
+                "\t- critics say it lacks flavor",
+                "\t\t- adjuncts reduce malt flavor and residual sweetness",
+                "\t\t- this, in turn, limits the hops it can support",
+                "\t\t- generally milder when compared to American ales, or to classic European lagers",
+                "\t- delicate profile -> flaws in process very obvious",
+                "\t- served very cold"
+            ]
+        },
+        "American Light Lager": {
+            "name": "American Light Lager",
+            "region": "United States",
+            "categories": [
+                "American Lagers",
+                "Lagers",
+                "American Pale Lagers and Ales"
+            ],
+            "malt": [
+                "2-Row",
+                "6-Row"
+            ],
+            "hops": [
+                "light use of American hops"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw"
+                ],
+                "value_low": 2.0,
+                "value_high": 3.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower"
+                ],
+                "value_low": 2.8,
+                "value_high": 4.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "very light, even watery",
+                "carbonation": "very high, slight carbonic bite",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "value_low": 8.0,
+                "value_high": 12.0
+            },
+            "flavors": {
+                "malt": [
+                    "very low grainy notes"
+                ],
+                "fermentation": [
+                    "may have subtle yeast-derived fruitiness"
+                ],
+                "hop": [
+                    "very low spicy",
+                    "floral",
+                    "or herbal character"
+                ]
+            },
+            "commercial_examples": [
+                "Bud Light",
+                "Coors Light",
+                "Miller Lite",
+                "Keystone Light",
+                "Michelob Light"
+            ],
+            "pairings": [
+                "do not pair"
+            ],
+            "notes": [
+                "\t- first made by Coors in the 1940s",
+                "\t- brewed by Rheingold in 1967 as a diet conscious beer",
+                "\t- in 1973, Miller Brewing Company was the 7th largest US brewer",
+                "\t- Miller acquired a formula for a \"light\" beer, a style previously marketed as a diet beer",
+                "\t\t- re-branded as \"Tastes great! Less Filling!\"",
+                "\t- 1980, Miller had tripled in size, becoming the #2 brewer in the US",
+                "\t- Anheuser-Busch launched Bud Light in 1982",
+                "\t- American Light Lagers supplanted American Lagers as the #1 brand",
+                "\t- made like an American Lager, but with less malt and grain",
+                "\t\t- sometimes additional enzymatic methods to further degrade carbs and reduce body",
+                "\t\t- reduced alcohol content, malt flavor, and calories"
+            ]
+        },
         "Baltic Porter": {
             "name": "Baltic Porter",
             "region": "Northern and Eastern Europe",
@@ -1303,6 +1475,81 @@
                 "\t- relatively new, originated in 1980s",
                 "\t- alternative to pale lagers",
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
+            ]
+        },
+        "Cream Ale": {
+            "name": "Cream Ale",
+            "region": "United States",
+            "categories": [
+                "American Lagers",
+                "Lagers",
+                "American Pale Lagers and Ales"
+            ],
+            "malt": [
+                "2-Row",
+                "6-Row"
+            ],
+            "hops": [],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "light gold"
+                ],
+                "value_low": 2.0,
+                "value_high": 5.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "value_low": 4.2,
+                "value_high": 5.6,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "low - medium; highly-attenuated",
+                "carbonation": "high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "low"
+                ],
+                "value_low": 8.0,
+                "value_high": 20.0
+            },
+            "flavors": {
+                "malt": [
+                    "sweet-corn",
+                    "grain",
+                    "cracker"
+                ],
+                "fermentation": [
+                    "low fruity esters",
+                    "low Dimethyl Sulfide"
+                ],
+                "hop": [
+                    "low floral or herbal"
+                ]
+            },
+            "commercial_examples": [
+                "Genesee Cream Ale",
+                "Little Kinds Cream Ale",
+                "Sleeman Cream Ale",
+                "Sun King Sunlight Cream Ale"
+            ],
+            "pairings": [
+                "lighter foods and snacks; some craft version can stand up to a little more"
+            ],
+            "notes": [
+                "\t- up to 20% corn, up to 20% sugar in boil",
+                "\t- hybrid lagers made with ale yeast (some contemporary version made with lager yeast)",
+                "\t- originated in 1800s, survived Prohibition, but relatively rare today"
             ]
         },
         "Czech Premium Pale Lager": {
@@ -3052,6 +3299,80 @@
                 "\t- among the most popular American craft brews",
                 "\t- United States produces mre than any other country",
                 "\t- can keep well, and age in bottle up to decades"
+            ]
+        },
+        "International Pale Lager": {
+            "name": "International Pale Lager",
+            "region": "Global",
+            "categories": [
+                "American Lagers",
+                "Lagers",
+                "American Pale Lagers and Ales"
+            ],
+            "malt": [
+                "2-Row",
+                "6-Row"
+            ],
+            "hops": [],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 2.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "value_low": 4.5,
+                "value_high": 6.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium; crisp, well-attenuated finish",
+                "carbonation": "moderate-high - high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 18.0,
+                "value_high": 25.0
+            },
+            "flavors": {
+                "malt": [
+                    "moderately-low grain",
+                    "neutral or cracker"
+                ],
+                "fermentation": [
+                    "low yeast-derived fruitiness optional"
+                ],
+                "hop": [
+                    "moderately-low floral",
+                    "spicy",
+                    "or herbal"
+                ]
+            },
+            "commercial_examples": [
+                "Heineken",
+                "Stella Artois",
+                "Corona Extra",
+                "Red Stripe",
+                "Devils Backbone Gold Leaf Lager",
+                "Full Sail Session Premium Lager",
+                "Asahi Super Dry"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- may include corn or rice adjunct, but often all malt",
+                "\t- some similarity to American lagers, but kind of like a low-bitterness helles/pilsner"
             ]
         },
         "Irish Extra Stout": {
