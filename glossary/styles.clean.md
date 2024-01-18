@@ -20,8 +20,7 @@
 - Commercial examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
 - Pairings: medium-intensity food, such as roast pork, smoked sausage, salmon
 - Notes: 
-refers_to_old_style_of_brewing
-	- ale brewing
+	- refers to old style of brewing - ale brewing
 		- evolved from medieval German ales, brewed with lots of hops and wheat (called Broyhan and Keutebier, for example)
 		- Hanseatic League became important figure in preserving and distributing the beer
 		- 1540-41 land record shows 35 Düsseldorf brewers, mostly making Keutebier
@@ -42,6 +41,32 @@ refers_to_old_style_of_brewing
 		- most bitter of 4 producers, lowest hop aroma/flavor
 	- cool fermented with ale yeast
 		- although temperature is between ale and lager yeast (55-65°F, vs 59-77°F and 46-56°F)
+
+# American Blonde Ale
+
+- Region: United States
+- Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
+- Malt: 2-row, pilsner
+- Hops: traditional American
+- Other names: American Blond Ale, American Golden Ale
+- Glassware: shaker
+- Color: straw - gold (3.0 - 6.0 SRM)
+- Alcohol: lower - normal (3.8 - 5.5% ABV)
+- Mouthfeel: 
+	- body: light - medium
+	- carbonation: moderate
+	- alcohol_warmth: None
+- Bitterness: moderate (15.0 - 28.0 IBU)
+- Flavors: 
+	- malt: bread, toast, biscuit; low caramel or honey
+	- fermentation: light fruity flavors
+	- hop: low citrus, floral, fruity, spicy
+- Commercial examples: Firestone Walker 805, Kona Big Wave Golden Ale, Deschutes Twilight Summer Ale, Redhook Blonde, Victory Summer Love
+- Pairings: wide range; lighter dishes or fried food; white fish or poultry without heavy sauce
+- Notes: 
+	- developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers
+	- can include wheat or sugar
+	- emerging Brett/lacto style
 
 # American Lager
 
@@ -132,11 +157,11 @@ experts_attribute_success_to
 	- alcohol_warmth: None
 - Bitterness: moderate (15.0 - 30.0 IBU)
 - Flavors: 
-	- malt: soft flour-like wheat
+	- malt: soft flour-like wheat, bread, dough
 	- fermentation: clean
 	- hop: citrus or fruity American hops
 - Commercial examples: Goose Island 312, Bell's Oberon Ale, Widmer Hefeweizen, Harpoon UFO Hefeweizen, Boulevard Unfiltered Wheat
-- Pairings: lighter foods
+- Pairings: lighter foods; salad, chicken, sushi, cheese
 - Notes: 
 	- modeled after German Hefeweizens, but use 30-50% wheat (less than Germans)
 		- also don't have characteristic banana-clove taste of German Hefeweizen yeast
@@ -177,7 +202,7 @@ experts_attribute_success_to
 # Belgian Blond Ale
 
 - Region: Belgium
-- Categories: Secular and Trappist Strong Ales
+- Categories: Secular and Trappist Strong Ales, Pale Ales, Blonde Ales
 - Malt: Pilsner, some add Munich or other aromatic malts, some use kettle/grain adjuncts to lighten body while boosting ABV
 - Hops: East Kent, Styrian Golding, Noble (Saaz and Hallertau)
 - Glassware: tulip, goblet, chalice
@@ -219,8 +244,7 @@ experts_attribute_success_to
 - Commercial examples: St. Bernardus Abt 12, Chimay Grand Réserve, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
 - Pairings: very heart food; strong cheese; chocolate
 - Notes: 
-first_brewed_in_1948_by_chimay
-	- Grande Réserve
+	- First brewed in 1948 by Chimay - Grande Réserve
 	- La Trappe used Quadrupel with release in 1991
 	- similar to dubbel, but go harder
 	- trappist versions usually drier than secular
@@ -498,7 +522,7 @@ protected_category
 # British Golden Ale
 
 - Region: England
-- Categories: British Pale Ales, Bitters
+- Categories: British Pale Ales, Bitters, Pale Ales, Blonde Ales
 - Malt: lightly-kilned pale malts, corn, sugar
 - Hops: British
 - Other names: English Blonde Ale, Summer Ale, Golden Bitter
@@ -524,7 +548,7 @@ protected_category
 # Cream Ale
 
 - Region: United States
-- Categories: American Lagers, Lagers, American Pale Lagers and Ales
+- Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales
 - Malt: 2-Row, 6-Row
 - Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
 - Glassware: shaker
@@ -1291,7 +1315,7 @@ not_too_similar_to_other_bocks
 # Kölsch
 
 - Region: Cologne, Germany
-- Categories: German Ales, German Hybrid Ales
+- Categories: German Ales, German Hybrid Ales, Blonde Ales
 - Malt: German Pilsner, pale 2-row
 - Hops: Noble hops
 - Other names: Kolsch, Koelsch

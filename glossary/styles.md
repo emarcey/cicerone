@@ -19,7 +19,7 @@
 * Commercial Examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
 * Pairings: medium-intensity food, such as roast pork, smoked sausage, salmon
 * Notes:
-	* refers to old style of brewing: ale brewing
+	* refers to old style of brewing - ale brewing
 		* evolved from medieval German ales, brewed with lots of hops and wheat (called Broyhan and Keutebier, for example)
 		* Hanseatic League became important figure in preserving and distributing the beer
 		* 1540-41 land record shows 35 Düsseldorf brewers, mostly making Keutebier
@@ -243,7 +243,7 @@
 * Commercial Examples: St. Bernardus Abt 12, **Chimay Grand Réserve**, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
 * Pairings: very heart food; strong cheese; chocolate
 * Notes:
-	* First brewed in 1948 by Chimay: Grande Réserve
+	* First brewed in 1948 by Chimay - Grande Réserve
 	* La Trappe used Quadrupel with release in 1991
 	* similar to dubbel, but go harder
 	* trappist versions usually drier than secular

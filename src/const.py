@@ -1,7 +1,7 @@
 import re
 
 STYLE_PATH = "./glossary/styles.md"
-OUT_STYLE_PATH = "./glossary/styles_formatted.md"
+OUT_STYLE_PATH = "./glossary/styles.clean.md"
 JSON_STYLE_PATH = "./src/style_json.json"
 OUT_CHARTS_PATH = "./references/charts"
 

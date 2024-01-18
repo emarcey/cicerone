@@ -77,8 +77,7 @@
                 "salmon"
             ],
             "notes": [
-                "refers_to_old_style_of_brewing",
-                "\t- ale brewing",
+                "\t- refers to old style of brewing - ale brewing",
                 "\t\t- evolved from medieval German ales, brewed with lots of hops and wheat (called Broyhan and Keutebier, for example)",
                 "\t\t- Hanseatic League became important figure in preserving and distributing the beer",
                 "\t\t- 1540-41 land record shows 35 D\u00fcsseldorf brewers, mostly making Keutebier",
@@ -278,6 +277,89 @@
                 "\t\t- effective marketing"
             ]
         },
+        "American Blonde Ale": {
+            "name": "American Blonde Ale",
+            "region": "United States",
+            "categories": [
+                "American Pale Lagers and Ales",
+                "Pale Ales",
+                "Blonde Ales"
+            ],
+            "malt": [
+                "2-row",
+                "pilsner"
+            ],
+            "hops": [
+                "traditional American"
+            ],
+            "other_names": [
+                "American Blond Ale",
+                "American Golden Ale"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 3.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "value_low": 3.8,
+                "value_high": 5.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 15.0,
+                "value_high": 28.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "toast",
+                    "biscuit; low caramel or honey"
+                ],
+                "fermentation": [
+                    "light fruity flavors"
+                ],
+                "hop": [
+                    "low citrus",
+                    "floral",
+                    "fruity",
+                    "spicy"
+                ]
+            },
+            "commercial_examples": [
+                "Firestone Walker 805",
+                "Kona Big Wave Golden Ale",
+                "Deschutes Twilight Summer Ale",
+                "Redhook Blonde",
+                "Victory Summer Love"
+            ],
+            "pairings": [
+                "wide range; lighter dishes or fried food; white fish or poultry without heavy sauce"
+            ],
+            "notes": [
+                "\t- developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers",
+                "\t- can include wheat or sugar",
+                "\t- emerging Brett/lacto style"
+            ]
+        },
         "American Wheat Beer": {
             "name": "American Wheat Beer",
             "region": "United States",
@@ -328,7 +410,9 @@
             },
             "flavors": {
                 "malt": [
-                    "soft flour-like wheat"
+                    "soft flour-like wheat",
+                    "bread",
+                    "dough"
                 ],
                 "fermentation": [
                     "clean"
@@ -345,7 +429,10 @@
                 "Boulevard Unfiltered Wheat"
             ],
             "pairings": [
-                "lighter foods"
+                "lighter foods; salad",
+                "chicken",
+                "sushi",
+                "cheese"
             ],
             "notes": [
                 "\t- modeled after German Hefeweizens, but use 30-50% wheat (less than Germans)",
@@ -446,7 +533,9 @@
             "name": "Belgian Blond Ale",
             "region": "Belgium",
             "categories": [
-                "Secular and Trappist Strong Ales"
+                "Secular and Trappist Strong Ales",
+                "Pale Ales",
+                "Blonde Ales"
             ],
             "malt": [
                 "Pilsner",
@@ -627,8 +716,7 @@
                 "very heart food; strong cheese; chocolate"
             ],
             "notes": [
-                "first_brewed_in_1948_by_chimay",
-                "\t- Grande R\u00e9serve",
+                "\t- First brewed in 1948 by Chimay - Grande R\u00e9serve",
                 "\t- La Trappe used Quadrupel with release in 1991",
                 "\t- similar to dubbel, but go harder",
                 "\t- trappist versions usually drier than secular",
@@ -1479,7 +1567,9 @@
             "region": "England",
             "categories": [
                 "British Pale Ales",
-                "Bitters"
+                "Bitters",
+                "Pale Ales",
+                "Blonde Ales"
             ],
             "malt": [
                 "lightly-kilned pale malts",
@@ -1565,7 +1655,9 @@
             "categories": [
                 "American Lagers",
                 "Lagers",
-                "American Pale Lagers and Ales"
+                "American Pale Lagers and Ales",
+                "Blonde Ales",
+                "Pale Ales"
             ],
             "malt": [
                 "2-Row",
@@ -3714,7 +3806,8 @@
             "region": "Cologne, Germany",
             "categories": [
                 "German Ales",
-                "German Hybrid Ales"
+                "German Hybrid Ales",
+                "Blonde Ales"
             ],
             "malt": [
                 "German Pilsner",
