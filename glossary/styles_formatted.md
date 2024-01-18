@@ -117,6 +117,33 @@ experts_attribute_success_to
 		- low caloric content
 		- effective marketing
 
+# American Wheat Beer
+
+- Region: United States
+- Categories: American Pale Lagers and Ales, Wheat Ales
+- Malt: pilsner, 2-row, about 30-50% wheat malt
+- Hops: traditional American
+- Glassware: shaker
+- Color: straw - gold (3.0 - 6.0 SRM)
+- Alcohol: lower - normal (4.0 - 5.5% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; some creaminess optional
+	- carbonation: moderate-high - high
+	- alcohol_warmth: None
+- Bitterness: moderate (15.0 - 30.0 IBU)
+- Flavors: 
+	- malt: soft flour-like wheat
+	- fermentation: clean
+	- hop: citrus or fruity American hops
+- Commercial examples: Goose Island 312, Bell's Oberon Ale, Widmer Hefeweizen, Harpoon UFO Hefeweizen, Boulevard Unfiltered Wheat
+- Pairings: lighter foods
+- Notes: 
+	- modeled after German Hefeweizens, but use 30-50% wheat (less than Germans)
+		- also don't have characteristic banana-clove taste of German Hefeweizen yeast
+	- developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers
+		- used a clean ale or lager yeast, so subdued fruitiness
+	- has become a popular base for fruit beers
+
 # Baltic Porter
 
 - Region: Northern and Eastern Europe

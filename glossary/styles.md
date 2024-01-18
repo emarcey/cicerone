@@ -114,6 +114,58 @@
 		* very light "non-beer taste" with minimal bitterness
 		* low caloric content
 		* effective marketing
+
+# American Blonde Ale
+* Region: United States
+* Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
+* Malt: 2-row, pilsner
+* Hops: traditional American
+* Other Names: American Blond Ale, American Golden Ale
+* Glassware: shaker
+* Color: straw - gold (3-6 SRM)
+* Alcohol: lower - normal (3.8-5.5% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: moderate
+	* alcohol warmth
+* Bitterness: moderate (15 - 28 IBUs)
+* Flavors: 
+	* malt: bread, toast, biscuit; low caramel or honey
+	* hop: low citrus, floral, fruity, spicy
+	* fermentation: light fruity flavors
+* Commercial Examples: Firestone Walker 805, Kona Big Wave Golden Ale, Deschutes Twilight Summer Ale, Redhook Blonde, Victory Summer Love
+* Pairings: wide range; lighter dishes or fried food; white fish or poultry without heavy sauce
+* Notes:
+	* developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers
+	* can include wheat or sugar
+	* emerging Brett/lacto style
+	
+# American Wheat Beer
+* Region: United States
+* Categories: American Pale Lagers and Ales, Wheat Ales
+* Malt: pilsner, 2-row, about 30-50% wheat malt
+* Hops: traditional American
+* Other Names:
+* Glassware: shaker
+* Color: straw - gold (3-6 SRM)
+* Alcohol: lower - normal (4 - 5.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium; some creaminess optional
+	* carbonation: moderate-high - high
+	* alcohol warmth
+* Bitterness: moderate (15-30 IBUs)
+* Flavors: 
+	* malt: soft flour-like wheat, bread, dough
+	* hop: citrus or fruity American hops
+	* fermentation: clean 
+* Commercial Examples: Goose Island 312, Bell's Oberon Ale, Widmer Hefeweizen, Harpoon UFO Hefeweizen, Boulevard Unfiltered Wheat
+* Pairings: lighter foods; salad, chicken, sushi, cheese
+* Notes:
+	* modeled after German Hefeweizens, but use 30-50% wheat (less than Germans)
+		* also don't have characteristic banana-clove taste of German Hefeweizen yeast
+	* developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers
+		* used a clean ale or lager yeast, so subdued fruitiness
+	* has become a popular base for fruit beers
 # Baltic Porter
 * Region: Northern and Eastern Europe
 * Categories: Porters, British Dark Ales
@@ -146,7 +198,7 @@
 	* **often brewed with lager yeast**
 # Belgian Blond Ale
 * Region: Belgium
-* Categories: Secular and Trappist Strong Ales
+* Categories: Secular and Trappist Strong Ales, Pale Ales, Blonde Ales
 * Malt:
 	* Pilsner
 	* some add Munich or other aromatic malts
@@ -477,7 +529,7 @@
 
 # British Golden Ale
 * Region: England
-* Categories: British Pale Ales, Bitters
+* Categories: British Pale Ales, Bitters, Pale Ales, Blonde Ales
 * Malt: lightly-kilned pale malts, corn, sugar
 * Hops: British
 * Other Names: English Blonde Ale, Summer Ale, Golden Bitter
@@ -502,7 +554,7 @@
 
 # Cream Ale
 * Region: United States
-* Categories: American Lagers, Lagers, American Pale Lagers and Ales
+* Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales
 * Malt: 2-Row, 6-Row
 * Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
 * Other Names:
@@ -1249,7 +1301,7 @@
 
 # Kölsch
 * Region: Cologne, Germany
-* Categories: German Ales, German Hybrid Ales
+* Categories: German Ales, German Hybrid Ales, Blonde Ales
 * Malt: German Pilsner, pale 2-row
 * Hops: Noble hops
 * Other Names: Kolsch, Koelsch

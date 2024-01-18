@@ -278,6 +278,83 @@
                 "\t\t- effective marketing"
             ]
         },
+        "American Wheat Beer": {
+            "name": "American Wheat Beer",
+            "region": "United States",
+            "categories": [
+                "American Pale Lagers and Ales",
+                "Wheat Ales"
+            ],
+            "malt": [
+                "pilsner",
+                "2-row",
+                "about 30-50% wheat malt"
+            ],
+            "hops": [
+                "traditional American"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 3.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "value_low": 4.0,
+                "value_high": 5.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; some creaminess optional",
+                "carbonation": "moderate-high - high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 15.0,
+                "value_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "soft flour-like wheat"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "citrus or fruity American hops"
+                ]
+            },
+            "commercial_examples": [
+                "Goose Island 312",
+                "Bell's Oberon Ale",
+                "Widmer Hefeweizen",
+                "Harpoon UFO Hefeweizen",
+                "Boulevard Unfiltered Wheat"
+            ],
+            "pairings": [
+                "lighter foods"
+            ],
+            "notes": [
+                "\t- modeled after German Hefeweizens, but use 30-50% wheat (less than Germans)",
+                "\t\t- also don't have characteristic banana-clove taste of German Hefeweizen yeast",
+                "\t- developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers",
+                "\t\t- used a clean ale or lager yeast, so subdued fruitiness",
+                "\t- has become a popular base for fruit beers"
+            ]
+        },
         "Baltic Porter": {
             "name": "Baltic Porter",
             "region": "Northern and Eastern Europe",
