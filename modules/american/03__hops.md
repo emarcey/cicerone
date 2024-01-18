@@ -47,3 +47,17 @@ Catty | Earthy
 
 classic - Cascade, Centennial, Chinook - pine resin and citrus (especially grapefruit)
 newer - Simcoe, Citra, Amarillo, Mosaic - wider range of tropical fruit, catty (cat pee, gooseberry, black currant, passionfruit), and even sulfur-driven onion and garlic
+
+# Discussion Questions
+
+1. Why do you think American hop descriptions are so much more specific than European?
+	1. There's a wider range, and the flavors are more pronounced
+2. Why do you think American IPAs are so popular?
+	1. They're packed with flavor
+	2. And there's a machismo aspect to the bitterness arms race
+3. Which hops and hop flavors do you like?
+	1. Miny
+	2. Spicy
+	3. Citrus
+	4. Cascade
+	5. Celeia

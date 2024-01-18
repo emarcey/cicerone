@@ -32,7 +32,7 @@
 	- [x] German Pils
 - [x] 3b
 	- [x] Three different American IPAs
-		- [x] Lawson's
+		- [x] Goose Island
 		- [x] Harpoon
 		- [x] Elysian
 - [x] 4a
@@ -61,14 +61,16 @@
 	- [x] American Amber Ale
 - [ ] 9b
 	- [ ] Anchor Steam
+		- [ ] Ordered
 - [x] 10a
 	- [x] American Pale Ale
 	- [x] American IPA
-		- [x] Goose Island
+		- [x] Lawson's
 	- [x] Double IPA
 - [ ] 11a
 	- [x] American Pale Ale
 	- [ ] Session IPA
+		- [ ] Ordered
 - [x] 11b
 	- [x] American IPA
 		- [x] Dogfishhead
@@ -79,6 +81,7 @@
 - [ ] 12b
 	- [x] American Porter
 	- [ ] English Porter
+		- [ ] Ordered
 	- [x] Baltic Porter
 - [ ] 13a
 	- [x] Irish Stout
