@@ -1,4 +1,5 @@
 import re
+import seaborn as sns
 
 STYLE_PATH = "./glossary/styles.md"
 OUT_STYLE_PATH = "./glossary/styles.clean.md"
@@ -96,3 +97,6 @@ SRM_TO_HEX = [
     "#3e0c11",
     "#3c0c11",
 ]
+
+IBU_TO_RGB = sns.color_palette("Greens", n_colors=100)
+ABV_TO_RGB = sns.color_palette("magma_r", n_colors=18)

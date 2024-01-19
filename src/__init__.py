@@ -3,10 +3,11 @@ import click
 from collections import OrderedDict, defaultdict
 import colorcet as cc
 import json
-from matplotlib import figure
+from matplotlib import cm, figure
 from matplotlib.axis import Axis
 from matplotlib.collections import LineCollection
 from matplotlib.colors import BoundaryNorm, ListedColormap
+import matplotlib.patheffects as pe
 import matplotlib.pyplot as plt
 import numpy as np
 import os
@@ -17,12 +18,14 @@ from typing import Any, Dict, List, Tuple
 
 from src.analyze import analyze_historical_results
 from src.const import (
+    ABV_TO_RGB,
     BULLET_REGEX,
     CHART_CATEGORIES,
     FIRST_LINE_REGEX,
     GLOSSARY_FILE_NAMES,
     GLOSSARY_LINE_REGEX,
     HEADER_REGEX,
+    IBU_TO_RGB,
     JSON_STYLE_PATH,
     NON_BULLET_REGEX,
     OUT_CHARTS_PATH,
@@ -185,7 +188,9 @@ def gen_glossary(glossary_file_names: List[str]) -> None:
             f.write(glossary_str)
 
 
-def make_color_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> Tuple[figure.Figure, Axis]:
+def make_color_chart(
+    fig: figure.Figure, axs: Axis, sorted_vals: List[Any], color_list: List[str]
+) -> Tuple[figure.Figure, Axis]:
     n = 1000
 
     for i in range(len(sorted_vals)):
@@ -194,7 +199,7 @@ def make_color_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> T
         y = [i + 1] * n
         points = np.array([x, y]).T.reshape(-1, 1, 2)
         segments = np.concatenate([points[:-1], points[1:]], axis=1)
-        val_color_range = SRM_TO_HEX[math.floor(val["xmin"]) : math.ceil(val["xmax"]) + 1]
+        val_color_range = color_list[math.floor(val["xmin"]) : math.ceil(val["xmax"]) + 1]
 
         cmap = ListedColormap(val_color_range)
         norm = BoundaryNorm(list(range(math.floor(val["xmin"]), math.ceil(val["xmax"]) + 1)), cmap.N)
@@ -202,25 +207,18 @@ def make_color_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> T
         lc.set_array(x)
         y_idx = i + 1
         axs.text(
-            (val["xmin"] + val["xmax"]) / 2, y_idx, val["label"], color=val_color_range[0], ha="center", va="bottom"
+            (val["xmin"] + val["xmax"]) / 2,
+            y_idx,
+            val["label"],
+            color=val_color_range[0],
+            ha="center",
+            va="bottom",
+            path_effects=[pe.withStroke(linewidth=0.15, foreground="black")],
         )
         axs.text(val["xmin"], y_idx, val["xmin"], color="black", ha="right", va="top", size="smaller")
         axs.text(val["xmax"], y_idx, val["xmax"], color="black", va="top", size="smaller")
         lc.set_linewidth(1)
         axs.add_collection(lc)
-    return fig, axs
-
-
-def make_metric_chart(fig: figure.Figure, axs: Axis, sorted_vals: List[Any]) -> Tuple[figure.Figure, Axis]:
-    palette = sns.color_palette(cc.glasbey, n_colors=len(sorted_vals))
-
-    for i in range(len(sorted_vals)):
-        val = sorted_vals[i]
-        y = i + 1
-        axs.hlines(y=y, xmin=val["xmin"], xmax=val["xmax"], colors=palette[i])
-        axs.text((val["xmin"] + val["xmax"]) / 2, y, val["label"], color=palette[i], ha="center", va="bottom")
-        axs.text(val["xmin"], y, val["xmin"], color="black", ha="right", va="top", size="smaller")
-        axs.text(val["xmax"], y, val["xmax"], color="black", va="top", size="smaller")
     return fig, axs
 
 
@@ -241,11 +239,13 @@ def make_chart(target_dir: str, chart_groups: List[BeerStyle], style_cat: str, m
     fig, axs = plt.subplots()
     axs.set_xlim(max(global_xmin - 3, 0), global_xmax + 3)
     axs.set_ylim(0, len(sorted_vals) + 1)
-    if metric_cat == "color":
-        fig, axs = make_color_chart(fig, axs, sorted_vals)
-    else:
-        fig, axs = make_metric_chart(fig, axs, sorted_vals)
+    color_hex_list = SRM_TO_HEX
+    if metric_cat == "bitterness":
+        color_hex_list = IBU_TO_RGB
+    elif metric_cat == "alcohol":
+        color_hex_list = ABV_TO_RGB
 
+    fig, axs = make_color_chart(fig, axs, sorted_vals, color_hex_list)
     plt.yticks([])
     axs.tick_params(axis="y", which="both", bottom=False, top=False, labelbottom=False)
     axs.set_title(title)
