@@ -41,6 +41,57 @@
 	* cool fermented with ale yeast
 		* although temperature is between ale and lager yeast (55-65°F, vs 59-77°F and 46-56°F)
 
+
+# American Amber Ale
+* Region: United States
+* Categories: American Pale Lagers and Ales, Pale Ales
+* Malt: pale ale (American 2-Row), dark crystal or caramel
+* Hops: American, New World
+* Other Names:
+* Glassware: shaker
+* Color: light amber - dark amber (10-17 SRM)
+* Alcohol: normal (4.5-6.2% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: moderate - high
+	* alcohol warmth
+* Bitterness: pronounced (25-40 IBUs)
+* Flavors: 
+	* malt: notable caramel, toffee; never roast, coffee, or chocolate
+	* hop: moderate; grapefruit, pine, other American
+	* fermentation: low fruity esters
+* Commercial Examples: Bell's Amber Ale, North Coast Red Seal Ale, Tröegs HopBack Amber Ale, Full Sail Amber, Saint Arnold Amber Ale
+* Pairings: wide range; chicken, burgers, seafood, spicy food
+* Notes:
+	* originally indistinguishable from Pale Ale
+	* was spun off when consumers were confused by dark amber color of some pale ales
+	* 1994, American Amber Ale first entered as its own GABF category
+	* maltier (especially caramel) and darker in color than American Pale Ale
+# American Blonde Ale
+* Region: United States
+* Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
+* Malt: 2-row, pilsner
+* Hops: traditional American
+* Other Names: American Blond Ale, American Golden Ale
+* Glassware: shaker
+* Color: straw - gold (3-6 SRM)
+* Alcohol: lower - normal (3.8-5.5% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: moderate
+	* alcohol warmth
+* Bitterness: moderate (15 - 28 IBUs)
+* Flavors: 
+	* malt: bread, toast, biscuit; low caramel or honey
+	* hop: low citrus, floral, fruity, spicy
+	* fermentation: light fruity flavors
+* Commercial Examples: Firestone Walker 805, Kona Big Wave Golden Ale, Deschutes Twilight Summer Ale, Redhook Blonde, Victory Summer Love
+* Pairings: wide range; lighter dishes or fried food; white fish or poultry without heavy sauce
+* Notes:
+	* developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers
+	* can include wheat or sugar
+	* emerging Brett/lacto style
+
 # American Lager
 * Region: United States
 * Categories: American Lagers, Lagers, American Pale Lagers and Ales
@@ -115,31 +166,34 @@
 		* low caloric content
 		* effective marketing
 
-# American Blonde Ale
+# American Pale Ale
 * Region: United States
-* Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
-* Malt: 2-row, pilsner
-* Hops: traditional American
-* Other Names: American Blond Ale, American Golden Ale
+* Categories: American Pale Lagers and Ales, Pale Ales
+* Malt: pale ale (American 2-row), small portion of caramel, toffee, biscuit, Vienna
+* Hops: American, New World
+* Other Names:
 * Glassware: shaker
-* Color: straw - gold (3-6 SRM)
-* Alcohol: lower - normal (3.8-5.5% ABV)
+* Color: light gold - light amber (5 - 10 SRM)
+* Alcohol: normal (4.5 - 6.2% ABV)
 * Mouthfeel: 
-	* body: light - medium
-	* carbonation: moderate
+	* body: medium-light - medium
+	* carbonation: moderate - high
 	* alcohol warmth
-* Bitterness: moderate (15 - 28 IBUs)
+* Bitterness: pronounced (30-50 IBUs)
 * Flavors: 
-	* malt: bread, toast, biscuit; low caramel or honey
-	* hop: low citrus, floral, fruity, spicy
-	* fermentation: light fruity flavors
-* Commercial Examples: Firestone Walker 805, Kona Big Wave Golden Ale, Deschutes Twilight Summer Ale, Redhook Blonde, Victory Summer Love
-* Pairings: wide range; lighter dishes or fried food; white fish or poultry without heavy sauce
+	* malt: pie crust, graham cracker, little or no caramel flavor
+	* hop: moderate-high - high; grapefruit, pine, other American hop flavors
+	* fermentation: low fruity esters
+* Commercial Examples: Sierra Nevada Pale Ale, Great Lakes Burning River, Stone Pale Ale 2.0, Sweetwater 420 Extra Pale Ale, Deschutes Mirror Pond, Half Acre Daisy Cutter
+* Pairings: wide range; classic with a burger
 * Notes:
-	* developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers
-	* can include wheat or sugar
-	* emerging Brett/lacto style
-	
+	* originally conceived as an American version of the Best Bitter
+		* more hops, less malt
+		* defined by late kettle additions and dry hopping
+		* generally use water low in calcium carbonate and may add calcium sulfate
+	* first enduring American craft beer style
+		* Sierra Nevada was one of the first
+		* 
 # American Wheat Beer
 * Region: United States
 * Categories: American Pale Lagers and Ales, Wheat Ales
@@ -552,9 +606,37 @@
 	* alternative to pale lagers
 	* lighter in color than traditional bitters and distinctly refreshing
 
+# California Common
+* Region: California, United States
+* Categories: American Pale Lagers and Ales, Pale Ales, Hybrid Ales
+* Malt: pale ale, dark crystal
+* Hops: Northern Brewer
+* Other Names: Anchor Steam, Steam Beer
+* Glassware: shaker
+* Color: light amber - amber (9-14 SRM)
+* Alcohol: normal (4.5 - 5.5% ABV)
+* Mouthfeel: 
+	* body: medium
+	* carbonation: moderate - moderate-high
+	* alcohol warmth
+* Bitterness: moderate (30-45 IBUs)
+* Flavors: 
+	* malt: toasty, caramel
+	* hop: woody, minty (Northern Brewer)
+	* fermentation: clean, but light fruity esters acceptable
+* Commercial Examples: Anchor Steam, Steamworks Steam Engine Lager
+* Pairings: wide range, medium intesnity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
+* Notes:
+	* developed out of immigrant efforts to adapt lager brewing to warm, New World conditions
+	* fermentation conducted in coolships to keep beer cool
+	* considered a hybrid style, featuring lager yeast fermentation at higher temperatures
+	* defined by Anchor steam as reformulated in 1971
+	* shares many similarities with American Amber Ale
+	* steam beer style originated in the 1800s in San Francisco
+	* origin of steam beer name is unclear, may have something to do with coolships
 # Cream Ale
 * Region: United States
-* Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales
+* Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales, Hybrid Ales
 * Malt: 2-Row, 6-Row
 * Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
 * Other Names:

@@ -100,6 +100,172 @@
                 "\t\t- although temperature is between ale and lager yeast (55-65\u00b0F, vs 59-77\u00b0F and 46-56\u00b0F)"
             ]
         },
+        "American Amber Ale": {
+            "name": "American Amber Ale",
+            "region": "United States",
+            "categories": [
+                "American Pale Lagers and Ales",
+                "Pale Ales"
+            ],
+            "malt": [
+                "pale ale (American 2-Row)",
+                "dark crystal or caramel"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "dark amber"
+                ],
+                "value_low": 10.0,
+                "value_high": 17.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "value_low": 4.5,
+                "value_high": 6.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "moderate - high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "value_low": 25.0,
+                "value_high": 40.0
+            },
+            "flavors": {
+                "malt": [
+                    "notable caramel",
+                    "toffee; never roast",
+                    "coffee",
+                    "or chocolate"
+                ],
+                "fermentation": [
+                    "low fruity esters"
+                ],
+                "hop": [
+                    "moderate; grapefruit",
+                    "pine",
+                    "other American"
+                ]
+            },
+            "commercial_examples": [
+                "Bell's Amber Ale",
+                "North Coast Red Seal Ale",
+                "Tr\u00f6egs HopBack Amber Ale",
+                "Full Sail Amber",
+                "Saint Arnold Amber Ale"
+            ],
+            "pairings": [
+                "wide range; chicken",
+                "burgers",
+                "seafood",
+                "spicy food"
+            ],
+            "notes": [
+                "\t- originally indistinguishable from Pale Ale",
+                "\t- was spun off when consumers were confused by dark amber color of some pale ales",
+                "\t- 1994, American Amber Ale first entered as its own GABF category",
+                "\t- maltier (especially caramel) and darker in color than American Pale Ale"
+            ]
+        },
+        "American Blonde Ale": {
+            "name": "American Blonde Ale",
+            "region": "United States",
+            "categories": [
+                "American Pale Lagers and Ales",
+                "Pale Ales",
+                "Blonde Ales"
+            ],
+            "malt": [
+                "2-row",
+                "pilsner"
+            ],
+            "hops": [
+                "traditional American"
+            ],
+            "other_names": [
+                "American Blond Ale",
+                "American Golden Ale"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 3.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "lower",
+                    "normal"
+                ],
+                "value_low": 3.8,
+                "value_high": 5.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "moderate",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 15.0,
+                "value_high": 28.0
+            },
+            "flavors": {
+                "malt": [
+                    "bread",
+                    "toast",
+                    "biscuit; low caramel or honey"
+                ],
+                "fermentation": [
+                    "light fruity flavors"
+                ],
+                "hop": [
+                    "low citrus",
+                    "floral",
+                    "fruity",
+                    "spicy"
+                ]
+            },
+            "commercial_examples": [
+                "Firestone Walker 805",
+                "Kona Big Wave Golden Ale",
+                "Deschutes Twilight Summer Ale",
+                "Redhook Blonde",
+                "Victory Summer Love"
+            ],
+            "pairings": [
+                "wide range; lighter dishes or fried food; white fish or poultry without heavy sauce"
+            ],
+            "notes": [
+                "\t- developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers",
+                "\t- can include wheat or sugar",
+                "\t- emerging Brett/lacto style"
+            ]
+        },
         "American Lager": {
             "name": "American Lager",
             "region": "United States",
@@ -277,87 +443,89 @@
                 "\t\t- effective marketing"
             ]
         },
-        "American Blonde Ale": {
-            "name": "American Blonde Ale",
+        "American Pale Ale": {
+            "name": "American Pale Ale",
             "region": "United States",
             "categories": [
                 "American Pale Lagers and Ales",
-                "Pale Ales",
-                "Blonde Ales"
+                "Pale Ales"
             ],
             "malt": [
-                "2-row",
-                "pilsner"
+                "pale ale (American 2-row)",
+                "small portion of caramel",
+                "toffee",
+                "biscuit",
+                "Vienna"
             ],
             "hops": [
-                "traditional American"
+                "American",
+                "New World"
             ],
-            "other_names": [
-                "American Blond Ale",
-                "American Golden Ale"
-            ],
+            "other_names": [],
             "glassware": [
                 "shaker"
             ],
             "color": {
                 "color_range": [
-                    "straw",
-                    "gold"
+                    "light gold",
+                    "light amber"
                 ],
-                "value_low": 3.0,
-                "value_high": 6.0
+                "value_low": 5.0,
+                "value_high": 10.0
             },
             "alcohol": {
                 "alcohol_range": [
-                    "lower",
                     "normal"
                 ],
-                "value_low": 3.8,
-                "value_high": 5.5,
+                "value_low": 4.5,
+                "value_high": 6.2,
                 "notes": []
             },
             "mouthfeel": {
-                "body": "light - medium",
-                "carbonation": "moderate",
+                "body": "medium-light - medium",
+                "carbonation": "moderate - high",
                 "alcohol_warmth": null
             },
             "bitterness": {
                 "bitterness_range": [
-                    "moderate"
+                    "pronounced"
                 ],
-                "value_low": 15.0,
-                "value_high": 28.0
+                "value_low": 30.0,
+                "value_high": 50.0
             },
             "flavors": {
                 "malt": [
-                    "bread",
-                    "toast",
-                    "biscuit; low caramel or honey"
+                    "pie crust",
+                    "graham cracker",
+                    "little or no caramel flavor"
                 ],
                 "fermentation": [
-                    "light fruity flavors"
+                    "low fruity esters"
                 ],
                 "hop": [
-                    "low citrus",
-                    "floral",
-                    "fruity",
-                    "spicy"
+                    "moderate-high - high; grapefruit",
+                    "pine",
+                    "other American hop flavors"
                 ]
             },
             "commercial_examples": [
-                "Firestone Walker 805",
-                "Kona Big Wave Golden Ale",
-                "Deschutes Twilight Summer Ale",
-                "Redhook Blonde",
-                "Victory Summer Love"
+                "Sierra Nevada Pale Ale",
+                "Great Lakes Burning River",
+                "Stone Pale Ale 2.0",
+                "Sweetwater 420 Extra Pale Ale",
+                "Deschutes Mirror Pond",
+                "Half Acre Daisy Cutter"
             ],
             "pairings": [
-                "wide range; lighter dishes or fried food; white fish or poultry without heavy sauce"
+                "wide range; classic with a burger"
             ],
             "notes": [
-                "\t- developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers",
-                "\t- can include wheat or sugar",
-                "\t- emerging Brett/lacto style"
+                "\t- originally conceived as an American version of the Best Bitter",
+                "\t\t- more hops, less malt",
+                "\t\t- defined by late kettle additions and dry hopping",
+                "\t\t- generally use water low in calcium carbonate and may add calcium sulfate",
+                "\t- first enduring American craft beer style",
+                "\t\t- Sierra Nevada was one of the first"
             ]
         },
         "American Wheat Beer": {
@@ -1649,6 +1817,91 @@
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
             ]
         },
+        "California Common": {
+            "name": "California Common",
+            "region": "California, United States",
+            "categories": [
+                "American Pale Lagers and Ales",
+                "Pale Ales",
+                "Hybrid Ales"
+            ],
+            "malt": [
+                "pale ale",
+                "dark crystal"
+            ],
+            "hops": [
+                "Northern Brewer"
+            ],
+            "other_names": [
+                "Anchor Steam",
+                "Steam Beer"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "amber"
+                ],
+                "value_low": 9.0,
+                "value_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "value_low": 4.5,
+                "value_high": 5.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 30.0,
+                "value_high": 45.0
+            },
+            "flavors": {
+                "malt": [
+                    "toasty",
+                    "caramel"
+                ],
+                "fermentation": [
+                    "clean",
+                    "but light fruity esters acceptable"
+                ],
+                "hop": [
+                    "woody",
+                    "minty (Northern Brewer)"
+                ]
+            },
+            "commercial_examples": [
+                "Anchor Steam",
+                "Steamworks Steam Engine Lager"
+            ],
+            "pairings": [
+                "wide range",
+                "medium intesnity; roast pork",
+                "smoked sausage",
+                "salmon",
+                "coconut-breaded shrimp"
+            ],
+            "notes": [
+                "\t- developed out of immigrant efforts to adapt lager brewing to warm, New World conditions",
+                "\t- fermentation conducted in coolships to keep beer cool",
+                "\t- considered a hybrid style, featuring lager yeast fermentation at higher temperatures",
+                "\t- defined by Anchor steam as reformulated in 1971",
+                "\t- shares many similarities with American Amber Ale",
+                "\t- steam beer style originated in the 1800s in San Francisco",
+                "\t- origin of steam beer name is unclear, may have something to do with coolships"
+            ]
+        },
         "Cream Ale": {
             "name": "Cream Ale",
             "region": "United States",
@@ -1657,7 +1910,8 @@
                 "Lagers",
                 "American Pale Lagers and Ales",
                 "Blonde Ales",
-                "Pale Ales"
+                "Pale Ales",
+                "Hybrid Ales"
             ],
             "malt": [
                 "2-Row",

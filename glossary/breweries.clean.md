@@ -1,5 +1,11 @@
 # Achel
 -  former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
+
+# Anchor Brewing Company
+-  San Francisco brewing company known for their 1971 Anchor Steam beer, which is the template for California Commons
+-  Has trademark on the "steam beer" phrase, so California Common has become the popular name
+-  founded in 1896
+-  in 1965, Fritz Maytag acquired the Anchor Brewing company from the verge of bankruptcy
 -  **Anheuser-Busch InBev** (A-B InBev):  American brewery founded in the mid-1852 by Adolphus Busch and brewmaster Irwin Sprule
 -  largest brewery group in the world, with approximately 25% of global market share
 -  History:
@@ -302,6 +308,12 @@
 	-  led to taste change in flagship beer and decline in sales
 -  1976, Schlitz was 2nd behind Anheuser-Busch
 -  1982, Schlitz abosrbed by Stroh Brewer of Detroit, Michigan
+
+# Sierra Nevada Brewing Company
+-  trailblazing American craft brewery founded by Ken Grossman and Paul Camusi in Chico, California
+-  produced first batch of Sierra Nevada Pale Ale in 1980
+-  also developed the Bigfoot Barleywine, the signature American Barley Wine
+-  currently headquartered in Asheville, NC
 
 # Spaten
 -  Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807
