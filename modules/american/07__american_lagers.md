@@ -9,3 +9,5 @@ Goals
 	- light, crisp taste
 	- low calories
 	- heavy marketing
+- How would you distinguish between cream ale and international pale lager?
+	- Cream ale has sweet-corn taste and potential DMS flavor
