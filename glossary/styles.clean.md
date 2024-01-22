@@ -94,6 +94,45 @@
 	- can include wheat or sugar
 	- emerging Brett/lacto style
 
+# American IPA
+
+- Region: United States
+- Categories: American IPAs, American Hoppy Ales, India Pale Ales
+- Malt: pale ale; restrained use of crystal malt or sugar
+- Hops: American, New World
+- Glassware: shaker
+- Color: gold - amber (6.0 - 14.0 SRM)
+- Alcohol: normal - elevated (5.5 - 7.5% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: None
+- Bitterness: assertive (40.0 - 70.0 IBU)
+- Flavors: 
+	- malt: cracker, biscuit, little caramel or darker malt
+	- fermentation: generally clean, but low esters optional
+	- hop: assertive bitterness and high levels of traditional American hop flavors
+- Commercial examples: Bell's Two Hearted Ale, AleSmith IPA, Russian River Blind Pig IPA, Stone IPA, Great Divide Titan IPA, Bear Republic Racer 5 IPA, Victory HopDevil IPA, Sierra Nevada Celebration Ale, Anderson Valley Hop Ottin' IPA, Dogfish Head 60 Minute IPA, Founders Centennial IPA, Anchor Liberty Ale, Avery IPA, Lagunitas IPA
+- Pairings: wide range of food; classic with a burger
+- Notes: 
+	- was a little more delayed in arrival than other American craft styles
+	- First recognized at GABF in 1990, .... and won gold
+		- but there weren't a lot of entries
+	- recipe was derived in large part from Peter Ballantine's 1830 Ballantine IPA
+	- First America versions by Bert Grant in Yakima, Washington
+	- 1991, better representation
+	- 2000, English and American split into 2 categories
+		- 27 - English style entries
+		- 89 - American style entries
+	- 2002, American IPA edged out Pale Ale with 94 vs 93 entries
+	- delayed as a style because the British style had faded by the 80s
+	- but popularity of hoppy American Pale Ales led American brewers to find something even hoppier in the 1990s
+		- a small group of American brewers went to the UK to learn
+		- upon his return, Tomm Tomlinson wrote 2 articles for the magazine, Brewing Techniques in 1994
+			- they became the reference for IPAs
+	- After about 10 years, the IPA became the most popular US craft beer style
+		- one advantage is uniformity - some variation, but you kinda know what you're getting
+
 # American Lager
 
 - Region: United States
@@ -756,6 +795,43 @@ first_public_service
 		- Other breweries chose names ending in -ator
 	- must have original gravity of at least 18°P (~1.074), leading to alcohol content >= 7.0% ABV
 	- similar to Dunkles Bock, usually more intensely malty and sweet
+
+# Double IPA
+
+- Region: United States
+- Categories: American IPAs, American Hoppy Ales, India Pale Ales
+- Malt: neutral base malt; sugar common; crystal seldom
+- Hops: American, New World
+- Other names: Imperial IPA
+- Glassware: tulip
+- Color: gold - amber (6.0 - 14.0 SRM)
+- Alcohol: high (7.5 - 10.0% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: usually present, but low
+- Bitterness: highly assertive (60.0 - 100.0 IBU)
+- Flavors: 
+	- malt: subdued water cracker or biscuit
+	- fermentation: low-moderate fruitiness acceptable
+	- hop: intense to extreme hop aroma, flavor, bitterness; characteristic flavors of American hop varietals
+- Commercial examples: Avery Maharaja, Fat Heads Hop Juju, Victory DirtWolf, Port Brewing Hop 15, Russian River Pliny the Elder, Three Floyds Dreadnaught, Dogfish Head 90 Minute IPA, Founders Double Trouble
+- Pairings: very rich food; aged gorgonzola; carrot cake
+- Notes: 
+	- bigger, hoppier, bolder IPA
+	- in the 1980s and 1990s, Barleywines were the original strong ales, and they would be produced with extra hops seasonally
+	- In 1994, Vinnie Cilurzo brewed first Double IPA at Blind Pig in Temecula, CA
+	- focus is on hops, but true distinction from Barleywine is on the malt side
+		- Barleywine ramped up pale ale recipe - all malt with a big dose of crystal
+		- Cilurzo removed the crystal malt and replaced 20% of the pale ale malt with sugar
+			- high alcohol content, but less malt flavor and body
+	- Cilurzo then launched the Pliny the Elder which became famous
+	- By 2000s, many examples available
+	- 2000, not a category at GABF
+	- 2005, Fifth biggest category
+	- 2010, third largest
+	- 2015, 2nd largest after IPA
+		- together, these two accounted for more than 50% of all American-style entries
 
 # Dunkles Bock
 

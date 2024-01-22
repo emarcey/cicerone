@@ -11,6 +11,8 @@
 	* started Brewerij Celis/De Kluis in 1966 and produced Hoegaarden
 	* 1985, brewery was destroyed
 	* bought by Interbrew/Anheuser-Busch Inbev
+* **Cilurzo, Vinnie:** American craft brewer credited with the first Double IPA at Blind Pig in 1994
+	* later founded Russian River and brewed the famous "Pliny the Elder"
 * **DeClerck, Jean:** brewing scientist in the mid 20th century. Collaborated closely with Father Theodore and Chimay. He and his wife are both buried in Chimay's cemetary
 * **Dreher, Anton:** 19th century Austrian brewer whose eponymous brewery introduced the first Vienna Lager in 1836, competing with the newly-created Märzen of Spaten Brewery
 	* he also helped to introduce indirect kilning into Central European brewing practices

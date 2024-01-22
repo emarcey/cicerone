@@ -19,4 +19,10 @@
 - [Pale Lager Comparison](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F13_a__pale_lager_comparison)
 - [Wheat Beer Comparison](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F14_c__wheat_beer_comparison)
 - [Altbier, American Brown Ale, British Brown Ale](obsidian://open?vault=cicerone&file=modules%2Fgerman_and_czech%2Factivities%2F15_c__german_american_ale_comparison)
+
+
+# American
+- [[modules/american/activities/07_a__malt_v_adjunct|American Lager v Munich Helles]]
+- [[modules/american/activities/08_a__wheat_beer_comparison|Witbier, Weissbier, American Wheat Beer]]
+- [[modules/american/activities/08_b__blonde_ale_comparison|Blonde Ale Comparison]]
 - 
