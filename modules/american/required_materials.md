@@ -68,7 +68,7 @@
 		- [x] Lawson's
 	- [x] Double IPA
 - [ ] 11a
-	- [x] American Pale Ale
+	- [ ] American Pale Ale
 	- [ ] Session IPA
 		- [ ] Ordered
 - [x] 11b
@@ -83,17 +83,17 @@
 	- [ ] English Porter
 		- [ ] Ordered
 	- [x] Baltic Porter
-- [ ] 13a
+- [x] 13a
 	- [x] Irish Stout
-	- [ ] American Stout
+	- [x] American Stout
 	- [x] Imperial Stout
-- [ ] 13b
-	- [ ] American Porter
-	- [ ] American Stout
+- [x] 13b
+	- [x] American Porter
+	- [x] American Stout
 - [x] 14a
 	- [x] American Barleywine
 	- [x] English Barleywine
 - [x] 15a
 	- [x] barrel aged beer
-- [ ] 16a
-	- [ ] Brettanomyces or mixed-culture beer that does not fit into a designated style
+- [x] 16a
+	- [x] Brettanomyces or mixed-culture beer that does not fit into a designated style
