@@ -43,7 +43,7 @@
 
 
 # American Amber Ale
-* Region: United States
+* Region: USA
 * Categories: American Pale Lagers and Ales, Pale Ales
 * Malt: pale ale (American 2-Row), dark crystal or caramel
 * Hops: American, New World
@@ -68,7 +68,7 @@
 	* 1994, American Amber Ale first entered as its own GABF category
 	* maltier (especially caramel) and darker in color than American Pale Ale
 # American Blonde Ale
-* Region: United States
+* Region: USA
 * Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
 * Malt: 2-row, pilsner
 * Hops: traditional American
@@ -93,7 +93,7 @@
 	* emerging Brett/lacto style
 
 # American IPA
-* Region: United States
+* Region: USA
 * Categories: American IPAs, American Hoppy Ales, India Pale Ales
 * Malt: pale ale; restrained use of crystal malt or sugar
 * Hops: American, New World
@@ -133,7 +133,7 @@
 		- one advantage is uniformity - some variation, but you kinda know what you're getting
 
 # American Lager
-* Region: United States
+* Region: USA
 * Categories: American Lagers, Lagers, American Pale Lagers and Ales
 * Malt: 6-Row, 2-Row
 * Hops: light use of American hops
@@ -170,7 +170,7 @@
 	* served very cold
 
 # American Light Lager
-* Region: United States
+* Region: USA
 * Categories: American Lagers, Lagers, American Pale Lagers and Ales, Light Beers
 * Malt: 2-Row, 6-Row
 * Hops: light use of American hops
@@ -207,7 +207,7 @@
 		* effective marketing
 
 # American Pale Ale
-* Region: United States
+* Region: USA
 * Categories: American Pale Lagers and Ales, Pale Ales
 * Malt: pale ale (American 2-row), small portion of caramel, toffee, biscuit, Vienna
 * Hops: American, New World
@@ -235,7 +235,7 @@
 		* Sierra Nevada was one of the first
 		* 
 # American Wheat Beer
-* Region: United States
+* Region: USA
 * Categories: American Pale Lagers and Ales, Wheat Ales
 * Malt: pilsner, 2-row, about 30-50% wheat malt
 * Hops: traditional American
@@ -401,6 +401,29 @@
 	* in 1971 - Duvel reformulated as golden pale ale to compete with European pilsners
 	* result resembled the Tripel, but is a style of its own
 	* often long maturation/cold conditioning
+
+# Belgian IPA
+* Region: USA, Belgium
+* Categories: Belgian IPAs, IPAs, Specialty IPAs, Specialty
+* Malt: pale ale, sugar adjunct
+* Hops: American, New World, Continental 
+* Other Names:
+* Glassware: 
+* Color: light gold - gold (5 - 8 SRM)
+* Alcohol: elevated (6.2 - 9.5% ABV)
+* Mouthfeel: 
+	* body: light - medium
+	* carbonation: medium - high
+	* alcohol warmth: light, optional
+* Bitterness: assertive (50-100 IBUs)
+* Flavors: 
+	* malt: gentle malt sweetness, honey, caramel
+	* hop: pronounced, reflective of wide variety of hops allowed
+	* fermentation: moderate - high belgian yeast esters; pear, apple, banana, clove, dark stone fruit
+* Commercial Examples: Brewery Vivant Triomphe, Green Flash Le Freak, Houblon Chouffe, Urthel Hop It
+* Pairings: 
+* Notes:
+	* relatively recent phenomenon, mixing American hops with Belgian yeast
 # Belgian Pale Ale
 * Region: Belgium
 * Categories: French and Belgian Beers
@@ -598,6 +621,36 @@
 		* high tannins -> high astringency
 	* refreshing warm weather drink
 	* **resurrected in France/US as a stronger version of Bière de Garde**
+
+# Black IPA
+* Region: USA
+* Categories: American Hoppy Ales, IPAs, American IPAs, Specialty IPAs
+* Malt: debittered roast malts
+* Hops: American, New World
+* Other Names: Cascadian Dark Ale
+* Glassware: shaker
+* Color: brown - black (25-40 SRM)
+* Alcohol: normal - high (5.5 - 9.0% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium; some creaminess
+	* carbonation: moderate
+	* alcohol warmth: light optional
+* Bitterness: highly assertive (50-90 IBUs)
+* Flavors: 
+	* malt: mild roast, chocolate, coffee; never burnt
+	* hop: assertive bitterness; traditional American/New World aromas and flavors
+	* fermentation: low - moderate esters; optional alcohol flavor
+* Commercial Examples: 21st Amendment Back in Black, Stone Sublimely Self-Righteous, Bell's Black Hearted Ale
+* Pairings: intensity and examples
+* Notes:
+	* unique from a Stout in that it uses dehusked black malts, which reduce malt bitterness and aggressive roasted flavors
+	* history
+		* 2010 GABF - 142 entries
+		* 2017 GABF - 408 entries
+		* now usually around 50 entries
+	* this idea led to similar ones
+		* crystal malts -> red IPA
+		* red, black, brown, white, and rye are recognized as specialty IPAs
 # British Brown Ale
 * Region: Britain
 * Categories: British Dark Ales, Brown Ales
@@ -646,6 +699,56 @@
 	* alternative to pale lagers
 	* lighter in color than traditional bitters and distinctly refreshing
 
+# Brown IPA
+* Region: USA
+* Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+* Malt: crystal, chocolate, or other similar, sugar adjunct
+* Hops: American, New World
+* Other Names: 
+* Glassware: shaker
+* Color: brown - black (18-35 SRM)
+* Alcohol: elevated (5.5-7.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: medium - medium-high
+	* alcohol warmth: light, optional
+* Bitterness: assertive (40-70 IBUs)
+* Flavors: 
+	* malt: malty-sweet, milk chocolate, cocoa, toffee, nuts, biscuit, dark caramel
+	* hop: moderate - high; traditional American
+	* fermentation: clean
+* Commercial Examples: Dogfish Head Indian Brown Ale, Harpoon Brown IPA, Russian River Janet’s Brown Ale
+* Pairings:
+* Notes:
+	* stronger and more bitter than American Brown Ale
+	* less roasty than Black IPA
+	* more chocolatey than Red IPA
+
+# Brut IPA
+* Region: USA
+* Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+* Malt: pilsner, pale ale, up to 40% adjunct
+* Hops: American, New World
+* Other Names:
+* Glassware: shaker
+* Color: straw (2-4 SRM)
+* Alcohol: elevated (6-7.5% ABV)
+* Mouthfeel: 
+	* body: very light - light; very dry finish
+	* carbonation: very high; spritzy
+	* alcohol warmth: low, optional
+* Bitterness: moderate (20-30 IBUs)
+* Flavors: 
+	* malt: very low
+	* hop: low perceived bitterness, but lots of American hop flavor
+	* fermentation: neutral - slightly fruity
+* Commercial Examples: Drake's Brightside Extra Brut IPA, Ommegang Brut IPA, Fair State Brewing Co-op The Brut Squad
+* Pairings: 
+* Notes:
+	* originated at Social Kitchen & Brewery in California in 2017
+		* a west coast reaction to the hazy IPA
+	* a bit of a fad beer, most versions are morphing toward low-cal IPA
+
 # California Common
 * Region: California, United States
 * Categories: American Pale Lagers and Ales, Pale Ales, Hybrid Ales
@@ -675,7 +778,7 @@
 	* steam beer style originated in the 1800s in San Francisco
 	* origin of steam beer name is unclear, may have something to do with coolships
 # Cream Ale
-* Region: United States
+* Region: USA
 * Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales, Hybrid Ales
 * Malt: 2-Row, 6-Row
 * Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
@@ -797,7 +900,7 @@
 
 
 # Double IPA
-* Region: United States
+* Region: USA
 * Categories: American IPAs, American Hoppy Ales, India Pale Ales
 * Malt: neutral base malt; sugar common; crystal seldom
 * Hops: American, New World
@@ -1253,9 +1356,10 @@
 	* alcohol warmth
 * Bitterness: low (5-12 IBUs)
 * Flavors: 
-	* malt: coriander, salt (from additives in brew); uncooked sourdough
+	* malt: uncooked sourdough
 	* hop: none
 	* fermentation: tart lactic acid; stone fruit, lemon
+	* other: coriander, salt
 * Commercial Examples: Bayerisch Bahnhof Leipziger Gose, Ritterguts Gose, Anderson Valley The Kimmie the Yink and the Holy Gose, Westbrook Gose, Off Color Troublesome
 * Notes:
 	* brewed with coriander and salt
@@ -1294,6 +1398,41 @@
 	* once bottled, stored for a few months to a year
 		* referment -> new flavors -> **rising carbonation**
 		* may be enjoyed for many years (as much as 2 decades!)
+
+# Hazy IPA
+* Region: USA
+* Categories: American Hoppy Ales, American IPAs, Specialty IPAs IPAs
+* Malt: similar to American IPA but with more flaked grains
+* Hops: American, New World
+* Other Names: New England IPA, Juicy IPA
+* Glassware: shaker
+* Color: straw - gold (3 - 7 SRM)
+* Alcohol: elevated - high (6 - 9% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+	* carbonation: moderate
+	* alcohol warmth: low, optional
+* Bitterness: pronounced (25-60 IBUs)
+* Flavors: 
+	* malt: low-medium; neutral, grain, gread
+	* hop: intense hop aroma of ripe tropical fruit or fruit juice flavors
+	* fermentation: neutral - fruity; supportive of hop flavor; alcohol flavor optional
+* Commercial Examples: The Alchemist Heady Topper, Tree House Julius, Hill Farmstead Susan, Other Half Green Diamonds Double IPA, WeldWerks Juicy Bits, Trillium Congress Street
+* Pairings: 
+* Notes:
+	* derived from experiments in dry hopping
+	* Hazy IPA is product of extreme loads of dry hopping
+	* results in a permanently hazy IPA due to high tannings from dry hops
+	* compared to American IPA
+		* reduced bitterness
+		* higher fruity esters
+		* results in a softer, rounder IPA, now often called "juicy"
+	* First iteration: Heady Topper from The Alchemist in Vermont
+		* brewed periodically in early 200s
+		* explosion in popularity in 2011 after dedicated brewery opened
+		* other regional breweries mimicked -> New England IPA
+	* First added to GABF in 2018 as Juicy or Hazy IPA
+		* biggest entrant in its first year (391 vs 311 for American IPA)
 
 # Helles Bock
 * Region: Germany
@@ -1811,6 +1950,32 @@
 	* German smoked beer based on the Märzen style
 	* Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)
 
+# Red IPA
+* Region: USA
+* Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+* Malt: pale ale, crystal, sugar adjunct
+* Hops: American, New World
+* Other Names:
+* Glassware: shaker
+* Color: amber - brown (11-17 SRM)
+* Alcohol: elevated (5.5-7.5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium; smooth
+	* carbonation: medium - medium-high
+	* alcohol warmth: light, optional
+* Bitterness: assertive (40-70 IBUs)
+* Flavors: 
+	* malt: medium-low - medium malty-sweet; dark caramel, toffee, toasted bread, dark fruit
+	* hop: moderate - strong; traditional American
+	* fermentation: generally clean but light esters or alcohol optional
+* Commercial Examples: Avery Hog Heaven, Cigar City Tocobaga Red IPA, Modern Times Blazing World, Tröegs Nugget Nectar
+* Pairings: 
+* Notes:
+	* like American Amber, but stronger and hoppier
+	* not as malty/sweet as American Strong Ale
+	* Drier, lower ABV, not as malty as American Barleywine
+* similar balance to Brown IPA, but less chocolate/caramel
+
 # Rotbier
 * Region: Franconia, Germany
 * Categories: German Lagers, Lagers, Specialty
@@ -1833,6 +1998,28 @@
 * Notes:
 	* rare, not recognized by BJCP
 	* clear to slightly hazy
+
+# Rye IPA
+* Region: USA
+* Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+* Malt: pale ale, rye
+* Hops: American, New World
+* Other Names:
+* Glassware: shaker
+* Color: gold - amber (6 - 15 SRM)
+* Alcohol: elevated (5.5-8% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium; smooth, slightly creamy
+	* carbonation: medium - medium-high
+	* alcohol warmth: low, optional
+* Bitterness: assertive (50-75 IBUs)
+* Flavors: 
+	* malt: low peppery rye malt; background graininess
+	* hop: prominent - intense; traditional American
+	* fermentation: generally clean but light esters or alcohol optional
+* Commercial Examples: Founders Red’s Rye IPA, Sierra Nevada Ruthless Rye
+* Pairings: 
+* Notes:
 
 # Sahti
 * Region: Finland
@@ -1996,6 +2183,30 @@
 * Commercial Examples: Belhaven Best, McEwan's 60
 * Pairings: lighter food; simple cheeses, lighter preparations of salmon and chicken
 * Notes:
+
+# Session IPA
+* Region: USA
+* Categories: American IPAs, American Hoppy Ales, India Pale Ales
+* Malt: pale ale; restrained use of crystal malt or sugar
+* Hops: American, New World
+* Other Names:
+* Glassware: shaker
+* Color: gold - amber (6 - 14 SRM)
+* Alcohol: low  (3-5% ABV)
+* Mouthfeel: 
+	* body: medium-light - medium
+	* carbonation: moderate - moderate-high
+	* alcohol warmth
+* Bitterness: assertive (40-70 IBUs)
+* Flavors: 
+	* malt: cracker, biscuit, little caramel or darker malt
+	* hop: assertive bitterness and high levels of traditional American hop flavors
+	* fermentation: generally clean, but low esters optional
+* Commercial Examples: Founder's All Day IPA
+* Pairings: wide range of food; classic with a burger
+* Notes:
+	* effectively, an American IPA brewed to session strength
+	* similar to an American Pale Ale, but no caramel flavor permitted, and hop focus tends to be more pronounced
 # Strong Bitter
 * Region: England
 * Categories: British Pale Ales, Bitters
@@ -2227,6 +2438,31 @@
 * Pairings: hearty food, such as roast pork, beef, smoked ham; big desserts; aged cheese
 * Notes:
 	* must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16°P) regulations
+
+# White IPA
+* Region: USA
+* Categories: American Hoppy Ales, American IPAs, IPAs, Wheat Beers, Specialty IPAs
+* Malt: pale ale, malted wheat
+* Hops: American, New World
+* Other Names: Wheat IPA
+* Glassware:  shaker
+* Color: light-gold - gold (5-6 SRM)
+* Alcohol: normal - elevated (5.5-7% ABV)
+* Mouthfeel: 
+	* body: medium-light
+	* carbonation: moderate - moderate-high
+	* alcohol warmth: low, optional
+* Bitterness: assertive (40-70 IBUs)
+* Flavors: 
+	* malt: bready malt
+	* hop: moderate American/New World
+	* fermentation: banana, stone
+	* other: coriander
+* Commercial Examples: New Belgium Accumulation, Deschutes Chainbreaker, Lagunitas A Little Sumpin' Sumpin'
+* Pairings:
+* Notes:
+	* originated in 2010, collab between Oregon's Deschutes Brewing and Kansas City's Boulevard
+		* goal: blend IPA with Belgian Witbier
 # Witbier
 * Region: Belgium
 * Categories: French and Belgian Beers, Wheat Beers
@@ -2247,6 +2483,7 @@
 	* malt: bready, floury, honey, vanilla
 	* fermentation: spicy, citrusy
 	* hop: herbal, citrusy, mild sourness sometimes
+	* other: coriander, Curaçao orange
 * Commercial Examples: Allagash White, Hoegaarden Wit, Ommegang Witte, St. Bernardus Abt 4 Witbier, Blue Moon Belgian White, Shock Top Belgian Ale, Celis White, Lefebvre Blanche de Bruxelles, De Brabandere Wittekerke, Avery White Rascal
 * Pairings: lighter foods, such as mussels, salmon, chicken
 * Notes:

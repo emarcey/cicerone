@@ -67,9 +67,9 @@
 	- [x] American IPA
 		- [x] Lawson's
 	- [x] Double IPA
-- [ ] 11a
-	- [ ] American Pale Ale
-	- [ ] Session IPA
+- [x] 11a
+	- [x] American Pale Ale
+	- [x] Session IPA
 		- [ ] Ordered
 - [x] 11b
 	- [x] American IPA

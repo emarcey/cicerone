@@ -1,6 +1,9 @@
 # Achel
 -  former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 
+# Alchemist, The
+-  Vermont-based brewery that originated the Hazy IPA style with the Heady Topper in the 2000s
+
 # Anchor Brewing Company
 -  San Francisco brewing company known for their 1971 Anchor Steam beer, which is the template for California Commons
 -  Has trademark on the "steam beer" phrase, so California Common has become the popular name

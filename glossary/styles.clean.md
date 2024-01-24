@@ -17,6 +17,7 @@
 	- malt: toast, nut, bread; dry finish
 	- fermentation: light fruity esters (especially dark fruit)
 	- hop: assertive bitterness; low-medium Noble hop flavors
+	- other: 
 - Commercial examples: Uerige Alt, Schlüssel Alt, Füchschen Alt, Schumacher Alt
 - Pairings: medium-intensity food, such as roast pork, smoked sausage, salmon
 - Notes: 
@@ -44,7 +45,7 @@
 
 # American Amber Ale
 
-- Region: United States
+- Region: USA
 - Categories: American Pale Lagers and Ales, Pale Ales
 - Malt: pale ale (American 2-Row), dark crystal or caramel
 - Hops: American, New World
@@ -60,6 +61,7 @@
 	- malt: notable caramel, toffee; never roast, coffee, or chocolate
 	- fermentation: low fruity esters
 	- hop: moderate; grapefruit, pine, other American
+	- other: 
 - Commercial examples: Bell's Amber Ale, North Coast Red Seal Ale, Tröegs HopBack Amber Ale, Full Sail Amber, Saint Arnold Amber Ale
 - Pairings: wide range; chicken, burgers, seafood, spicy food
 - Notes: 
@@ -70,7 +72,7 @@
 
 # American Blonde Ale
 
-- Region: United States
+- Region: USA
 - Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
 - Malt: 2-row, pilsner
 - Hops: traditional American
@@ -87,6 +89,7 @@
 	- malt: bread, toast, biscuit; low caramel or honey
 	- fermentation: light fruity flavors
 	- hop: low citrus, floral, fruity, spicy
+	- other: 
 - Commercial examples: Firestone Walker 805, Kona Big Wave Golden Ale, Deschutes Twilight Summer Ale, Redhook Blonde, Victory Summer Love
 - Pairings: wide range; lighter dishes or fried food; white fish or poultry without heavy sauce
 - Notes: 
@@ -96,7 +99,7 @@
 
 # American IPA
 
-- Region: United States
+- Region: USA
 - Categories: American IPAs, American Hoppy Ales, India Pale Ales
 - Malt: pale ale; restrained use of crystal malt or sugar
 - Hops: American, New World
@@ -112,6 +115,7 @@
 	- malt: cracker, biscuit, little caramel or darker malt
 	- fermentation: generally clean, but low esters optional
 	- hop: assertive bitterness and high levels of traditional American hop flavors
+	- other: 
 - Commercial examples: Bell's Two Hearted Ale, AleSmith IPA, Russian River Blind Pig IPA, Stone IPA, Great Divide Titan IPA, Bear Republic Racer 5 IPA, Victory HopDevil IPA, Sierra Nevada Celebration Ale, Anderson Valley Hop Ottin' IPA, Dogfish Head 60 Minute IPA, Founders Centennial IPA, Anchor Liberty Ale, Avery IPA, Lagunitas IPA
 - Pairings: wide range of food; classic with a burger
 - Notes: 
@@ -135,7 +139,7 @@
 
 # American Lager
 
-- Region: United States
+- Region: USA
 - Categories: American Lagers, Lagers, American Pale Lagers and Ales
 - Malt: 6-Row, 2-Row
 - Hops: light use of American hops
@@ -151,6 +155,7 @@
 	- malt: light, hint of grainy malt; crisp, dry finish
 	- fermentation: occasional low, yeast-derived fruitiness
 	- hop: light spicy or floral hop aroma/flavor
+	- other: 
 - Commercial examples: Coors Original, Budweiser, Miller High Life, Pabst Blue Ribbon
 - Pairings: only the lightest of dishes
 - Notes: 
@@ -172,7 +177,7 @@
 
 # American Light Lager
 
-- Region: United States
+- Region: USA
 - Categories: American Lagers, Lagers, American Pale Lagers and Ales, Light Beers
 - Malt: 2-Row, 6-Row
 - Hops: light use of American hops
@@ -188,6 +193,7 @@
 	- malt: very low grainy notes
 	- fermentation: may have subtle yeast-derived fruitiness
 	- hop: very low spicy, floral, or herbal character
+	- other: 
 - Commercial examples: Bud Light, Coors Light, Miller Lite, Keystone Light, Michelob Light
 - Pairings: do not pair
 - Notes: 
@@ -209,7 +215,7 @@ experts_attribute_success_to
 
 # American Pale Ale
 
-- Region: United States
+- Region: USA
 - Categories: American Pale Lagers and Ales, Pale Ales
 - Malt: pale ale (American 2-row), small portion of caramel, toffee, biscuit, Vienna
 - Hops: American, New World
@@ -225,6 +231,7 @@ experts_attribute_success_to
 	- malt: pie crust, graham cracker, little or no caramel flavor
 	- fermentation: low fruity esters
 	- hop: moderate-high - high; grapefruit, pine, other American hop flavors
+	- other: 
 - Commercial examples: Sierra Nevada Pale Ale, Great Lakes Burning River, Stone Pale Ale 2.0, Sweetwater 420 Extra Pale Ale, Deschutes Mirror Pond, Half Acre Daisy Cutter
 - Pairings: wide range; classic with a burger
 - Notes: 
@@ -237,7 +244,7 @@ experts_attribute_success_to
 
 # American Wheat Beer
 
-- Region: United States
+- Region: USA
 - Categories: American Pale Lagers and Ales, Wheat Ales
 - Malt: pilsner, 2-row, about 30-50% wheat malt
 - Hops: traditional American
@@ -253,6 +260,7 @@ experts_attribute_success_to
 	- malt: soft flour-like wheat, bread, dough
 	- fermentation: clean
 	- hop: citrus or fruity American hops
+	- other: 
 - Commercial examples: Goose Island 312, Bell's Oberon Ale, Widmer Hefeweizen, Harpoon UFO Hefeweizen, Boulevard Unfiltered Wheat
 - Pairings: lighter foods; salad, chicken, sushi, cheese
 - Notes: 
@@ -279,6 +287,7 @@ experts_attribute_success_to
 	- malt: restrained roast, caramel, toast, licorice
 	- fermentation: clean
 	- hop: low to medium spicy
+	- other: 
 - Commercial examples: Sinebrychoff Porter, Okocim Porter, Żywiec Porter, Baltika 6 Porter, Southampton Imperial Porter, Devil's Backbone Danzig
 - Pairings: roasted and smoked food; barbecue, prime rib, chocolate cake
 - Notes: 
@@ -310,6 +319,7 @@ experts_attribute_success_to
 	- malt: grain, cereal, light honey sweetness
 	- fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
 	- hop: low perfumy, floral, spicy aromas
+	- other: 
 - Commercial examples: Leffe Blond, Affligem Blond, Grimbergen Blond, La Trappe Blond, Maredsous 6 Blond, St. Feuillien Blond, Val-Dieu Blond, pFriem Belgian-Style Blonde Ale
 - Pairings: wide range, lighter cheese, mussels, seafood
 - Notes: 
@@ -334,6 +344,7 @@ experts_attribute_success_to
 	- malt: bread, toast, caramel, burnt sugar, chocolate, rum, dark fruit
 	- fermentation: banana, pear, pepper, clove
 	- hop: low, spicy, floral, rosy
+	- other: 
 - Commercial examples: St. Bernardus Abt 12, Chimay Grand Réserve, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
 - Pairings: very heart food; strong cheese; chocolate
 - Notes: 
@@ -362,6 +373,7 @@ experts_attribute_success_to
 	- malt: caramel, brown sugar, dark rum, raisin, plum, dark cherry, chocolate, if Special B then burnt sugar and raisins
 	- fermentation: classic Belgian yeast - banana, pear, spicy, peppery, clove
 	- hop: low, spicy, floral, rosy
+	- other: 
 - Commercial examples: Westmalle Dubbel, Chimay Première, Affligem Dubbel, Corsendonk Pater, La Trappe Dubbel, Grimbergen Dubbel, Ommegang Abbey Ale, St. Bernardus Pater 6, Trappistes Rochefort 6, Westvleteren 8, Achel 8 Bruin
 - Pairings: wide range of hearty food; barbecued ribs, abbey cheese, tiramisu, chocolate cake, medium-intensity desserts
 - Notes: 
@@ -393,6 +405,7 @@ experts_attribute_success_to
 	- malt: grain, lightly sweet, fairly neutral
 	- fermentation: fruity (pear, apple, orange); peppery, spicy
 	- hop: floral, spicy, peppery, clean
+	- other: 
 - Commercial examples: Duvel, Alken-Maes Judas, De Dolle Dulle Teve, Delirium Tremens, Het Anker Lucifer, North Coast PranQster, Russian River Damnation, Van Honsebrouck Brigand, Van Steenberge Piraat
 - Pairings: wide range, salmon, chicken, spicy cuisine (e.g. Thai)
 - Notes: 
@@ -403,6 +416,28 @@ experts_attribute_success_to
 	- in 1971 - Duvel reformulated as golden pale ale to compete with European pilsners
 	- result resembled the Tripel, but is a style of its own
 	- often long maturation/cold conditioning
+
+# Belgian IPA
+
+- Region: USA, Belgium
+- Categories: Belgian IPAs, IPAs, Specialty IPAs, Specialty
+- Malt: pale ale, sugar adjunct
+- Hops: American, New World, Continental
+- Color: light gold - gold (5.0 - 8.0 SRM)
+- Alcohol: elevated (6.2 - 9.5% ABV)
+- Mouthfeel: 
+	- body: light - medium
+	- carbonation: medium - high
+	- alcohol_warmth: light, optional
+- Bitterness: assertive (50.0 - 100.0 IBU)
+- Flavors: 
+	- malt: gentle malt sweetness, honey, caramel
+	- fermentation: moderate - high belgian yeast esters; pear, apple, banana, clove, dark stone fruit
+	- hop: pronounced, reflective of wide variety of hops allowed
+	- other: 
+- Commercial examples: Brewery Vivant Triomphe, Green Flash Le Freak, Houblon Chouffe, Urthel Hop It
+- Notes: 
+	- relatively recent phenomenon, mixing American hops with Belgian yeast
 
 # Belgian Pale Ale
 
@@ -422,6 +457,7 @@ experts_attribute_success_to
 	- malt: toasty, biscuity, nutty, light caramel sweetness
 	- fermentation: classic Belgian yeast, fruity, spicy - orange, pear, apricot, peppery, carefully managed fermentation temperature/conditions to keep yeast character restrained
 	- hop: spicy, herbal, floral, moderate bitterness, East Kent Goldings, Fuggles, Styrian Goldings, Saaz
+	- other: 
 - Commercial examples: Bolleke de Koninck, Dobbel PALM, PALM Spéciale Belge, De Ryck Spécial
 - Pairings: wide range, cheese, mussels, chicken, spicy dishes
 - Notes: 
@@ -448,6 +484,7 @@ experts_attribute_success_to
 	- malt: grain, dough, light honey
 	- fermentation: orange, lemon, apricot, peach, pear, banana, pepper, clove, spice, rose
 	- hop: spicy, herbal, floral; pronounced bitterness
+	- other: 
 - Commercial examples: Westmalle Tripel, Chimay Cinq Cents, Affligem Tripel, La Trappe Tripel, St. Bernardus Tripel, St. Feuillien Tripel, Tripel Karmeliet, Unibroue La Fin du Monde, Victory Golden Monkey, Allagash Triple, Brooklyn Local 1
 - Pairings: roast pork, rich seafood (e.g. lobster), creamy desserts (e.g. crème brûlée)
 - Notes: 
@@ -486,6 +523,7 @@ experts_attribute_success_to
 	- malt: soft bready notes
 	- fermentation: tart, lactic acidity; may have some Brettanomyces profile
 	- hop: none
+	- other: 
 - Commercial examples: Bayerischer Bahnhof Berliner Style Weisse, Professor Fritz Briem 1809 Berliner Weisse, Urban Chestnut Ku'damm
 - Pairings: lightest salads and seafood, mild cheese
 - Notes: 
@@ -534,6 +572,7 @@ protected_category
 	- malt: low - medium; bread, biscuit, toast; sometimes caramel or toffee
 	- fermentation: moderate-low - moderate-high fruity esters
 	- hop: medium - moderate-high bitterness; low - moderate hop flavor; earthy, resiny, floral, fruity
+	- other: 
 - Commercial examples: Fuller's London Pride, Adnams Southwold Bitter, Timothy Taylor Landlord
 - Pairings: wide rang of food; roast chicken or pork; classic with curry
 
@@ -555,6 +594,7 @@ protected_category
 	- malt: malt-forward (toast, biscuit, bread, caramel, toffee)
 	- fermentation: low fruity esters
 	- hop: mild hop (anise, floral, herbal)
+	- other: 
 - Commercial examples: Duyck Jenlain (blonde, amber), Castelain Blond, Castelain CH'TI (blonde, amber, brown), La Choulette (blonde, amber), Saint-Germain Page 24 Reserve Hildegarde (blonde, amber), Saint-Germain Page 24 Brun, Saint-Sylvestre 3 Monts (blonde), Saint Sylvestre Gavroche (amber), Two Brothers Domain DuPage (amber)
 - Pairings: hearty, rich food; steak, roast pork, beef stew; simple desserts
 - Notes: 
@@ -578,6 +618,7 @@ protected_category
 	- malt: 
 	- fermentation: high astringency
 	- hop: 
+	- other: 
 - Commercial examples: Lembeek's 2%
 - Notes: 
 	- popular until 20th century, rarely made now
@@ -586,6 +627,38 @@ protected_category
 		- high tannins -> high astringency
 	- refreshing warm weather drink
 	- resurrected in France/US as a stronger version of Bière de Garde
+
+# Black IPA
+
+- Region: USA
+- Categories: American Hoppy Ales, IPAs, American IPAs, Specialty IPAs
+- Malt: debittered roast malts
+- Hops: American, New World
+- Other names: Cascadian Dark Ale
+- Glassware: shaker
+- Color: brown - black (25.0 - 40.0 SRM)
+- Alcohol: normal - high (5.5 - 9.0% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; some creaminess
+	- carbonation: moderate
+	- alcohol_warmth: light optional
+- Bitterness: highly assertive (50.0 - 90.0 IBU)
+- Flavors: 
+	- malt: mild roast, chocolate, coffee; never burnt
+	- fermentation: low - moderate esters; optional alcohol flavor
+	- hop: assertive bitterness; traditional American/New World aromas and flavors
+	- other: 
+- Commercial examples: 21st Amendment Back in Black, Stone Sublimely Self-Righteous, Bell's Black Hearted Ale
+- Pairings: intensity and examples
+- Notes: 
+	- unique from a Stout in that it uses dehusked black malts, which reduce malt bitterness and aggressive roasted flavors
+	- history
+		- 2010 GABF - 142 entries
+		- 2017 GABF - 408 entries
+		- now usually around 50 entries
+	- this idea led to similar ones
+		- crystal malts -> red IPA
+		- red, black, brown, white, and rye are recognized as specialty IPAs
 
 # British Brown Ale
 
@@ -606,6 +679,7 @@ protected_category
 	- malt: nutty and light caramel
 	- fermentation: clean
 	- hop: malt-hop balance is even; moderate bitterness
+	- other: 
 - Commercial examples: Samuel Smith's Nut Brown Ale, Black Sheep Riggwelter Yorkshire Ale, Maxim Double Maxim, Newcastle Brown Ale
 - Pairings: Roasted meats and a wide range of hearty foods
 - Notes: 
@@ -631,12 +705,63 @@ protected_category
 	- malt: low - medium-low; bread, biscuit; no caramel
 	- fermentation: low - moderate-low fruity esters
 	- hop: medium - medium-high bitterness; pronounced hop flavor; resiny, floral, herbal, earthy
+	- other: 
 - Commercial examples: Hop Back Summer Lightning, Adnams Explorer, Golden Hill Exmoor Gold, Spitfire Golden Ale
 - Pairings: a wide range of food; chicken, spicy cuisine
 - Notes: 
 	- relatively new, originated in 1980s
 	- alternative to pale lagers
 	- lighter in color than traditional bitters and distinctly refreshing
+
+# Brown IPA
+
+- Region: USA
+- Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+- Malt: crystal, chocolate, or other similar, sugar adjunct
+- Hops: American, New World
+- Glassware: shaker
+- Color: brown - black (18.0 - 35.0 SRM)
+- Alcohol: elevated (5.5 - 7.5% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: medium - medium-high
+	- alcohol_warmth: light, optional
+- Bitterness: assertive (40.0 - 70.0 IBU)
+- Flavors: 
+	- malt: malty-sweet, milk chocolate, cocoa, toffee, nuts, biscuit, dark caramel
+	- fermentation: clean
+	- hop: moderate - high; traditional American
+	- other: 
+- Commercial examples: Dogfish Head Indian Brown Ale, Harpoon Brown IPA, Russian River Janet’s Brown Ale
+- Notes: 
+	- stronger and more bitter than American Brown Ale
+	- less roasty than Black IPA
+	- more chocolatey than Red IPA
+
+# Brut IPA
+
+- Region: USA
+- Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+- Malt: pilsner, pale ale, up to 40% adjunct
+- Hops: American, New World
+- Glassware: shaker
+- Color: straw (2.0 - 4.0 SRM)
+- Alcohol: elevated (6.0 - 7.5% ABV)
+- Mouthfeel: 
+	- body: very light - light; very dry finish
+	- carbonation: very high; spritzy
+	- alcohol_warmth: low, optional
+- Bitterness: moderate (20.0 - 30.0 IBU)
+- Flavors: 
+	- malt: very low
+	- fermentation: neutral - slightly fruity
+	- hop: low perceived bitterness, but lots of American hop flavor
+	- other: 
+- Commercial examples: Drake's Brightside Extra Brut IPA, Ommegang Brut IPA, Fair State Brewing Co-op The Brut Squad
+- Notes: 
+	- originated at Social Kitchen & Brewery in California in 2017
+		- a west coast reaction to the hazy IPA
+	- a bit of a fad beer, most versions are morphing toward low-cal IPA
 
 # California Common
 
@@ -657,6 +782,7 @@ protected_category
 	- malt: toasty, caramel
 	- fermentation: clean, but light fruity esters acceptable
 	- hop: woody, minty (Northern Brewer)
+	- other: 
 - Commercial examples: Anchor Steam, Steamworks Steam Engine Lager
 - Pairings: wide range, medium intesnity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
 - Notes: 
@@ -670,7 +796,7 @@ protected_category
 
 # Cream Ale
 
-- Region: United States
+- Region: USA
 - Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales, Hybrid Ales
 - Malt: 2-Row, 6-Row
 - Hops: Cluster, Brewer's Gold, Northern Brewer, German aroma hops
@@ -686,6 +812,7 @@ protected_category
 	- malt: sweet-corn, grain, cracker
 	- fermentation: low fruity esters, low Dimethyl Sulfide
 	- hop: low floral or herbal
+	- other: 
 - Commercial examples: Genesee Cream Ale, Little Kinds Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale
 - Pairings: lighter foods and snacks; some craft version can stand up to a little more
 - Notes: 
@@ -712,6 +839,7 @@ protected_category
 	- malt: complex, may be dry or caramel sweet; graham cracker
 	- fermentation: plum or berry, low diacetyl optional
 	- hop: prominent bitterness; low-moderate spicy hop flavor
+	- other: 
 - Commercial examples: Pilsner Urquell, Czechvar (Budvar), Staropramen, Oska Blues Mama's Little Yella Pils
 - Pairings: wide range of lighter food; chicken, salads, salmon, bratwurst
 - Notes: 
@@ -748,6 +876,7 @@ first_public_service
 	- malt: malt balanced, with caramel, toffee, nutty, light roast
 	- fermentation: clean
 	- hop: low bitterness
+	- other: 
 - Commercial examples: Moorhouse Black Cat, Theakston Traditional Mild, Brain's Dark, Yards Brawler Pugilist Style Ale
 - Pairings: roasted meats and a wide range of hearty foods
 - Notes: 
@@ -782,6 +911,7 @@ first_public_service
 	- malt: toast, bread crusts, nutty malt flavors, caramel, toffee
 	- fermentation: clean, but malt can provide a dark fruit character
 	- hop: low bitterness; minimal flavor and aroma
+	- other: 
 - Commercial examples: Paulaner Salvator, Ayinger Celebrator, Spaten Optimator, Weihenstephaner Korbinian, Tröegs Troegenator Double Bock, Andechs Doppelbock Dunkel
 - Pairings: rich, roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese
 - Notes: 
@@ -798,7 +928,7 @@ first_public_service
 
 # Double IPA
 
-- Region: United States
+- Region: USA
 - Categories: American IPAs, American Hoppy Ales, India Pale Ales
 - Malt: neutral base malt; sugar common; crystal seldom
 - Hops: American, New World
@@ -815,6 +945,7 @@ first_public_service
 	- malt: subdued water cracker or biscuit
 	- fermentation: low-moderate fruitiness acceptable
 	- hop: intense to extreme hop aroma, flavor, bitterness; characteristic flavors of American hop varietals
+	- other: 
 - Commercial examples: Avery Maharaja, Fat Heads Hop Juju, Victory DirtWolf, Port Brewing Hop 15, Russian River Pliny the Elder, Three Floyds Dreadnaught, Dogfish Head 90 Minute IPA, Founders Double Trouble
 - Pairings: very rich food; aged gorgonzola; carrot cake
 - Notes: 
@@ -852,6 +983,7 @@ first_public_service
 	- malt: toast, bread crust, nutty, caramel, toffee; should not be overly sweet
 	- fermentation: clean, but malt can provide a dark fruit character
 	- hop: low bitterness, minimal hop flavor
+	- other: 
 - Commercial examples: Einbecker Ur-Bock Dunkel, Schell's Bock, Aass Bock, Penn Brewery St. Nikolaus Bock, Lindeboom Bock
 - Pairings: rich or spicy food; washed-rind or high-fat bloomy-rind cheese
 - Notes: 
@@ -889,6 +1021,7 @@ success_due_in_part_to_system_of_quality_control
 	- malt: toast, nut, caramel
 	- fermentation: low - moderate banana and clove
 	- hop: low spicy, herbal, floral
+	- other: 
 - Commercial examples: Weihenstephaner Hefeweissbier Dunkel, Franziskaner Hefe-Weisse Dunkel, Ayinger Ur-Weisse, Andechser Dunkles Weissbier, Hacker-Pschorr Dunkel Weisse, Paulaner Hefeweissbier Dunkel
 - Pairings: hearty food, such as roast pork, beef, smoked ham; big desserts; aged cheese
 - Notes: 
@@ -912,6 +1045,7 @@ success_due_in_part_to_system_of_quality_control
 	- malt: rich, toast, caramel
 	- fermentation: clean, but malt can provide dark fruit flavor
 	- hop: low bitterness; no hop flavor
+	- other: 
 - Commercial examples: Kulmbacher Eisbock
 - Pairings: rich, roasty foods (e.g. duck); perfect with chocolate cake and triple cream cheese
 - Notes: 
@@ -938,6 +1072,7 @@ success_due_in_part_to_system_of_quality_control
 	- malt: intense and complex; biscuit, nut, toast, caramel, molasses
 	- fermentation: dark fruit, some alcohol character
 	- hop: highly varied; earthy, herbal
+	- other: 
 - Commercial examples: Fuller's Golden Pride, J.W. Lees Harvest Ale, Weyerbacher Blithering Idiot, Coniston No. 9, Robinson's Old Tom
 - Pairings: very intense food, but best with dessert; try with Stilton cheese
 - Notes: 
@@ -982,6 +1117,7 @@ success_due_in_part_to_system_of_quality_control
 	- malt: biscuit, caramel, toast, toffee
 	- fermentation: fruity or mineral yeast character might be present
 	- hop: moderate-high earthy, floral, herbal
+	- other: 
 - Commercial examples: Meantime London IPA, Brooklyn East IPA, Samuel Smith's India Ale, Fuller's Bengal Lancer
 - Pairings: strong, spicy food; bold, sweet desserts like carrot cake
 - Notes: 
@@ -1033,6 +1169,7 @@ big_names_to_know
 	- malt: chocolate, caramel, toffee, nutty; roast flavors are restrained
 	- fermentation: traditionally had lactic acid, acetobacter, brettanomyces, but no longer common; moderate-low diacetyl optional
 	- hop: earthy, floral British hops
+	- other: 
 - Commercial examples: Fuller's London Porter, Samuel Smith's Taddy Porter, Harviestoun Old Engine Oil
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1080,6 +1217,7 @@ big_names_to_know
 	- malt: 
 	- fermentation: very sweet
 	- hop: 
+	- other: 
 - Commercial examples: Brouwerij Lindemans, Brouwerij DeTroch, Brasserie Cantillon
 - Notes: 
 	- historical beer made from Lambic wort, not commonly made today
@@ -1109,6 +1247,7 @@ big_names_to_know
 	- malt: malt-balanced; bread, cracker, subtle sweetness
 	- fermentation: clean
 	- hop: low - moderate bitterness; minimal hop flavor/aroma
+	- other: 
 - Commercial examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
 - Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
@@ -1136,6 +1275,7 @@ big_names_to_know
 	- malt: caramel, toast, chocolate
 	- fermentation: tart, fruity, black cherry, plum, current
 	- hop: low earthy wild
+	- other: 
 - Commercial examples: Rodenbach Classic, Rodenbach Grand Cru, Verhaeghe Duchesse de Bourgogne, Bockor Cuvée des Jacobins Rouge, Bruery Terreux Oude Tart, Monk's Café Flemish Sour Ale, New Belgium La Folie, Panil Barriquée, Verhaeghe Vichtenaar
 - Pairings: tangy cheese, rich meat, fried dishes, light fruit tart
 - Notes: 
@@ -1176,6 +1316,7 @@ big_names_to_know
 	- malt: assertive roast flavors of espresso and dark chocolate, often with secondary notes of licorice, molasses, dried fruit, burnt grain
 	- fermentation: clean
 	- hop: assertive bitterness
+	- other: 
 - Commercial examples: Guinness Foreign Extra Stout, Cooper's Best Extra Stout, Pike XXXXX Stout, The Kernel Export Stout
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1199,6 +1340,7 @@ big_names_to_know
 	- malt: minimal, bready grain
 	- fermentation: low-moderate sourness, fruit character; fruity esters; funky barnyard, hay-like, earthy, spicy wild yeast notes
 	- hop: none
+	- other: 
 - Commercial examples: Boon Framboise/Kriek Mariage Parfait, Cantillon Fou' Foune, Cantillon Kriek, Cantillion Rosé de Gambrinus, De Cam Oude Kriek, 3 Fonteinen Oude Kriek, Girardin Kriek, Hanssens Oude Kriek, Oud Beersel Framboise, Oud Beersel Kriek, Oude Quetsche Tilquin à l'ancienne, Lindemans Framboise/Kriek
 - Pairings: excellent with desserts
 - Notes: 
@@ -1234,6 +1376,7 @@ big_names_to_know
 	- malt: grain, sweet, doughy, honey, toasted
 	- fermentation: clean
 	- hop: medium-high bitterness, spicy, flowery, herbal
+	- other: 
 - Commercial examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
 - Pairings: wide range of lighter food; salads, seafood, bratwurst
 - Notes: 
@@ -1261,9 +1404,10 @@ big_names_to_know
 	- alcohol_warmth: None
 - Bitterness: low (5.0 - 12.0 IBU)
 - Flavors: 
-	- malt: coriander, salt (from additives in brew); uncooked sourdough
+	- malt: uncooked sourdough
 	- fermentation: tart lactic acid; stone fruit, lemon
 	- hop: none
+	- other: coriander, salt
 - Commercial examples: Bayerisch Bahnhof Leipziger Gose, Ritterguts Gose, Anderson Valley The Kimmie the Yink and the Holy Gose, Westbrook Gose, Off Color Troublesome
 - Notes: 
 	- brewed with coriander and salt
@@ -1287,6 +1431,7 @@ big_names_to_know
 	- malt: honey, bread, vanilla
 	- fermentation: acidity with fruit (apple citrus, tropical, grape), hay/barnyard yeast
 	- hop: none
+	- other: 
 - Commercial examples: Boon Oude Geuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
 - Pairings: difficult to pair, but nice with seafood and some cheeses
 - Notes: 
@@ -1305,6 +1450,43 @@ big_names_to_know
 	- once bottled, stored for a few months to a year
 		- referment -> new flavors -> rising carbonation
 		- may be enjoyed for many years (as much as 2 decades!)
+
+# Hazy IPA
+
+- Region: USA
+- Categories: American Hoppy Ales, American IPAs, Specialty IPAs IPAs
+- Malt: similar to American IPA but with more flaked grains
+- Hops: American, New World
+- Other names: New England IPA, Juicy IPA
+- Glassware: shaker
+- Color: straw - gold (3.0 - 7.0 SRM)
+- Alcohol: elevated - high (6.0 - 9.0% ABV)
+- Mouthfeel: 
+	- body: medium - medium-full
+	- carbonation: moderate
+	- alcohol_warmth: low, optional
+- Bitterness: pronounced (25.0 - 60.0 IBU)
+- Flavors: 
+	- malt: low-medium; neutral, grain, gread
+	- fermentation: neutral - fruity; supportive of hop flavor; alcohol flavor optional
+	- hop: intense hop aroma of ripe tropical fruit or fruit juice flavors
+	- other: 
+- Commercial examples: The Alchemist Heady Topper, Tree House Julius, Hill Farmstead Susan, Other Half Green Diamonds Double IPA, WeldWerks Juicy Bits, Trillium Congress Street
+- Notes: 
+	- derived from experiments in dry hopping
+	- Hazy IPA is product of extreme loads of dry hopping
+	- results in a permanently hazy IPA due to high tannings from dry hops
+	- compared to American IPA
+		- reduced bitterness
+		- higher fruity esters
+		- results in a softer, rounder IPA, now often called "juicy"
+first_iteration
+	- Heady Topper from The Alchemist in Vermont
+		- brewed periodically in early 200s
+		- explosion in popularity in 2011 after dedicated brewery opened
+		- other regional breweries mimicked -> New England IPA
+	- First added to GABF in 2018 as Juicy or Hazy IPA
+		- biggest entrant in its first year (391 vs 311 for American IPA)
 
 # Helles Bock
 
@@ -1325,6 +1507,7 @@ big_names_to_know
 	- malt: bread, lightly toasted, dough, grainy-sweet
 	- fermentation: clean, low fruity esters optional
 	- hop: moderate bitterness; low spicy and floral hop notes
+	- other: 
 - Commercial examples: Einbecker Mai-Ur-Bock, Capital Maibock, Ayinger Maibock, Gordon Biersch Blonde Bock, Hofbräu Maibock, Mahr's Heller Bock
 - Pairings: rich or spicy food (e.g. Thai); cheesecake, apple strudel
 - Notes: 
@@ -1352,6 +1535,7 @@ not_too_similar_to_other_bocks
 	- malt: coffee, chocolate, licorice, tar, burnt, caramel, toasty
 	- fermentation: dark fruit esters, alcohol
 	- hop: wide range
+	- other: 
 - Commercial examples: 2SP Brewing Co The Russian (English), Courage Imperial Russian Stout (English), Le Coq Imperial Extra Double Stout (English), Samuel Smith Imperial Stout (English), Thornbridge Saint Petersburg (English), Bell's Expedition Stout (American), Great Divide Yeti Imperial Stout (American), North Coast Old Rasputin (American), Oskar Blues Ten Fiddy (American), Sierra Nevada Narwhal (American)
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1390,6 +1574,7 @@ not_too_similar_to_other_bocks
 	- malt: moderately-low grain, neutral or cracker
 	- fermentation: low yeast-derived fruitiness optional
 	- hop: moderately-low floral, spicy, or herbal
+	- other: 
 - Commercial examples: Heineken, Stella Artois, Corona Extra, Red Stripe, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Asahi Super Dry
 - Notes: 
 	- may include corn or rice adjunct, but often all malt
@@ -1413,6 +1598,7 @@ not_too_similar_to_other_bocks
 	- malt: coffee roasted grain, dark chocolate, biscuit, cocoa powder
 	- fermentation: clean
 	- hop: pronounced bitterness
+	- other: 
 - Commercial examples: Guinness Extra Stout, O'Hara's Leann Folláin, Porterhouse XXXX, Sheaf Stout
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1436,6 +1622,7 @@ not_too_similar_to_other_bocks
 	- malt: malt-balanced caramel, toffee, buttered toast, toasty, biscuity
 	- fermentation: low fruity esters
 	- hop: little to none
+	- other: 
 - Commercial examples: Smithwick's Irish Red Ale, O'Hara's Irish Red Ale, Murphy's Irish Red, Great Lakes Conway's Irish Ale, Kilkenny Irish Beer, Porterhouse Nitro Red Ale, Franciscan Well Rebel Red
 - Pairings: wide range; salmon, roast pork, washed-rind cheese
 - Notes: 
@@ -1462,6 +1649,7 @@ not_too_similar_to_other_bocks
 	- malt: coffee-like roast character, acrid, burnt
 	- fermentation: clean
 	- hop: pronounced bitterness
+	- other: 
 - Commercial examples: Guinness Draught, Murphy's Irish Stout, O'Hara's Irish Stout, Beamish Irish Stout, Belhaven Black Scottish stout
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1491,6 +1679,7 @@ not_too_similar_to_other_bocks
 	- malt: bready malt; light grain-sweetness
 	- fermentation: subtle fruity esters
 	- hop: moderate-pronounced bitterness; light Noble hop flavor
+	- other: 
 - Commercial examples: Sunner Kölsch, Gaffel Kölsch, Reissdorf Kölsch, Goose Island Summertime
 - Pairings: lighter food, chicken, salad, salmon, bratwurst
 - Notes: 
@@ -1533,6 +1722,7 @@ who_is_allowed_to_produce
 	- malt: light bready/grain
 	- fermentation: sour, apple, citrus, barnyard, hay, wild yeast; large variation, more complex character in older versions
 	- hop: virtually none
+	- other: 
 - Commercial examples: Cantillon Grand Cru Bruocsella, Oude Lambiek De Cam
 - Pairings: lighter foods; cuts fat nicely
 - Notes: 
@@ -1564,6 +1754,7 @@ two_groups
 	- malt: dry, smoky, bready, grainy
 	- fermentation: lactic acid astringency, lemon, green apple
 	- hop: none
+	- other: 
 - Commercial examples: Live Oak Lichtenhainer, Wöllnitzer Weissbier, Freigeist Abraxas
 - Notes: 
 	- historical style from central Germany
@@ -1589,6 +1780,7 @@ two_groups
 	- malt: toast, biscuit; no sugar or caramel sweetness
 	- fermentation: none
 	- hop: moderate bitterness, low hop flavor and aroma (spicy, herbal, floral if any)
+	- other: 
 - Commercial examples: Hacker-Pschorr Münchner Dunkel, Hofbräu Dunkel, Gordon Biersch Dunkel, Capital Dark, Harpoon Dark, Ayinger Altbairisch Dunkel, Lakefront Eastside Dark, Adeschser Export Dunkel
 - Pairings: hearty, spicy food; barbecue, sausages, roast meat, bread pudding
 - Notes: 
@@ -1619,6 +1811,7 @@ two_groups
 	- malt: grainy-sweet, white bread, cracker; crisp finish
 	- fermentation: clean
 	- hop: moderate bitterness; little hop flavor or aroma (spicy, herbal, floral)
+	- other: 
 - Commercial examples: Weihenstephaner Original, Hofbräu Original, Spaten Premium Lager, Hacker Pschorr Münchner Gold, Andechser Vollbier Hell, Augustiner Lagerbier Hell
 - Pairings: wide range of lighter food; salads, seafood; classic with Weisswurst
 - Notes: 
@@ -1654,6 +1847,7 @@ two_groups
 	- malt: malt balanced; toast, biscuit; aroma may be sweet, but flavor should not be
 	- fermentation: clean
 	- hop: low - moderate bitterness; very low aroma/flavor
+	- other: 
 - Commercial examples: Hacker Pschorr Oktoberfest-Märzen, Paulaner Oktoberfest-Märzen, Ayinger Oktoberfest-Märzen, Samuel Adams Oktoberfest, Victory Festbier
 - Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
@@ -1686,6 +1880,7 @@ two_groups
 	- malt: medium malt sweetness with coffee roast flavors; coffee with sweetener
 	- fermentation: clean
 	- hop: moderate bitterness
+	- other: 
 - Commercial examples: Samuel Smith's Oatmeal Stout, St-Ambroise Oatmeal Stout, Anderson Valley Barney Flats Oatmeal Stout, New Holland The Poet, Summit Oatmeal Stout
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -1717,6 +1912,7 @@ two_groups
 	- malt: caramel, toffee, treacle, molasses
 	- fermentation: fruity esters (vinous dried fruit); oxidation flavors (sherry or port); lactic acid and brett flavors
 	- hop: depends on aging
+	- other: 
 - Commercial examples: Greene King Olde Suffolk Vintage Ale, Gale's Prize Old Ale, Founders Curmudgeon Old Ale, Fuller's Vintage Ale, Avery Old Jubilation Ale, Berlina Old Ale, Coniston Brewing Old Man Ale
 - Pairings: big, intense dishes, such as roast beef and lamb; stands up to rich desserts
 - Notes: 
@@ -1751,6 +1947,7 @@ two_groups
 	- malt: low-medium malt flavor; bread, biscuit toast; sometimes caramel or toffee
 	- fermentation: moderate-low - moderate-high fruity esters
 	- hop: moderate - moderate-high bitterness; low - moderate hop flavor; resiny, herbal, floral, fruity
+	- other: 
 - Commercial examples: Fuller's Chiswick Bitter, Greene King IPA, Tetley's Original Bitter, Bateman's XB, Brains Bitter, Brakspear Gravity
 - Pairings: wide rang of food; roast chicken or pork; classic with curry
 - Notes: 
@@ -1790,6 +1987,7 @@ two_groups
 	- malt: caramel, chocolate, mitty
 	- fermentation: sweet and sour, raisin, plum, fig, date, black cherry
 	- hop: none
+	- other: 
 - Commercial examples: Liefmans Goudenband, Liefmans Oud Bruin, Ichtegem Oud Bruin, Petrus Oud Bruin, VanderGhinste Roodbruin
 - Pairings: tangy cheese, rich meat, fried dishes, light fruit tart
 - Notes: 
@@ -1829,10 +2027,36 @@ two_groups
 	- malt: malt-balanced; toast, biscuit; light - overwhelming wood smoke flavor
 	- fermentation: clean
 	- hop: low - moderate bitterness; very low hop aroma/flavor
+	- other: 
 - Commercial examples: Aecht Schlenkerla Rauchbier Märzen, Aecht Schlenkerla Rauchbier Urbock, Aecht Schlenkerla Eiche, Spezia Rauchbier Lager
 - Notes: 
 	- German smoked beer based on the Märzen style
 	- Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)
+
+# Red IPA
+
+- Region: USA
+- Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+- Malt: pale ale, crystal, sugar adjunct
+- Hops: American, New World
+- Glassware: shaker
+- Color: amber - brown (11.0 - 17.0 SRM)
+- Alcohol: elevated (5.5 - 7.5% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; smooth
+	- carbonation: medium - medium-high
+	- alcohol_warmth: light, optional
+- Bitterness: assertive (40.0 - 70.0 IBU)
+- Flavors: 
+	- malt: medium-low - medium malty-sweet; dark caramel, toffee, toasted bread, dark fruit
+	- fermentation: generally clean but light esters or alcohol optional
+	- hop: moderate - strong; traditional American
+	- other: 
+- Commercial examples: Avery Hog Heaven, Cigar City Tocobaga Red IPA, Modern Times Blazing World, Tröegs Nugget Nectar
+- Notes: 
+	- like American Amber, but stronger and hoppier
+	- not as malty/sweet as American Strong Ale
+	- Drier, lower ABV, not as malty as American Barleywine
 
 # Rotbier
 
@@ -1853,10 +2077,32 @@ two_groups
 	- malt: light toast, caramel, biscuit, sweetness
 	- fermentation: clean, no fruity esters nor other characteristics
 	- hop: low-medium low, typical noble hops attributes
+	- other: 
 - Commercial examples: Schlenkerla Rotbier (also kind of a Rauchbier)
 - Notes: 
 	- rare, not recognized by BJCP
 	- clear to slightly hazy
+
+# Rye IPA
+
+- Region: USA
+- Categories: American IPAs, IPAs, Specialty IPAs, Specialty
+- Malt: pale ale, rye
+- Hops: American, New World
+- Glassware: shaker
+- Color: gold - amber (6.0 - 15.0 SRM)
+- Alcohol: elevated (5.5 - 8.0% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium; smooth, slightly creamy
+	- carbonation: medium - medium-high
+	- alcohol_warmth: low, optional
+- Bitterness: assertive (50.0 - 75.0 IBU)
+- Flavors: 
+	- malt: low peppery rye malt; background graininess
+	- fermentation: generally clean but light esters or alcohol optional
+	- hop: prominent - intense; traditional American
+	- other: 
+- Commercial examples: Founders Red’s Rye IPA, Sierra Nevada Ruthless Rye
 
 # Sahti
 
@@ -1875,6 +2121,7 @@ two_groups
 	- malt: sweet, worty, caramel, toffee, woody, piney (due to juniper)
 	- fermentation: banana-clove yeast character
 	- hop: low if any
+	- other: 
 - Notes: 
 	- traditional Finnish farmhouse style, at least 500 years old
 	- notably, one of few beers that do not boil the wort
@@ -1906,6 +2153,7 @@ two_groups
 	- malt: grainy, bready
 	- fermentation: spicy, fruity phenolic characteristics
 	- hop: earthy, herbal
+	- other: 
 - Commercial examples: Saison DuPont, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle, Transmitter Bière de Garde
 - Pairings: substantial salads, chicken, richer seafood dishes; very nice with bloomy-rind cheese; earthier version great with ripened goat cheese
 - Notes: 
@@ -1943,6 +2191,7 @@ two_groups
 	- malt: toast, roast, chocolate, dark caramel, never burnt
 	- fermentation: none
 	- hop: low - moderate low; spicy, floral, herbal
+	- other: 
 - Commercial examples: Köstritzer Schwarzbier, Samuel Adams Black Lager, Uinta Baba Black Lager, Sprecher Black Bavarian, Kulmbacher Mönchsof Schwarzbier, Devils Backbone Schwartzbier
 - Pairings: hearty, spicy food such as barbecue, sausages, roast meat; bread pudding
 - Notes: 
@@ -1969,6 +2218,7 @@ two_groups
 	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
+	- other: 
 - Commercial examples: McEwan's 70
 - Pairings: lighter food; moderately intense cheeses, lighter preparations of salmon and pork
 
@@ -1991,6 +2241,7 @@ two_groups
 	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
+	- other: 
 - Commercial examples: McEwan's 70
 - Pairings: lighter food; simple cheeses, lighter preparations of salmon and chicken
 
@@ -2013,8 +2264,34 @@ two_groups
 	- malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
+	- other: 
 - Commercial examples: Belhaven Best, McEwan's 60
 - Pairings: lighter food; simple cheeses, lighter preparations of salmon and chicken
+
+# Session IPA
+
+- Region: USA
+- Categories: American IPAs, American Hoppy Ales, India Pale Ales
+- Malt: pale ale; restrained use of crystal malt or sugar
+- Hops: American, New World
+- Glassware: shaker
+- Color: gold - amber (6.0 - 14.0 SRM)
+- Alcohol: low (3.0 - 5.0% ABV)
+- Mouthfeel: 
+	- body: medium-light - medium
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: None
+- Bitterness: assertive (40.0 - 70.0 IBU)
+- Flavors: 
+	- malt: cracker, biscuit, little caramel or darker malt
+	- fermentation: generally clean, but low esters optional
+	- hop: assertive bitterness and high levels of traditional American hop flavors
+	- other: 
+- Commercial examples: Founder's All Day IPA
+- Pairings: wide range of food; classic with a burger
+- Notes: 
+	- effectively, an American IPA brewed to session strength
+	- similar to an American Pale Ale, but no caramel flavor permitted, and hop focus tends to be more pronounced
 
 # Strong Bitter
 
@@ -2035,6 +2312,7 @@ two_groups
 	- malt: bread, biscuit, nut, toasty; low caramel, toffee
 	- fermentation: moderate-low - high fruity esters
 	- hop: medium - medium high bitterness; noticeable hop flavor; floral, earthy, resiny, herbal
+	- other: 
 - Commercial examples: Bass Pale Ale, Morland Old Speckled Hen, Shipyard Old Thumper, Adnams Broadside, Shepherd Neame Bishop's Finger, Robinsons Trooper
 - Pairings: wide rang of food; roast chicken or pork; classic with curry
 
@@ -2057,6 +2335,7 @@ two_groups
 	- malt: medium-high malt sweetness, with coffee or chocolate flavors
 	- fermentation: clean
 	- hop: low
+	- other: 
 - Commercial examples: Mackeson's XXX Stout, Samuel Adams Cream Stout, Left Hand Milk Stout, Hitachino Nest Sweet Stout, Firestone Walker Nitro Merlin Milk Stout, Bristol Beer Factor Milk Stout, Mast Land Brewing Gunner's Daughter
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -2091,6 +2370,7 @@ two_groups
 	- malt: grain, honey
 	- fermentation: fruit (apple, pear, citrus, stone fruit), with pepper/clove bitterness, dry finish
 	- hop: floral, herbal hop flavors
+	- other: 
 - Commercial examples: Westmalle Extra, Westvleteren Blond, St. Bernardus Extra 4, Chimay Gold, La Trappe Puur, Petite Orval (Orval Verte), Witkap Pater Singel, Achel 5, 
 - Notes: 
 	- low strength brew for meals/daily occasions
@@ -2120,6 +2400,7 @@ two_groups
 	- malt: strong chocolate and coffee notes with dried fruit and notable sweetness; may feature licorice and molasses, but should never have burnt flavor
 	- fermentation: clean
 	- hop: pronounced bitterness
+	- other: 
 - Commercial examples: Lion Stout, Dragon Stout, Jamaica Stout, ABC Extra Stout, Royal Extra Stout
 - Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
 - Notes: 
@@ -2144,6 +2425,7 @@ two_groups
 	- malt: bread, biscuit, toast
 	- fermentation: clean
 	- hop: low floral/spicy
+	- other: 
 - Commercial examples: Devils Backbone Vienna Lager, Figueroa Mountain Danish Red Lager, Schell's Firebrick, Heavy Seas Cutlass, Ottakringer Wiener Original, Theresianer Vienna
 - Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
@@ -2168,6 +2450,7 @@ two_groups
 	- malt: malt dominant, with caramel flavor and toastiness, sometimes roast; peat smoke non-traditional but allowed
 	- fermentation: some fruit esters with dark fruit; hint of alcohol
 	- hop: low bitterness, low aroma
+	- other: 
 - Commercial examples: Orkney Skull Splitter, Traquair House Ale, Founders Dirty Bastard, Belhaven Wee Heavy
 - Pairings: sticky pudding and other substantial desserts
 - Notes: 
@@ -2193,6 +2476,7 @@ two_groups
 	- malt: white bread, flour
 	- fermentation: banana-clove
 	- hop: very low German Noble hop flavor optional
+	- other: 
 - Commercial examples: Weihenstephaner Hefeweissbier, Franziskaner Hefe-Weisse, Paulaner Hefe-Weissbier Naturtrüb, Ayinger Bräu Weisse, Schneider Weisse Original, Two Brothers Ebel's Weiss Beer
 - Pairings: wide range of lighter foods; salads, seafood; classic with Weisswurst
 - Notes: 
@@ -2248,10 +2532,37 @@ leichtes_weissbier
 	- malt: bready, nutty, toasty
 	- fermentation: intense banana clove; may have dark fruit esters as it ages; light alcohol flavor optional
 	- hop: none
+	- other: 
 - Commercial examples: Schneider Weisse Aventinus, Weihenstephaner Vitus, Ayinger Weizenbock, Penn Weizenbock, Plank Dunkler Weizenbock
 - Pairings: hearty food, such as roast pork, beef, smoked ham; big desserts; aged cheese
 - Notes: 
 	- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16°P) regulations
+
+# White IPA
+
+- Region: USA
+- Categories: American Hoppy Ales, American IPAs, IPAs, Wheat Beers, Specialty IPAs
+- Malt: pale ale, malted wheat
+- Hops: American, New World
+- Other names: Wheat IPA
+- Glassware: shaker
+- Color: light - gold - gold (5.0 - 6.0 SRM)
+- Alcohol: normal - elevated (5.5 - 7.0% ABV)
+- Mouthfeel: 
+	- body: medium-light
+	- carbonation: moderate - moderate-high
+	- alcohol_warmth: low, optional
+- Bitterness: assertive (40.0 - 70.0 IBU)
+- Flavors: 
+	- malt: bready malt
+	- fermentation: banana, stone
+	- hop: moderate American/New World
+	- other: coriander
+- Commercial examples: New Belgium Accumulation, Deschutes Chainbreaker, Lagunitas A Little Sumpin' Sumpin'
+- Notes: 
+	- originated in 2010, collab between Oregon's Deschutes Brewing and Kansas City's Boulevard
+goal
+		- blend IPA with Belgian Witbier
 
 # Witbier
 
@@ -2272,6 +2583,7 @@ leichtes_weissbier
 	- malt: bready, floury, honey, vanilla
 	- fermentation: spicy, citrusy
 	- hop: herbal, citrusy, mild sourness sometimes
+	- other: coriander, Curaçao orange
 - Commercial examples: Allagash White, Hoegaarden Wit, Ommegang Witte, St. Bernardus Abt 4 Witbier, Blue Moon Belgian White, Shock Top Belgian Ale, Celis White, Lefebvre Blanche de Bruxelles, De Brabandere Wittekerke, Avery White Rascal
 - Pairings: lighter foods, such as mussels, salmon, chicken
 - Notes: 

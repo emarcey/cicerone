@@ -62,7 +62,8 @@
                 ],
                 "hop": [
                     "assertive bitterness; low-medium Noble hop flavors"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Uerige Alt",
@@ -102,7 +103,7 @@
         },
         "American Amber Ale": {
             "name": "American Amber Ale",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Pale Lagers and Ales",
                 "Pale Ales"
@@ -161,7 +162,8 @@
                     "moderate; grapefruit",
                     "pine",
                     "other American"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bell's Amber Ale",
@@ -185,7 +187,7 @@
         },
         "American Blonde Ale": {
             "name": "American Blonde Ale",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Pale Lagers and Ales",
                 "Pale Ales",
@@ -248,7 +250,8 @@
                     "floral",
                     "fruity",
                     "spicy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Firestone Walker 805",
@@ -268,7 +271,7 @@
         },
         "American IPA": {
             "name": "American IPA",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American IPAs",
                 "American Hoppy Ales",
@@ -326,7 +329,8 @@
                 ],
                 "hop": [
                     "assertive bitterness and high levels of traditional American hop flavors"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bell's Two Hearted Ale",
@@ -369,7 +373,7 @@
         },
         "American Lager": {
             "name": "American Lager",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Lagers",
                 "Lagers",
@@ -427,7 +431,8 @@
                 ],
                 "hop": [
                     "light spicy or floral hop aroma/flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Coors Original",
@@ -458,7 +463,7 @@
         },
         "American Light Lager": {
             "name": "American Light Lager",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Lagers",
                 "Lagers",
@@ -514,7 +519,8 @@
                     "very low spicy",
                     "floral",
                     "or herbal character"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bud Light",
@@ -546,7 +552,7 @@
         },
         "American Pale Ale": {
             "name": "American Pale Ale",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Pale Lagers and Ales",
                 "Pale Ales"
@@ -607,7 +613,8 @@
                     "moderate-high - high; grapefruit",
                     "pine",
                     "other American hop flavors"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Sierra Nevada Pale Ale",
@@ -631,7 +638,7 @@
         },
         "American Wheat Beer": {
             "name": "American Wheat Beer",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Pale Lagers and Ales",
                 "Wheat Ales"
@@ -688,7 +695,8 @@
                 ],
                 "hop": [
                     "citrus or fruity American hops"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Goose Island 312",
@@ -771,7 +779,8 @@
                 ],
                 "hop": [
                     "low to medium spicy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Sinebrychoff Porter",
@@ -868,7 +877,8 @@
                     "low perfumy",
                     "floral",
                     "spicy aromas"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Leffe Blond",
@@ -966,7 +976,8 @@
                     "spicy",
                     "floral",
                     "rosy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "St. Bernardus Abt 12",
@@ -1071,7 +1082,8 @@
                     "spicy",
                     "floral",
                     "rosy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Westmalle Dubbel",
@@ -1172,7 +1184,8 @@
                     "spicy",
                     "peppery",
                     "clean"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Duvel",
@@ -1199,6 +1212,84 @@
                 "\t- in 1971 - Duvel reformulated as golden pale ale to compete with European pilsners",
                 "\t- result resembled the Tripel, but is a style of its own",
                 "\t- often long maturation/cold conditioning"
+            ]
+        },
+        "Belgian IPA": {
+            "name": "Belgian IPA",
+            "region": "USA, Belgium",
+            "categories": [
+                "Belgian IPAs",
+                "IPAs",
+                "Specialty IPAs",
+                "Specialty"
+            ],
+            "malt": [
+                "pale ale",
+                "sugar adjunct"
+            ],
+            "hops": [
+                "American",
+                "New World",
+                "Continental"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "light gold",
+                    "gold"
+                ],
+                "value_low": 5.0,
+                "value_high": 8.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 6.2,
+                "value_high": 9.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light - medium",
+                "carbonation": "medium - high",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 50.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "gentle malt sweetness",
+                    "honey",
+                    "caramel"
+                ],
+                "fermentation": [
+                    "moderate - high belgian yeast esters; pear",
+                    "apple",
+                    "banana",
+                    "clove",
+                    "dark stone fruit"
+                ],
+                "hop": [
+                    "pronounced",
+                    "reflective of wide variety of hops allowed"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Brewery Vivant Triomphe",
+                "Green Flash Le Freak",
+                "Houblon Chouffe",
+                "Urthel Hop It"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- relatively recent phenomenon, mixing American hops with Belgian yeast"
             ]
         },
         "Belgian Pale Ale": {
@@ -1280,7 +1371,8 @@
                     "Fuggles",
                     "Styrian Goldings",
                     "Saaz"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bolleke de Koninck",
@@ -1378,7 +1470,8 @@
                     "spicy",
                     "herbal",
                     "floral; pronounced bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Westmalle Tripel",
@@ -1476,7 +1569,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bayerischer Bahnhof Berliner Style Weisse",
@@ -1584,7 +1678,8 @@
                     "resiny",
                     "floral",
                     "fruity"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Fuller's London Pride",
@@ -1667,7 +1762,8 @@
                     "mild hop (anise",
                     "floral",
                     "herbal)"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Duyck Jenlain (blonde",
@@ -1739,7 +1835,8 @@
                 "fermentation": [
                     "high astringency"
                 ],
-                "hop": []
+                "hop": [],
+                "other": []
             },
             "commercial_examples": [
                 "Lembeek's 2%"
@@ -1752,6 +1849,90 @@
                 "\t\t- high tannins -> high astringency",
                 "\t- refreshing warm weather drink",
                 "\t- resurrected in France/US as a stronger version of Bi\u00e8re de Garde"
+            ]
+        },
+        "Black IPA": {
+            "name": "Black IPA",
+            "region": "USA",
+            "categories": [
+                "American Hoppy Ales",
+                "IPAs",
+                "American IPAs",
+                "Specialty IPAs"
+            ],
+            "malt": [
+                "debittered roast malts"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [
+                "Cascadian Dark Ale"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "brown",
+                    "black"
+                ],
+                "value_low": 25.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "high"
+                ],
+                "value_low": 5.5,
+                "value_high": 9.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; some creaminess",
+                "carbonation": "moderate",
+                "alcohol_warmth": "light optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "highly assertive"
+                ],
+                "value_low": 50.0,
+                "value_high": 90.0
+            },
+            "flavors": {
+                "malt": [
+                    "mild roast",
+                    "chocolate",
+                    "coffee; never burnt"
+                ],
+                "fermentation": [
+                    "low - moderate esters; optional alcohol flavor"
+                ],
+                "hop": [
+                    "assertive bitterness; traditional American/New World aromas and flavors"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "21st Amendment Back in Black",
+                "Stone Sublimely Self-Righteous",
+                "Bell's Black Hearted Ale"
+            ],
+            "pairings": [
+                "intensity and examples"
+            ],
+            "notes": [
+                "\t- unique from a Stout in that it uses dehusked black malts, which reduce malt bitterness and aggressive roasted flavors",
+                "\t- history",
+                "\t\t- 2010 GABF - 142 entries",
+                "\t\t- 2017 GABF - 408 entries",
+                "\t\t- now usually around 50 entries",
+                "\t- this idea led to similar ones",
+                "\t\t- crystal malts -> red IPA",
+                "\t\t- red, black, brown, white, and rye are recognized as specialty IPAs"
             ]
         },
         "British Brown Ale": {
@@ -1815,7 +1996,8 @@
                 ],
                 "hop": [
                     "malt-hop balance is even; moderate bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Samuel Smith's Nut Brown Ale",
@@ -1900,7 +2082,8 @@
                     "floral",
                     "herbal",
                     "earthy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Hop Back Summer Lightning",
@@ -1916,6 +2099,161 @@
                 "\t- relatively new, originated in 1980s",
                 "\t- alternative to pale lagers",
                 "\t- lighter in color than traditional bitters and distinctly refreshing"
+            ]
+        },
+        "Brown IPA": {
+            "name": "Brown IPA",
+            "region": "USA",
+            "categories": [
+                "American IPAs",
+                "IPAs",
+                "Specialty IPAs",
+                "Specialty"
+            ],
+            "malt": [
+                "crystal",
+                "chocolate",
+                "or other similar",
+                "sugar adjunct"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "brown",
+                    "black"
+                ],
+                "value_low": 18.0,
+                "value_high": 35.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 5.5,
+                "value_high": 7.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 40.0,
+                "value_high": 70.0
+            },
+            "flavors": {
+                "malt": [
+                    "malty-sweet",
+                    "milk chocolate",
+                    "cocoa",
+                    "toffee",
+                    "nuts",
+                    "biscuit",
+                    "dark caramel"
+                ],
+                "fermentation": [
+                    "clean"
+                ],
+                "hop": [
+                    "moderate - high; traditional American"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Dogfish Head Indian Brown Ale",
+                "Harpoon Brown IPA",
+                "Russian River Janet\u2019s Brown Ale"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- stronger and more bitter than American Brown Ale",
+                "\t- less roasty than Black IPA",
+                "\t- more chocolatey than Red IPA"
+            ]
+        },
+        "Brut IPA": {
+            "name": "Brut IPA",
+            "region": "USA",
+            "categories": [
+                "American IPAs",
+                "IPAs",
+                "Specialty IPAs",
+                "Specialty"
+            ],
+            "malt": [
+                "pilsner",
+                "pale ale",
+                "up to 40% adjunct"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw"
+                ],
+                "value_low": 2.0,
+                "value_high": 4.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 6.0,
+                "value_high": 7.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "very light - light; very dry finish",
+                "carbonation": "very high; spritzy",
+                "alcohol_warmth": "low, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 20.0,
+                "value_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "very low"
+                ],
+                "fermentation": [
+                    "neutral - slightly fruity"
+                ],
+                "hop": [
+                    "low perceived bitterness",
+                    "but lots of American hop flavor"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Drake's Brightside Extra Brut IPA",
+                "Ommegang Brut IPA",
+                "Fair State Brewing Co-op The Brut Squad"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- originated at Social Kitchen & Brewery in California in 2017",
+                "\t\t- a west coast reaction to the hazy IPA",
+                "\t- a bit of a fad beer, most versions are morphing toward low-cal IPA"
             ]
         },
         "California Common": {
@@ -1980,7 +2318,8 @@
                 "hop": [
                     "woody",
                     "minty (Northern Brewer)"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Anchor Steam",
@@ -2005,7 +2344,7 @@
         },
         "Cream Ale": {
             "name": "Cream Ale",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American Lagers",
                 "Lagers",
@@ -2069,7 +2408,8 @@
                 ],
                 "hop": [
                     "low floral or herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Genesee Cream Ale",
@@ -2148,7 +2488,8 @@
                 ],
                 "hop": [
                     "prominent bitterness; low-moderate spicy hop flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Pilsner Urquell",
@@ -2241,7 +2582,8 @@
                 ],
                 "hop": [
                     "low bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Moorhouse Black Cat",
@@ -2333,7 +2675,8 @@
                 ],
                 "hop": [
                     "low bitterness; minimal flavor and aroma"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Paulaner Salvator",
@@ -2362,7 +2705,7 @@
         },
         "Double IPA": {
             "name": "Double IPA",
-            "region": "United States",
+            "region": "USA",
             "categories": [
                 "American IPAs",
                 "American Hoppy Ales",
@@ -2420,7 +2763,8 @@
                     "intense to extreme hop aroma",
                     "flavor",
                     "bitterness; characteristic flavors of American hop varietals"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Avery Maharaja",
@@ -2519,7 +2863,8 @@
                 "hop": [
                     "low bitterness",
                     "minimal hop flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Einbecker Ur-Bock Dunkel",
@@ -2613,7 +2958,8 @@
                     "low spicy",
                     "herbal",
                     "floral"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Weihenstephaner Hefeweissbier Dunkel",
@@ -2696,7 +3042,8 @@
                 ],
                 "hop": [
                     "low bitterness; no hop flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Kulmbacher Eisbock"
@@ -2776,7 +3123,8 @@
                 "hop": [
                     "highly varied; earthy",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Fuller's Golden Pride",
@@ -2876,7 +3224,8 @@
                     "moderate-high earthy",
                     "floral",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Meantime London IPA",
@@ -2990,7 +3339,8 @@
                 "hop": [
                     "earthy",
                     "floral British hops"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Fuller's London Porter",
@@ -3073,7 +3423,8 @@
                 "fermentation": [
                     "very sweet"
                 ],
-                "hop": []
+                "hop": [],
+                "other": []
             },
             "commercial_examples": [
                 "Brouwerij Lindemans",
@@ -3156,7 +3507,8 @@
                 ],
                 "hop": [
                     "low - moderate bitterness; minimal hop flavor/aroma"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Augustiner Oktoberfest",
@@ -3247,7 +3599,8 @@
                 ],
                 "hop": [
                     "low earthy wild"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Rodenbach Classic",
@@ -3351,7 +3704,8 @@
                 ],
                 "hop": [
                     "assertive bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Guinness Foreign Extra Stout",
@@ -3431,7 +3785,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Boon Framboise/Kriek Mariage Parfait",
@@ -3529,7 +3884,8 @@
                     "spicy",
                     "flowery",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "K\u00f6nig Pilsener",
@@ -3605,8 +3961,7 @@
             },
             "flavors": {
                 "malt": [
-                    "coriander",
-                    "salt (from additives in brew); uncooked sourdough"
+                    "uncooked sourdough"
                 ],
                 "fermentation": [
                     "tart lactic acid; stone fruit",
@@ -3614,6 +3969,10 @@
                 ],
                 "hop": [
                     "none"
+                ],
+                "other": [
+                    "coriander",
+                    "salt"
                 ]
             },
             "commercial_examples": [
@@ -3698,7 +4057,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Boon Oude Geuze",
@@ -3733,6 +4093,97 @@
                 "\t- once bottled, stored for a few months to a year",
                 "\t\t- referment -> new flavors -> rising carbonation",
                 "\t\t- may be enjoyed for many years (as much as 2 decades!)"
+            ]
+        },
+        "Hazy IPA": {
+            "name": "Hazy IPA",
+            "region": "USA",
+            "categories": [
+                "American Hoppy Ales",
+                "American IPAs",
+                "Specialty IPAs IPAs"
+            ],
+            "malt": [
+                "similar to American IPA but with more flaked grains"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [
+                "New England IPA",
+                "Juicy IPA"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 3.0,
+                "value_high": 7.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "value_low": 6.0,
+                "value_high": 9.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "moderate",
+                "alcohol_warmth": "low, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "value_low": 25.0,
+                "value_high": 60.0
+            },
+            "flavors": {
+                "malt": [
+                    "low-medium; neutral",
+                    "grain",
+                    "gread"
+                ],
+                "fermentation": [
+                    "neutral - fruity; supportive of hop flavor; alcohol flavor optional"
+                ],
+                "hop": [
+                    "intense hop aroma of ripe tropical fruit or fruit juice flavors"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "The Alchemist Heady Topper",
+                "Tree House Julius",
+                "Hill Farmstead Susan",
+                "Other Half Green Diamonds Double IPA",
+                "WeldWerks Juicy Bits",
+                "Trillium Congress Street"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- derived from experiments in dry hopping",
+                "\t- Hazy IPA is product of extreme loads of dry hopping",
+                "\t- results in a permanently hazy IPA due to high tannings from dry hops",
+                "\t- compared to American IPA",
+                "\t\t- reduced bitterness",
+                "\t\t- higher fruity esters",
+                "\t\t- results in a softer, rounder IPA, now often called \"juicy\"",
+                "first_iteration",
+                "\t- Heady Topper from The Alchemist in Vermont",
+                "\t\t- brewed periodically in early 200s",
+                "\t\t- explosion in popularity in 2011 after dedicated brewery opened",
+                "\t\t- other regional breweries mimicked -> New England IPA",
+                "\t- First added to GABF in 2018 as Juicy or Hazy IPA",
+                "\t\t- biggest entrant in its first year (391 vs 311 for American IPA)"
             ]
         },
         "Helles Bock": {
@@ -3800,7 +4251,8 @@
                 ],
                 "hop": [
                     "moderate bitterness; low spicy and floral hop notes"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Einbecker Mai-Ur-Bock",
@@ -3888,7 +4340,8 @@
                 ],
                 "hop": [
                     "wide range"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "2SP Brewing Co The Russian (English)",
@@ -3984,7 +4437,8 @@
                     "moderately-low floral",
                     "spicy",
                     "or herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Heineken",
@@ -4063,7 +4517,8 @@
                 ],
                 "hop": [
                     "pronounced bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Guinness Extra Stout",
@@ -4142,7 +4597,8 @@
                 ],
                 "hop": [
                     "little to none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Smithwick's Irish Red Ale",
@@ -4225,7 +4681,8 @@
                 ],
                 "hop": [
                     "pronounced bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Guinness Draught",
@@ -4307,7 +4764,8 @@
                 ],
                 "hop": [
                     "moderate-pronounced bitterness; light Noble hop flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Sunner K\u00f6lsch",
@@ -4409,7 +4867,8 @@
                 ],
                 "hop": [
                     "virtually none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Cantillon Grand Cru Bruocsella",
@@ -4492,7 +4951,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Live Oak Lichtenhainer",
@@ -4571,7 +5031,8 @@
                 ],
                 "hop": [
                     "low - moderate bitterness; very low aroma/flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Hacker Pschorr Oktoberfest-M\u00e4rzen",
@@ -4660,7 +5121,8 @@
                     "low hop flavor and aroma (spicy",
                     "herbal",
                     "floral if any)"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Hacker-Pschorr M\u00fcnchner Dunkel",
@@ -4754,7 +5216,8 @@
                     "moderate bitterness; little hop flavor or aroma (spicy",
                     "herbal",
                     "floral)"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Weihenstephaner Original",
@@ -4844,7 +5307,8 @@
                 ],
                 "hop": [
                     "moderate bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Samuel Smith's Oatmeal Stout",
@@ -4931,7 +5395,8 @@
                 ],
                 "hop": [
                     "depends on aging"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Greene King Olde Suffolk Vintage Ale",
@@ -5029,7 +5494,8 @@
                     "herbal",
                     "floral",
                     "fruity"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Fuller's Chiswick Bitter",
@@ -5131,7 +5597,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Liefmans Goudenband",
@@ -5225,7 +5692,8 @@
                 ],
                 "hop": [
                     "low - moderate bitterness; very low hop aroma/flavor"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Aecht Schlenkerla Rauchbier M\u00e4rzen",
@@ -5237,6 +5705,84 @@
             "notes": [
                 "\t- German smoked beer based on the M\u00e4rzen style",
                 "\t- Some other styles can be made into rauch versions, doppelbock or munich dunkel; occasionally some others (German Pils, Munich Helles, Weissbier)"
+            ]
+        },
+        "Red IPA": {
+            "name": "Red IPA",
+            "region": "USA",
+            "categories": [
+                "American IPAs",
+                "IPAs",
+                "Specialty IPAs",
+                "Specialty"
+            ],
+            "malt": [
+                "pale ale",
+                "crystal",
+                "sugar adjunct"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "amber",
+                    "brown"
+                ],
+                "value_low": 11.0,
+                "value_high": 17.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 5.5,
+                "value_high": 7.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; smooth",
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 40.0,
+                "value_high": 70.0
+            },
+            "flavors": {
+                "malt": [
+                    "medium-low - medium malty-sweet; dark caramel",
+                    "toffee",
+                    "toasted bread",
+                    "dark fruit"
+                ],
+                "fermentation": [
+                    "generally clean but light esters or alcohol optional"
+                ],
+                "hop": [
+                    "moderate - strong; traditional American"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Avery Hog Heaven",
+                "Cigar City Tocobaga Red IPA",
+                "Modern Times Blazing World",
+                "Tr\u00f6egs Nugget Nectar"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- like American Amber, but stronger and hoppier",
+                "\t- not as malty/sweet as American Strong Ale",
+                "\t- Drier, lower ABV, not as malty as American Barleywine"
             ]
         },
         "Rotbier": {
@@ -5305,7 +5851,8 @@
                 "hop": [
                     "low-medium low",
                     "typical noble hops attributes"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Schlenkerla Rotbier (also kind of a Rauchbier)"
@@ -5315,6 +5862,74 @@
                 "\t- rare, not recognized by BJCP",
                 "\t- clear to slightly hazy"
             ]
+        },
+        "Rye IPA": {
+            "name": "Rye IPA",
+            "region": "USA",
+            "categories": [
+                "American IPAs",
+                "IPAs",
+                "Specialty IPAs",
+                "Specialty"
+            ],
+            "malt": [
+                "pale ale",
+                "rye"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "value_low": 6.0,
+                "value_high": 15.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 5.5,
+                "value_high": 8.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium; smooth, slightly creamy",
+                "carbonation": "medium - medium-high",
+                "alcohol_warmth": "low, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 50.0,
+                "value_high": 75.0
+            },
+            "flavors": {
+                "malt": [
+                    "low peppery rye malt; background graininess"
+                ],
+                "fermentation": [
+                    "generally clean but light esters or alcohol optional"
+                ],
+                "hop": [
+                    "prominent - intense; traditional American"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Founders Red\u2019s Rye IPA",
+                "Sierra Nevada Ruthless Rye"
+            ],
+            "pairings": [],
+            "notes": []
         },
         "Sahti": {
             "name": "Sahti",
@@ -5375,7 +5990,8 @@
                 ],
                 "hop": [
                     "low if any"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [],
             "pairings": [],
@@ -5463,7 +6079,8 @@
                 "hop": [
                     "earthy",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Saison DuPont",
@@ -5565,7 +6182,8 @@
                     "low - moderate low; spicy",
                     "floral",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "K\u00f6stritzer Schwarzbier",
@@ -5653,7 +6271,8 @@
                 ],
                 "hop": [
                     "light bitterness and hop flavor allowed"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "McEwan's 70"
@@ -5730,7 +6349,8 @@
                 ],
                 "hop": [
                     "light bitterness and hop flavor allowed"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "McEwan's 70"
@@ -5807,7 +6427,8 @@
                 ],
                 "hop": [
                     "light bitterness and hop flavor allowed"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Belhaven Best",
@@ -5818,6 +6439,79 @@
                 "lighter preparations of salmon and chicken"
             ],
             "notes": []
+        },
+        "Session IPA": {
+            "name": "Session IPA",
+            "region": "USA",
+            "categories": [
+                "American IPAs",
+                "American Hoppy Ales",
+                "India Pale Ales"
+            ],
+            "malt": [
+                "pale ale; restrained use of crystal malt or sugar"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "value_low": 6.0,
+                "value_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "low"
+                ],
+                "value_low": 3.0,
+                "value_high": 5.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light - medium",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 40.0,
+                "value_high": 70.0
+            },
+            "flavors": {
+                "malt": [
+                    "cracker",
+                    "biscuit",
+                    "little caramel or darker malt"
+                ],
+                "fermentation": [
+                    "generally clean",
+                    "but low esters optional"
+                ],
+                "hop": [
+                    "assertive bitterness and high levels of traditional American hop flavors"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Founder's All Day IPA"
+            ],
+            "pairings": [
+                "wide range of food; classic with a burger"
+            ],
+            "notes": [
+                "\t- effectively, an American IPA brewed to session strength",
+                "\t- similar to an American Pale Ale, but no caramel flavor permitted, and hop focus tends to be more pronounced"
+            ]
         },
         "Strong Bitter": {
             "name": "Strong Bitter",
@@ -5891,7 +6585,8 @@
                     "earthy",
                     "resiny",
                     "herbal"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Bass Pale Ale",
@@ -5969,7 +6664,8 @@
                 ],
                 "hop": [
                     "low"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Mackeson's XXX Stout",
@@ -6069,7 +6765,8 @@
                 "hop": [
                     "floral",
                     "herbal hop flavors"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Westmalle Extra",
@@ -6155,7 +6852,8 @@
                 ],
                 "hop": [
                     "pronounced bitterness"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Lion Stout",
@@ -6234,7 +6932,8 @@
                 ],
                 "hop": [
                     "low floral/spicy"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Devils Backbone Vienna Lager",
@@ -6320,7 +7019,8 @@
                 "hop": [
                     "low bitterness",
                     "low aroma"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Orkney Skull Splitter",
@@ -6396,7 +7096,8 @@
                 ],
                 "hop": [
                     "very low German Noble hop flavor optional"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Weihenstephaner Hefeweissbier",
@@ -6508,7 +7209,8 @@
                 ],
                 "hop": [
                     "none"
-                ]
+                ],
+                "other": []
             },
             "commercial_examples": [
                 "Schneider Weisse Aventinus",
@@ -6525,6 +7227,87 @@
             ],
             "notes": [
                 "\t- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16\u00b0P) regulations"
+            ]
+        },
+        "White IPA": {
+            "name": "White IPA",
+            "region": "USA",
+            "categories": [
+                "American Hoppy Ales",
+                "American IPAs",
+                "IPAs",
+                "Wheat Beers",
+                "Specialty IPAs"
+            ],
+            "malt": [
+                "pale ale",
+                "malted wheat"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [
+                "Wheat IPA"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "light",
+                    "gold",
+                    "gold"
+                ],
+                "value_low": 5.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "value_low": 5.5,
+                "value_high": 7.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-light",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": "low, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 40.0,
+                "value_high": 70.0
+            },
+            "flavors": {
+                "malt": [
+                    "bready malt"
+                ],
+                "fermentation": [
+                    "banana",
+                    "stone"
+                ],
+                "hop": [
+                    "moderate American/New World"
+                ],
+                "other": [
+                    "coriander"
+                ]
+            },
+            "commercial_examples": [
+                "New Belgium Accumulation",
+                "Deschutes Chainbreaker",
+                "Lagunitas A Little Sumpin' Sumpin'"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- originated in 2010, collab between Oregon's Deschutes Brewing and Kansas City's Boulevard",
+                "goal",
+                "\t\t- blend IPA with Belgian Witbier"
             ]
         },
         "Witbier": {
@@ -6597,6 +7380,10 @@
                     "herbal",
                     "citrusy",
                     "mild sourness sometimes"
+                ],
+                "other": [
+                    "coriander",
+                    "Cura\u00e7ao orange"
                 ]
             },
             "commercial_examples": [

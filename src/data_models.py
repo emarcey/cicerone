@@ -99,7 +99,8 @@ class FlavorProfile(BaseModel):
     malt: List[str]
     fermentation: List[str]
     hop: List[str]
-    _validate_string_input = field_validator("malt", "fermentation", "hop", mode="before")(
+    other: Optional[List[str]] = Field(default_factory=lambda: [])
+    _validate_string_input = field_validator("malt", "fermentation", "hop", "other", mode="before")(
         validate_optional_string_to_list
     )
 
