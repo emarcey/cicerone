@@ -4,6 +4,8 @@
 	* Has trademark on the "steam beer" phrase, so California Common has become the popular name
 	* founded in 1896
 	* in 1965, Fritz Maytag acquired the Anchor Brewing company from the verge of bankruptcy
+	* in 1972, brewed the first modern American porter
+	* in 2023, closed operations
 * **Anheuser-Busch InBev** (A-B InBev):  American brewery founded in the mid-1852 by Adolphus Busch and brewmaster Irwin Sprule
 	* largest brewery group in the world, with approximately 25% of global market share
 	* History:
@@ -243,6 +245,7 @@
 	* 1982, Schlitz abosrbed by Stroh Brewer of Detroit, Michigan
 * **Sierra Nevada Brewing Company:** trailblazing American craft brewery founded by Ken Grossman and Paul Camusi in Chico, California
 	* produced first batch of Sierra Nevada Pale Ale in 1980
+		* also produced a porter and a stout
 	* also developed the Bigfoot Barleywine, the signature American Barley Wine
 	* currently headquartered in Asheville, NC
 * **Spaten:** Munich brewery first established in 1397, which rose to prominence in the early 19th century after being purchased by Gabriel Sedlmayr the Elder in 1807

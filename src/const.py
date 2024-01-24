@@ -38,6 +38,7 @@ GLOSSARY_FILE_NAMES = [
 ]
 
 CHART_CATEGORIES = [
+    "American Dark Ales",
     "American Hoppy Ales",
     "American Pale Lagers and Ales",
     "British Dark Ales",

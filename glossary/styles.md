@@ -90,8 +90,36 @@
 * Notes:
 	* developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers
 	* can include wheat or sugar
-	* emerging Brett/lacto style
+	* emerging Brett/lacto substyle
 
+# American Brown Ale
+* Region: USA
+* Categories: Brown Ales, American Dark Ales
+* Malt: pale, crystal, chocolate, black, roast barley
+* Hops: usually American, but continental or New World permitted
+* Other Names:
+* Glassware: shaker
+* Color: dark amber - black (18-35 SRM)
+* Alcohol: normal (4.3-6.2% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full
+		* due to specialty malts and high mash temps
+	* carbonation: moderate - moderate-high
+	* alcohol warmth: light optional
+* Bitterness: moderate (20-30 IBUs)
+* Flavors: 
+	* malt: caramel, nut, toast, light chocolate, no coffee/burnt
+	* hop: American
+	* fermentation: very low - moderate fruity esters
+* Commercial Examples: Bell's Best Brown Ale, Smuttynose Old Brown Dog Ale, Big Sky Moose Drool Brown Ale, Brooklyn Brown Ale
+* Pairings: wide range; chicken, seafood, burgers, spicy food
+* Notes:
+	* a poorly defined style derived from the British Brown Ale
+	* early example was Pete's Wicked Ale released in 1986, a British Brown Ale using American hops
+	* 1990s, American Brown Ales, looked like British ones, but with American hops
+	* 1999, GABF 61 British Brown to 38 American Brown
+		* trend has reversed since
+	* higher perceived bitterness than British, but IBUs are the same
 # American IPA
 * Region: USA
 * Categories: American IPAs, American Hoppy Ales, India Pale Ales
@@ -233,7 +261,41 @@
 		* generally use water low in calcium carbonate and may add calcium sulfate
 	* first enduring American craft beer style
 		* Sierra Nevada was one of the first
-		* 
+
+# American Porter
+* Region: United States
+* Categories: Porters, American Dark Ales
+* Malt: pale base malt,  crystal, black patent malt, chocolate malt
+* Hops: typically US, but UK can be used
+* Other Names: Robust Porter
+* Glassware: shaker
+* Color: brown - black (22-40 SRM)
+* Alcohol: normal - elevated (4.8-6.5% ABV)
+* Mouthfeel: 
+	* body: medium - medium-full; slight astringency optional
+	* carbonation: moderate
+	* alcohol warmth: light, optional
+* Bitterness: pronounced (25-50 IBUs)
+* Flavors: 
+	* malt: roast, caramel, chocolate, lightly burnt
+	* hop: resiny, herbal, floral
+	* fermentation: moderate esters optional
+* Commercial Examples: Founders Porter, Anchor Porter, Smuttynose Robust Porter, Sierra Nevada Porter, Deschutes Black Butte Porter, Great Lakes Edmund Fitzgerald Porter, Boulevard Bully! Porter, Bell's Porter
+* Pairings: roasted and smoked food
+* Notes:
+	* derived from English Porter
+		* at time of US independence, it was the most prominent style
+		* often used molasses or brewer's licorice
+	* most Pre-Prohibition Porters are gone
+		* exception: Yuengling
+			* dark brewed porter with caramel and dark malts, lager yeast, and a thin bodied 4.7%
+		* most modern porters are from craft movement
+			* more hops than English Porter
+			* heavily roasted malts
+		* First one: Anchor Brewing in 1972
+	* GABF has 2 variations: Brown Porter and Robust Porter
+		* Robust Porter has black patent malt
+		* 2015, Brown Porter -> English Porter; Robust Porter -> American Porter
 # American Wheat Beer
 * Region: USA
 * Categories: American Pale Lagers and Ales, Wheat Ales

@@ -266,7 +266,94 @@
             "notes": [
                 "\t- developed by craft brewers in the 1980s alongside American Wheat Beers to bridge the gap between light lagers and heavier, more full-flavored craft beers",
                 "\t- can include wheat or sugar",
-                "\t- emerging Brett/lacto style"
+                "\t- emerging Brett/lacto substyle"
+            ]
+        },
+        "American Brown Ale": {
+            "name": "American Brown Ale",
+            "region": "USA",
+            "categories": [
+                "Brown Ales",
+                "American Dark Ales"
+            ],
+            "malt": [
+                "pale",
+                "crystal",
+                "chocolate",
+                "black",
+                "roast barley"
+            ],
+            "hops": [
+                "usually American",
+                "but continental or New World permitted"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "dark amber",
+                    "black"
+                ],
+                "value_low": 18.0,
+                "value_high": 35.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal"
+                ],
+                "value_low": 4.3,
+                "value_high": 6.2,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full",
+                "carbonation": "moderate - moderate-high",
+                "alcohol_warmth": "light optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 20.0,
+                "value_high": 30.0
+            },
+            "flavors": {
+                "malt": [
+                    "caramel",
+                    "nut",
+                    "toast",
+                    "light chocolate",
+                    "no coffee/burnt"
+                ],
+                "fermentation": [
+                    "very low - moderate fruity esters"
+                ],
+                "hop": [
+                    "American"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Bell's Best Brown Ale",
+                "Smuttynose Old Brown Dog Ale",
+                "Big Sky Moose Drool Brown Ale",
+                "Brooklyn Brown Ale"
+            ],
+            "pairings": [
+                "wide range; chicken",
+                "seafood",
+                "burgers",
+                "spicy food"
+            ],
+            "notes": [
+                "\t- a poorly defined style derived from the British Brown Ale",
+                "\t- early example was Pete's Wicked Ale released in 1986, a British Brown Ale using American hops",
+                "\t- 1990s, American Brown Ales, looked like British ones, but with American hops",
+                "\t- 1999, GABF 61 British Brown to 38 American Brown",
+                "\t\t- trend has reversed since",
+                "\t- higher perceived bitterness than British, but IBUs are the same"
             ]
         },
         "American IPA": {
@@ -634,6 +721,107 @@
                 "\t\t- generally use water low in calcium carbonate and may add calcium sulfate",
                 "\t- first enduring American craft beer style",
                 "\t\t- Sierra Nevada was one of the first"
+            ]
+        },
+        "American Porter": {
+            "name": "American Porter",
+            "region": "United States",
+            "categories": [
+                "Porters",
+                "American Dark Ales"
+            ],
+            "malt": [
+                "pale base malt",
+                "crystal",
+                "black patent malt",
+                "chocolate malt"
+            ],
+            "hops": [
+                "typically US",
+                "but UK can be used"
+            ],
+            "other_names": [
+                "Robust Porter"
+            ],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "brown",
+                    "black"
+                ],
+                "value_low": 22.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "value_low": 4.8,
+                "value_high": 6.5,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - medium-full; slight astringency optional",
+                "carbonation": "moderate",
+                "alcohol_warmth": "light, optional"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "value_low": 25.0,
+                "value_high": 50.0
+            },
+            "flavors": {
+                "malt": [
+                    "roast",
+                    "caramel",
+                    "chocolate",
+                    "lightly burnt"
+                ],
+                "fermentation": [
+                    "moderate esters optional"
+                ],
+                "hop": [
+                    "resiny",
+                    "herbal",
+                    "floral"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Founders Porter",
+                "Anchor Porter",
+                "Smuttynose Robust Porter",
+                "Sierra Nevada Porter",
+                "Deschutes Black Butte Porter",
+                "Great Lakes Edmund Fitzgerald Porter",
+                "Boulevard Bully! Porter",
+                "Bell's Porter"
+            ],
+            "pairings": [
+                "roasted and smoked food"
+            ],
+            "notes": [
+                "\t- derived from English Porter",
+                "\t\t- at time of US independence, it was the most prominent style",
+                "\t\t- often used molasses or brewer's licorice",
+                "\t- most Pre-Prohibition Porters are gone",
+                "exception",
+                "\t\t- Yuengling",
+                "\t\t\t- dark brewed porter with caramel and dark malts, lager yeast, and a thin bodied 4.7%",
+                "\t\t- most modern porters are from craft movement",
+                "\t\t\t- more hops than English Porter",
+                "\t\t\t- heavily roasted malts",
+                "first_one",
+                "\t\t- Anchor Brewing in 1972",
+                "gabf_has_2_variations",
+                "\t- Brown Porter and Robust Porter",
+                "\t\t- Robust Porter has black patent malt",
+                "\t\t- 2015, Brown Porter -> English Porter; Robust Porter -> American Porter"
             ]
         },
         "American Wheat Beer": {
