@@ -824,6 +824,90 @@
                 "\t\t- 2015, Brown Porter -> English Porter; Robust Porter -> American Porter"
             ]
         },
+        "American Stout": {
+            "name": "American Stout",
+            "region": "USA",
+            "categories": [
+                "American Dark Ales",
+                "Stouts"
+            ],
+            "malt": [
+                "pale ale",
+                "dark",
+                "roasted",
+                "caramel"
+            ],
+            "hops": [
+                "American"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "dark brown",
+                    "black"
+                ],
+                "value_low": 30.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "value_low": 5.0,
+                "value_high": 7.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-full; may have low astringency",
+                "carbonation": "moderate-high - high",
+                "alcohol_warmth": "light - moderate"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 35.0,
+                "value_high": 75.0
+            },
+            "flavors": {
+                "malt": [
+                    "coffee",
+                    "chocolate roast",
+                    "lightly burnt"
+                ],
+                "fermentation": [
+                    "low esters optional; low alcohol taste optional"
+                ],
+                "hop": [
+                    "citrus or resiny"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Deschutes Obsidian Stout",
+                "Sierra Nevada Stout",
+                "Bell's Kalamazoo Stout"
+            ],
+            "pairings": [
+                "hearty",
+                "rich food; steak",
+                "meat pies",
+                "oysters",
+                "chocolate"
+            ],
+            "notes": [
+                "\t- similar path as APA and American IPA",
+                "\t\t- distinct style due to American hops",
+                "\t- substyles all lumped together at GABF through 1991",
+                "\t- 1997, stouts broken into Dry (Irish) Stout, Foreign Stout, Sweet Stout, Oatmeal Stout, Imperial Stout",
+                "\t- 2005, American Stout given its own category",
+                "\t- not the most popular of the stouts (that's Imperial)"
+            ]
+        },
         "American Wheat Beer": {
             "name": "American Wheat Beer",
             "region": "USA",
@@ -4466,11 +4550,15 @@
             "region": "Britain, North America",
             "categories": [
                 "British Dark Ales",
-                "Stouts"
+                "Stouts",
+                "American Dark Ales"
             ],
             "malt": [
                 "Pale Ale Malt",
-                "roasted grain"
+                "roasted grain",
+                "chocolate",
+                "black",
+                "caramel"
             ],
             "hops": [
                 "American or English"

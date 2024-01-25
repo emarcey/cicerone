@@ -296,6 +296,34 @@
 	* GABF has 2 variations: Brown Porter and Robust Porter
 		* Robust Porter has black patent malt
 		* 2015, Brown Porter -> English Porter; Robust Porter -> American Porter
+
+# American Stout
+* Region: USA
+* Categories: American Dark Ales, Stouts
+* Malt: pale ale, dark, roasted, caramel
+* Hops: American
+* Other Names:
+* Glassware: shaker
+* Color: dark brown - black (30-40 SRM)
+* Alcohol: normal - elevated (5-7% ABV)
+* Mouthfeel: 
+	* body: medium-full; may have low astringency
+	* carbonation: moderate-high - high
+	* alcohol warmth: light - moderate
+* Bitterness: assertive (35-75 IBUs)
+* Flavors: 
+	* malt: coffee, chocolate roast, lightly burnt
+	* hop: citrus or resiny
+	* fermentation: low esters optional; low alcohol taste optional
+* Commercial Examples: Deschutes Obsidian Stout, Sierra Nevada Stout, Bell's Kalamazoo Stout
+* Pairings: hearty, rich food; steak, meat pies, oysters, chocolate
+* Notes:
+	* similar path as APA and American IPA
+		* distinct style due to American hops
+	* substyles all lumped together at GABF through 1991
+	* 1997, stouts broken into Dry (Irish) Stout, Foreign Stout, Sweet Stout, Oatmeal Stout, Imperial Stout
+	* 2005, American Stout given its own category
+	* not the most popular of the stouts (that's Imperial)
 # American Wheat Beer
 * Region: USA
 * Categories: American Pale Lagers and Ales, Wheat Ales
@@ -1522,8 +1550,8 @@
 	* not too similar to other bocks: light in color, display more hop profile
 # Imperial Stout
 * Region: Britain, North America
-* Categories: British Dark Ales, Stouts
-* Malt: Pale Ale Malt, roasted grain
+* Categories: British Dark Ales, Stouts, American Dark Ales
+* Malt: Pale Ale Malt, roasted grain, chocolate, black, caramel
 * Hops: American or English
 * Other Names: Russian Imperial Stout
 * Glassware: snifter, tulip
