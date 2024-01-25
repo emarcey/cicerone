@@ -7,7 +7,8 @@ Malt Intensity | moderate-high | high
 Hop Flavors | pine, herbal | earthy
 Hop Intensity | low | low
 Perceived Bitterness | low-moderate | low
-Body | moderate-full | moderate-full
+Body | moderate-full | moderate
 
 - how to distinguish?
 	- between these two, the british is earthy and roast, whereas the american is chocolatey and sweet
+	- the bitterness on the ABA is a little more lingering
