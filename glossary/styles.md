@@ -67,6 +67,39 @@
 	* was spun off when consumers were confused by dark amber color of some pale ales
 	* 1994, American Amber Ale first entered as its own GABF category
 	* maltier (especially caramel) and darker in color than American Pale Ale
+
+# American Barley Wine
+* Region: USA
+* Categories: American Strong Ales, Barley Wines, American Hoppy Ales
+* Malt: pale ale malt, some darker malt, some lighter crystal
+* Hops: American, New World
+* Other Names: American Barleywine
+* Glassware: snifter
+* Color: light amber - dark amber (9-18 SRM)
+* Alcohol: high - very high (8-12% ABV)
+* Mouthfeel: 
+	* body: full, chewy
+	* carbonation: low - moderate
+	* alcohol warmth: significant but smooth
+* Bitterness: pronounced (50-100 IBUs)
+* Flavors: 
+	* malt: caramel, toffee
+	* hop: assertive American or New World hop flavor
+	* fermentation: moderate fruity esters, alcohol aromatics
+* Commercial Examples: Sierra Nevada Bigfoot Barleywine Style Ale, Rogue XS Old Crustacean Barleywine, Anchor Old Foghorn, Three Floyds Behemoth
+* Pairings: big food; aged cheeses; intense desserts
+* Notes:
+	* first introduced by Anchor in 1975 (Old Foghorn)
+	* then Sierra Nevada made Bigfoot in 1983
+	* 1988, GABF offered Barleywine category, and Sierra Nevada took gold
+	* original seasonal craft offering
+	* tend to be stronger and hoppier than British counterparts
+	* in many ways, it's an APA on steroids
+		* pale ale malt
+		* a little light - medium crystal malt
+		* generous hops
+	* aged versions are usually maltier and less hoppy
+		* often have caramel, toffee, sherry notes
 # American Blonde Ale
 * Region: USA
 * Categories: American Pale Lagers and Ales, Pale Ales, Blonde Ales
@@ -324,6 +357,33 @@
 	* 1997, stouts broken into Dry (Irish) Stout, Foreign Stout, Sweet Stout, Oatmeal Stout, Imperial Stout
 	* 2005, American Stout given its own category
 	* not the most popular of the stouts (that's Imperial)
+
+# American Strong Ale
+* Region: USA
+* Categories: American Strong Ales
+* Malt: pale ale, crystal
+* Hops: American, New World
+* Other Names:
+* Glassware:  snifter, tulip
+* Color: gold - light brown (7 - 18 SRM)
+* Alcohol: elevated - high (6.3 - 10% ABV)
+* Mouthfeel: 
+	* body: medium - full
+	* carbonation: moderate-low - moderate
+	* alcohol warmth: frequent, but not hot
+* Bitterness: assertive (50-100 IBUs)
+* Flavors: 
+	* malt: caramel, toffee, dark fruit
+	* hop: American or New World, generally tropical or stone fruit
+	* fermentation: low - moderate esters; noticeable alcohol flavor
+* Commercial Examples: Stone Arrogant Bastard, Bear Republic Red Rocket Ale, Port Brewing Shark Attack Double Red
+* Pairings:
+* Notes:
+	* grew out of American craft beer practices
+		* brewers who left the APA -> IPA -> DIPA chain
+		* usually feature specialty malt, particularly crystal
+	* much first brewed in late 90s in California, when the region was hop crazed
+	* very broad style, kind of a catch all for strong, hoppy ales that don't fit elsewhere
 # American Wheat Beer
 * Region: USA
 * Categories: American Pale Lagers and Ales, Wheat Ales
@@ -350,6 +410,33 @@
 	* developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers
 		* used a clean ale or lager yeast, so subdued fruitiness
 	* has become a popular base for fruit beers
+
+# American Wheat Wine
+* Region: USA
+* Categories: American Strong Ales
+* Malt: American 2-Row, American Wheat, some dark malt allowed
+* Hops: any
+* Other Names: American Wheatwine
+* Glassware:  snifter
+* Color: gold - amber (6-14 SRM)
+* Alcohol: high - very high (8-12% ABV)
+* Mouthfeel: 
+	* body: medium-full - full
+	* carbonation: low - moderate
+	* alcohol warmth: light - moderate, but smooth
+* Bitterness: moderate (30-60 IBUs)
+* Flavors: 
+	* malt: insense bready wheat malt, caramel, honey
+	* hop: low - medium, reflecting variety
+	* fermentation: moderate esters
+* Commercial Examples: Two Brothers Bare Tree Weiss Wine, Perennial Heart of Gold
+* Pairings: 
+* Notes:
+	* a uniquely American invention of Phil Moeller (Rubicon Brewing)
+		* 1988, Sacramento, CA
+	* goal: barleywine-strength using wheat malt (>= 50%)
+		* maltier balance
+		* key shared trait: alcohol content
 # Baltic Porter
 * Region: Northern and Eastern Europe
 * Categories: Porters, British Dark Ales

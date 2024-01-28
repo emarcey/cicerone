@@ -185,6 +185,95 @@
                 "\t- maltier (especially caramel) and darker in color than American Pale Ale"
             ]
         },
+        "American Barley Wine": {
+            "name": "American Barley Wine",
+            "region": "USA",
+            "categories": [
+                "American Strong Ales",
+                "Barley Wines",
+                "American Hoppy Ales"
+            ],
+            "malt": [
+                "pale ale malt",
+                "some darker malt",
+                "some lighter crystal"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [
+                "American Barleywine"
+            ],
+            "glassware": [
+                "snifter"
+            ],
+            "color": {
+                "color_range": [
+                    "light amber",
+                    "dark amber"
+                ],
+                "value_low": 9.0,
+                "value_high": 18.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "high",
+                    "very high"
+                ],
+                "value_low": 8.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "full, chewy",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": "significant but smooth"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "pronounced"
+                ],
+                "value_low": 50.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "caramel",
+                    "toffee"
+                ],
+                "fermentation": [
+                    "moderate fruity esters",
+                    "alcohol aromatics"
+                ],
+                "hop": [
+                    "assertive American or New World hop flavor"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Sierra Nevada Bigfoot Barleywine Style Ale",
+                "Rogue XS Old Crustacean Barleywine",
+                "Anchor Old Foghorn",
+                "Three Floyds Behemoth"
+            ],
+            "pairings": [
+                "big food; aged cheeses; intense desserts"
+            ],
+            "notes": [
+                "\t- first introduced by Anchor in 1975 (Old Foghorn)",
+                "\t- then Sierra Nevada made Bigfoot in 1983",
+                "\t- 1988, GABF offered Barleywine category, and Sierra Nevada took gold",
+                "\t- original seasonal craft offering",
+                "\t- tend to be stronger and hoppier than British counterparts",
+                "\t- in many ways, it's an APA on steroids",
+                "\t\t- pale ale malt",
+                "\t\t- a little light - medium crystal malt",
+                "\t\t- generous hops",
+                "\t- aged versions are usually maltier and less hoppy",
+                "\t\t- often have caramel, toffee, sherry notes"
+            ]
+        },
         "American Blonde Ale": {
             "name": "American Blonde Ale",
             "region": "USA",
@@ -908,6 +997,83 @@
                 "\t- not the most popular of the stouts (that's Imperial)"
             ]
         },
+        "American Strong Ale": {
+            "name": "American Strong Ale",
+            "region": "USA",
+            "categories": [
+                "American Strong Ales"
+            ],
+            "malt": [
+                "pale ale",
+                "crystal"
+            ],
+            "hops": [
+                "American",
+                "New World"
+            ],
+            "other_names": [],
+            "glassware": [
+                "snifter",
+                "tulip"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "light brown"
+                ],
+                "value_low": 7.0,
+                "value_high": 18.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated",
+                    "high"
+                ],
+                "value_low": 6.3,
+                "value_high": 10.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium - full",
+                "carbonation": "moderate-low - moderate",
+                "alcohol_warmth": "frequent, but not hot"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 50.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "caramel",
+                    "toffee",
+                    "dark fruit"
+                ],
+                "fermentation": [
+                    "low - moderate esters; noticeable alcohol flavor"
+                ],
+                "hop": [
+                    "American or New World",
+                    "generally tropical or stone fruit"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Stone Arrogant Bastard",
+                "Bear Republic Red Rocket Ale",
+                "Port Brewing Shark Attack Double Red"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- grew out of American craft beer practices",
+                "\t\t- brewers who left the APA -> IPA -> DIPA chain",
+                "\t\t- usually feature specialty malt, particularly crystal",
+                "\t- much first brewed in late 90s in California, when the region was hop crazed",
+                "\t- very broad style, kind of a catch all for strong, hoppy ales that don't fit elsewhere"
+            ]
+        },
         "American Wheat Beer": {
             "name": "American Wheat Beer",
             "region": "USA",
@@ -989,6 +1155,85 @@
                 "\t- developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers",
                 "\t\t- used a clean ale or lager yeast, so subdued fruitiness",
                 "\t- has become a popular base for fruit beers"
+            ]
+        },
+        "American Wheat Wine": {
+            "name": "American Wheat Wine",
+            "region": "USA",
+            "categories": [
+                "American Strong Ales"
+            ],
+            "malt": [
+                "American 2-Row",
+                "American Wheat",
+                "some dark malt allowed"
+            ],
+            "hops": [
+                "any"
+            ],
+            "other_names": [
+                "American Wheatwine"
+            ],
+            "glassware": [
+                "snifter"
+            ],
+            "color": {
+                "color_range": [
+                    "gold",
+                    "amber"
+                ],
+                "value_low": 6.0,
+                "value_high": 14.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "high",
+                    "very high"
+                ],
+                "value_low": 8.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "medium-full - full",
+                "carbonation": "low - moderate",
+                "alcohol_warmth": "light - moderate, but smooth"
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "moderate"
+                ],
+                "value_low": 30.0,
+                "value_high": 60.0
+            },
+            "flavors": {
+                "malt": [
+                    "insense bready wheat malt",
+                    "caramel",
+                    "honey"
+                ],
+                "fermentation": [
+                    "moderate esters"
+                ],
+                "hop": [
+                    "low - medium",
+                    "reflecting variety"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Two Brothers Bare Tree Weiss Wine",
+                "Perennial Heart of Gold"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- a uniquely American invention of Phil Moeller (Rubicon Brewing)",
+                "\t\t- 1988, Sacramento, CA",
+                "goal",
+                "\t- barleywine-strength using wheat malt (>= 50%)",
+                "\t\t- maltier balance",
+                "key_shared_trait",
+                "\t\t- alcohol content"
             ]
         },
         "Baltic Porter": {

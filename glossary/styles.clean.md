@@ -70,6 +70,41 @@
 	- 1994, American Amber Ale first entered as its own GABF category
 	- maltier (especially caramel) and darker in color than American Pale Ale
 
+# American Barley Wine
+
+- Region: USA
+- Categories: American Strong Ales, Barley Wines, American Hoppy Ales
+- Malt: pale ale malt, some darker malt, some lighter crystal
+- Hops: American, New World
+- Other names: American Barleywine
+- Glassware: snifter
+- Color: light amber - dark amber (9.0 - 18.0 SRM)
+- Alcohol: high - very high (8.0 - 12.0% ABV)
+- Mouthfeel: 
+	- body: full, chewy
+	- carbonation: low - moderate
+	- alcohol_warmth: significant but smooth
+- Bitterness: pronounced (50.0 - 100.0 IBU)
+- Flavors: 
+	- malt: caramel, toffee
+	- fermentation: moderate fruity esters, alcohol aromatics
+	- hop: assertive American or New World hop flavor
+	- other: 
+- Commercial examples: Sierra Nevada Bigfoot Barleywine Style Ale, Rogue XS Old Crustacean Barleywine, Anchor Old Foghorn, Three Floyds Behemoth
+- Pairings: big food; aged cheeses; intense desserts
+- Notes: 
+	- first introduced by Anchor in 1975 (Old Foghorn)
+	- then Sierra Nevada made Bigfoot in 1983
+	- 1988, GABF offered Barleywine category, and Sierra Nevada took gold
+	- original seasonal craft offering
+	- tend to be stronger and hoppier than British counterparts
+	- in many ways, it's an APA on steroids
+		- pale ale malt
+		- a little light - medium crystal malt
+		- generous hops
+	- aged versions are usually maltier and less hoppy
+		- often have caramel, toffee, sherry notes
+
 # American Blonde Ale
 
 - Region: USA
@@ -340,6 +375,33 @@ gabf_has_2_variations
 	- 2005, American Stout given its own category
 	- not the most popular of the stouts (that's Imperial)
 
+# American Strong Ale
+
+- Region: USA
+- Categories: American Strong Ales
+- Malt: pale ale, crystal
+- Hops: American, New World
+- Glassware: snifter, tulip
+- Color: gold - light brown (7.0 - 18.0 SRM)
+- Alcohol: elevated - high (6.3 - 10.0% ABV)
+- Mouthfeel: 
+	- body: medium - full
+	- carbonation: moderate-low - moderate
+	- alcohol_warmth: frequent, but not hot
+- Bitterness: assertive (50.0 - 100.0 IBU)
+- Flavors: 
+	- malt: caramel, toffee, dark fruit
+	- fermentation: low - moderate esters; noticeable alcohol flavor
+	- hop: American or New World, generally tropical or stone fruit
+	- other: 
+- Commercial examples: Stone Arrogant Bastard, Bear Republic Red Rocket Ale, Port Brewing Shark Attack Double Red
+- Notes: 
+	- grew out of American craft beer practices
+		- brewers who left the APA -> IPA -> DIPA chain
+		- usually feature specialty malt, particularly crystal
+	- much first brewed in late 90s in California, when the region was hop crazed
+	- very broad style, kind of a catch all for strong, hoppy ales that don't fit elsewhere
+
 # American Wheat Beer
 
 - Region: USA
@@ -367,6 +429,36 @@ gabf_has_2_variations
 	- developed by craft brewers in the 1980s alongside American Blonde Ales to bridge the gap between light lagers and heavier, more full-flavored craft beers
 		- used a clean ale or lager yeast, so subdued fruitiness
 	- has become a popular base for fruit beers
+
+# American Wheat Wine
+
+- Region: USA
+- Categories: American Strong Ales
+- Malt: American 2-Row, American Wheat, some dark malt allowed
+- Hops: any
+- Other names: American Wheatwine
+- Glassware: snifter
+- Color: gold - amber (6.0 - 14.0 SRM)
+- Alcohol: high - very high (8.0 - 12.0% ABV)
+- Mouthfeel: 
+	- body: medium-full - full
+	- carbonation: low - moderate
+	- alcohol_warmth: light - moderate, but smooth
+- Bitterness: moderate (30.0 - 60.0 IBU)
+- Flavors: 
+	- malt: insense bready wheat malt, caramel, honey
+	- fermentation: moderate esters
+	- hop: low - medium, reflecting variety
+	- other: 
+- Commercial examples: Two Brothers Bare Tree Weiss Wine, Perennial Heart of Gold
+- Notes: 
+	- a uniquely American invention of Phil Moeller (Rubicon Brewing)
+		- 1988, Sacramento, CA
+goal
+	- barleywine-strength using wheat malt (>= 50%)
+		- maltier balance
+key_shared_trait
+		- alcohol content
 
 # Baltic Porter
 

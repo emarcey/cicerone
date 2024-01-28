@@ -41,6 +41,7 @@ CHART_CATEGORIES = [
     "American Dark Ales",
     "American Hoppy Ales",
     "American Pale Lagers and Ales",
+    "American Strong Ales",
     "British Dark Ales",
     "British Pale Ales",
     "British Strong Ales",
