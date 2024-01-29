@@ -101,6 +101,146 @@
                 "\t\t- although temperature is between ale and lager yeast (55-65\u00b0F, vs 59-77\u00b0F and 46-56\u00b0F)"
             ]
         },
+        "Alternative Grain Beer": {
+            "name": "Alternative Grain Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "depends base style and grain used",
+                "carbonation": "depends on base style",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style and grain used"
+                ],
+                "fermentation": [
+                    "depends on base style"
+                ],
+                "hop": [
+                    "depends on base style"
+                ],
+                "other": [
+                    "flavors from specialty ingredient used"
+                ]
+            },
+            "commercial_examples": [
+                "Blue/Point Rastafarye Ale",
+                "Green\u2019s India Pale Ale",
+                "Lakefront New Grist",
+                "New Planet Pale Ale",
+                "Rogue Morimoto Soba Ale",
+                "Voodoo Swimming Jeans"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- broad category for American beers using gluten-free ingredients or non-traditional grains (e.g. sorghum, oats, rye, buckwheat, spelt, millet, rice), and may or may not be based on an existing style"
+            ]
+        },
+        "Alternative Sugar Beer": {
+            "name": "Alternative Sugar Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "depends base style and grain used",
+                "carbonation": "depends on base style",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style and grain used"
+                ],
+                "fermentation": [
+                    "depends on base style"
+                ],
+                "hop": [
+                    "depends on base style"
+                ],
+                "other": [
+                    "flavors from specialty ingredient used"
+                ]
+            },
+            "commercial_examples": [
+                "Bell\u2019s Hopslam",
+                "Cervejaria Colorado Appia",
+                "Fifth Hammer Break of Jawn",
+                "Groundswell Piloncillo",
+                "Long Trail Harvest",
+                "New Glarus Cabin Fever"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- broad category for American beers using added sweeteners that affect the flavor profile",
+                "\t\t- fermentable sugars (e.g. honey, molasses, brown sugar)",
+                "\t\t- unfermentable sugars (e.g. lactose)",
+                "\t\t- sugar alcohols (e.g. sorbitol)",
+                "\t\t- any other natural or artificial sweetener"
+            ]
+        },
         "American Amber Ale": {
             "name": "American Amber Ale",
             "region": "USA",
@@ -2452,6 +2592,77 @@
                 "\t\t- red, black, brown, white, and rye are recognized as specialty IPAs"
             ]
         },
+        "Brett Beer": {
+            "name": "Brett Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Sour Beers",
+                "American Wild Ales"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "drier, lighter, more highly attenuated than base style",
+                "carbonation": "moderate - high",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "fermentation": [
+                    "fruity when young",
+                    "barnyard when old"
+                ],
+                "hop": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "other": []
+            },
+            "commercial_examples": [],
+            "pairings": [
+                "Boulevard Saison Brett",
+                "Hill Farmstead Arthur",
+                "Logsdon Seizoen Bretta",
+                "Lost Abbey Brett Devo",
+                "Russian River Sanctification",
+                "The Bruery Saison Rue"
+            ],
+            "notes": [
+                "\t- BJCP category of specialty beer when Brett is sole fermentation agent or in combination with Sacch"
+            ]
+        },
         "British Brown Ale": {
             "name": "British Brown Ale",
             "region": "Britain",
@@ -2857,6 +3068,79 @@
                 "\t- shares many similarities with American Amber Ale",
                 "\t- steam beer style originated in the 1800s in San Francisco",
                 "\t- origin of steam beer name is unclear, may have something to do with coolships"
+            ]
+        },
+        "Classic Style Smoked Beer": {
+            "name": "Classic Style Smoked Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Smoked Beers"
+            ],
+            "malt": [
+                "depends on base style",
+                "some smoked malt (beechwood",
+                "or other hardwood)"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "depends base style and grain used",
+                "carbonation": "depends on base style",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style and smoked malt used; generally reminiscent of smoked foods"
+                ],
+                "fermentation": [
+                    "depends on base style"
+                ],
+                "hop": [
+                    "depends on base style"
+                ],
+                "other": [
+                    "flavors from specialty ingredient used"
+                ]
+            },
+            "commercial_examples": [
+                "Alaskan Smoked Porter",
+                "Schlenkerla Oak Smoke Doppelbock",
+                "Schlenkerla Rauchbier Weizen",
+                "Schlenkerla Rauchbier Ur-Bock",
+                "O\u2019Fallon Smoked Porter",
+                "Spezial Rauchbier Lagerbier"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- broad category for American beers using a smoked malt and are based on an existing style",
+                "\t- evergreen wood should not be used",
+                "\t- noticeable peat-smoked malt is undesirable"
             ]
         },
         "Cream Ale": {
@@ -4239,13 +4523,81 @@
                 "\t- originally brewed for export, similar to an Irish Extra Stout"
             ]
         },
+        "Fruit Beer": {
+            "name": "Fruit Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Fruit Beers"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "lighter than base style",
+                "carbonation": "depends on base style",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style"
+                ],
+                "fermentation": [
+                    "depends on base style"
+                ],
+                "hop": [
+                    "depends on base style"
+                ],
+                "other": [
+                    "flavors from fruit used"
+                ]
+            },
+            "commercial_examples": [
+                "21st Amendment Watermelon Wheat",
+                "Anderson Valley Blood Orange Gose",
+                "Avery Liliko\u2019i Kepolo",
+                "Ballast Point G"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- broad category for American beers based off an existing style and made with fruit"
+            ]
+        },
         "Fruit Lambic": {
             "name": "Fruit Lambic",
             "region": "Senne Valley and Pajottenland, Belgium",
             "categories": [
                 "Flanders Ales and Lambic Beers",
                 "Wild Fermented Beers",
-                "Sour Beers"
+                "Sour Beers",
+                "Fruit Beers"
             ],
             "malt": [
                 "60% Pilsner malt",
@@ -5580,6 +5932,88 @@
                 "\t\t- That year, Dreher Brewery near Vienna came out with a Vienna lager"
             ]
         },
+        "Mixed": {
+            "name": "Mixed",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Sour Beers",
+                "American Wild Ales"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "drierlighter than base style",
+                "carbonation": "moderate - high",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "fermentation": [
+                    "sour",
+                    "fruity",
+                    "funky",
+                    "barnyard"
+                ],
+                "hop": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Boulevard Love Child",
+                "Jester King Le Petit Prince",
+                "Jolly Pumpkin Oro de Calabaza",
+                "Lost Abbey Ghosts in the Forest",
+                "New Belgium Le Terroir",
+                "Russian River Temptation"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- mixed fermentations are arguably more popular than solo Brett beer",
+                "\t- early experiments were usually lactic fermentation + Sacch to emulate Berliner Weisse",
+                "\t- brewers can now harness increasingly complex fermentations",
+                "\t- Lactobacillus and Pediococcus play some role in nearly every tart beer",
+                "\t\t- must be used in lightly bittered beers, or souring must take place before hops are added (kettle souring)",
+                "flavors",
+                "\t\t- sour, fruity, funky, barnyard",
+                "\t- base style less important because fermentation characteristics dominate",
+                "\t\t- sourer and funkier than base style",
+                "\t\t- generally lighter body than base style"
+            ]
+        },
         "Munich Dunkel": {
             "name": "Munich Dunkel",
             "region": "Munich, Germany",
@@ -6161,7 +6595,8 @@
                 "German Lagers",
                 "Lagers",
                 "Dark Lagers",
-                "German Dark Lagers"
+                "German Dark Lagers",
+                "Smoked Beers"
             ],
             "malt": [
                 "rauch malt",
@@ -7034,6 +7469,144 @@
                 "\t- similar to an American Pale Ale, but no caramel flavor permitted, and hop focus tends to be more pronounced"
             ]
         },
+        "Spice": {
+            "name": "Spice",
+            "region": "USA",
+            "categories": [
+                "Specialty"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "depends base style",
+                "carbonation": "depends on base style",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style"
+                ],
+                "fermentation": [
+                    "depends on base style"
+                ],
+                "hop": [
+                    "depends on base style"
+                ],
+                "other": [
+                    "flavors from specialty ingredient used"
+                ]
+            },
+            "commercial_examples": [
+                "Alesmith Speedway Stout",
+                "Elysian Avatar Jasmine IPA",
+                "Founders Breakfast Stout",
+                "Rogue Yellow Snow Pilsner",
+                "Traquair Jacobite Ale",
+                "Young\u2019s Double Chocolate Stout"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- broad category for American beers using spices, herbs or vegetables with an existing base style"
+            ]
+        },
+        "Straight Sour Beer": {
+            "name": "Straight Sour Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Sour Beers",
+                "American Wild Ales"
+            ],
+            "malt": [
+                "pale ale",
+                "pilsner",
+                "wheat"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "straw"
+                ],
+                "value_low": 2.0,
+                "value_high": 3.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "normal",
+                    "elevated"
+                ],
+                "value_low": 4.5,
+                "value_high": 7.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "light",
+                "carbonation": "moderate - high, effervescent",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "very low"
+                ],
+                "value_low": 3.0,
+                "value_high": 8.0
+            },
+            "flavors": {
+                "malt": [
+                    "biscuit",
+                    "cracker"
+                ],
+                "fermentation": [
+                    "sharply sour lactic acid character; may have fruity character"
+                ],
+                "hop": [
+                    "none"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "rare",
+                "tends to be the base for other specialty beers"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- like a strong Berliner Weisse or a less funky Lambic",
+                "\t- no Brett",
+                "\t- may use kettle souring"
+            ]
+        },
         "Strong Bitter": {
             "name": "Strong Bitter",
             "region": "England",
@@ -7829,6 +8402,79 @@
                 "\t- originated in 2010, collab between Oregon's Deschutes Brewing and Kansas City's Boulevard",
                 "goal",
                 "\t\t- blend IPA with Belgian Witbier"
+            ]
+        },
+        "Wild Specialty Beer": {
+            "name": "Wild Specialty Beer",
+            "region": "USA",
+            "categories": [
+                "Specialty",
+                "Sour Beers",
+                "American Wild Ales"
+            ],
+            "malt": [
+                "depends on base style"
+            ],
+            "hops": [
+                "depends on base style"
+            ],
+            "other_names": [],
+            "glassware": [],
+            "color": {
+                "color_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 40.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 12.0,
+                "notes": []
+            },
+            "mouthfeel": {
+                "body": "lighter than base style",
+                "carbonation": "moderate - high",
+                "alcohol_warmth": ""
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "depends on base style"
+                ],
+                "value_low": 0.0,
+                "value_high": 100.0
+            },
+            "flavors": {
+                "malt": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "fermentation": [
+                    "sour",
+                    "fruity",
+                    "funky",
+                    "barnyard"
+                ],
+                "hop": [
+                    "depends on base style",
+                    "but generally less prominent"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Cascade Bourbonic Plague",
+                "Jester King Atrial Rubicite",
+                "New Belgium Dominga Mimosa Sour",
+                "New Glarus Wisconsin Belgian Red",
+                "Russian River Supplication",
+                "The Lost Abbey Cuvee de Tomme"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- an American wild ale with additional fruit, spice, herbs, or other specialty ingredients"
             ]
         },
         "Witbier": {

@@ -564,6 +564,8 @@
 		* pressurized steam: majority of modern kettles
 			* steam flows through jacked on bottom, sides, and calandria
 			* rapid and intense heating
+* **Kettle Souring:** the process of performing a lactic acid fermentation in the boil kettle after lautering but prior to boiling, in order to produce souring acids in a beer that will later be fairly hoppy
+	* hop bitterness inhibits Lactobacillus and Pediococcus, so if anything other than a lightly bittered beer is desired, this process is necessary
 * **Kilning:** final stage of malting process, where germinated green malt is dried and toasted
 	* 4 goals:
 		* reduce grain's moisture content to facilitate long-term storage (down to about 4%)

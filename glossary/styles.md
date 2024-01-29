@@ -42,6 +42,58 @@
 		* although temperature is between ale and lager yeast (55-65°F, vs 59-77°F and 46-56°F)
 
 
+
+# Alternative Grain Beer
+* Region: USA
+* Categories: Specialty
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: depends base style and grain used
+	* carbonation: depends on base style
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style and grain used
+	* hop: depends on base style
+	* fermentation: depends on base style
+	* other: flavors from specialty ingredient used
+* Commercial Examples: Blue/Point Rastafarye Ale, Green’s India Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans
+* Pairings:
+* Notes:
+	* broad category for American beers using gluten-free ingredients or non-traditional grains (e.g. sorghum, oats, rye, buckwheat, spelt, millet, rice), and may or may not be based on an existing style
+
+# Alternative Sugar Beer
+* Region: USA
+* Categories: Specialty
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: depends base style and grain used
+	* carbonation: depends on base style
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style and grain used
+	* hop: depends on base style
+	* fermentation: depends on base style
+	* other: flavors from specialty ingredient used
+* Commercial Examples: Bell’s Hopslam, Cervejaria Colorado Appia, Fifth Hammer Break of Jawn, Groundswell Piloncillo, Long Trail Harvest, New Glarus Cabin Fever
+* Pairings:
+* Notes:
+	* broad category for American beers using added sweeteners that affect the flavor profile
+		* fermentable sugars (e.g. honey, molasses, brown sugar)
+		* unfermentable sugars (e.g. lactose)
+		* sugar alcohols (e.g. sorbitol)
+		* any other natural or artificial sweetener
 # American Amber Ale
 * Region: USA
 * Categories: American Pale Lagers and Ales, Pale Ales
@@ -828,6 +880,29 @@
 	* this idea led to similar ones
 		* crystal malts -> red IPA
 		* red, black, brown, white, and rye are recognized as specialty IPAs
+
+# Brett Beer
+* Region: USA
+* Categories: Specialty, Sour Beers, American Wild Ales
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: drier, lighter, more highly attenuated than base style
+	* carbonation: moderate - high
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style, but generally less prominent
+	* hop: depends on base style, but generally less prominent
+	* fermentation: fruity when young, barnyard when old
+* Commercial Examples:
+* Pairings: Boulevard Saison Brett, Hill Farmstead Arthur, Logsdon Seizoen Bretta, Lost Abbey Brett Devo, Russian River Sanctification, The Bruery Saison Rue
+* Notes:
+	* BJCP category of specialty beer when Brett is sole fermentation agent or in combination with Sacch
 # British Brown Ale
 * Region: Britain
 * Categories: British Dark Ales, Brown Ales
@@ -954,6 +1029,32 @@
 	* shares many similarities with American Amber Ale
 	* steam beer style originated in the 1800s in San Francisco
 	* origin of steam beer name is unclear, may have something to do with coolships
+
+# Classic Style Smoked Beer 
+* Region: USA
+* Categories: Specialty, Smoked Beers
+* Malt: depends on base style, some smoked malt (beechwood, or other hardwood)
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: depends base style and grain used
+	* carbonation: depends on base style
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style and smoked malt used; generally reminiscent of smoked foods
+	* hop: depends on base style
+	* fermentation: depends on base style
+	* other: flavors from specialty ingredient used
+* Commercial Examples: Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier
+* Pairings:
+* Notes:
+	* broad category for American beers using a smoked malt and are based on an existing style 
+	* evergreen wood should not be used
+	* noticeable peat-smoked malt is undesirable
 # Cream Ale
 * Region: USA
 * Categories: American Lagers, Lagers, American Pale Lagers and Ales, Blonde Ales, Pale Ales, Hybrid Ales
@@ -1454,9 +1555,33 @@
 * Notes:
 	* originally brewed for export, similar to an Irish Extra Stout
 
+# Fruit Beer
+* Region: USA
+* Categories: Specialty, Fruit Beers
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: lighter than base style
+	* carbonation: depends on base style
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style
+	* hop: depends on base style
+	* fermentation: depends on base style
+	* other: flavors from fruit used
+* Commercial Examples: 21st Amendment Watermelon Wheat, Anderson Valley Blood Orange Gose, Avery Liliko’i Kepolo, Ballast Point G
+* Pairings:
+* Notes:
+	* broad category for American beers based off an existing style and made with fruit 
+	* 
 # Fruit Lambic
 * Region: Senne Valley and Pajottenland, Belgium
-* Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers
+* Categories: Flanders Ales and Lambic Beers, Wild Fermented Beers, Sour Beers, Fruit Beers
 * Malt: 60% Pilsner malt, 40% unmalted wheat
 * Hops: aged continental European hops
 * Other Names:
@@ -1902,6 +2027,37 @@
 		* Chief contribution was introduction of indirect kilning, allowing less smokey malts
 		* first fixed instance was at Oktoberfest in 1841, when Spaten Brewery of Munich introduced the first märzenbier
 		* That year, Dreher Brewery near Vienna came out with a Vienna lager
+
+# Mixed-Fermentation Sour Beer
+* Region: USA
+* Categories: Specialty, Sour Beers, American Wild Ales
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: drierlighter than base style
+	* carbonation: moderate - high
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style, but generally less prominent
+	* hop: depends on base style, but generally less prominent
+	* fermentation: sour, fruity, funky, barnyard
+* Commercial Examples: Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza, Lost Abbey Ghosts in the Forest, New Belgium Le Terroir, Russian River Temptation
+* Pairings: 
+* Notes:
+	* mixed fermentations are arguably more popular than solo Brett beer
+	- early experiments were usually lactic fermentation + Sacch to emulate Berliner Weisse
+	- brewers can now harness increasingly complex fermentations
+	- **Lactobacillus and Pediococcus play some role in nearly every tart beer**
+		- must be used in lightly bittered beers, or souring must take place before hops are added (kettle souring)
+		- Flavors: sour, fruity, funky, barnyard
+	- base style less important because fermentation characteristics dominate
+		- sourer and funkier than base style
+		- generally lighter body than base style
 # Munich Dunkel
 * Region: Munich, Germany
 * Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
@@ -2106,7 +2262,7 @@
 
 # Rauchbier
 * Region: Bamberg, Bavaria, Germany
-* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers
+* Categories: German Lagers, Lagers, Dark Lagers, German Dark Lagers, Smoked Beers
 * Malt: rauch malt, Munich malt
 * Hops: Noble
 * Other Names:
@@ -2384,6 +2540,55 @@
 * Notes:
 	* effectively, an American IPA brewed to session strength
 	* similar to an American Pale Ale, but no caramel flavor permitted, and hop focus tends to be more pronounced
+
+# Spice, Herb, or Vegetable Beer
+* Region: USA
+* Categories: Specialty
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: depends base style
+	* carbonation: depends on base style
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style
+	* hop: depends on base style
+	* fermentation: depends on base style
+	* other: flavors from specialty ingredient used
+* Commercial Examples: Alesmith Speedway Stout, Elysian Avatar Jasmine IPA, Founders Breakfast Stout, Rogue Yellow Snow Pilsner, Traquair Jacobite Ale, Young’s Double Chocolate Stout
+* Pairings:
+* Notes:
+	* broad category for American beers using spices, herbs or vegetables with an existing base style
+	* 
+# Straight Sour Beer
+* Region: USA
+* Categories: Specialty, Sour Beers, American Wild Ales
+* Malt: pale ale, pilsner, wheat
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: straw (2-3 SRM)
+* Alcohol: normal - elevated (4.5-7% ABV)
+* Mouthfeel: 
+	* body: light
+	* carbonation: moderate - high, effervescent
+	* alcohol warmth: 
+* Bitterness: very low (3-8 IBUs)
+* Flavors: 
+	* malt: biscuit, cracker
+	* hop: none
+	* fermentation: sharply sour lactic acid character; may have fruity character
+* Commercial Examples: rare, tends to be the base for other specialty beers
+* Pairings: 
+* Notes:
+	* like a strong Berliner Weisse or a less funky Lambic
+	* **no Brett**
+	* may use kettle souring
 # Strong Bitter
 * Region: England
 * Categories: British Pale Ales, Bitters
@@ -2640,6 +2845,29 @@
 * Notes:
 	* originated in 2010, collab between Oregon's Deschutes Brewing and Kansas City's Boulevard
 		* goal: blend IPA with Belgian Witbier
+
+# Wild Specialty Beer
+* Region: USA
+* Categories: Specialty, Sour Beers, American Wild Ales
+* Malt: depends on base style
+* Hops: depends on base style
+* Other Names:
+* Glassware: 
+* Color: depends on base style (0-40 SRM)
+* Alcohol: depends on base style (0-12% ABV)
+* Mouthfeel: 
+	* body: lighter than base style
+	* carbonation: moderate - high
+	* alcohol warmth: 
+* Bitterness: depends on base style (0-100 IBUs)
+* Flavors: 
+	* malt: depends on base style, but generally less prominent
+	* hop: depends on base style, but generally less prominent
+	* fermentation: sour, fruity, funky, barnyard
+* Commercial Examples: Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dominga Mimosa Sour, New Glarus Wisconsin Belgian Red, Russian River Supplication, The Lost Abbey Cuvee de Tomme
+* Pairings:
+* Notes:
+	* an American wild ale with additional fruit, spice, herbs, or other specialty ingredients
 # Witbier
 * Region: Belgium
 * Categories: French and Belgian Beers, Wheat Beers
