@@ -7,4 +7,4 @@ Malt Level | |
 Hop Flavor | |
 Hop Level | |
 Perceived Bitterness | |
-BodyHop Level | |
+Body | |

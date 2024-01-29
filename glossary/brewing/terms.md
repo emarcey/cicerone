@@ -42,6 +42,42 @@
 	* and lipid release may cause rancidity
 	* can reduce head retention and increase haze
 	* causes: age of yeast, high temperatures (above 25°C), sudden changes in temperature at pitching or chilling, osmotic shock
+* **Barrel:** a sturdy wooden, cylindrical container used to store a liquid
+	* There are a lot of potential differences from there:
+		* type of wood
+		* preparation (toasted? and to what degree)
+		* prior contents
+		* number and length of prior uses
+		* microflora
+	* Give a beer to 20 different brewers to put in 20 different barrels, and you'll have 20 totally distinct beer
+	* Examining the traits
+		* Wood
+			* Oak is most common
+			* French oak is preferred because it gives subtle spicy notes and silky impression
+			* American gives stronger vanilla and coconut
+			* chestnut or cedar used on occasion
+		* Preparation
+			* Some barrels are toasted
+				* darker toast -> more wood-derived flavors imparted to beverage (e.g. vanilla)
+				* Used for wine
+			* Some barrels are charred, which effectively produces a layer of charcoal on the interior
+				* Used for bourbon because it actually removes some unpleasant flavors
+		* Prior Contents
+			* Many times, barrels that have been used for whiskey or wine are reused, transferring the flavors of the previous beverage to the beer
+			* Bourbon is an American favorite, but anything from port to pickles can be used
+		* Number and Length of uses
+			* First use from a previous-use bourbon barrel is quite pronounced
+			* Flavor decreases over use
+		* Aging
+			* Wood is porous, which allows microaeration -> oxidation
+			* oxidation dependent mostly on barrel surface area
+			* smaller barrel -> higher surface area per liter -> more oxygen
+		* Microflora
+			* once microbes (e.g. Brett, Laco, Pedio, Aceto) become ingrained in a barrel, they don't really come out
+				* this produces the flavors American craft brewers generally call "wild beer"
+		* Blending
+			* less to to with barrel, than combination of barrels
+			* when making the final result, a brewer mixes multiple barrels to create desired beer
 * **Base Malt:** any malt that has enough enzymatic power (diastatic activity) to ensure starch conversion during mashing
 	* accounts for the majority of the grist (60-100%)
 	* provides fermentable sugars and free amino nitrogen for yeast to consume
