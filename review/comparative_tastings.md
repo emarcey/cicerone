@@ -24,5 +24,9 @@
 # American
 - [[modules/american/activities/07_a__malt_v_adjunct|American Lager v Munich Helles]]
 - [[modules/american/activities/08_a__wheat_beer_comparison|Witbier, Weissbier, American Wheat Beer]]
+- [[modules/american/activities/09_a__pale_ale_comparison|09_a__pale_ale_comparison]]
 - [[modules/american/activities/08_b__blonde_ale_comparison|Blonde Ale Comparison]]
-- 
+- [[modules/american/activities/11_a__apa_v_session_ipa|11_a__apa_v_session_ipa]]
+- [[modules/american/activities/11_b__ipa_v_hazy|11_b__ipa_v_hazy]]
+- [[modules/american/activities/13_b__porter_v_stout|13_b__porter_v_stout]]
+- [[modules/american/14_a__barleywine|14_a__barleywine]]

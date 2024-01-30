@@ -1020,7 +1020,7 @@
 	* hop: woody, minty (Northern Brewer)
 	* fermentation: clean, but light fruity esters acceptable
 * Commercial Examples: Anchor Steam, Steamworks Steam Engine Lager
-* Pairings: wide range, medium intesnity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
+* Pairings: wide range, medium intensity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
 * Notes:
 	* developed out of immigrant efforts to adapt lager brewing to warm, New World conditions
 	* fermentation conducted in coolships to keep beer cool
