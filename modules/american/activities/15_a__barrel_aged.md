@@ -1,0 +1,24 @@
+- Brand
+	- Style: Imperial Stout
+	- Brewery: Lagunitas
+	- Label: Willetized Coffee Stoat
+	- ABV: 12.4%
+	- Cask: Rye Oak Barrels from J.D. Willet
+- Appearance:
+	- Color: black
+	- Head: pretty foamy
+- Mouthfeel:
+	- Body: thick, viscous
+	- Carbonation: high
+	- Other: moderate alcohol warmth
+- Aroma: chocolate, sherry
+- Flavor:
+	- Malt: coffee, chocolate
+	- Hop: woody, catty
+	- Fermentation: dark fruit
+	- Oxidation: sherry
+	- Prior Contents: sharp rye aftertaste - a little warm, a little astringent
+	- Perceived Bitterness: low - moderate
+- Tasting the Rye
+	- What carries over: the sharp, warm flavor
+	- What doesn't: smokiness
