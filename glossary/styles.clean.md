@@ -1044,7 +1044,7 @@ protected_category
 	- hop: woody, minty (Northern Brewer)
 	- other: 
 - Commercial examples: Anchor Steam, Steamworks Steam Engine Lager
-- Pairings: wide range, medium intesnity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
+- Pairings: wide range, medium intensity; roast pork, smoked sausage, salmon, coconut-breaded shrimp
 - Notes: 
 	- developed out of immigrant efforts to adapt lager brewing to warm, New World conditions
 	- fermentation conducted in coolships to keep beer cool
@@ -1052,7 +1052,10 @@ protected_category
 	- defined by Anchor steam as reformulated in 1971
 	- shares many similarities with American Amber Ale
 	- steam beer style originated in the 1800s in San Francisco
-	- origin of steam beer name is unclear, may have something to do with coolships
+	- origin of steam beer name is unclear
+		- may be related to high effervescence and amount of pressure in trade packages
+		- may be related to steam (excess carbonation) released from fresh kegs
+		- may be related to clouds of steam evaporating from coolships
 
 # Classic Style Smoked Beer
 
@@ -1182,7 +1185,7 @@ first_public_service
 - Categories: German Lagers, Dark Lagers, Lagers, German Dark Lagers
 - Malt: Pilsner, Munich, Vienna
 - Hops: Noble
-- Other names: Salvator
+- Other names: Salvator, liquid bread
 - Glassware: Becher, Pilsner
 - Color: gold - brown (6.0 - 25.0 SRM)
 - Alcohol: elevated - high (7.0 - 10.0% ABV)
@@ -1201,7 +1204,7 @@ first_public_service
 - Notes: 
 	- history
 		- 18th century, Paulist monks from Italy settled near Munich
-		- they brewed. strong beer for sustenance during Advent and Lent fasts
+		- they brewed strong beer for sustenance during Advent and Lent fasts
 		- They called it "Salvator," or "the Savior"
 		- Began brewing in 1774, began commercial production in early 1800s
 		- other breweries began imitating

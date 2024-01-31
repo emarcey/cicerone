@@ -3055,7 +3055,7 @@
             ],
             "pairings": [
                 "wide range",
-                "medium intesnity; roast pork",
+                "medium intensity; roast pork",
                 "smoked sausage",
                 "salmon",
                 "coconut-breaded shrimp"
@@ -3067,7 +3067,10 @@
                 "\t- defined by Anchor steam as reformulated in 1971",
                 "\t- shares many similarities with American Amber Ale",
                 "\t- steam beer style originated in the 1800s in San Francisco",
-                "\t- origin of steam beer name is unclear, may have something to do with coolships"
+                "\t- origin of steam beer name is unclear",
+                "\t\t- may be related to high effervescence and amount of pressure in trade packages",
+                "\t\t- may be related to steam (excess carbonation) released from fresh kegs",
+                "\t\t- may be related to clouds of steam evaporating from coolships"
             ]
         },
         "Classic Style Smoked Beer": {
@@ -3427,7 +3430,8 @@
                 "Noble"
             ],
             "other_names": [
-                "Salvator"
+                "Salvator",
+                "liquid bread"
             ],
             "glassware": [
                 "Becher",
@@ -3494,7 +3498,7 @@
             "notes": [
                 "\t- history",
                 "\t\t- 18th century, Paulist monks from Italy settled near Munich",
-                "\t\t- they brewed. strong beer for sustenance during Advent and Lent fasts",
+                "\t\t- they brewed strong beer for sustenance during Advent and Lent fasts",
                 "\t\t- They called it \"Salvator,\" or \"the Savior\"",
                 "\t\t- Began brewing in 1774, began commercial production in early 1800s",
                 "\t\t- other breweries began imitating",

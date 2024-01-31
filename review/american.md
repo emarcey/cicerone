@@ -114,6 +114,85 @@
 
 # Advanced Review Questions
 
+1. What factors led to the development of the CPG movement and what impact did this have on the beer industry?
+	1. Factors
+		1. Development of better transit networks: trucking and railroads
+		2. Prevalence of TV advertising that could reach the entire nation
+	2. Impact
+		1. Homogenization of styles toward lowest common denominator, e.g. American Light Lager
+2. What differences exist between two-row and six-row barley with respect to enzyme content and diastatic power? When would a brewer take these differences into account when designing a beer recipe?
+	1. Six row has higher enzyme content and diastatic power
+	2. This is important for poorly modified malts or recipes with considerable adjunct grains, because the increased diastatic power helps convert to sugar
+3. What are some key differences between BJCP and BA guidelines? Which styles appear in which?
+	1. Grouping
+		1. BA is clustered only by fermentation style -> origin
+		2. BJCP is clustered by smaller groups, often by origin, color, style
+	2. BA has far more specific specialty styles
+	3. BA has more American lagers
+	4. BA collapses Flanders ales into a single category
+	5. BA has a lot of "original" and "contemporary" style variations
+	6. BA has a lot more Imperial substyles
+	7. BA only has one British Export stout
+4. Why might a brewer add gypsum to their brewing water?
+	1. Improves yeast growth and flocculation
+	2. Promotes a dry, bitter beer
+	3. lowers the pH
+	4. preserves enzymes
+5. What specific flavor compounds are produced by Brettanomyces and what flavors do they contribute?
+	1. ethyl acetate: sweet, grape, cherry
+	2. ethyl lactate: fruity, tart
+	3. terahydrioyridines: mousy aroma
+	4. phenolics: barnyard, medicinal
+	5. caprylic + capric acids + esters: goaty
+6. Why do brewers include a small amount of malted barley along with unmalted cereal in cereal mash?
+	1. The enzymes in the malt help to break down the cereal and aid conversion to fermentable sugars
+7. What are the potential flavor impacts of high gravity brewing?
+	1. Higher gravity brewing has increased ester production compared to lower gravity, and thus the finished beer will have a fruitier characteristic than another beer at the same strength that was brewed with a normal gravity
+8. Compare and contrast American Lager and Cream Ale
+	1. Cream Ale - can use lager or ale yeast
+	2. American Lager - uses a high proportion of rice/corn adjunct (up to 40%)
+		1. Cream Ale also uses a fair amount of corn adjunct (up to 20%), but also uses sugar as well (up to 20%)
+	3. Cream Ale will have a sweet corn taste due to DMS, which is an off flavor in the American Lager
+	4. Otherwise both are lighter, lower ABV beers that are highly carbonated
+9. Why do you suppose most barrel-aged beers have high alcohol content?
+	1. In part because they might continue fermenting and there will be some water evaporation, raising the ABV
+	2. High ABV beers might be more resilient to the changes that occur during aging?
+10.  What are some of the possible origins of the term "steam" as used to describe Anchor Steam?
+	1. Clouds of steam evaporating from coolships
+	2. Excess carbonation released from fresh kegs
+	3. Effervescent mouthfeel of beer 
+11. Compare and contrast Black IPA and American Stout
+	1. This is an interesting comparison, because they are both dark ales of elevated strengths, with a fairly pronounced bitterness
+	2. The key distinction comes from the type of dark malt used: a Black IPA will use a debittered black malt, which minimizes the bitter roast flavor, allowing a higher perceived bitterness through.
+	3. The American Stout, while markedly bitter, will have more malt balance, and a more aggressive roast bitterness
+12. Compare and contrast White IPA and Belgian IPA
+	1. Both styles are variants of the American IPA with specialty ingredients that distinguish them from the base style
+	2. The White IPA uses some proportion of wheat in the malt and is generally brewed with coriander as well, in the style of the Belgian Witbier. The White IPA may also use a Belgian yeast, which can provide a spicy, peppery, clovey, banana flavor
+	3. The Belgian IPA is distinct from the American IPA in its use of traditional Belgian yeast, which provides a spicy, peppery, clovey, banana taste. It can be distinguished from the White IPA by the absence of wheat malt and coriander
+13. In a blind tasting, how would you distinguish between an American Barleywine and a Wheatwine
+	1. The Wheatwine will have a wheat malt taste and will likely have the related creamy texture and haze
+	2. The Barleywine will be more hop balanced and will have dark malt flavors (caramel and toffee) without the wheat malt flavors
+14. What flavor differences can occur when aging beer in barrels with different toast levels? What about barrels made with different types of wood?
+	1. A darker toast will generally impart more wood-derived flavors into the beer
+	2. Some examples of different wood-derived flavors:
+		1. French Oak: spicy
+		2. American Oak: vanilla, coconut
+15. Compare and contrast American Stout and Foreign Extra Stout
+	1. These are actually quite similar styles
+	2. They are dark ales made with roasted malts, usually of an elevated ABV (though Foreign Extra can reach higher)
+	3. They both exhibit assertive bitterness, although the American Stout has a wider range
+	4. And they both tend to exhibit fairly clean fermentation profiles, although the American Stout does allow the presence of some fermentation-derived fruity esters
+	5. The big difference will be in the type of hops used: American and New World hops have prominent citrus, piney, or catty flavors that can clash with the dark roast malts if not careful. On the other hand, British hops tend to have a subdued, earthy flavor that blends very smoothly into a black malt
+16. Name 3 different woods that can be used to smoke malt
+	1. Oak
+	2. Cherry
+	3. Beech
+	4. Alder
+	5. Maple
+	6. Peach
+	7. Mesquite
+	8. Pecan
+
 # Sample Cicerone Questions
 
 1. Name one difference between American Light Lager and International Pale Lager

@@ -9,3 +9,4 @@ Trans-2-nonenal | papery, wet cardboard | oxidation
 Lightstruck | skunky | light exposure
 Metallic | |
 Sulfurous | rotten eggs |
+Isovaleric Acid | pungent cheese, foot odor | wild yeast contamination

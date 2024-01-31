@@ -1,13 +1,13 @@
 * **Achel:** former Trappist brewery in Belgium at Saint Benedictus Abbey, lost designation in 2021, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Alchemist, The:** Vermont-based brewery that originated the Hazy IPA style with the Heady Topper in the 2000s
-* **Anchor Brewing Company:** San Francisco brewing company known for their 1971 Anchor Steam beer, which is the template for California Commons
+* **Anchor Brewing Company:** San Francisco brewing company known for their 1971 Anchor Steam beer, which is the template for California Common
 	* Has trademark on the "steam beer" phrase, so California Common has become the popular name
 	* founded in 1896
 	* in 1965, Fritz Maytag acquired the Anchor Brewing company from the verge of bankruptcy
 	* in 1972, brewed the first modern American porter
 	* in 1975, introduced the first American Barleywine (Old Fohorn)
 	* in 2023, closed operations
-* **Anheuser-Busch InBev** (A-B InBev):  American brewery founded in the mid-1852 by Adolphus Busch and brewmaster Irwin Sprule
+* **Anheuser-Busch InBev (A-B InBev):**  American brewery founded in the mid-1852 by Adolphus Busch and brewmaster Irwin Sprule
 	* largest brewery group in the world, with approximately 25% of global market share
 	* History:
 		* Anheuser Busch:

@@ -1028,7 +1028,10 @@
 	* defined by Anchor steam as reformulated in 1971
 	* shares many similarities with American Amber Ale
 	* steam beer style originated in the 1800s in San Francisco
-	* origin of steam beer name is unclear, may have something to do with coolships
+	* origin of steam beer name is unclear
+		* may be related to high effervescence and amount of pressure in trade packages
+		* may be related to steam (excess carbonation) released from fresh kegs
+		* may be related to clouds of steam evaporating from coolships
 
 # Classic Style Smoked Beer 
 * Region: USA
@@ -1540,7 +1543,7 @@
 * Other Names: double stout
 * Glassware: tulip, nonic pint, pub mug
 * Color: dark brown - black (30-40 SRM)
-* Alcohol:elevated - high (6.3-8% ABV)
+* Alcohol: elevated - high (6.3-8% ABV)
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: moderate - moderate-high
@@ -1548,7 +1551,7 @@
 * Bitterness: assertive (50-70 IBUs)
 * Flavors: 
 	* malt: assertive roast flavors of espresso and dark chocolate, often with secondary notes of licorice, molasses, dried fruit, burnt grain
-	* hop:assertive bitterness
+	* hop: assertive bitterness
 	* fermentation: clean
 * Commercial Examples: Guinness Foreign Extra Stout, Cooper's Best Extra Stout, Pike XXXXX Stout, The Kernel Export Stout
 * Pairings: hearty, rich food; steak, meat pies; oysters; chocolate
