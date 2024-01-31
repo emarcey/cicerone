@@ -1,0 +1,21 @@
+- Brand
+	- Style: Mixed-Fermentation Wild Ale
+	- Brewery: Plan Bee Farm
+	- Label: Spontaneous Raspberry (2021)
+	- ABV: 6.5%
+	- Fermentation Details: spontaneous fermented with raspberries and blackberries, aged in oak barrels, cooled in a coolship
+- Appearance:
+	- Color: red-orange
+	- Head: moderate, persistent
+- Mouthfeel:
+	- Body: moderate
+	- Carbonation: high
+	- Other: 
+- Aroma: raspberry, blackberry, a little barnyard
+- Flavor:
+	- Malt: cracker, grain
+	- Hop: none
+	- Fermentation: astringent, sour, barnyard, earthy
+	- Perceived Bitterness: none
+	- Other: bitter raspberry/blackberry taste
+- 

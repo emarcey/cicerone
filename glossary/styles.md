@@ -1149,7 +1149,7 @@
 * Categories: German Lagers, Dark Lagers, Lagers, German Dark Lagers
 * Malt: Pilsner, Munich, Vienna
 * Hops: Noble
-* Other Names: Salvator
+* Other Names: Salvator, liquid bread
 * Glassware: Becher, Pilsner
 * Color: gold - brown (6-25 SRM)
 * Alcohol: elevated - high (7-10% ABV)
@@ -1167,7 +1167,7 @@
 * Notes:
 	* history
 		* 18th century, Paulist monks from Italy settled near Munich
-		* they brewed. strong beer for sustenance during Advent and Lent fasts
+		* they brewed strong beer for sustenance during Advent and Lent fasts
 		* They called it "Salvator," or "the Savior"
 		* Began brewing in 1774, began commercial production in early 1800s
 		* other breweries began imitating

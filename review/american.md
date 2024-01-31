@@ -115,3 +115,51 @@
 # Advanced Review Questions
 
 # Sample Cicerone Questions
+
+1. Name one difference between American Light Lager and International Pale Lager
+	1. International Pale Lager is often all malt, whereas American Light Lager is made with up to 40% rice/corn
+2. What adjuncts are often included in the recipe for an American Light Lager?
+	1. rice
+	2. corn
+3. Which American style can be brewed as either an ale or a lager, and typically features low levels of DMS?
+	1. Cream Ale
+4. Anchor Steam is a classic commercial example of which American style?
+	1. California Common
+5. What is the max alcohol content in an American Wheat Beer?
+	1. 5.5%
+6. Name 3 hop varieties that might be used to brew an American Pale Ale
+	1. Celeia
+	2. Cascade
+	3. Chinook
+	4. Mosaic
+	5. Galaxy
+7. What is the color range of an American Amber Ale?
+	1. 10-17
+8. Name one key difference between a DIPA and an American Barleywine
+	1. Malt
+	2. DIPA: pale ale malt + sometimes sugar
+	3. American Barleywine: heavy use of dark specialty malts to produce caramel, toffee, or even dark fruit flavors
+9. Name 3 commercial examples of American IPA
+	1. Lagunitas IPA
+	2. Harpoon IPA
+	3. DogfishHead 60 Minute IPA
+10. What is the style name for an American ale with 4.3-6.2% ABV and 18-35 SRM?
+	1. American Brown Ale
+11. Name one flavor difference between American Stout and Foreign Extra Stout
+	1. American Stout will have citrus or resiny American hop flavors
+	2. Foreign Extra Stout will have a pronounced bitterness, but the more subdued British hops will add a little earthiness or herbal flavor
+12. Name a commercial example of an American barrel-aged sour beer
+	1. Russian River Supplication
+13. What flavors might you expect to encounter in a beer aged in an oak barrel?
+	1. French oak: spicy
+	2. American oak: coconut, vanilla
+	3. In addition, there are oxidation flavors, microflora flavors, and flavors from prior contents
+14. Name one difference between two-row and six-row barley
+	1. Two-row has lower enzymatic activity
+15. What is the bitterness range for American Blonde Ale?
+	1. 15-28
+16. North Coast Old Rasputin is a classic example of which American style?
+	1. Imperial Stout
+17. Name 2 key differences between NE IPA and American IPA
+	1. NE IPA - lighter in color and hazier
+	2. NE IPA - focused on "juicy" fruit hops that provide less perceived bitterness and focus on fruit aromas/flavors, while American IPA has a wide range of hop flavors and a more pronounced perceived bitterness
