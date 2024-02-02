@@ -8,6 +8,7 @@
 - Glassware: similar glass to a stange but shorter and wider
 - Color: light amber - dark amber (9.0 - 17.0 SRM)
 - Alcohol: normal (4.3 - 5.5% ABV)
+- Carbonation: 2.1 - 3.1 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: medium-medium high
@@ -100,6 +101,7 @@
 - Glassware: shaker
 - Color: light amber - dark amber (10.0 - 17.0 SRM)
 - Alcohol: normal (4.5 - 6.2% ABV)
+- Carbonation: 2.3 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: moderate - high
@@ -128,6 +130,7 @@
 - Glassware: snifter
 - Color: light amber - dark amber (9.0 - 18.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
+- Carbonation: 1.8 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: full, chewy
 	- carbonation: low - moderate
@@ -163,6 +166,7 @@
 - Glassware: shaker
 - Color: straw - gold (3.0 - 6.0 SRM)
 - Alcohol: lower - normal (3.8 - 5.5% ABV)
+- Carbonation: 2.4 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: moderate
@@ -189,6 +193,7 @@
 - Glassware: shaker
 - Color: dark amber - black (18.0 - 35.0 SRM)
 - Alcohol: normal (4.3 - 6.2% ABV)
+- Carbonation: 2.0 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: moderate - moderate-high
@@ -218,6 +223,7 @@
 - Glassware: shaker
 - Color: gold - amber (6.0 - 14.0 SRM)
 - Alcohol: normal - elevated (5.5 - 7.5% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderate-high
@@ -258,6 +264,7 @@
 - Glassware: shaker
 - Color: straw - light gold (2.0 - 4.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.3% ABV)
+- Carbonation: 2.5 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: low - medium
 	- carbonation: very high; slight carbonic bite
@@ -296,6 +303,7 @@
 - Glassware: shaker
 - Color: straw (2.0 - 3.0 SRM)
 - Alcohol: lower (2.8 - 4.2% ABV)
+- Carbonation: 2.5 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: very light, even watery
 	- carbonation: very high, slight carbonic bite
@@ -334,6 +342,7 @@ experts_attribute_success_to
 - Glassware: shaker
 - Color: light gold - light amber (5.0 - 10.0 SRM)
 - Alcohol: normal (4.5 - 6.2% ABV)
+- Carbonation: 2.3 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - high
@@ -364,6 +373,7 @@ experts_attribute_success_to
 - Glassware: shaker
 - Color: brown - black (22.0 - 40.0 SRM)
 - Alcohol: normal - elevated (4.8 - 6.5% ABV)
+- Carbonation: 1.8 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full; slight astringency optional
 	- carbonation: moderate
@@ -403,6 +413,7 @@ gabf_has_2_variations
 - Glassware: shaker
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: normal - elevated (5.0 - 7.0% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full; may have low astringency
 	- carbonation: moderate-high - high
@@ -432,6 +443,7 @@ gabf_has_2_variations
 - Glassware: snifter, tulip
 - Color: gold - light brown (7.0 - 18.0 SRM)
 - Alcohol: elevated - high (6.3 - 10.0% ABV)
+- Carbonation: 2.2 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - full
 	- carbonation: moderate-low - moderate
@@ -459,6 +471,7 @@ gabf_has_2_variations
 - Glassware: shaker
 - Color: straw - gold (3.0 - 6.0 SRM)
 - Alcohol: lower - normal (4.0 - 5.5% ABV)
+- Carbonation: 2.4 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; some creaminess optional
 	- carbonation: moderate-high - high
@@ -488,6 +501,7 @@ gabf_has_2_variations
 - Glassware: snifter
 - Color: gold - amber (6.0 - 14.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
+- Carbonation: 1.75 - 2.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full
 	- carbonation: low - moderate
@@ -516,6 +530,7 @@ key_shared_trait
 - Glassware: snifter, nonic pint, pub mug, tulip
 - Color: dark amber - dark brown (17.0 - 30.0 SRM)
 - Alcohol: elevated - high (6.5 - 9.5% ABV)
+- Carbonation: 1.7 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: full
 	- carbonation: medium - medium-high
@@ -548,6 +563,7 @@ key_shared_trait
 - Glassware: tulip, goblet, chalice
 - Color: light gold - gold (4.0 - 6.0 SRM)
 - Alcohol: elevated (6.0 - 7.5% ABV)
+- Carbonation: 2.2 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: moderately high - high
@@ -573,6 +589,7 @@ key_shared_trait
 - Glassware: tulip, goblet, chalice
 - Color: amber - brown (12.0 - 22.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium-full
 	- carbonation: high
@@ -602,6 +619,7 @@ key_shared_trait
 - Glassware: tulip, goblet, chalice
 - Color: light amber - dark amber (10.0 - 17.0 SRM)
 - Alcohol: elevated (6.0 - 7.5% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium full
 	- carbonation: moderately high
@@ -634,6 +652,7 @@ key_shared_trait
 - Glassware: tulip, goblet, chalice
 - Color: straw - gold (3.0 - 6.0 SRM)
 - Alcohol: high - very high (7.5 - 10.5% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: very high
@@ -686,6 +705,7 @@ key_shared_trait
 - Glassware: tulip, chalic, bolleke (specific goblet shape)
 - Color: gold - amber (8.0 - 14.0 SRM)
 - Alcohol: normal (4.8 - 5.5% ABV)
+- Carbonation: 2.1 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderately high
@@ -713,6 +733,7 @@ key_shared_trait
 - Glassware: tulip, goblet, chalice
 - Color: light gold - gold (4.5 - 7.0 SRM)
 - Alcohol: high (7.5 - 9.5% ABV)
+- Carbonation: 2.4 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: high
@@ -752,6 +773,7 @@ key_shared_trait
 - Glassware: short, wide-mouthed, straight side or chalice
 - Color: straw (2.0 - 3.0 SRM)
 - Alcohol: lower (2.8 - 3.8% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: thin, light, crisp
 	- carbonation: high, effervescent
@@ -801,6 +823,7 @@ protected_category
 - Glassware: nonic, pub mug, tulip
 - Color: gold - amber (8.0 - 16.0 SRM)
 - Alcohol: lower - normal (3.8 - 4.6% ABV)
+- Carbonation: 0.8 - 2.1 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light to medium
 	- carbonation: low carbonation, but bottled examples can have moderate
@@ -823,6 +846,7 @@ protected_category
 - Glassware: tulip, goblet
 - Color: gold - light brown (6.0 - 19.0 SRM)
 - Alcohol: elevated - high (6.0 - 8.5% ABV)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light to medium
 	- carbonation: moderate-high
@@ -876,6 +900,7 @@ protected_category
 - Glassware: shaker
 - Color: brown - black (25.0 - 40.0 SRM)
 - Alcohol: normal - high (5.5 - 9.0% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; some creaminess
 	- carbonation: moderate
@@ -930,6 +955,7 @@ protected_category
 - Glassware: nonic, pub mug, tulip
 - Color: amber - brown (12.0 - 22.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.9% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: medium - medium-high
@@ -956,6 +982,7 @@ protected_category
 - Glassware: nonic, pub mug, tulip
 - Color: straw - light gold (2.0 - 5.0 SRM)
 - Alcohol: lower - normal (3.8 - 5.0% ABV)
+- Carbonation: 1.5 - 2.3 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: low - moderate; higher in bottle
@@ -1033,6 +1060,7 @@ protected_category
 - Glassware: shaker
 - Color: light amber - amber (9.0 - 14.0 SRM)
 - Alcohol: normal (4.5 - 5.5% ABV)
+- Carbonation: 2.8 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: moderate - moderate-high
@@ -1090,6 +1118,7 @@ protected_category
 - Glassware: shaker
 - Color: straw - light gold (2.0 - 5.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.6% ABV)
+- Carbonation: 2.6 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: low - medium; highly-attenuated
 	- carbonation: high
@@ -1117,6 +1146,7 @@ protected_category
 - Glassware: footed Pilsner
 - Color: straw - gold (3.5 - 6.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.8% ABV)
+- Carbonation: 2.3 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full; gentle creaminess
 	- carbonation: low - moderate
@@ -1154,6 +1184,7 @@ first_public_service
 - Glassware: nonic pint, pub mug, tulip
 - Color: amber - brown (14.0 - 25.0 SRM)
 - Alcohol: lower (3.0 - 3.8% ABV)
+- Carbonation: 1.3 - 2.3 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: relatively low
@@ -1189,6 +1220,7 @@ first_public_service
 - Glassware: Becher, Pilsner
 - Color: gold - brown (6.0 - 25.0 SRM)
 - Alcohol: elevated - high (7.0 - 10.0% ABV)
+- Carbonation: 2.3 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-low - medium
 	- carbonation: moderate-low - moderate
@@ -1223,6 +1255,7 @@ first_public_service
 - Glassware: tulip
 - Color: gold - amber (6.0 - 14.0 SRM)
 - Alcohol: high (7.5 - 10.0% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderate-high
@@ -1261,6 +1294,7 @@ first_public_service
 - Glassware: Becher
 - Color: amber - brown (14.0 - 22.0 SRM)
 - Alcohol: elevated (6.3 - 7.2% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: moderate-low - moderate
@@ -1299,6 +1333,7 @@ success_due_in_part_to_system_of_quality_control
 - Glassware: Weizen
 - Color: amber - brown (14.0 - 23.0 SRM)
 - Alcohol: normal (4.3 - 5.6% ABV)
+- Carbonation: 3.6 - 4.5 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: high, effervescent
@@ -1323,6 +1358,7 @@ success_due_in_part_to_system_of_quality_control
 - Glassware: Becher, Pislner
 - Color: dark amber - dark brown (17.0 - 30.0 SRM)
 - Alcohol: high - very high (9.0 - 14.0% ABV)
+- Carbonation: 2.2 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: full - very full
 	- carbonation: low
@@ -1350,6 +1386,7 @@ success_due_in_part_to_system_of_quality_control
 - Glassware: snifter
 - Color: gold - brown (8.0 - 22.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
+- Carbonation: 1.6 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: full, chewy, velvety
 	- carbonation: low - moderate
@@ -1395,6 +1432,7 @@ success_due_in_part_to_system_of_quality_control
 - Glassware: nonic, pub mug, tulip
 - Color: gold - amber (6.0 - 14.0 SRM)
 - Alcohol: normal - elevated (5.0 - 7.5% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: medium - medium-high
@@ -1447,6 +1485,7 @@ big_names_to_know
 - Glassware: nonic pint, pub mug, tulip
 - Color: light - dark brown (20.0 - 30.0 SRM)
 - Alcohol: lower - normal (4.0 - 5.4% ABV)
+- Carbonation: 1.8 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; low-moderate creamy texture
 	- carbonation: moderate-low - moderate-high
@@ -1525,6 +1564,7 @@ big_names_to_know
 - Glassware: Ein Mass, Munich Stein, Becher
 - Color: light gold - gold (4.0 - 6.0 SRM)
 - Alcohol: normal - elevated (5.8 - 6.3% ABV)
+- Carbonation: 2.5 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: medium
@@ -1553,6 +1593,7 @@ big_names_to_know
 - Glassware: tulip, goblet
 - Color: red - brown (10.0 - 17.0 SRM)
 - Alcohol: normal - elevated (4.6 - 6.5% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: low - moderate
@@ -1594,6 +1635,7 @@ big_names_to_know
 - Glassware: tulip, nonic pint, pub mug
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: elevated - high (6.3 - 8.0% ABV)
+- Carbonation: 2.0 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full
 	- carbonation: moderate - moderate-high
@@ -1640,6 +1682,7 @@ big_names_to_know
 - Glassware: lambic, tulip, footed pilsner
 - Color: varies with fruit (3.0 - 7.0 SRM)
 - Alcohol: normal - elevated (5.0 - 7.0% ABV)
+- Carbonation: 2.4 - 3.1 vols $CO_2$
 - Mouthfeel: 
 	- body: dry, crisp
 	- carbonation: extremely broad, from near still to high
@@ -1673,9 +1716,11 @@ big_names_to_know
 - Categories: German Lagers, Pale Lagers, Lagers, German Pale Lagers
 - Malt: Pilsner malt
 - Hops: German hops
+- Other names: German Pilsner
 - Glassware: Pilsner glass
 - Color: straw - light gold (2.0 - 4.0 SRM)
 - Alcohol: normal (4.4 - 5.2% ABV)
+- Carbonation: 2.4 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light
 	- carbonation: medium-high
@@ -1707,6 +1752,7 @@ big_names_to_know
 - Glassware: narrow, straight-sided glass like a footed Stange
 - Color: straw - light gold (3.0 - 4.0 SRM)
 - Alcohol: lower - normal (4.2 - 4.8% ABV)
+- Carbonation: 2.5 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium-full
 	- carbonation: high, effervescent
@@ -1731,6 +1777,7 @@ big_names_to_know
 - Glassware: lambic, tulip, flute (framboise)
 - Color: straw - gold (5.0 - 6.0 SRM)
 - Alcohol: normal - elevated (5.0 - 8.0% ABV)
+- Carbonation: 2.4 - 3.1 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: high
@@ -1770,6 +1817,7 @@ big_names_to_know
 - Glassware: shaker
 - Color: straw - gold (3.0 - 7.0 SRM)
 - Alcohol: elevated - high (6.0 - 9.0% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: moderate
@@ -1807,6 +1855,7 @@ first_iteration
 - Glassware: becher
 - Color: gold - light amber (6.0 - 9.0 SRM)
 - Alcohol: elevated (6.3 - 7.4% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: moderate - moderate-high
@@ -1835,6 +1884,7 @@ not_too_similar_to_other_bocks
 - Glassware: snifter, tulip
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: high - very high (8.0 - 12.0% ABV)
+- Carbonation: 1.8 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: full - very full; chewy; velvety
 	- carbonation: low - moderate
@@ -1874,6 +1924,7 @@ not_too_similar_to_other_bocks
 - Glassware: shaker
 - Color: straw - gold (2.0 - 6.0 SRM)
 - Alcohol: normal (4.5 - 6.0% ABV)
+- Carbonation: 2.6 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium; crisp, well-attenuated finish
 	- carbonation: moderate-high - high
@@ -1898,6 +1949,7 @@ not_too_similar_to_other_bocks
 - Glassware: tulip, nonic pint, pub mug
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: normal - elevated (5.0 - 6.5% ABV)
+- Carbonation: 2.0 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full; some creaminess
 	- carbonation: moderate
@@ -1922,6 +1974,7 @@ not_too_similar_to_other_bocks
 - Glassware: nonic, pub mug, tulip
 - Color: light amber - amber (9.0 - 14.0 SRM)
 - Alcohol: lower - normal (3.8 - 5.0% ABV)
+- Carbonation: 2.1 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium, may be slick if high diacetyl
 	- carbonation: moderate
@@ -1946,9 +1999,11 @@ not_too_similar_to_other_bocks
 - Categories: British Dark Ales, Stouts
 - Malt: pale malt, unmalted roast barley (up to 10% of grist), flaked barley
 - Hops: British
+- Other names: Dry Stout, Dry Irish Stout
 - Glassware: tulip, nonic pint, pub mug
 - Color: brown - black (25.0 - 40.0 SRM)
 - Alcohol: lower (3.8 - 5.0% ABV)
+- Carbonation: 1.6 - 2.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium-full
 	- carbonation: low
@@ -1979,6 +2034,7 @@ not_too_similar_to_other_bocks
 - Glassware: stange
 - Color: straw - light gold (3.5 - 5.0 SRM)
 - Alcohol: normal (4.4 - 5.2% ABV)
+- Carbonation: 2.4 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: medium-light - medium; very high attenuation
@@ -2022,6 +2078,7 @@ who_is_allowed_to_produce
 - Glassware: lambic glass, tulip
 - Color: straw - gold (3.0 - 6.0 SRM)
 - Alcohol: normal - elevated (5.0 - 6.5% ABV)
+- Carbonation: 1.8 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: very low - virtually still
@@ -2111,6 +2168,7 @@ flavors
 - Glassware: Munich Stein, Masskrug, Ein Mass
 - Color: amber - brown (17.0 - 28.0 SRM)
 - Alcohol: normal (4.5 - 5.6% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium full
 	- carbonation: moderate
@@ -2142,6 +2200,7 @@ flavors
 - Glassware: munich stein, ein mass, becher
 - Color: straw - light gold (3.0 - 5.0 SRM)
 - Alcohol: normal (4.7 - 5.4% ABV)
+- Carbonation: 2.3 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: medium
@@ -2178,6 +2237,7 @@ flavors
 - Glassware: Becher, Munich Stein
 - Color: gold - dark amber (8.0 - 17.0 SRM)
 - Alcohol: normal - elevated (5.6 - 6.3% ABV)
+- Carbonation: 2.5 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium
 	- carbonation: medium
@@ -2211,6 +2271,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: brown - black (22.0 - 40.0 SRM)
 - Alcohol: lower - normal (4.2 - 5.9% ABV)
+- Carbonation: 1.9 - 25.5 vols $CO_2$
 - Mouthfeel: 
 	- body: medium full - full; silky, creamy, oily
 	- carbonation: medium - medium-high
@@ -2243,6 +2304,7 @@ flavors
 - Glassware: snifter
 - Color: light amber - brown (10.0 - 22.0 SRM)
 - Alcohol: normal - high (5.5 - 9.0% ABV)
+- Carbonation: 1.8 - 2.5 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - full
 	- carbonation: low - moderate
@@ -2278,6 +2340,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: gold - amber (8.0 - 14.0 SRM)
 - Alcohol: lower (3.2 - 3.8% ABV)
+- Carbonation: 0.8 - 2.2 vols $CO_2$
 - Mouthfeel: 
 	- body: light - medium-light
 	- carbonation: low, though bottled can be moderate
@@ -2318,6 +2381,7 @@ flavors
 - Glassware: tulip, goblet
 - Color: amber - brown (17.0 - 22.0 SRM)
 - Alcohol: lower to high (4.0 - 8.0% ABV)
+- Carbonation: 2.2 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: low - moderate
@@ -2358,6 +2422,7 @@ flavors
 - Glassware: Becher, Munich Stein
 - Color: amber - brown (12.0 - 22.0 SRM)
 - Alcohol: normal (4.8 - 6.0% ABV)
+- Carbonation: 2.4 - 2.8 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: medium - medium-high
@@ -2382,6 +2447,7 @@ flavors
 - Glassware: shaker
 - Color: amber - brown (11.0 - 17.0 SRM)
 - Alcohol: elevated (5.5 - 7.5% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; smooth
 	- carbonation: medium - medium-high
@@ -2484,6 +2550,7 @@ flavors
 	- Table - low-normal (3.5-5% ABV)
 	- Standard - normal - elevated (5-7% ABV)
 	- Super - elevated - high (7-9%)
+- Carbonation: 2.3 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: light to medium
 	- carbonation: very high
@@ -2522,6 +2589,7 @@ flavors
 - Glassware: Munich Stein, Becher
 - Color: dark amber - dark brown (19.0 - 30.0 SRM)
 - Alcohol: normal (4.4 - 5.4% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderate-high
@@ -2549,6 +2617,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: amber - light brown (12.0 - 20.0 SRM)
 - Alcohol: lower (3.9 - 6.0% ABV)
+- Carbonation: 1.5 - 2.3 vols $CO_2$
 - Mouthfeel: 
 	- body: medium; may be moderately creamy
 	- carbonation: low - moderate
@@ -2559,7 +2628,7 @@ flavors
 	- fermentation: clean, but light esters allowed
 	- hop: light bitterness and hop flavor allowed
 	- other: 
-- Commercial examples: McEwan's 70
+- Commercial examples: McEwan's 80
 - Pairings: lighter food; moderately intense cheeses, lighter preparations of salmon and pork
 
 # Scottish Heavy
@@ -2572,6 +2641,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: amber - light brown (12.0 - 20.0 SRM)
 - Alcohol: lower (3.3 - 3.9% ABV)
+- Carbonation: 1.5 - 2.3 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; may be moderately creamy
 	- carbonation: low - moderate
@@ -2595,6 +2665,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: dark amber - brown (17.0 - 25.0 SRM)
 - Alcohol: lower (2.5 - 3.3% ABV)
+- Carbonation: 1.5 - 2.3 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium; may be moderately creamy
 	- carbonation: low - moderate
@@ -2617,6 +2688,7 @@ flavors
 - Glassware: shaker
 - Color: gold - amber (6.0 - 14.0 SRM)
 - Alcohol: low (3.0 - 5.0% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate - moderate-high
@@ -2689,6 +2761,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: gold - dark amber (8.0 - 18.0 SRM)
 - Alcohol: normal - elevated (4.6 - 6.2% ABV)
+- Carbonation: 1.5 - 2.4 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium full
 	- carbonation: low - moderate; more in bottled versions
@@ -2712,6 +2785,7 @@ flavors
 - Glassware: nonic, pub mug, tulip
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: lower - normal (4.0 - 6.0% ABV)
+- Carbonation: 2.0 - 2.4 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full; creamy
 	- carbonation: low - moderate
@@ -2747,6 +2821,7 @@ flavors
 - Glassware: tulip, goblet, chalice
 - Color: straw - light gold (3.0 - 5.0 SRM)
 - Alcohol: normal (4.8 - 6.0% ABV)
+- Carbonation: 2.5 - 3.0 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate high - high
@@ -2777,6 +2852,7 @@ flavors
 - Glassware: snifter, nonic pint, pub mug, tulip
 - Color: dark brown - black (30.0 - 40.0 SRM)
 - Alcohol: normal - high (5.5 - 8.0% ABV)
+- Carbonation: 2.0 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full
 	- carbonation: moderate
@@ -2802,6 +2878,7 @@ flavors
 - Glassware: Munich Stein, Becher
 - Color: light amber - amber (9.0 - 15.0 SRM)
 - Alcohol: normal (4.7 - 5.5% ABV)
+- Carbonation: 2.4 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light - medium
 	- carbonation: moderate
@@ -2827,6 +2904,7 @@ flavors
 - Glassware: snifter, thistle
 - Color: amber - brown (14.0 - 25.0 SRM)
 - Alcohol: elevated - high (6.5 - 10.0% ABV)
+- Carbonation: 1.6 - 2.4 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full
 	- carbonation: moderate
@@ -2853,6 +2931,7 @@ flavors
 - Glassware: Weizen glass
 - Color: straw - gold (2.0 - 6.0 SRM)
 - Alcohol: normal (4.3 - 5.6% ABV)
+- Carbonation: 2.5 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium - medium-full
 	- carbonation: high, effervescent
@@ -2909,6 +2988,7 @@ leichtes_weissbier
 - Glassware: Weizen, special branded goblets
 - Color: gold - brown (6.0 - 25.0 SRM)
 - Alcohol: elevated - high (6.5 - 9.0% ABV)
+- Carbonation: 2.4 - 2.9 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-full - full
 	- carbonation: moderate-high
@@ -2934,6 +3014,7 @@ leichtes_weissbier
 - Glassware: shaker
 - Color: light - gold - gold (5.0 - 6.0 SRM)
 - Alcohol: normal - elevated (5.5 - 7.0% ABV)
+- Carbonation: 2.2 - 2.7 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light
 	- carbonation: moderate - moderate-high
@@ -2982,6 +3063,7 @@ goal
 - Glassware: French jelly glass, tulip
 - Color: straw to light gold (2.0 - 4.0 SRM)
 - Alcohol: normal (4.5 - 5.5% ABV)
+- Carbonation: 2.1 - 2.6 vols $CO_2$
 - Mouthfeel: 
 	- body: medium-light to medium
 	- carbonation: high

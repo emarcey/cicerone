@@ -7,6 +7,7 @@
 * Glassware: similar glass to a stange but shorter and wider
 * Color: light amber - dark amber (9-17 SRM)
 * Alcohol: normal (4.3-5.5% ABV)
+* Carbonation: 2.1-3.1
 * Mouthfeel: 
 	* body: medium
 	* carbonation: medium-medium high
@@ -103,6 +104,7 @@
 * Glassware: shaker
 * Color: light amber - dark amber (10-17 SRM)
 * Alcohol: normal (4.5-6.2% ABV)
+* Carbonation: 2.3-2.8
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: moderate - high
@@ -129,6 +131,7 @@
 * Glassware: snifter
 * Color: light amber - dark amber (9-18 SRM)
 * Alcohol: high - very high (8-12% ABV)
+* Carbonation: 1.8-2.5
 * Mouthfeel: 
 	* body: full, chewy
 	* carbonation: low - moderate
@@ -161,6 +164,7 @@
 * Glassware: shaker
 * Color: straw - gold (3-6 SRM)
 * Alcohol: lower - normal (3.8-5.5% ABV)
+* Carbonation: 2.4-2.8
 * Mouthfeel: 
 	* body: light - medium
 	* carbonation: moderate
@@ -186,6 +190,7 @@
 * Glassware: shaker
 * Color: dark amber - black (18-35 SRM)
 * Alcohol: normal (4.3-6.2% ABV)
+* Carbonation: 2.0-2.6
 * Mouthfeel: 
 	* body: medium - medium-full
 		* due to specialty malts and high mash temps
@@ -214,6 +219,7 @@
 * Glassware: shaker
 * Color: gold - amber (6 - 14 SRM)
 * Alcohol: normal - elevated (5.5-7.5% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderate-high
@@ -254,6 +260,7 @@
 * Glassware: shaker
 * Color: straw - light gold (2-4 SRM)
 * Alcohol: lower - normal (4.2 - 5.3% ABV)
+* Carbonation: 2.5-2.8
 * Mouthfeel: 
 	* body: low - medium
 	* carbonation: very high; slight carbonic bite
@@ -291,6 +298,7 @@
 * Glassware: shaker
 * Color: straw (2-3 SRM)
 * Alcohol: lower (2.8-4.2% ABV)
+* Carbonation: 2.5-2.8
 * Mouthfeel: 
 	* body: very light, even watery
 	* carbonation: very high, slight carbonic bite
@@ -328,6 +336,7 @@
 * Glassware: shaker
 * Color: light gold - light amber (5 - 10 SRM)
 * Alcohol: normal (4.5 - 6.2% ABV)
+* Carbonation: 2.3-2.8
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - high
@@ -356,6 +365,7 @@
 * Glassware: shaker
 * Color: brown - black (22-40 SRM)
 * Alcohol: normal - elevated (4.8-6.5% ABV)
+* Carbonation: 1.8-2.5
 * Mouthfeel: 
 	* body: medium - medium-full; slight astringency optional
 	* carbonation: moderate
@@ -391,6 +401,7 @@
 * Glassware: shaker
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: normal - elevated (5-7% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: medium-full; may have low astringency
 	* carbonation: moderate-high - high
@@ -419,6 +430,7 @@
 * Glassware:  snifter, tulip
 * Color: gold - light brown (7 - 18 SRM)
 * Alcohol: elevated - high (6.3 - 10% ABV)
+* Carbonation: 2.2-3.0
 * Mouthfeel: 
 	* body: medium - full
 	* carbonation: moderate-low - moderate
@@ -445,6 +457,7 @@
 * Glassware: shaker
 * Color: straw - gold (3-6 SRM)
 * Alcohol: lower - normal (4 - 5.5% ABV)
+* Carbonation: 2.4-3
 * Mouthfeel: 
 	* body: medium-light - medium; some creaminess optional
 	* carbonation: moderate-high - high
@@ -472,6 +485,7 @@
 * Glassware:  snifter
 * Color: gold - amber (6-14 SRM)
 * Alcohol: high - very high (8-12% ABV)
+* Carbonation: 1.75-2.0
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: low - moderate
@@ -498,6 +512,7 @@
 * Glassware: snifter, nonic pint, pub mug, tulip
 * Color: dark amber - dark brown (17-30 SRM)
 * Alcohol: elevated - high (6.5 - 9.5% ABV)
+* Carbonation: 1.7-2.5
 * Mouthfeel: 
 	* body: full
 	* carbonation: medium - medium-high
@@ -531,6 +546,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: light gold - gold (4-6 SRM)
 * Alcohol: elevated (6-7.5% ABV)
+* Carbonation: 2.2-2.8
 * Mouthfeel: 
 	* body: medium
 	* carbonation: moderately high - high
@@ -554,6 +570,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: amber - brown (12-22 SRM)
 * Alcohol: high - very high (8.0-12.0% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: medium-light - medium-full
 	* carbonation: high
@@ -581,6 +598,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: light amber - dark amber (10-17 SRM)
 * Alcohol: elevated (6-7.5% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: medium full
 	* carbonation: moderately high
@@ -611,6 +629,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: straw - gold (3-6 SRM)
 * Alcohol: high - very high (7.5-10.5% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: light - medium
 	* carbonation: very high
@@ -668,6 +687,7 @@
 * Glassware: tulip, chalic, bolleke (specific goblet shape)
 * Color: gold - amber (8-14 SRM)
 * Alcohol: normal (4.8-5.5% ABV)
+* Carbonation: 2.1-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderately high
@@ -697,6 +717,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: light gold - gold (4.5-7 SRM)
 * Alcohol: high (7.5-9.5% ABV)
+* Carbonation: 2.4-3.0
 * Mouthfeel: 
 	* body: medium-light - medium
 		* should have a dense, mousse-like foam
@@ -736,6 +757,7 @@
 * Glassware: short, wide-mouthed, straight side or chalice
 * Color: straw (2-3 SRM)
 * Alcohol: lower (2.8-3.8% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: thin, light, crisp
 	* carbonation: high, effervescent
@@ -785,6 +807,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: gold - amber (8-16 SRM)
 * Alcohol: lower - normal (3.8 - 4.6% ABV)
+* Carbonation: 0.8-2.1
 * Mouthfeel: 
 	* body: medium-light to medium
 	* carbonation: low carbonation, but bottled examples can have moderate
@@ -811,6 +834,7 @@
 * Color: gold - light brown (6 - 19 SRM)
 	* divided into blonde, gold and brown variations
 * Alcohol: elevated - high (6-8.5% ABV)
+* Carbonation: 2.3-2.9
 * Mouthfeel:
 	* body: medium-light to medium
 	* carbonation: moderate-high
@@ -860,6 +884,7 @@
 * Glassware: shaker
 * Color: brown - black (25-40 SRM)
 * Alcohol: normal - high (5.5 - 9.0% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium; some creaminess
 	* carbonation: moderate
@@ -912,6 +937,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: amber- brown (12-22 SRM)
 * Alcohol: lower - normal (4.2-5.9% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: medium - medium-high
@@ -935,6 +961,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: straw - light gold (2-5 SRM)
 * Alcohol: lower - normal (3.8 - 5.0% ABV)
+* Carbonation: 1.5-2.3
 * Mouthfeel: 
 	* body: light - medium
 	* carbonation: low - moderate; higher in bottle
@@ -1010,6 +1037,7 @@
 * Glassware: shaker
 * Color: light amber - amber (9-14 SRM)
 * Alcohol: normal (4.5 - 5.5% ABV)
+* Carbonation: 2.8-3.0
 * Mouthfeel: 
 	* body: medium
 	* carbonation: moderate - moderate-high
@@ -1067,6 +1095,7 @@
 * Glassware: shaker
 * Color: straw - light gold (2 - 5 SRM)
 * Alcohol: lower - normal (4.2 - 5.6% ABV)
+* Carbonation: 2.6-2.7
 * Mouthfeel: 
 	* body: low - medium; highly-attenuated
 	* carbonation: high
@@ -1091,6 +1120,7 @@
 * Glassware: footed Pilsner
 * Color: straw - gold (3.5 - 6 SRM)
 * Alcohol: lower - normal (4.2 - 5.8% ABV)
+* Carbonation: 2.3-2.6
 * Mouthfeel: 
 	* body: medium - medium-full; gentle creaminess
 	* carbonation: low - moderate
@@ -1124,6 +1154,7 @@
 * Glassware: nonic pint, pub mug, tulip
 * Color: amber - brown (14-25 SRM)
 * Alcohol: lower (3-3.8% ABV)
+* Carbonation: 1.3-2.3
 * Mouthfeel:
 	* body: light - medium
 	* carbonation: relatively low
@@ -1156,6 +1187,7 @@
 * Glassware: Becher, Pilsner
 * Color: gold - brown (6-25 SRM)
 * Alcohol: elevated - high (7-10% ABV)
+* Carbonation: 2.3-2.6
 * Mouthfeel: 
 	* body: medium-low - medium
 	* carbonation: moderate-low - moderate
@@ -1189,6 +1221,7 @@
 * Glassware: tulip
 * Color: gold - amber (6 - 14 SRM)
 * Alcohol: high (7.5-10% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderate-high
@@ -1225,6 +1258,7 @@
 * Glassware: Becher
 * Color: amber - brown (14 - 22 SRM)
 * Alcohol: elevated (6.3-7.2% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: moderate-low - moderate
@@ -1261,6 +1295,7 @@
 * Glassware: Weizen
 * Color: amber - brown (14 - 23 SRM)
 * Alcohol: normal (4.3-5.6% ABV)
+* Carbonation: 3.6-4.5
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: high, effervescent
@@ -1284,6 +1319,7 @@
 * Glassware: Becher, Pislner
 * Color: dark amber - dark brown (17-30 SRM)
 * Alcohol: high - very high (9-14% ABV)
+* Carbonation: 2.2-2.6
 * Mouthfeel: 
 	* body: full - very full
 	* carbonation: low
@@ -1310,6 +1346,7 @@
 * Glassware: snifter
 * Color: gold - brown (8 - 22 SRM)
 * Alcohol: high - very high (8-12% ABV)
+* Carbonation: 1.6-2.5
 * Mouthfeel: 
 	* body: full, chewy, velvety
 	* carbonation: low - moderate
@@ -1354,6 +1391,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: gold - amber (6-14 SRM)
 * Alcohol: normal - elevated (5-7.5% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: medium - medium-high
@@ -1403,6 +1441,7 @@
 * Glassware: nonic pint, pub mug, tulip
 * Color: light - dark brown (20-30 SRM)
 * Alcohol: lower - normal (4-5.4% ABV)
+* Carbonation: 1.8-2.5
 * Mouthfeel: 
 	* body: medium-light - medium; low-moderate creamy texture
 	* carbonation: moderate-low - moderate-high
@@ -1477,6 +1516,7 @@
 * Glassware: Ein Mass, Munich Stein, Becher
 * Color: light gold - gold (4-6 SRM)
 * Alcohol: normal - elevated (5.8 - 6.3% ABV)
+* Carbonation: 2.5-2.8
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: medium
@@ -1505,6 +1545,7 @@
 * Glassware: tulip, goblet
 * Color: red-brown (10-17 SRM)
 * Alcohol: normal - elevated (4.6-6.5% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium
 	* carbonation: low - moderate
@@ -1544,6 +1585,7 @@
 * Glassware: tulip, nonic pint, pub mug
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: elevated - high (6.3-8% ABV)
+* Carbonation: 2.0-2.6
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: moderate - moderate-high
@@ -1591,6 +1633,7 @@
 * Glassware: lambic, tulip, footed pilsner
 * Color: varies with fruit (3-7 SRM)
 * Alcohol: normal - elevated (5-7% ABV)
+* Carbonation: 2.4-3.1
 * Mouthfeel: 
 	* body:  dry, crisp
 	* carbonation: extremely broad, from near still to high
@@ -1621,10 +1664,11 @@
 * Categories: German Lagers, Pale Lagers, Lagers, German Pale Lagers
 * Malt: Pilsner malt
 * Hops:  German hops
-* Other Names:
+* Other Names: German Pilsner
 * Glassware: Pilsner glass
 * Color: straw - light gold (2-4 SRM)
 * Alcohol: normal (4.4-5.2% ABV)
+* Carbonation: 2.4-2.8
 * Mouthfeel: 
 	* body: medium-light
 	* carbonation: medium-high
@@ -1655,6 +1699,7 @@
 * Glassware:  narrow, straight-sided glass like a footed Stange
 * Color: straw - light gold (3-4 SRM)
 * Alcohol: lower - normal (4.2 - 4.8% ABV)
+* Carbonation: 2.5-3
 * Mouthfeel: 
 	* body: medium-light - medium-full
 	* carbonation: high, effervescent
@@ -1677,6 +1722,7 @@
 * Glassware: lambic, tulip, flute (framboise)
 * Color: straw - gold (5-6 SRM)
 * Alcohol: normal - elevated (5-8% ABV)
+* Carbonation: 2.4-3.1
 * Mouthfeel: 
 	* body: light - medium
 	* carbonation: high
@@ -1713,6 +1759,7 @@
 * Glassware: shaker
 * Color: straw - gold (3 - 7 SRM)
 * Alcohol: elevated - high (6 - 9% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: moderate
@@ -1748,6 +1795,7 @@
 * Glassware: becher
 * Color: gold - light amber (6-9 SRM)
 * Alcohol: elevated (6.3-7.4% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium
 	* carbonation: moderate - moderate-high
@@ -1772,6 +1820,7 @@
 * Glassware: snifter, tulip
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: high - very high (8-12% ABV)
+* Carbonation: 1.8-2.6
 * Mouthfeel: 
 	* body: full - very full; chewy; velvety
 	* carbonation: low - moderate
@@ -1811,6 +1860,7 @@
 * Glassware: shaker
 * Color: straw - gold (2 - 6 SRM)
 * Alcohol: normal (4.5 - 6% ABV)
+* Carbonation: 2.6-2.8
 * Mouthfeel: 
 	* body: light - medium; crisp, well-attenuated finish
 	* carbonation: moderate-high - high
@@ -1835,6 +1885,7 @@
 * Glassware: tulip, nonic pint, pub mug
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: normal - elevated (5-6.5% ABV)
+* Carbonation: 2.0-2.6
 * Mouthfeel: 
 	* body: medium-full - full; some creaminess
 	* carbonation: moderate
@@ -1858,6 +1909,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: light amber - amber (9 - 14 SRM)
 * Alcohol: lower - normal (3.8 - 5% ABV)
+* Carbonation: 2.1-2.6
 * Mouthfeel: 
 	* body: medium-light - medium, may be slick if high diacetyl
 	* carbonation: moderate
@@ -1879,10 +1931,11 @@
 * Categories: British Dark Ales, Stouts
 * Malt: pale malt, unmalted roast barley (up to 10% of grist), flaked barley
 * Hops: British
-* Other Names:
+* Other Names: Dry Stout, Dry Irish Stout
 * Glassware: tulip, nonic pint, pub mug
 * Color: brown - black (25-40 SRM)
 * Alcohol: lower (3.8-5% ABV)
+* Carbonation: 1.6-2.0
 * Mouthfeel: 
 	* body: medium-light - medium-full
 	* carbonation: low
@@ -1911,6 +1964,7 @@
 * Glassware: stange
 * Color: straw - light gold (3.5 - 5 SRM)
 * Alcohol: normal (4.4-5.2% ABV)
+* Carbonation: 2.4-2.8
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: medium-light - medium; very high attenuation
@@ -1951,6 +2005,7 @@
 	* hazy/cloudy when young
 	* clear when old
 * Alcohol: normal - elevated (5-6.5% ABV)
+* Carbonation: 1.8-2.6
 * Mouthfeel: 
 	* body: light - medium
 	* carbonation: very low - virtually still
@@ -2008,6 +2063,7 @@
 * Glassware: Becher, Munich Stein
 * Color: gold - dark amber (8-17 SRM)
 * Alcohol: normal - elevated (5.6 - 6.3% ABV)
+* Carbonation: 2.5-2.8
 * Mouthfeel: 
 	* body: medium
 	* carbonation: medium
@@ -2070,6 +2126,7 @@
 * Glassware: Munich Stein, Masskrug, Ein Mass
 * Color: amber - brown (17-28 SRM)
 * Alcohol: normal (4.5-5.6% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium - medium full
 	* carbonation: moderate
@@ -2098,6 +2155,7 @@
 * Glassware: munich stein, ein mass, becher
 * Color: straw - light gold (3-5 SRM)
 * Alcohol: normal (4.7-5.4% ABV)
+* Carbonation: 2.3-2.7
 * Mouthfeel: 
 	* body: medium
 	* carbonation: medium
@@ -2132,6 +2190,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: brown - black (22-40 SRM)
 * Alcohol: lower - normal (4.2-5.9% ABV)
+* Carbonation: 1.9-25.5
 * Mouthfeel: 
 	* body: medium full - full; silky, creamy, oily
 	* carbonation: medium - medium-high
@@ -2162,6 +2221,7 @@
 * Glassware: snifter
 * Color: light amber - brown (10-22 SRM)
 * Alcohol: normal - high (5.5 - 9% ABV)
+* Carbonation: 1.8-2.5
 * Mouthfeel: 
 	* body: medium - full
 	* carbonation: low - moderate
@@ -2195,6 +2255,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: gold - amber (8-14 SRM)
 * Alcohol: lower (3.2-3.8% ABV)
+* Carbonation: 0.8-2.2
 * Mouthfeel: 
 	* body: light - medium-light
 	* carbonation: low, though bottled can be moderate
@@ -2234,6 +2295,7 @@
 * Glassware: tulip, goblet
 * Color: amber - brown (17-22 SRM)
 * Alcohol: lower to high (4.0-8.0% ABV)
+* Carbonation: 2.2-2.8
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: low - moderate
@@ -2272,6 +2334,7 @@
 * Glassware: Becher, Munich Stein
 * Color: amber - brown (12 - 22 SRM)
 * Alcohol: normal (4.8 - 6% ABV)
+* Carbonation: 2.4-2.8
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: medium - medium-high
@@ -2295,6 +2358,7 @@
 * Glassware: shaker
 * Color: amber - brown (11-17 SRM)
 * Alcohol: elevated (5.5-7.5% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium; smooth
 	* carbonation: medium - medium-high
@@ -2405,6 +2469,7 @@
 	* Table - low-normal (3.5-5% ABV)
 	* Standard - normal - elevated (5-7% ABV)
 	* Super - elevated - high (7-9%)
+* Carbonation: 2.3-2.9
 * Mouthfeel: 
 	* body: light to medium 
 	* carbonation: very high
@@ -2440,6 +2505,7 @@
 * Glassware:  Munich Stein, Becher 
 * Color: dark amber - dark brown (19-30 SRM)
 * Alcohol: normal (4.4-5.4% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderate-high
@@ -2465,6 +2531,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: amber - light brown (12-20 SRM)
 * Alcohol: lower (3.9 - 6.0% ABV)
+* Carbonation: 1.5-2.3
 * Mouthfeel: 
 	* body: medium; may be moderately creamy
 	* carbonation: low - moderate
@@ -2474,7 +2541,7 @@
 	* malt: toasty bready malt, caramel, toffee, roast, subtle nuttiness
 	* hop: light bitterness and hop flavor allowed
 	* fermentation: clean, but light esters allowed
-* Commercial Examples: McEwan's 70
+* Commercial Examples: McEwan's 80
 * Pairings: lighter food; moderately intense cheeses, lighter preparations of salmon and pork
 * Notes:
 # Scottish Heavy
@@ -2486,6 +2553,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: amber - light brown (12-20 SRM)
 * Alcohol: lower (3.3 - 3.9% ABV)
+* Carbonation: 1.5-2.3
 * Mouthfeel: 
 	* body: medium-light - medium; may be moderately creamy
 	* carbonation: low - moderate
@@ -2507,6 +2575,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: dark amber - brown (17-25 SRM)
 * Alcohol: lower (2.5 - 3.3% ABV)
+* Carbonation: 1.5-2.3
 * Mouthfeel: 
 	* body: medium-light - medium; may be moderately creamy
 	* carbonation: low - moderate
@@ -2529,6 +2598,7 @@
 * Glassware: shaker
 * Color: gold - amber (6 - 14 SRM)
 * Alcohol: low  (3-5% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate - moderate-high
@@ -2601,6 +2671,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: gold - dark amber (8-18 SRM)
 * Alcohol: normal - elevated (4.6 - 6.2% ABV)
+* Carbonation: 1.5-2.4
 * Mouthfeel: 
 	* body: medium-light - medium full
 	* carbonation: low - moderate; more in bottled versions
@@ -2622,6 +2693,7 @@
 * Glassware: nonic, pub mug, tulip
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: lower - normal (4-6% ABV)
+* Carbonation: 2.0-2.4
 * Mouthfeel: 
 	* body: medium-full - full; creamy
 	* carbonation: low - moderate
@@ -2655,6 +2727,7 @@
 * Glassware: tulip, goblet, chalice
 * Color: straw - light gold (3-5 SRM)
 * Alcohol: normal (4.8-6% ABV)
+* Carbonation: 2.5-3
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate high - high
@@ -2684,6 +2757,7 @@
 * Glassware: snifter, nonic pint, pub mug, tulip
 * Color: dark brown - black (30-40 SRM)
 * Alcohol: normal - high (5.5-8% ABV)
+* Carbonation: 2.0-2.6
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: moderate
@@ -2708,6 +2782,7 @@
 * Glassware: Munich Stein, Becher
 * Color: light amber - amber (9-15 SRM)
 * Alcohol: normal (4.7 - 5.5% ABV)
+* Carbonation: 2.4-2.6
 * Mouthfeel: 
 	* body: medium-light - medium
 	* carbonation: moderate
@@ -2731,6 +2806,7 @@
 * Glassware: snifter, thistle
 * Color: amber - brown (14 - 25 SRM)
 * Alcohol: elevated - high (6.5 - 10% ABV)
+* Carbonation: 1.6-2.4
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: moderate
@@ -2755,6 +2831,7 @@
 * Glassware: Weizen glass
 * Color: straw - gold (2-6 SRM)
 * Alcohol: normal (4.3-5.6% ABV)
+* Carbonation: 2.5-2.9
 * Mouthfeel: 
 	* body: medium - medium-full
 	* carbonation: high, effervescent
@@ -2810,6 +2887,7 @@
 * Glassware: Weizen, special branded goblets
 * Color: gold - brown (6-25 SRM)
 * Alcohol: elevated - high (6.5 - 9% ABV)
+* Carbonation: 2.4-2.9
 * Mouthfeel: 
 	* body: medium-full - full
 	* carbonation: moderate-high
@@ -2833,6 +2911,7 @@
 * Glassware:  shaker
 * Color: light-gold - gold (5-6 SRM)
 * Alcohol: normal - elevated (5.5-7% ABV)
+* Carbonation: 2.2-2.7
 * Mouthfeel: 
 	* body: medium-light
 	* carbonation: moderate - moderate-high
@@ -2883,6 +2962,7 @@
 * Glassware: French jelly glass, tulip
 * Color: straw to light gold (2-4 SRM)
 * Alcohol: normal (4.5-5.5% ABV)
+* Carbonation: 2.1-2.6
 * Mouthfeel: 
 	* body: medium-light to medium
 	* carbonation: high

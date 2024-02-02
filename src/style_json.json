@@ -39,6 +39,10 @@
                 "value_high": 5.5,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.1,
+                "value_high": 3.1
+            },
             "mouthfeel": {
                 "body": "medium",
                 "carbonation": "medium-medium high",
@@ -130,6 +134,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "depends base style and grain used",
                 "carbonation": "depends on base style",
@@ -198,6 +203,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "depends base style and grain used",
                 "carbonation": "depends on base style",
@@ -275,6 +281,10 @@
                 "value_low": 4.5,
                 "value_high": 6.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -365,6 +375,10 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.5
+            },
             "mouthfeel": {
                 "body": "full, chewy",
                 "carbonation": "low - moderate",
@@ -453,6 +467,10 @@
                 "value_high": 5.5,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "light - medium",
                 "carbonation": "moderate",
@@ -535,6 +553,10 @@
                 "value_low": 4.3,
                 "value_high": 6.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.0,
+                "value_high": 2.6
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -620,6 +642,10 @@
                 "value_low": 5.5,
                 "value_high": 7.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -723,6 +749,10 @@
                 "value_high": 5.3,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "low - medium",
                 "carbonation": "very high; slight carbonic bite",
@@ -811,6 +841,10 @@
                 "value_low": 2.8,
                 "value_high": 4.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "very light, even watery",
@@ -904,6 +938,10 @@
                 "value_high": 6.2,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "medium-light - medium",
                 "carbonation": "moderate - high",
@@ -991,6 +1029,10 @@
                 "value_low": 4.8,
                 "value_high": 6.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.5
             },
             "mouthfeel": {
                 "body": "medium - medium-full; slight astringency optional",
@@ -1090,6 +1132,10 @@
                 "value_high": 7.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
+            },
             "mouthfeel": {
                 "body": "medium-full; may have low astringency",
                 "carbonation": "moderate-high - high",
@@ -1173,6 +1219,10 @@
                 "value_high": 10.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 3.0
+            },
             "mouthfeel": {
                 "body": "medium - full",
                 "carbonation": "moderate-low - moderate",
@@ -1249,6 +1299,10 @@
                 "value_low": 4.0,
                 "value_high": 5.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 3.0
             },
             "mouthfeel": {
                 "body": "medium-light - medium; some creaminess optional",
@@ -1334,6 +1388,10 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.75,
+                "value_high": 2.0
+            },
             "mouthfeel": {
                 "body": "medium-full - full",
                 "carbonation": "low - moderate",
@@ -1411,6 +1469,10 @@
                 "value_low": 6.5,
                 "value_high": 9.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.7,
+                "value_high": 2.5
             },
             "mouthfeel": {
                 "body": "full",
@@ -1503,6 +1565,10 @@
                 "value_low": 6.0,
                 "value_high": 7.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium",
@@ -1599,6 +1665,10 @@
                 "value_low": 8.0,
                 "value_high": 12.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
             },
             "mouthfeel": {
                 "body": "medium-light - medium-full",
@@ -1703,6 +1773,10 @@
                 "value_low": 6.0,
                 "value_high": 7.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
             },
             "mouthfeel": {
                 "body": "medium full",
@@ -1812,6 +1886,10 @@
                 "value_high": 10.5,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
+            },
             "mouthfeel": {
                 "body": "light - medium",
                 "carbonation": "very high",
@@ -1907,6 +1985,7 @@
                 "value_high": 9.5,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "light - medium",
                 "carbonation": "medium - high",
@@ -1990,6 +2069,10 @@
                 "value_low": 4.8,
                 "value_high": 5.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.1,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -2091,6 +2174,10 @@
                 "value_low": 7.5,
                 "value_high": 9.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 3.0
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -2204,6 +2291,10 @@
                 "value_high": 3.8,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
+            },
             "mouthfeel": {
                 "body": "thin, light, crisp",
                 "carbonation": "high, effervescent",
@@ -2309,6 +2400,10 @@
                 "value_high": 4.6,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 0.8,
+                "value_high": 2.1
+            },
             "mouthfeel": {
                 "body": "medium-light to medium",
                 "carbonation": "low carbonation, but bottled examples can have moderate",
@@ -2391,6 +2486,10 @@
                 "value_low": 6.0,
                 "value_high": 8.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
             },
             "mouthfeel": {
                 "body": "medium-light to medium",
@@ -2485,6 +2584,7 @@
                 "value_high": 4.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": null,
             "bitterness": null,
             "flavors": {
@@ -2546,6 +2646,10 @@
                 "value_low": 5.5,
                 "value_high": 9.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium; some creaminess",
@@ -2623,6 +2727,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "drier, lighter, more highly attenuated than base style",
                 "carbonation": "moderate - high",
@@ -2702,6 +2807,10 @@
                 "value_low": 4.2,
                 "value_high": 5.9,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -2784,6 +2893,10 @@
                 "value_low": 3.8,
                 "value_high": 5.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.5,
+                "value_high": 2.3
             },
             "mouthfeel": {
                 "body": "light - medium",
@@ -2868,6 +2981,7 @@
                 "value_high": 7.5,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "medium-light - medium",
                 "carbonation": "medium - medium-high",
@@ -2947,6 +3061,7 @@
                 "value_high": 7.5,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "very light - light; very dry finish",
                 "carbonation": "very high; spritzy",
@@ -3021,6 +3136,10 @@
                 "value_low": 4.5,
                 "value_high": 5.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.8,
+                "value_high": 3.0
             },
             "mouthfeel": {
                 "body": "medium",
@@ -3105,6 +3224,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "depends base style and grain used",
                 "carbonation": "depends on base style",
@@ -3188,6 +3308,10 @@
                 "value_high": 5.6,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.6,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "low - medium; highly-attenuated",
                 "carbonation": "high",
@@ -3268,6 +3392,10 @@
                 "value_low": 4.2,
                 "value_high": 5.8,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.6
             },
             "mouthfeel": {
                 "body": "medium - medium-full; gentle creaminess",
@@ -3360,6 +3488,10 @@
                 "value_low": 3.0,
                 "value_high": 3.8,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.3,
+                "value_high": 2.3
             },
             "mouthfeel": {
                 "body": "light - medium",
@@ -3454,6 +3586,10 @@
                 "value_high": 10.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "medium-low - medium",
                 "carbonation": "moderate-low - moderate",
@@ -3544,6 +3680,10 @@
                 "value_low": 7.5,
                 "value_high": 10.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -3640,6 +3780,10 @@
                 "value_low": 6.3,
                 "value_high": 7.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -3738,6 +3882,10 @@
                 "value_high": 5.6,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 3.6,
+                "value_high": 4.5
+            },
             "mouthfeel": {
                 "body": "medium - medium-full",
                 "carbonation": "high, effervescent",
@@ -3823,6 +3971,10 @@
                 "value_high": 14.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "full - very full",
                 "carbonation": "low",
@@ -3900,6 +4052,10 @@
                 "value_low": 8.0,
                 "value_high": 12.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.6,
+                "value_high": 2.5
             },
             "mouthfeel": {
                 "body": "full, chewy, velvety",
@@ -4002,6 +4158,10 @@
                 "value_low": 5.0,
                 "value_high": 7.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -4116,6 +4276,10 @@
                 "value_high": 5.4,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.5
+            },
             "mouthfeel": {
                 "body": "medium-light - medium; low-moderate creamy texture",
                 "carbonation": "moderate-low - moderate-high",
@@ -4221,6 +4385,7 @@
                 "value_high": 5.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": null,
             "bitterness": null,
             "flavors": {
@@ -4288,6 +4453,10 @@
                 "value_low": 5.8,
                 "value_high": 6.3,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -4376,6 +4545,10 @@
                 "value_low": 4.6,
                 "value_high": 6.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium",
@@ -4484,6 +4657,10 @@
                 "value_high": 8.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.0,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "medium-full - full",
                 "carbonation": "moderate - moderate-high",
@@ -4557,6 +4734,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "lighter than base style",
                 "carbonation": "depends on base style",
@@ -4631,6 +4809,10 @@
                 "value_low": 5.0,
                 "value_high": 7.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 3.1
             },
             "mouthfeel": {
                 "body": "dry, crisp",
@@ -4709,7 +4891,9 @@
             "hops": [
                 "German hops"
             ],
-            "other_names": [],
+            "other_names": [
+                "German Pilsner"
+            ],
             "glassware": [
                 "Pilsner glass"
             ],
@@ -4728,6 +4912,10 @@
                 "value_low": 4.4,
                 "value_high": 5.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium-light",
@@ -4820,6 +5008,10 @@
                 "value_high": 4.8,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 3.0
+            },
             "mouthfeel": {
                 "body": "medium-light - medium-full",
                 "carbonation": "high, effervescent",
@@ -4903,6 +5095,10 @@
                 "value_low": 5.0,
                 "value_high": 8.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 3.1
             },
             "mouthfeel": {
                 "body": "light - medium",
@@ -5007,6 +5203,10 @@
                 "value_high": 9.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium - medium-full",
                 "carbonation": "moderate",
@@ -5099,6 +5299,10 @@
                 "value_high": 7.4,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium",
                 "carbonation": "moderate - moderate-high",
@@ -5187,6 +5391,10 @@
                 "value_low": 8.0,
                 "value_high": 12.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.6
             },
             "mouthfeel": {
                 "body": "full - very full; chewy; velvety",
@@ -5290,6 +5498,10 @@
                 "value_high": 6.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.6,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "light - medium; crisp, well-attenuated finish",
                 "carbonation": "moderate-high - high",
@@ -5370,6 +5582,10 @@
                 "value_high": 6.5,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.0,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "medium-full - full; some creaminess",
                 "carbonation": "moderate",
@@ -5449,6 +5665,10 @@
                 "value_high": 5.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.1,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "medium-light - medium, may be slick if high diacetyl",
                 "carbonation": "moderate",
@@ -5513,7 +5733,10 @@
             "hops": [
                 "British"
             ],
-            "other_names": [],
+            "other_names": [
+                "Dry Stout",
+                "Dry Irish Stout"
+            ],
             "glassware": [
                 "tulip",
                 "nonic pint",
@@ -5534,6 +5757,10 @@
                 "value_low": 3.8,
                 "value_high": 5.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.6,
+                "value_high": 2.0
             },
             "mouthfeel": {
                 "body": "medium-light - medium-full",
@@ -5619,6 +5846,10 @@
                 "value_low": 4.4,
                 "value_high": 5.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -5717,6 +5948,10 @@
                 "value_high": 6.5,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "light - medium",
                 "carbonation": "very low - virtually still",
@@ -5802,6 +6037,7 @@
                 "value_high": 4.7,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "medium - medium-light",
                 "carbonation": "high; tingly acidity",
@@ -5885,6 +6121,10 @@
                 "value_high": 6.3,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "medium",
                 "carbonation": "medium",
@@ -5967,6 +6207,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "drierlighter than base style",
                 "carbonation": "moderate - high",
@@ -6054,6 +6295,10 @@
                 "value_low": 4.5,
                 "value_high": 5.6,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium - medium full",
@@ -6150,6 +6395,10 @@
                 "value_high": 5.4,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium",
                 "carbonation": "medium",
@@ -6245,6 +6494,10 @@
                 "value_high": 5.9,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.9,
+                "value_high": 25.5
+            },
             "mouthfeel": {
                 "body": "medium full - full; silky, creamy, oily",
                 "carbonation": "medium - medium-high",
@@ -6329,6 +6582,10 @@
                 "value_low": 5.5,
                 "value_high": 9.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.8,
+                "value_high": 2.5
             },
             "mouthfeel": {
                 "body": "medium - full",
@@ -6427,6 +6684,10 @@
                 "value_low": 3.2,
                 "value_high": 3.8,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 0.8,
+                "value_high": 2.2
             },
             "mouthfeel": {
                 "body": "light - medium-light",
@@ -6527,6 +6788,10 @@
                 "value_low": 4.0,
                 "value_high": 8.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.8
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -6630,6 +6895,10 @@
                 "value_high": 6.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.8
+            },
             "mouthfeel": {
                 "body": "medium - medium-full",
                 "carbonation": "medium - medium-high",
@@ -6704,6 +6973,10 @@
                 "value_low": 5.5,
                 "value_high": 7.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
             },
             "mouthfeel": {
                 "body": "medium-light - medium; smooth",
@@ -6783,6 +7056,7 @@
                 "value_high": 5.6,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "medium",
                 "carbonation": "",
@@ -6860,6 +7134,7 @@
                 "value_high": 8.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "medium-light - medium; smooth, slightly creamy",
                 "carbonation": "medium - medium-high",
@@ -6924,6 +7199,7 @@
                 "value_high": 11.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "thick, viscous, heavy with protein",
                 "carbonation": "still - medium low",
@@ -7014,6 +7290,10 @@
                     "Standard - normal - elevated (5-7% ABV)",
                     "Super - elevated - high (7-9%)"
                 ]
+            },
+            "carbonation": {
+                "value_low": 2.3,
+                "value_high": 2.9
             },
             "mouthfeel": {
                 "body": "light to medium",
@@ -7115,6 +7395,10 @@
                 "value_high": 5.4,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium-light - medium",
                 "carbonation": "moderate - moderate-high",
@@ -7205,6 +7489,10 @@
                 "value_high": 6.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.5,
+                "value_high": 2.3
+            },
             "mouthfeel": {
                 "body": "medium; may be moderately creamy",
                 "carbonation": "low - moderate",
@@ -7235,7 +7523,7 @@
                 "other": []
             },
             "commercial_examples": [
-                "McEwan's 70"
+                "McEwan's 80"
             ],
             "pairings": [
                 "lighter food; moderately intense cheeses",
@@ -7282,6 +7570,10 @@
                 "value_low": 3.3,
                 "value_high": 3.9,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.5,
+                "value_high": 2.3
             },
             "mouthfeel": {
                 "body": "medium-light - medium; may be moderately creamy",
@@ -7361,6 +7653,10 @@
                 "value_high": 3.3,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.5,
+                "value_high": 2.3
+            },
             "mouthfeel": {
                 "body": "medium-light - medium; may be moderately creamy",
                 "carbonation": "low - moderate",
@@ -7435,6 +7731,10 @@
                 "value_high": 5.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium-light - medium",
                 "carbonation": "moderate - moderate-high",
@@ -7502,6 +7802,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "depends base style",
                 "carbonation": "depends on base style",
@@ -7575,6 +7876,7 @@
                 "value_high": 7.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "light",
                 "carbonation": "moderate - high, effervescent",
@@ -7654,6 +7956,10 @@
                 "value_low": 4.6,
                 "value_high": 6.2,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 1.5,
+                "value_high": 2.4
             },
             "mouthfeel": {
                 "body": "medium-light - medium full",
@@ -7739,6 +8045,10 @@
                 "value_low": 4.0,
                 "value_high": 6.0,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.0,
+                "value_high": 2.4
             },
             "mouthfeel": {
                 "body": "medium-full - full; creamy",
@@ -7835,6 +8145,10 @@
                 "value_high": 6.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 3.0
+            },
             "mouthfeel": {
                 "body": "medium-light - medium",
                 "carbonation": "moderate high - high",
@@ -7928,6 +8242,10 @@
                 "value_high": 8.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.0,
+                "value_high": 2.6
+            },
             "mouthfeel": {
                 "body": "medium-full - full",
                 "carbonation": "moderate",
@@ -8006,6 +8324,10 @@
                 "value_low": 4.7,
                 "value_high": 5.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.6
             },
             "mouthfeel": {
                 "body": "medium-light - medium",
@@ -8093,6 +8415,10 @@
                 "value_high": 10.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 1.6,
+                "value_high": 2.4
+            },
             "mouthfeel": {
                 "body": "medium-full - full",
                 "carbonation": "moderate",
@@ -8171,6 +8497,10 @@
                 "value_low": 4.3,
                 "value_high": 5.6,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.5,
+                "value_high": 2.9
             },
             "mouthfeel": {
                 "body": "medium - medium-full",
@@ -8284,6 +8614,10 @@
                 "value_high": 9.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.4,
+                "value_high": 2.9
+            },
             "mouthfeel": {
                 "body": "medium-full - full",
                 "carbonation": "moderate-high",
@@ -8369,6 +8703,10 @@
                 "value_high": 7.0,
                 "notes": []
             },
+            "carbonation": {
+                "value_low": 2.2,
+                "value_high": 2.7
+            },
             "mouthfeel": {
                 "body": "medium-light",
                 "carbonation": "moderate - moderate-high",
@@ -8439,6 +8777,7 @@
                 "value_high": 12.0,
                 "notes": []
             },
+            "carbonation": null,
             "mouthfeel": {
                 "body": "lighter than base style",
                 "carbonation": "moderate - high",
@@ -8523,6 +8862,10 @@
                 "value_low": 4.5,
                 "value_high": 5.5,
                 "notes": []
+            },
+            "carbonation": {
+                "value_low": 2.1,
+                "value_high": 2.6
             },
             "mouthfeel": {
                 "body": "medium-light to medium",

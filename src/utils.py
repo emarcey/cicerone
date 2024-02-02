@@ -1,7 +1,7 @@
 import os
 from typing import Any, Dict, List, Optional, Union
 
-from src.const import ALCOHOL_PROFILE_REGEX, BITTERNESS_PROFILE_REGEX, COLOR_PROFILE_REGEX
+from src.const import ALCOHOL_PROFILE_REGEX, BITTERNESS_PROFILE_REGEX, CARBONATION_PROFILE_REGEX, COLOR_PROFILE_REGEX
 from src.generics import OPTIONAL_DICT_OR_DICT_ITEM, OPTIONAL_DICT_OR_LIST, DictItem
 
 
@@ -146,6 +146,18 @@ def validate_bitterness_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[
     range, value_low, value_high = BITTERNESS_PROFILE_REGEX.findall(v.value)[0]
     return {
         "bitterness_range": [x.strip() for x in range.split("-")],
+        "value_low": float(value_low),
+        "value_high": float(value_high),
+    }
+
+
+def validate_carbonation_profile(cls, v: OPTIONAL_DICT_OR_DICT_ITEM) -> Optional[Dict[str, Any]]:
+    if not v:
+        return None
+    if isinstance(v, dict):
+        return v
+    value_low, value_high = CARBONATION_PROFILE_REGEX.findall(v.value)[0]
+    return {
         "value_low": float(value_low),
         "value_high": float(value_high),
     }

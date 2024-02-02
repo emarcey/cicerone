@@ -197,6 +197,7 @@ def gen_charts(target_dir: str, styles: BeerStyleMap) -> None:
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         styles = gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
+        params = BeerStyleTestParams()
         gen_glossary(GLOSSARY_FILE_NAMES)
         gen_charts(OUT_CHARTS_PATH, styles)
     elif file_mode == "test":

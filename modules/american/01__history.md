@@ -156,7 +156,7 @@ These challenges resulted in uniquely American styles
 	- March, 1933, Roosevelt signed Cullen-Harrison Act, an amendment to the Volstead act which allowed some beverages
 	- April 7, 1933, Prohibition repealed at midnight
 		- at 12:01 AM, brewers of Milwaukee and St. Louis went ham
-		- first consingment of Anheuser-Busch went straight to the White House and lobbyists via Clydesdale
+		- first consignment of Anheuser-Busch went straight to the White House and lobbyists via Clydesdale
 	- spirits manufacturing still needed some work
 	- homebrewing not legal until 1979
 - The Prohibition Aftermath

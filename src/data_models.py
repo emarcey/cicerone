@@ -14,6 +14,7 @@ from src.utils import (
     snake_to_sentence_case,
     validate_alcohol_profile,
     validate_bitterness_profile,
+    validate_carbonation_profile,
     validate_color_profile,
     validate_optional_string_input,
     validate_optional_string_to_list,
@@ -120,6 +121,14 @@ class ColorProfile(BaseModel):
         return f"{' - '.join(self.color_range)} ({self.value_low} - {self.value_high} SRM)"
 
 
+class CarbonationProfile(BaseModel):
+    value_low: float
+    value_high: float
+
+    def __str__(self) -> str:
+        return f"{self.value_low} - {self.value_high} vols $CO_2$"
+
+
 class AlcoholProfile(BaseModel):
     alcohol_range: List[str]
     value_low: float
@@ -152,6 +161,7 @@ class BeerStyle(BaseModel):
     glassware: List[str] = Field(default_factory=lambda: [])
     color: Optional[ColorProfile] = None
     alcohol: AlcoholProfile
+    carbonation: Optional[CarbonationProfile] = None
     mouthfeel: Optional[MouthFeelProfile]
     bitterness: Optional[BitternessProfile] = None
     flavors: FlavorProfile
@@ -175,6 +185,7 @@ class BeerStyle(BaseModel):
     _validate_color_profile = field_validator("color", mode="before")(validate_color_profile)
     _validate_alcohol_profile = field_validator("alcohol", mode="before")(validate_alcohol_profile)
     _validate_bitterness_profile = field_validator("bitterness", mode="before")(validate_bitterness_profile)
+    _validate_carbonation_profile = field_validator("carbonation", mode="before")(validate_carbonation_profile)
 
     def __str__(self) -> str:
         vals = []
