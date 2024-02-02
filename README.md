@@ -13,6 +13,7 @@
 			7. Places
 			8. Serving
 			9. Styles
+				1. Note: carbonation info on styles is not derived from primary sources like the BA or BJCP. It's from pretty exhaustive searching on homebrew sites, so take with a grain of salt (then put that grain of salt in a Gose)
 			10. Yeasts & Other Organisms
 		3. 
 2. Modules
