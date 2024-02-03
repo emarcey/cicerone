@@ -17,3 +17,6 @@ Goals
 # Discussion Questions
 1. Are there any other US hybrid styles?
 	1. Cream Ale is the inverse of California Common: lagered beer made with ale yeast
+2. Is California Common unique enough to warrant its own style?
+	1. yes.
+	2. 
