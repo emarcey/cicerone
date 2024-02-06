@@ -1,0 +1,32 @@
+# Affinity
+-  neither enhancing nor diminishing; derives from familiar flavor combinations; very personal/cultural
+
+# Aggravating
+-  a negative enhancement, in which one element in a pair amplifies the other in an undesirable way. Common example is chile heat heightened by alcohol or hop bitterness
+
+# Balancing
+-  flavors that interact in such a way that both seem to disappear
+
+# Cleansing
+-  mainly due to the action of bubbles formed by carbonation, which quite literally scrub food from the palate
+
+# Enhancing
+-  this occurs when one partner increases the perceived intensity of another. For example, a little citrus, herbal, or salty element can bring out other flavors in both food and beer
+
+# Like-like Canceling
+-  things like sweets and acids that are not necessarily additive when combined
+
+# Masking
+-  similar to balancing, but often in an aromatic sense
+
+# Overwhelm
+-  a problem condition, when one partner is so much stronger than the other that it obscures the other
+
+# Resonance
+-  indicates an action based on similarity, either from shared aromas, or aromas in the same family
+
+# Soothing
+-  reduces heat or irritation, often in the context of chile heat
+
+# Synthesis
+-  an affinity so strong that it creates a third flavor, e.g. fruit + vanilla creating the sensation of a fruity ice cream
