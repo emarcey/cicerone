@@ -26,7 +26,7 @@ Beer pushed out of keg using pressurized gas
 	* but we want to control the amount
 * We use **applied pressure** 
 	* **Amount of CO2 that will dissolve at a given temperature is proportional to the amount of CO2 pressure applied to the container**
-* Using a beer at 38F, we want 2.5 volumens
+* Using a beer at 38F, we want 2.5 volumes
 	* Use a chart (see reference 1) -> 11psi
 * Usually takes < 24 hours to achieve desired carbonation
 * To carbonate 38F beer to 2.3 volumes -> 9 psi

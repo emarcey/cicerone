@@ -37,7 +37,7 @@ You need to understand how to assess beer conditions and maximize freshness
 
 # Beer Storage
 * Once you accept, it's now your responsibility
-* Old or poorly stored beer can lose hop aroma and take on icky flavrs
+* Old or poorly stored beer can lose hop aroma and take on icky flavors
 * **Refrigerate at all times**
 	* Beer stored at room temp ages 4x-10x faster than beer stored at 30F
 	* Storing above 80F can quickly ruin it

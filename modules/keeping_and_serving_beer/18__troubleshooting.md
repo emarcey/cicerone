@@ -93,7 +93,7 @@ Troubleshooting requires two things
 	1. Seems like a dirty line would be the hardest
 	2. It's kind of an "all else failed" thing, would be hard to detect
 	3. That, or a single broken gasket somewhere along the system
-2. Have you ever tried to diagnose and fix a draft system over the phone? What made the experience either difficult or succesful?
+2. Have you ever tried to diagnose and fix a draft system over the phone? What made the experience either difficult or successful?
 	1. No
 	2. But I can imagine not being able to see the system is a big issue
 		1. You're relying on a relay of information, and it's hard to know how qualified the relayer is. They might not understand what they're seeing, or may not know how to communicate it

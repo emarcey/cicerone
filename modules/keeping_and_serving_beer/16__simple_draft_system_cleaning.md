@@ -11,7 +11,7 @@ Desired goals of keeping draft lines clean:
 
 
 - Four key elements to clean
-	- Couple
+	- Coupler
 	- Lines
 	- FOB
 	- Faucet
