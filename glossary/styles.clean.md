@@ -571,7 +571,7 @@ key_shared_trait
 - Bitterness: low (15.0 - 30.0 IBU)
 - Flavors: 
 	- malt: grain, cereal, light honey sweetness
-	- fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome, spicy (clove, bubble gum, white peppercorn)
+	- fermentation: accentuates honey; classic Belgian yeast - fruity (lemon, orange, pome), spicy (clove, bubble gum, white peppercorn)
 	- hop: low perfumy, floral, spicy aromas
 	- other: 
 - Commercial examples: Leffe Blond, Affligem Blond, Grimbergen Blond, La Trappe Blond, Maredsous 6 Blond, St. Feuillien Blond, Val-Dieu Blond, pFriem Belgian-Style Blonde Ale
@@ -583,7 +583,7 @@ key_shared_trait
 
 - Region: Belgium
 - Categories: Trappist Ales, Secular and Trappist Strong Ales
-- Malt: Pilsner, dark candy sugar
+- Malt: Pilsner, dark candy sugar, chocolate, Munich, crystal, Special B
 - Hops: Noble, Goldings (East Kent, Styrian)
 - Other names: Quadrupel, Quad, Belgian Strong Dark Ale
 - Glassware: tulip, goblet, chalice
@@ -600,13 +600,13 @@ key_shared_trait
 	- fermentation: banana, pear, pepper, clove
 	- hop: low, spicy, floral, rosy
 	- other: 
-- Commercial examples: St. Bernardus Abt 12, Chimay Grand Réserve, Trappistes Rochefort  8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glas, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
-- Pairings: very heart food; strong cheese; chocolate
+- Commercial examples: St. Bernardus Abt 12, Chimay Grand Réserve, Trappistes Rochefort 8, Trappistes Rochefort 10, Westvleteren 12, Achel Extra Bruin, Avery the Reverend, Boulevard Sixth Glass, Gouden Carolus Grand Cru of the Emperor, La Trappe Quadrupel, Unibroue Trois Pistoles
+- Pairings: very hearty food; strong cheese; chocolate
 - Notes: 
 	- First brewed in 1948 by Chimay - Grande Réserve
 	- La Trappe used Quadrupel with release in 1991
-	- similar to dubbel, but go harder
-	- trappist versions usually drier than secular
+	- similar to dubbel, but goes harder
+	- Trappist versions usually drier than secular
 	- bottle conditioned
 
 # Belgian Dubbel
@@ -666,8 +666,8 @@ key_shared_trait
 - Commercial examples: Duvel, Alken-Maes Judas, De Dolle Dulle Teve, Delirium Tremens, Het Anker Lucifer, North Coast PranQster, Russian River Damnation, Van Honsebrouck Brigand, Van Steenberge Piraat
 - Pairings: wide range, salmon, chicken, spicy cuisine (e.g. Thai)
 - Notes: 
-	- 1923 - Moortgat Brewery brewed Duvel to emulate McEwan's. Scotch Ale
-	- despite high ABV, found it very drinkable
+	- 1923 - Moortgat Brewery brewed Duvel to emulate McEwan's Scotch Ale
+	- despite high ABV, customers found it very drinkable
 	- surprising strength inspired name "devil" - Duvel in Flemish
 	- original Duvel was actually dark like a Scotch ale
 	- in 1971 - Duvel reformulated as golden pale ale to compete with European pilsners
@@ -713,8 +713,8 @@ key_shared_trait
 - Bitterness: moderate (20.0 - 30.0 IBU)
 - Flavors: 
 	- malt: toasty, biscuity, nutty, light caramel sweetness
-	- fermentation: classic Belgian yeast, fruity, spicy - orange, pear, apricot, peppery, carefully managed fermentation temperature/conditions to keep yeast character restrained
-	- hop: spicy, herbal, floral, moderate bitterness, East Kent Goldings, Fuggles, Styrian Goldings, Saaz
+	- fermentation: classic Belgian yeast, fruity, spicy - orange, pear, apricot, peppery, carefully managed fermentation temperature/conditions to keep yeast character restrained, dry, without assertive bitterness
+	- hop: spicy, herbal, floral, moderate bitterness
 	- other: 
 - Commercial examples: Bolleke de Koninck, Dobbel PALM, PALM Spéciale Belge, De Ryck Spécial
 - Pairings: wide range, cheese, mussels, chicken, spicy dishes
@@ -743,7 +743,7 @@ key_shared_trait
 	- malt: grain, dough, light honey
 	- fermentation: orange, lemon, apricot, peach, pear, banana, pepper, clove, spice, rose
 	- hop: spicy, herbal, floral; pronounced bitterness
-	- other: 
+	- other: coriander optional
 - Commercial examples: Westmalle Tripel, Chimay Cinq Cents, Affligem Tripel, La Trappe Tripel, St. Bernardus Tripel, St. Feuillien Tripel, Tripel Karmeliet, Unibroue La Fin du Monde, Victory Golden Monkey, Allagash Triple, Brooklyn Local 1
 - Pairings: roast pork, rich seafood (e.g. lobster), creamy desserts (e.g. crème brûlée)
 - Notes: 
@@ -840,8 +840,8 @@ protected_category
 # Bière de Garde
 
 - Region: Belgium, France
-- Categories: French and Belgian Beers, Farmhouse Beers
-- Malt: Amber - Pale, Munich, Vienna, Blonde - Pale, with a little Munich and Vienna, Brown - Pale, with a lot of Munich/Vienna, Sometimes uses raw French barley
+- Categories: French and Belgian Beers, Farmhouse Beers, Hybrid Ales
+- Malt: Pale, Munich, Vienna, sometimes raw French barley
 - Hops: Strisselspalt, French Hallertau, Aramis
 - Glassware: tulip, goblet
 - Color: gold - light brown (6.0 - 19.0 SRM)
@@ -854,10 +854,10 @@ protected_category
 - Bitterness: low (18.0 - 28.0 IBU)
 - Flavors: 
 	- malt: malt-forward (toast, biscuit, bread, caramel, toffee)
-	- fermentation: low fruity esters
+	- fermentation: low fruity esters; may have Brett, lactic acid, or wild yeast flavors
 	- hop: mild hop (anise, floral, herbal)
 	- other: 
-- Commercial examples: Duyck Jenlain (blonde, amber), Castelain Blond, Castelain CH'TI (blonde, amber, brown), La Choulette (blonde, amber), Saint-Germain Page 24 Reserve Hildegarde (blonde, amber), Saint-Germain Page 24 Brun, Saint-Sylvestre 3 Monts (blonde), Saint Sylvestre Gavroche (amber), Two Brothers Domain DuPage (amber)
+- Commercial examples: Duyck Jenlain (blonde, amber), Castelain Blond, Castelain CH'TI (blonde, amber, brown), La Choulette (blonde, amber), Saint-Germain Page 24 Reserve Hildegarde (blonde, amber), Saint-Germain Page 24 Brun, Saint-Sylvestre 3 Monts (blonde), Saint Sylvestre Gavroche (amber), Two Brothers Domain DuPage (amber), Transmitter Bière de Garde
 - Pairings: hearty, rich food; steak, roast pork, beef stew; simple desserts
 - Notes: 
 	- 3 color ranges
@@ -1601,7 +1601,7 @@ big_names_to_know
 - Bitterness: low (10.0 - 25.0 IBU)
 - Flavors: 
 	- malt: caramel, toast, chocolate
-	- fermentation: tart, fruity, black cherry, plum, current
+	- fermentation: tart, fruity, black cherry, plum, currant
 	- hop: low earthy wild
 	- other: 
 - Commercial examples: Rodenbach Classic, Rodenbach Grand Cru, Verhaeghe Duchesse de Bourgogne, Bockor Cuvée des Jacobins Rouge, Bruery Terreux Oude Tart, Monk's Café Flemish Sour Ale, New Belgium La Folie, Panil Barriquée, Verhaeghe Vichtenaar
@@ -1781,7 +1781,7 @@ big_names_to_know
 - Mouthfeel: 
 	- body: light - medium
 	- carbonation: high
-	- alcohol_warmth: None
+	- alcohol_warmth: light optional
 - Bitterness: very low (0.0 - 10.0 IBU)
 - Flavors: 
 	- malt: honey, bread, vanilla
@@ -1802,7 +1802,7 @@ big_names_to_know
 			- honey; rhubarb; toast; spice; oak
 		- blend depends on vision and palate of blender
 			- aim is to create balanced harmonious product
-			- every batch isn't identica, but most blenders have a house character
+			- no 2 batches are identical, but most blenders have a house character
 	- once bottled, stored for a few months to a year
 		- referment -> new flavors -> rising carbonation
 		- may be enjoyed for many years (as much as 2 decades!)
@@ -2561,7 +2561,7 @@ flavors
 	- fermentation: spicy, fruity phenolic characteristics
 	- hop: earthy, herbal
 	- other: 
-- Commercial examples: Saison DuPont, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle, Transmitter Bière de Garde
+- Commercial examples: Saison DuPont, Fantôme, Allagash Saison, Ommegang Hennepin, St. Feuillein Saison, Goose Island Sofie, Funkwerks Saison, Lost Abbey Red Barn, North Coast Le Merle
 - Pairings: substantial salads, chicken, richer seafood dishes; very nice with bloomy-rind cheese; earthier version great with ripened goat cheese
 - Notes: 
 	- lots of variation

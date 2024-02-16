@@ -10,6 +10,7 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 
 from src.const import STYLE_CAT__HISTORICAL, STYLE_CAT__SPECIALTY
 from src.utils import (
+    clean_string,
     clear_screen,
     snake_to_sentence_case,
     validate_alcohol_profile,
@@ -292,6 +293,26 @@ class BeerStyle(BaseModel):
             float(guess_upper),
         )
 
+    def evaluate_commercial_examples(self, _params: BeerStyleTestParams) -> Tuple[str, List[str], str]:
+        console.print("*" * 20)
+        console.print(self.name, style="bold")
+        console.print("*" * 20)
+
+        guess = clean_string(console.input("Enter a commercial example: "))
+        commercial_examples_clean = list(map(clean_string, self.commercial_examples))
+        result = GuessProximity.miss
+        if guess in commercial_examples_clean:
+            result = GuessProximity.exact
+        elif guess != clean_string(self.name) and len(guess) > 0:
+            for example in list(commercial_examples_clean):
+                if example.find(guess) != -1:
+                    result = GuessProximity.very_close
+                    break
+
+        console.print(result._to_output_message(), style="bold")
+        console.print(f"Allowed values: {', '.join(self.commercial_examples)}", style="bold")
+        return result.name, self.commercial_examples, guess
+
     def print_test(self) -> str:
         vals = []
         for k in ["region", "color", "alcohol", "bitterness"]:
@@ -415,6 +436,34 @@ class BeerStyleMap(BaseModel):
                 line_to_write = ",".join(map(str, line)) + "\n"
                 f.write(line_to_write)
 
+    def output_evaluate_commercial_examples_results(
+        self, result_count: Counter, all_results: List[Tuple[str, str, str, str]]
+    ) -> None:
+        total = sum(result_count.values())
+        if total <= 0:
+            return
+        clear_screen()
+        console.print("")
+        console.print("*" * 20)
+        console.print("Results:")
+        console.print("*" * 20)
+        console.print(f"{total} Attempted")
+        for guess_proximity_type in GuessProximity:
+            num_of_type = result_count.get(guess_proximity_type.name, 0)
+            accuracy = round(round(num_of_type / total, 4) * 100, 2)
+            console.print(f"{num_of_type} {guess_proximity_type._to_output_message()}: {accuracy}%")
+        console.print("*" * 20)
+
+        output_directory = self.output_directory + "/evaluate_commercial_examples"
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
+        start_time = self.start_time.strftime("%Y%m%d_%H%M%S")
+        all_lines = [["style", "result", "allowed_values", "guess"]] + all_results
+        with open(f"{output_directory}/evaluate_value_{start_time}.csv", "w") as f:
+            for line in all_lines:
+                line_to_write = ",".join(map(str, line)) + "\n"
+                f.write(line_to_write)
+
     def evaluate_values(self, params: BeerStyleTestParams) -> None:
         total = 0
         correct = 0
@@ -438,6 +487,40 @@ class BeerStyleMap(BaseModel):
                 all_results.append((style, value_name, result, value_lower, value_upper, guess_low, guess_upper))
         except KeyboardInterrupt:
             self.output_evaluate_values_results(result_count, all_results)
+
+    def _select_eligible_commercial_example_styles(self, params: BeerStyleTestParams) -> Dict[str, BeerStyle]:
+        eligible_styles: Dict[str, BeerStyle] = {}
+        for name, style in self.styles.items():
+            if (
+                len(set([cat.lower() for cat in style.categories]).intersection(params.exclude_categories)) > 0
+                or not style.commercial_examples
+            ):
+                console.print(f"Excluding style: {name}")
+                continue
+            eligible_styles[name] = style
+        return eligible_styles
+
+    def evaluate_commercial_examples(self, params: BeerStyleTestParams) -> None:
+        total = 0
+        correct = 0
+        close = 0
+        eligible_styles = self._select_eligible_commercial_example_styles(params)
+        all_results = []
+        result_count: Counter = Counter()
+        clear_screen()
+        try:
+            while True:
+                style = random.choice(list(eligible_styles))
+                result, values, guess = self.styles[style].evaluate_commercial_examples(params)
+                result_count.update([result])
+                total += 1
+                if result == GuessProximity.exact.name:
+                    correct += 1
+                elif result != GuessProximity.miss.name:
+                    close += 1
+                all_results.append((style, result, ",".join(values), guess))
+        except KeyboardInterrupt:
+            self.output_evaluate_commercial_examples_results(result_count, all_results)
 
     def evaluate(self, params: BeerStyleTestParams) -> None:
         total = 0

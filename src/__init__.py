@@ -165,6 +165,11 @@ def evaluate_values(filename: str) -> None:
     styles.evaluate_values(BeerStyleTestParams())
 
 
+def evaluate_commercial_examples(filename: str) -> None:
+    styles = load_styles(filename)
+    styles.evaluate_commercial_examples(BeerStyleTestParams())
+
+
 def gen_glossary(glossary_file_names: List[str]) -> None:
     for file_name in glossary_file_names:
         lines = load_file(file_name)
@@ -193,7 +198,7 @@ def gen_charts(target_dir: str, styles: BeerStyleMap) -> None:
 
 
 @click.command()
-@click.option("--file_mode", type=click.Choice(["gen", "test", "test-values", "analyze"]))
+@click.option("--file_mode", type=click.Choice(["gen", "test", "test-values", "analyze", "test-commercial-examples"]))
 def main(file_mode: str) -> None:
     if file_mode == "gen":
         styles = gen_styles(STYLE_PATH, OUT_STYLE_PATH, JSON_STYLE_PATH)
@@ -205,6 +210,8 @@ def main(file_mode: str) -> None:
         evaluate_values(JSON_STYLE_PATH)
     elif file_mode == "analyze":
         analyze_historical_results(RESULT_DIR)
+    elif file_mode == "test-commercial-examples":
+        evaluate_commercial_examples(JSON_STYLE_PATH)
     else:
         raise ValueError(f"Invalid file mode: {file_mode}")
 

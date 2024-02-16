@@ -260,7 +260,7 @@
 * **Tynt Meadow:** Trappist Brewery in UK at Mount Saint Bernard Abbey, [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westmalle:** Trappist Brewery in Antwerp, Belgium at Abbey of Our Lady of the Holy Heart of Westmalle, instrumental in Dubbel, Tripel and helping other Trappist breweries, see [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
 * **Westvleteren**: Trappist Brewery in Westvleteren, Poperinge, Belgium at Abbey of Saint Sixtus of Westvleteren. Known for "best beer in world," difficult access, minimal commercialization. See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
-* **Williams, Beamish & Crawford** Irish brewery founded in 1792 as Cork Porter Brewery
+* **Williams, Beamish & Crawford:** Irish brewery founded in 1792 as Cork Porter Brewery
 	* 1805, Ireland's largest brewery
 	* 1901, went public
 	* 1962, acquired by Canadian Carling O'Keefe
@@ -268,5 +268,5 @@
 	* 1995, acquired by Scottish and Newcastle (which joined Heineken in 2008)
 	* 2009, Heineken closed Williams, Beamish & Crawford because they now had 2 County Cork breweries
 * **Zundert:** Trappist Brewery in Zundert, North Brabant, Netherlands at Abbey of Maria Toevlucht. Relatively recent brewery (2013). See [Trappist Breweries](obsidian://open?vault=cicerone&file=modules%2Fbelgian%2F12__trappist_breweries)
-* Zum Uerige: one of 4 remaining independent altbier brewpubs in Düsseldorf, and generally considered the gold standard
+* **Zum Uerige**: one of 4 remaining independent altbier brewpubs in Düsseldorf, and generally considered the gold standard
 	* They also brew Sticke and Doppelsticke which are stronger variations of Altbier

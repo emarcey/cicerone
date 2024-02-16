@@ -19,5 +19,8 @@ guess-the-style:
 guess-the-range:
 	pipenv run python src/__init__.py --file_mode=test-values
 
+guess-commercial-examples:
+	pipenv run python src/__init__.py --file_mode=test-commercial-examples
+
 analyze:
 	pipenv run python src/__init__.py --file_mode=analyze
