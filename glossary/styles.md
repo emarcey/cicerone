@@ -1520,7 +1520,7 @@
 	* malt: malt-balanced; bread, cracker, subtle sweetness
 	* hop: low - moderate bitterness; minimal hop flavor/aroma
 	* fermentation: clean
-* Commercial Examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
+* Commercial Examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
 * Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 * Notes:
 	* Bavarians used Märzen to celebrate wedding of Crown Prince Ludwig in 1810

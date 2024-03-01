@@ -1575,7 +1575,7 @@ big_names_to_know
 	- fermentation: clean
 	- hop: low - moderate bitterness; minimal hop flavor/aroma
 	- other: 
-- Commercial examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
+- Commercial examples: Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Festbier, Paulaner Wiesn, Weihenstephaner Festbier
 - Pairings: Mexican cuisine and other spicy food; chicken, sausage, milder cheeses
 - Notes: 
 	- Bavarians used Märzen to celebrate wedding of Crown Prince Ludwig in 1810
