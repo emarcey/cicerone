@@ -1704,7 +1704,7 @@
 	* hop: none
 	* fermentation: tart lactic acid; stone fruit, lemon
 	* other: coriander, salt
-* Commercial Examples: Bayerisch Bahnhof Leipziger Gose, Ritterguts Gose, Anderson Valley The Kimmie the Yink and the Holy Gose, Westbrook Gose, Off Color Troublesome
+* Commercial Examples: Bayerischer Bahnhof Leipziger Gose, Ritterguts Gose, Anderson Valley The Kimmie the Yink and the Holy Gose, Westbrook Gose, Off Color Troublesome
 * Notes:
 	* brewed with coriander and salt
 # Gueuze
@@ -1726,7 +1726,7 @@
 	* malt: honey, bread, vanilla
 	* hop: none
 	* fermentation: acidity with fruit (apple citrus, tropical, grape), hay/barnyard yeast
-* Commercial Examples: Boon Oude Geuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
+* Commercial Examples: Boon Oude Gueuze, Boon Oude Gueuze Mariage Parfait, Cantillon Gueuze, De Cam Oude Gueuze, Hanssens Oude Gueuze, 3 Fonteinen Oude Gueuze, Girardin Gueuze, Linemens Cuvée René, Mort Subite (Unfiltered) Gueuze, Oud Beersel Oude Geuze, Oude Gueuze Tilquin à l'ancienne
 * Pairings: difficult to pair, but nice with seafood and some cheeses
 * Notes:
 	* production began in 19th century due in part to strong glass bottles that could handle high carbonation

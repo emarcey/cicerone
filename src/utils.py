@@ -1,6 +1,7 @@
 import os
 from string import punctuation
 from typing import Any, Dict, List, Optional, Union
+from unidecode import unidecode
 
 from src.const import ALCOHOL_PROFILE_REGEX, BITTERNESS_PROFILE_REGEX, CARBONATION_PROFILE_REGEX, COLOR_PROFILE_REGEX
 from src.generics import OPTIONAL_DICT_OR_DICT_ITEM, OPTIONAL_DICT_OR_LIST, DictItem
@@ -13,7 +14,7 @@ def clear_screen():
 
 
 def clean_string(s: str) -> str:
-    return s.strip().lower().translate(str_translator)
+    return unidecode(s.strip().lower().translate(str_translator))
 
 
 def to_snake_case(s: str) -> str:

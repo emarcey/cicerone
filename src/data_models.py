@@ -303,7 +303,7 @@ class BeerStyle(BaseModel):
         result = GuessProximity.miss
         if guess in commercial_examples_clean:
             result = GuessProximity.exact
-        elif guess != clean_string(self.name) and len(guess) > 0:
+        elif guess != clean_string(self.name) and len(guess) > 3:
             for example in list(commercial_examples_clean):
                 if example.find(guess) != -1:
                     result = GuessProximity.very_close
@@ -505,12 +505,19 @@ class BeerStyleMap(BaseModel):
         correct = 0
         close = 0
         eligible_styles = self._select_eligible_commercial_example_styles(params)
+        tmp_eligible_styles = list(eligible_styles)
         all_results = []
         result_count: Counter = Counter()
         clear_screen()
         try:
             while True:
-                style = random.choice(list(eligible_styles))
+                if not tmp_eligible_styles:
+                    console.print(
+                        "Wow! You finished everything! Let's roll it back and start over!", style="bold green"
+                    )
+                    tmp_eligible_styles = list(eligible_styles)
+                style = random.choice(tmp_eligible_styles)
+                tmp_eligible_styles.remove(style)
                 result, values, guess = self.styles[style].evaluate_commercial_examples(params)
                 result_count.update([result])
                 total += 1
@@ -527,8 +534,7 @@ class BeerStyleMap(BaseModel):
         correct = 0
         mistakes = []
         eligible_styles = self._select_eligible_styles(params)
-        # tmp_eligible_styles = list(eligible_styles)
-        tmp_eligible_styles: List[str] = []
+        tmp_eligible_styles = list(eligible_styles)
         all_results = []
         clear_screen()
         try:
