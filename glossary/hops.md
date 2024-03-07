@@ -46,7 +46,7 @@
 * Notes:
 	* bred by Ernest S. Salmon at Wye college, released in 1951
 	* cross between Bramling and Canadian Manitoban mild hop
-	* hardy Manitoban + british aroma was goal
+	* hardy Manitoban + British aroma was goal
 	* became popular in the 180s, with Harvey & Son of Lewes, Sussex, and Ruddles Brewery
 	* general purpose kettle hop
 	* usin

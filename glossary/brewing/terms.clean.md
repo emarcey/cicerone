@@ -935,6 +935,10 @@
 	-  quality control will periodically check bottles
 -  some breweries will pasteurize
 
+# Party-gyle(-ing)
+-  the process of brewing multiple beers from the same mash, common in British brewing for the Scottish series or the ladder of Bitters
+-  generally, a Scottish Wee Heavy is made from the first, strongest run, then the weaker Export, Heavy, and Light are made from subsequent runs
+
 # Pasteurization
 -  sanitizing process that drastically reduces possibility of off flavors from microbes in packaged beer
 -  heat required changes flavor profile

@@ -551,7 +551,7 @@ key_shared_trait
 	- stronger version of Robust Porter
 	- Sweden brewing in 1700s
 	- Switched to lager yeast in mid-1800s
-	- or a high gravity cross between English Porter and Shwarzbier
+	- or a high gravity cross between English Porter and Schwarzbier
 	- often brewed with lager yeast
 
 # Belgian Blond Ale
@@ -819,7 +819,7 @@ protected_category
 - Region: England
 - Categories: British Pale Ales, Bitters
 - Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
-- Hops: British, Fuggle, Golding, american sometimes acceptable
+- Hops: British, Fuggle, Golding, American sometimes acceptable
 - Glassware: nonic, pub mug, tulip
 - Color: gold - amber (8.0 - 16.0 SRM)
 - Alcohol: lower - normal (3.8 - 4.6% ABV)
@@ -835,7 +835,7 @@ protected_category
 	- hop: medium - moderate-high bitterness; low - moderate hop flavor; earthy, resiny, floral, fruity
 	- other: 
 - Commercial examples: Fuller's London Pride, Adnams Southwold Bitter, Timothy Taylor Landlord
-- Pairings: wide rang of food; roast chicken or pork; classic with curry
+- Pairings: wide range of food; roast chicken or pork; classic with curry
 
 # Bière de Garde
 
@@ -962,7 +962,7 @@ protected_category
 	- alcohol_warmth: None
 - Bitterness: moderate (20.0 - 30.0 IBU)
 - Flavors: 
-	- malt: nutty and light caramel
+	- malt: nutty, light caramel
 	- fermentation: clean
 	- hop: malt-hop balance is even; moderate bitterness
 	- other: 
@@ -1523,10 +1523,11 @@ big_names_to_know
 	- early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces
 		- modern porters generally lack
 	- spread to the US, but the revolution killed it by the mid 1800s
+		- American patriots didn't want to be associated with something so British
 	- spread to Ireland, Guinness was known as a plain porter until 1974
 	- aging vats got gigantic
-		- so much so tht promotional dinners could be held in them
-		- Meux Brewery, London had enormous vats, but one urst in 1814, killed several people
+		- so much so that promotional dinners could be held in them
+		- Meux Brewery, London had enormous vats, but one burst in 1814, killed several people
 	- 1920s, most porters were fading and not tasty
 	- Chiswell Street Brewery closed in 1940
 	- 1950s, largely faded away
@@ -2288,9 +2289,9 @@ flavors
 	- subtype of sweet stout
 	- sweetness between Irish and Sweet Stout
 	- oats provide creamy/oily mouthfeel, little flavor contribution
-	- became popular in late 19th century england, associated with nourishment
+	- became popular in late 19th century England, associated with nourishment
 	- largely disappeared in 20th century
-	- Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to american importer commissioning oatmeal stout from Samuel Smith
+	- Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to American importer commissioning oatmeal stout from Samuel Smith
 	- since then, more than 100 commercially brewed example shave been produced
 	- oats are usually rolled
 
@@ -2335,7 +2336,7 @@ flavors
 - Region: England
 - Categories: British Pale Ales, Bitters
 - Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
-- Hops: British, Fuggle, Golding, american sometimes acceptable
+- Hops: British, Fuggle, Golding, American sometimes acceptable
 - Other names: Bitter
 - Glassware: nonic, pub mug, tulip
 - Color: gold - amber (8.0 - 14.0 SRM)
@@ -2352,9 +2353,9 @@ flavors
 	- hop: moderate - moderate-high bitterness; low - moderate hop flavor; resiny, herbal, floral, fruity
 	- other: 
 - Commercial examples: Fuller's Chiswick Bitter, Greene King IPA, Tetley's Original Bitter, Bateman's XB, Brains Bitter, Brakspear Gravity
-- Pairings: wide rang of food; roast chicken or pork; classic with curry
+- Pairings: wide range of food; roast chicken or pork; classic with curry
 - Notes: 
-	- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)
+	- Considered to be the national drink of England (Tim Hampson in Oxford Guide to Beer)
 	- Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales
 	- Term "bitter" to describe a hoppy pale ale began in mid-1800s
 		- brewers called them pale ales, but
@@ -2773,7 +2774,7 @@ flavors
 	- hop: medium - medium high bitterness; noticeable hop flavor; floral, earthy, resiny, herbal
 	- other: 
 - Commercial examples: Bass Pale Ale, Morland Old Speckled Hen, Shipyard Old Thumper, Adnams Broadside, Shepherd Neame Bishop's Finger, Robinsons Trooper
-- Pairings: wide rang of food; roast chicken or pork; classic with curry
+- Pairings: wide range of food; roast chicken or pork; classic with curry
 
 # Sweet Stout
 

@@ -13,7 +13,7 @@ Others are Fuggle, Challenger, Northdown, First Gold, Progress, Admiral, Target
 
 # Reading
 * introduced by refugee Flemish farmers during the Hundred Years War
-	* settled in Kent, where hop cultivation was established by the mid 16t century
+	* settled in Kent, where hop cultivation was established by the mid 16th century
 * mid-1400s
 	* hopped ales: beer
 	* unhopped brews: ale

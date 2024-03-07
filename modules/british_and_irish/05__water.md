@@ -10,7 +10,7 @@ Goals
 	* **ions and pH affect chemistry of brewing and fermentation**
 * London and Burton-on-Trent water influenced development of classic styles
 	* London: Calcium Carbonate
-		* favors dark, malty peers (porter/stout)
+		* favors dark, malty beers (porter/stout)
 	* Burton: Calcium Sulfate (gypsum)
 		* accentuates bitterness of pale, hoppy beer styles (English bitter, IPA)
 		* water sharpened bitterness of IPA, spurred development of water treatment called "Burtonizing" in which minerals are added to water

@@ -756,6 +756,8 @@
 		* beer is agitated to fill neck with foam, then cap is affixed when foam reaches top of bottle
 		* quality control will periodically check bottles
 	* some breweries will pasteurize
+* **Party-Gyle(-ing)**: the process of brewing multiple beers from the same mash, common in British brewing for the Scottish series or the ladder of Bitters
+	* generally, a Scottish Wee Heavy is made from the first, strongest run, then the weaker Export, Heavy, and Light are made from subsequent runs
 * **Pasteurization:** sanitizing process that drastically reduces possibility of off flavors from microbes in packaged beer
 	* heat required changes flavor profile
 	* most small brewers do no pasteurize, but common where returnable bottles are used

@@ -522,7 +522,7 @@
 	* malt: restrained roast, caramel, toast, licorice
 	* hop: low to medium spicy
 	* fermentation: clean
-* Commercial Examples: Sinebrychoff Porter, Okocim Porter, Żywiec Porter , Baltika 6 Porter, Southampton Imperial Porter, Devil's Backbone Danzig
+* Commercial Examples: Sinebrychoff Porter, Okocim Porter, Żywiec Porter, Baltika 6 Porter, Southampton Imperial Porter, Devil's Backbone Danzig
 * Pairings: roasted and smoked food; barbecue, prime rib, chocolate cake
 * Notes:
 	* after popularity declined in England in mid 1800s, new life found in Baltic countries
@@ -532,7 +532,7 @@
 	* stronger version of Robust Porter
 	* Sweden brewing in 1700s
 	* Switched to lager yeast in mid-1800s
-	* or a high gravity cross between English Porter and Shwarzbier
+	* or a high gravity cross between English Porter and Schwarzbier
 	* **often brewed with lager yeast**
 # Belgian Blond Ale
 * Region: Belgium
@@ -800,7 +800,7 @@
 * Region: England
 * Categories: British Pale Ales, Bitters
 * Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
-* Hops: British, Fuggle, Golding, american sometimes acceptable
+* Hops: British, Fuggle, Golding, American sometimes acceptable
 * Other Names:
 * Glassware: nonic, pub mug, tulip
 * Color: gold - amber (8-16 SRM)
@@ -816,7 +816,7 @@
 	* hop: medium - moderate-high bitterness; low - moderate hop flavor; earthy, resiny, floral, fruity
 	* fermentation: moderate-low - moderate-high fruity esters
 * Commercial Examples: Fuller's London Pride, Adnams Southwold Bitter, Timothy Taylor Landlord
-* Pairings: wide rang of food; roast chicken or pork; classic with curry
+* Pairings: wide range of food; roast chicken or pork; classic with curry
 * Notes:
 # Bière de Garde
 * Region: Belgium, France
@@ -937,7 +937,7 @@
 	* carbonation: medium - medium-high
 * Bitterness: moderate (20-30 IBUs)
 * Flavors: 
-	* malt: nutty and light caramel
+	* malt: nutty, light caramel
 	* hop: malt-hop balance is even; moderate bitterness
 	* fermentation: clean
 * Commercial Examples: Samuel Smith's Nut Brown Ale, Black Sheep Riggwelter Yorkshire Ale, Maxim Double Maxim, Newcastle Brown Ale
@@ -1472,10 +1472,11 @@
 	* early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces
 		* modern porters generally lack
 	* spread to the US, but the revolution killed it by the mid 1800s
+		* American patriots didn't want to be associated with something so British
 	* spread to Ireland, Guinness was known as a plain porter until 1974
 	* aging vats got gigantic
-		* so much so tht promotional dinners could be held in them
-		* Meux Brewery, London had enormous vats, but one urst in 1814, killed several people
+		* so much so that promotional dinners could be held in them
+		* Meux Brewery, London had enormous vats, but one burst in 1814, killed several people
 	* "Robust Porter" developed in Victorian England: for gentlemen; a little sweeter; a little more boozy
 	* 1920s, most porters were fading and not tasty
 	* Chiswell Street Brewery closed in 1940
@@ -2201,9 +2202,9 @@
 	* subtype of sweet stout
 	* sweetness between Irish and Sweet Stout
 	* oats provide creamy/oily mouthfeel, little flavor contribution
-	* became popular in late 19th century england, associated with nourishment
+	* became popular in late 19th century England, associated with nourishment
 	* largely disappeared in 20th century
-	* Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to american importer commissioning oatmeal stout from Samuel Smith
+	* Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to American importer commissioning oatmeal stout from Samuel Smith
 	* since then, more than 100 commercially brewed example shave been produced
 	* oats are usually rolled
 
@@ -2245,7 +2246,7 @@
 * Region: England
 * Categories: British Pale Ales, Bitters
 * Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
-* Hops: British, Fuggle, Golding, american sometimes acceptable
+* Hops: British, Fuggle, Golding, American sometimes acceptable
 * Other Names: Bitter
 * Glassware: nonic, pub mug, tulip
 * Color: gold - amber (8-14 SRM)
@@ -2261,9 +2262,9 @@
 	* hop: moderate - moderate-high bitterness; low - moderate hop flavor; resiny, herbal, floral, fruity
 	* fermentation: moderate-low - moderate-high fruity esters
 * Commercial Examples: Fuller's Chiswick Bitter, Greene King IPA, Tetley's Original Bitter, Bateman's XB, Brains Bitter, Brakspear Gravity
-* Pairings: wide rang of food; roast chicken or pork; classic with curry
+* Pairings: wide range of food; roast chicken or pork; classic with curry
 * Notes:
-	* Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)
+	* Considered to be the national drink of England (Tim Hampson in Oxford Guide to Beer)
 	* Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales
 	* Term "bitter" to describe a hoppy pale ale began in mid-1800s
 		* brewers called them pale ales, but
@@ -2677,7 +2678,7 @@
 	* hop: medium - medium high bitterness; noticeable hop flavor; floral, earthy, resiny, herbal
 	* fermentation: moderate-low - high fruity esters
 * Commercial Examples: Bass Pale Ale, Morland Old Speckled Hen, Shipyard Old Thumper, Adnams Broadside, Shepherd Neame Bishop's Finger, Robinsons Trooper
-* Pairings: wide rang of food; roast chicken or pork; classic with curry
+* Pairings: wide range of food; roast chicken or pork; classic with curry
 * Notes:
 # Sweet Stout
 * Region: Britain

@@ -1522,7 +1522,7 @@
                 "\t- stronger version of Robust Porter",
                 "\t- Sweden brewing in 1700s",
                 "\t- Switched to lager yeast in mid-1800s",
-                "\t- or a high gravity cross between English Porter and Shwarzbier",
+                "\t- or a high gravity cross between English Porter and Schwarzbier",
                 "\t- often brewed with lager yeast"
             ]
         },
@@ -2379,7 +2379,7 @@
                 "British",
                 "Fuggle",
                 "Golding",
-                "american sometimes acceptable"
+                "American sometimes acceptable"
             ],
             "other_names": [],
             "glassware": [
@@ -2443,7 +2443,7 @@
                 "Timothy Taylor Landlord"
             ],
             "pairings": [
-                "wide rang of food; roast chicken or pork; classic with curry"
+                "wide range of food; roast chicken or pork; classic with curry"
             ],
             "notes": []
         },
@@ -2830,7 +2830,8 @@
             },
             "flavors": {
                 "malt": [
-                    "nutty and light caramel"
+                    "nutty",
+                    "light caramel"
                 ],
                 "fermentation": [
                     "clean"
@@ -4350,10 +4351,11 @@
                 "\t- early versions influenced by lactic acid bacteria, Acetobacter and Brettanomyces",
                 "\t\t- modern porters generally lack",
                 "\t- spread to the US, but the revolution killed it by the mid 1800s",
+                "\t\t- American patriots didn't want to be associated with something so British",
                 "\t- spread to Ireland, Guinness was known as a plain porter until 1974",
                 "\t- aging vats got gigantic",
-                "\t\t- so much so tht promotional dinners could be held in them",
-                "\t\t- Meux Brewery, London had enormous vats, but one urst in 1814, killed several people",
+                "\t\t- so much so that promotional dinners could be held in them",
+                "\t\t- Meux Brewery, London had enormous vats, but one burst in 1814, killed several people",
                 "\t- 1920s, most porters were fading and not tasty",
                 "\t- Chiswell Street Brewery closed in 1940",
                 "\t- 1950s, largely faded away",
@@ -6543,9 +6545,9 @@
                 "\t- subtype of sweet stout",
                 "\t- sweetness between Irish and Sweet Stout",
                 "\t- oats provide creamy/oily mouthfeel, little flavor contribution",
-                "\t- became popular in late 19th century england, associated with nourishment",
+                "\t- became popular in late 19th century England, associated with nourishment",
                 "\t- largely disappeared in 20th century",
-                "\t- Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to american importer commissioning oatmeal stout from Samuel Smith",
+                "\t- Mention of oatmeal stout in Michael Jackson's 1977 *The World Guide to Beer* led to American importer commissioning oatmeal stout from Samuel Smith",
                 "\t- since then, more than 100 commercially brewed example shave been produced",
                 "\t- oats are usually rolled"
             ]
@@ -6664,7 +6666,7 @@
                 "British",
                 "Fuggle",
                 "Golding",
-                "american sometimes acceptable"
+                "American sometimes acceptable"
             ],
             "other_names": [
                 "Bitter"
@@ -6731,10 +6733,10 @@
                 "Brakspear Gravity"
             ],
             "pairings": [
-                "wide rang of food; roast chicken or pork; classic with curry"
+                "wide range of food; roast chicken or pork; classic with curry"
             ],
             "notes": [
-                "\t- Considered to be the national drink of england (Tim Hampson in Oxford Guide to Beer)",
+                "\t- Considered to be the national drink of England (Tim Hampson in Oxford Guide to Beer)",
                 "\t- Socioeconomic factors that led to decline in IPA also led to increase in popularity of English Pale Ales",
                 "\t- Term \"bitter\" to describe a hoppy pale ale began in mid-1800s",
                 "\t\t- brewers called them pale ales, but",
@@ -8005,7 +8007,7 @@
                 "Robinsons Trooper"
             ],
             "pairings": [
-                "wide rang of food; roast chicken or pork; classic with curry"
+                "wide range of food; roast chicken or pork; classic with curry"
             ],
             "notes": []
         },
