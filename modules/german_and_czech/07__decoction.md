@@ -7,7 +7,7 @@ Goals
 - describe effects decoction mashing might have on beer
 
 
-See [brewing glossary](obsidian://open?vault=cicerone&file=glossary%2Fbrewing)
+See [[glossary/brewing/terms.clean#Decoction Mashing|Decoction Mashing]]
 
 
 # Discussion Questions

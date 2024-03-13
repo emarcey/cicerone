@@ -2036,7 +2036,8 @@
             "name": "Belgian Pale Ale",
             "region": "Belgium",
             "categories": [
-                "French and Belgian Beers"
+                "French and Belgian Beers",
+                "Pale Ales"
             ],
             "malt": [
                 "Pale malt",
@@ -2367,7 +2368,8 @@
             "region": "England",
             "categories": [
                 "British Pale Ales",
-                "Bitters"
+                "Bitters",
+                "Pale Ales"
             ],
             "malt": [
                 "Pale ale (Maris Otter very popular)",
@@ -4956,7 +4958,7 @@
                 "other": []
             },
             "commercial_examples": [
-                "K\u00f6nig Pilsener",
+                "lnig Pilsener",
                 "Paulaner Pils",
                 "Trumer Pils",
                 "Bitburger Pils",
@@ -4973,7 +4975,7 @@
                 "\t\t- changes in brewing and yeast management led to crisper, highly attenuated beers",
                 "\t\t- no more diacetyl",
                 "\t\t- used German instead of Czech hops",
-                "\t- late 1980s, 2/3 German beer market was Pislner",
+                "\t- late 1980s, 2/3 German beer market was Pilsner",
                 "\t\t- led to elaborate rituals, like a 7-minute draught pour to build the perfect foam",
                 "\t\t\t- turns out the beer tested better if you just served it quickly"
             ]
@@ -6353,10 +6355,10 @@
                 "bread pudding"
             ],
             "notes": [
-                "\t- was the everyday beer in munich for centuries, now second to the Munich Helles",
+                "\t- was the everyday beer in Munich for centuries, now second to the Munich Helles",
                 "\t\t- still most popular in some regions, like Franconia",
                 "\t- Franconian variant is drier than Munich",
-                "\t- usually produed with extensive decoction",
+                "\t- usually produced with extensive decoction",
                 "\t- 1st beer style codified and regulated due to 1516 Reinheitsgebot",
                 "\t\t- Czech \u010cern\u00e9 pivo is  similar",
                 "\t\t- also popular in US, Mexico and South America due to german immigration"
@@ -6654,7 +6656,8 @@
             "region": "England",
             "categories": [
                 "British Pale Ales",
-                "Bitters"
+                "Bitters",
+                "Pale Ales"
             ],
             "malt": [
                 "Pale ale (Maris Otter very popular)",
@@ -7924,7 +7927,8 @@
             "region": "England",
             "categories": [
                 "British Pale Ales",
-                "Bitters"
+                "Bitters",
+                "Pale Ales"
             ],
             "malt": [
                 "Pale ale (Maris Otter very popular)",
@@ -8667,6 +8671,81 @@
                 "\t- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16\u00b0P) regulations"
             ]
         },
+        "West Coast IPA": {
+            "name": "West Coast IPA",
+            "region": "West Coast, United States",
+            "categories": [
+                "American Hoppy Ales",
+                "American IPAs",
+                "IPAs",
+                "Specialty IPAs"
+            ],
+            "malt": [
+                "pale ale",
+                "restrained use of crystal"
+            ],
+            "hops": [
+                "American hops from the West Coast"
+            ],
+            "other_names": [],
+            "glassware": [
+                "shaker"
+            ],
+            "color": {
+                "color_range": [
+                    "straw",
+                    "gold"
+                ],
+                "value_low": 2.0,
+                "value_high": 6.0
+            },
+            "alcohol": {
+                "alcohol_range": [
+                    "elevated"
+                ],
+                "value_low": 6.3,
+                "value_high": 7.5,
+                "notes": []
+            },
+            "carbonation": null,
+            "mouthfeel": {
+                "body": "low - medium; highly attenuated; dry crisp finish",
+                "carbonation": "high",
+                "alcohol_warmth": null
+            },
+            "bitterness": {
+                "bitterness_range": [
+                    "assertive"
+                ],
+                "value_low": 50.0,
+                "value_high": 75.0
+            },
+            "flavors": {
+                "malt": [
+                    "low - medium-low; no caramel or roasted malt character"
+                ],
+                "fermentation": [
+                    "low - medium fruity esters"
+                ],
+                "hop": [
+                    "pronounced American hop flavors and aromas; citrus",
+                    "catty",
+                    "piney"
+                ],
+                "other": []
+            },
+            "commercial_examples": [
+                "Collective Arts Ransack the Universe",
+                "Green Flash Brewing West Coast IPA",
+                "Russian River Pliny the Elder",
+                "Firestone Walked Union Jack IPA"
+            ],
+            "pairings": [],
+            "notes": [
+                "\t- some haze allowed",
+                "\t- characterized by high attenuation"
+            ]
+        },
         "White IPA": {
             "name": "White IPA",
             "region": "USA",
@@ -8836,7 +8915,6 @@
             "malt": [
                 "Pilsner malt",
                 "wheat",
-                "",
                 "unmalted wheat (traditional)",
                 "pale haze (30-40%",
                 "up to 50%)",
@@ -8848,7 +8926,7 @@
             ],
             "other_names": [
                 "bi\u00e8re blanche",
-                "White Ale"
+                "white ale"
             ],
             "glassware": [
                 "French jelly glass",
@@ -8903,7 +8981,13 @@
                 ],
                 "other": [
                     "coriander",
-                    "Cura\u00e7ao orange"
+                    "Cura\u00e7ao orange",
+                    "chamomile",
+                    "ginger",
+                    "cumin",
+                    "grains of paradise",
+                    "black peppercorn",
+                    "cinnamon"
                 ]
             },
             "commercial_examples": [
@@ -8931,10 +9015,10 @@
                 "\t\t- primarily Curacao peel and coriander",
                 "\t\t- others added less frequently",
                 "\t\t- goal is balance and blend of spices",
-                "\t- belgian yeast adds spicy phenols and fruity esters",
+                "\t- Belgian yeast adds spicy phenols and fruity esters",
                 "\t- some brewers use limited lactic acid fermentation to enhance tart crispiness",
                 "\t\t- mild sourness if at all",
-                "\t- americans started adding citrus and orange slices to bottle",
+                "\t- Americans started adding citrus and orange slices to bottle",
                 "\t\t- promoted by Blue Moon since 1997",
                 "\t- some brewers brew 8-10% ABV Grand Cru for special occasions",
                 "\t- spices - coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon"

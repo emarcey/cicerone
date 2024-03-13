@@ -45,8 +45,8 @@ Goals:
 
 # La Trappe
 * Koningshoeven Abbey
-* named after the first french trappist monastery, modern monastery is in Netherlands, near the belgian border
-* brewery has long history, but did not always have trappist designation
+* named after the first french Trappist monastery, modern monastery is in Netherlands, near the Belgian border
+* brewery has long history, but did not always have Trappist designation
 * brewery first opened in 1884 with a uniquely commercial approach
 	* contracted with several local breweries
 	* opened several cafés and bars

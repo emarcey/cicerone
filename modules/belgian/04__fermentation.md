@@ -16,7 +16,7 @@ Brewer's yeast is genus *Saccharomyces*
 
 # Ale Yeast Strains
 
-Lager yest produces "clean" beers with minimal yeast flavor, but ales have significant
+Lager yeast produces "clean" beers with minimal yeast flavor, but ales have significant
 Even within ale yeasts, a range from subtle to pronounced
 * American: subtle, minimal fruit
 * British: pronounced fruitiness, some sulfurous/buttery
@@ -33,19 +33,19 @@ Even within ale yeasts, a range from subtle to pronounced
 		* **many Belgian strains have this gene, which sets them apart**
 * Variables:
 	* temperature
-		* many belgian strains thrive at high temps (80F/27C)
+		* many Belgian strains thrive at high temps (80F/27C)
 		* Some saison yeasts up to 90F/32C
 	* pitch rate
 	* oxygenation level
-	* fermeter geometry
+	* fermenter geometry
 
 # Non-Saccharomyces Fermentation
 * Second half of 1800s, advances in microbiology and yeast culturing allowed brewers to ferment with a single yeast strain
 * Lager brewers went towards purity, single-strain
 * Ale brewers continued to use mixed house cultures that often included wild yeast and bacteria
 * Lactobacillus and Pediococcus play role in Belgian sours
-	* Lacto makes milk sour -> sour cream, buttermilk, yogurt, cheese, cultured butter
-	* Pedi - sauerkraut
+	* Lactobacillus makes milk sour -> sour cream, buttermilk, yogurt, cheese, cultured butter
+	* Pediococcus - sauerkraut
 	* Both ferment sugar to produce lactic acid
 	* tangy but smooth
 	* Oud Bruin, Lambic, Fruit Lambic, Gueuze, Flanders Red

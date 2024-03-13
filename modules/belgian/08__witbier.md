@@ -36,7 +36,7 @@ Goals
 	* 1990, Celis sold remaining stake
 	* 1992, Celis moved to Austin, Texas, where he and his daughter started a new brewery and sold Celis White
 	* 1990s, Celis sold his stake and ownership has changed hands several times since
-	* 
+
 
 # Discussion
 1. If you could have a Witbier made with any spice(s), what would you choose?

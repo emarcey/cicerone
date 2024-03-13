@@ -24,14 +24,14 @@
 
 # Base Malts
 
-See [malts](obsidian://open?vault=cicerone&file=glossary%2FMalts): Pilsner, Vienna, Munich
+See [[glossary/malts|malts]]: Pilsner, Vienna, Munich
 
 # Adjuncts
 
-See [adjuncts](obsidian://open?vault=cicerone&file=glossary%2Fadjuncts): unmalted wheat, oats, candi sugar
+See [[glossary/adjuncts_and_additives|adjuncts_and_additives]]: unmalted wheat, oats, candi sugar
 
 # Specialty Malts
-See [malts](obsidian://open?vault=cicerone&file=glossary%2FMalts): Crystal, Special B, Chocolate, Black
+See [[glossary/malts|malts]]: Crystal, Special B, Chocolate, Black
 
 # Discussions
 * What styles benefit the most from unmalted wheat? 

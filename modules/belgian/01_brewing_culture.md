@@ -27,7 +27,7 @@
 	1. brewery facilities destroyed or repurposed
 10. Vandervelde Act in 1919 banned genever (predecessor to gin)
 	1. drove popularity of high ABV ales
-	2. Many trappist styles made in part to fill this niche
+	2. Many Trappist styles made in part to fill this niche
 		1. Forerunners of Dubbel/Tripel
 
 # The Belgian Approach

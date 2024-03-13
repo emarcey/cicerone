@@ -21,7 +21,7 @@ Goals
 ## Intro
 
 Original method of carbonation
-refermentation that gives off CO2
+Refermentation that gives off CO2
 the word "condition" refers directly to the CO2 (brewer brings a beer into condition)
 finer, silkier texture
 superior foam retention

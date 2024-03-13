@@ -38,7 +38,7 @@
 	1. Vent
 	2. Lift float to closed position
 	3. Return float to operating position
-8. Discuss the process you would follow to pour four small glass of beer from a 750ml bottle of bottle conditioned beer
+8. Discuss the process you would follow to pour four small glasses of beer from a 750ml bottle of bottle conditioned beer
 	1. Cluster the glasses close together
 	2. Open the bottle
 	3. Hold at angle

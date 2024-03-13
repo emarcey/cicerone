@@ -699,7 +699,7 @@ key_shared_trait
 # Belgian Pale Ale
 
 - Region: Belgium
-- Categories: French and Belgian Beers
+- Categories: French and Belgian Beers, Pale Ales
 - Malt: Pale malt, crystal malt, Pilsner, Vienna, Munich
 - Hops: East Kent Goldings, Fuggles, Styrian Goldings, Saaz, all also used in English pale (except Saaz)
 - Glassware: tulip, chalic, bolleke (specific goblet shape)
@@ -817,7 +817,7 @@ protected_category
 # Best Bitter
 
 - Region: England
-- Categories: British Pale Ales, Bitters
+- Categories: British Pale Ales, Bitters, Pale Ales
 - Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 - Hops: British, Fuggle, Golding, American sometimes acceptable
 - Glassware: nonic, pub mug, tulip
@@ -1732,7 +1732,7 @@ big_names_to_know
 	- fermentation: clean
 	- hop: medium-high bitterness, spicy, flowery, herbal
 	- other: 
-- Commercial examples: König Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
+- Commercial examples: lnig Pilsener, Paulaner Pils, Trumer Pils, Bitburger Pils, Warseiner
 - Pairings: wide range of lighter food; salads, seafood, bratwurst
 - Notes: 
 	- copy-cat of Pilsner Urquell, using German ingredients, first brewed in early 1870s
@@ -1740,7 +1740,7 @@ big_names_to_know
 		- changes in brewing and yeast management led to crisper, highly attenuated beers
 		- no more diacetyl
 		- used German instead of Czech hops
-	- late 1980s, 2/3 German beer market was Pislner
+	- late 1980s, 2/3 German beer market was Pilsner
 		- led to elaborate rituals, like a 7-minute draught pour to build the perfect foam
 			- turns out the beer tested better if you just served it quickly
 
@@ -2183,10 +2183,10 @@ flavors
 - Commercial examples: Hacker-Pschorr Münchner Dunkel, Hofbräu Dunkel, Gordon Biersch Dunkel, Capital Dark, Harpoon Dark, Ayinger Altbairisch Dunkel, Lakefront Eastside Dark, Adeschser Export Dunkel
 - Pairings: hearty, spicy food; barbecue, sausages, roast meat, bread pudding
 - Notes: 
-	- was the everyday beer in munich for centuries, now second to the Munich Helles
+	- was the everyday beer in Munich for centuries, now second to the Munich Helles
 		- still most popular in some regions, like Franconia
 	- Franconian variant is drier than Munich
-	- usually produed with extensive decoction
+	- usually produced with extensive decoction
 	- 1st beer style codified and regulated due to 1516 Reinheitsgebot
 		- Czech Černé pivo is  similar
 		- also popular in US, Mexico and South America due to german immigration
@@ -2334,7 +2334,7 @@ flavors
 # Ordinary Bitter
 
 - Region: England
-- Categories: British Pale Ales, Bitters
+- Categories: British Pale Ales, Bitters, Pale Ales
 - Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 - Hops: British, Fuggle, Golding, American sometimes acceptable
 - Other names: Bitter
@@ -2755,7 +2755,7 @@ flavors
 # Strong Bitter
 
 - Region: England
-- Categories: British Pale Ales, Bitters
+- Categories: British Pale Ales, Bitters, Pale Ales
 - Malt: Pale ale (Maris Otter very popular), amber, crystal, sugar
 - Hops: British, Fuggle, Golding, american sometimes acceptable
 - Other names: Special Bitter
@@ -3005,6 +3005,30 @@ leichtes_weissbier
 - Notes: 
 	- must meet both weizen (>= 50% wheat malt) and bock (original gravity > 16°P) regulations
 
+# West Coast IPA
+
+- Region: West Coast, United States
+- Categories: American Hoppy Ales, American IPAs, IPAs, Specialty IPAs
+- Malt: pale ale, restrained use of crystal
+- Hops: American hops from the West Coast
+- Glassware: shaker
+- Color: straw - gold (2.0 - 6.0 SRM)
+- Alcohol: elevated (6.3 - 7.5% ABV)
+- Mouthfeel: 
+	- body: low - medium; highly attenuated; dry crisp finish
+	- carbonation: high
+	- alcohol_warmth: None
+- Bitterness: assertive (50.0 - 75.0 IBU)
+- Flavors: 
+	- malt: low - medium-low; no caramel or roasted malt character
+	- fermentation: low - medium fruity esters
+	- hop: pronounced American hop flavors and aromas; citrus, catty, piney
+	- other: 
+- Commercial examples: Collective Arts Ransack the Universe, Green Flash Brewing West Coast IPA, Russian River Pliny the Elder, Firestone Walked Union Jack IPA
+- Notes: 
+	- some haze allowed
+	- characterized by high attenuation
+
 # White IPA
 
 - Region: USA
@@ -3058,9 +3082,9 @@ goal
 
 - Region: Belgium
 - Categories: French and Belgian Beers, Wheat Beers
-- Malt: Pilsner malt, wheat, , unmalted wheat (traditional), pale haze (30-40%, up to 50%), some brewers add oats (5-10% of grist) for creaminess/body, pale haze
+- Malt: Pilsner malt, wheat, unmalted wheat (traditional), pale haze (30-40%, up to 50%), some brewers add oats (5-10% of grist) for creaminess/body, pale haze
 - Hops: continental European
-- Other names: bière blanche, White Ale
+- Other names: bière blanche, white ale
 - Glassware: French jelly glass, tulip
 - Color: straw to light gold (2.0 - 4.0 SRM)
 - Alcohol: normal (4.5 - 5.5% ABV)
@@ -3074,7 +3098,7 @@ goal
 	- malt: bready, floury, honey, vanilla
 	- fermentation: spicy, citrusy
 	- hop: herbal, citrusy, mild sourness sometimes
-	- other: coriander, Curaçao orange
+	- other: coriander, Curaçao orange, chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon
 - Commercial examples: Allagash White, Hoegaarden Wit, Ommegang Witte, St. Bernardus Abt 4 Witbier, Blue Moon Belgian White, Shock Top Belgian Ale, Celis White, Lefebvre Blanche de Bruxelles, De Brabandere Wittekerke, Avery White Rascal
 - Pairings: lighter foods, such as mussels, salmon, chicken
 - Notes: 
@@ -3084,10 +3108,10 @@ goal
 		- primarily Curacao peel and coriander
 		- others added less frequently
 		- goal is balance and blend of spices
-	- belgian yeast adds spicy phenols and fruity esters
+	- Belgian yeast adds spicy phenols and fruity esters
 	- some brewers use limited lactic acid fermentation to enhance tart crispiness
 		- mild sourness if at all
-	- americans started adding citrus and orange slices to bottle
+	- Americans started adding citrus and orange slices to bottle
 		- promoted by Blue Moon since 1997
 	- some brewers brew 8-10% ABV Grand Cru for special occasions
 	- spices - coriander, orange peel, sometimes chamomile, ginger, cumin, grains of paradise, black peppercorn, cinnamon

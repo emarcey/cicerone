@@ -6,7 +6,7 @@ Goals
 * Identify german words that are cognates of familiar English words
 
 - The Reinheitsgebot is known in English as the Bavarian Purity Law of 1516 (or, German Purity Law)
-	- See [glossary](obsidian://open?vault=cicerone&file=glossary%2Fbrewing)
+	- See [[glossary/brewing/terms.clean#Reinheitsgebot|Reinheitsgebot]]
 
 # Language
 

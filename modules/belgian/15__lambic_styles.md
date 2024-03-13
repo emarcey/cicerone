@@ -15,7 +15,6 @@ Goals
 * Lambic/Gueuze have legal protection in EU and can be designated with TSG if they meet certain requirements with respect to pH, IBU, B. Bruxellensis/Lambicus, and other conditions
 	* only applies in EU
 	* most producers respect terms, recognizing that they should only apply to beer made within Senne Valley region
-* Lam
 
 
 # Discussion Questions

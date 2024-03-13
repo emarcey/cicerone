@@ -82,7 +82,7 @@ Goals:
 	* impact/intensity: beer intensity should be in same ballpark as food, goal is balance
 	* **starts with two contrasts to food:**
 		* **bitterness**
-			* hop bitterness cuts through fat and clenases palate
+			* hop bitterness cuts through fat and cleanses palate
 		* **carbonation**
 	* carbonation: 
 		* physical prickle, sharpens bitterness and acidity, cleanses palate

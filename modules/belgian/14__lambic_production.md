@@ -34,8 +34,8 @@ Goals
 	* most beers: cold stored, cut off from air - prevent aroma degradation
 	* lambic brewers: age hops in burlap sacks at ambient temperature for several years
 		* little bitterness or flavor, but retain preservative qualities
-* wort: very unqiue
-	* most beers:  feed Sacch simple sugars to produce ethanol
+* wort: very unique
+	* most beers:  feed Saccharomyces simple sugars to produce ethanol
 	* lambics: large portion of complex carbs, including dextrin/undigested starch
 		* unmalted wheat + turbid mash, see glossary/brewing
 	* very hot sparge water (190F/88C) to extract starches/dextrins/tannins
@@ -65,7 +65,7 @@ Goals
 		* produces alcohol, co2, acetic, lactic, succinic, formic acids
 	* First 6 months: Saccharomyces
 		* Sacch ferments -> pH drops -> ABV rises -> enteric bacteria die
-		* some producers will add lactic acid to prevent any enteric bacteries
+		* some producers will add lactic acid to prevent any enteric bacteria
 		* Sacch consumes ~60% of carbohydrates in wort and produce most of alcohol/fruity esters
 		* can create heavy foam that leaves a dried crust around opening of cask
 		* ethanol, ethyl acetate, ethyl lactate, higher fusel alcohols
