@@ -5,7 +5,7 @@
 	1. [[glossary/brewing/terms.clean#Infusion Mashing|Infusion Mash]]
 	2. [[glossary/brewing/terms.clean#Decoction Mashing|Decoction Mashing]]
 	3. [[glossary/brewing/terms.clean#Step Mashing|Step Mashing]]
-	4. [[glossary/brewing/terms.clean#Turbid Mash]]
+	4. [[glossary/brewing/terms.clean#Turbid Mash|Turbid Mash]]
 3. **[[glossary/brewing/terms.clean#Lautering|Lautering]]**: separate liquid wort from solid spent grain
 	1. [[glossary/brewing/terms.clean#Vorlauf|Vorlauf]]
 	2. [[glossary/brewing/terms.clean#Sparging|Sparging]]
